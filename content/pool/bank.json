@@ -7,7 +7,19 @@
       "theme": "nature",
       "difficulty": "facile",
       "clue": "Paroi rocheuse qui domine la mer",
-      "freq": 15.47
+      "freq": 15.47,
+      "hints": [
+        "Elle domine le vide",
+        "Paroi verticale au bord de l'eau",
+        "Celles d'Étretat sont célèbres"
+      ],
+      "associations": [
+        "Mer",
+        "Roche",
+        "Hauteur",
+        "Vertige",
+        "Craie"
+      ]
     },
     {
       "word": "Forêt",
@@ -31,7 +43,19 @@
       "theme": "nature",
       "difficulty": "moyen",
       "clue": "L'eau y tombe d'un coup",
-      "freq": 7.3
+      "freq": 7.3,
+      "hints": [
+        "Ça tombe et ça gronde",
+        "L'eau y saute un obstacle",
+        "Celle du Niagara attire les foules"
+      ],
+      "associations": [
+        "Eau",
+        "Chute",
+        "Rivière",
+        "Bruit",
+        "Rocher"
+      ]
     },
     {
       "word": "Vallée",
@@ -79,7 +103,19 @@
       "theme": "nature",
       "difficulty": "moyen",
       "clue": "Herbe rase où paissent les vaches",
-      "freq": 9.8
+      "freq": 9.8,
+      "hints": [
+        "Les vaches y broutent",
+        "Étendue d'herbe rase",
+        "On y fait les foins en été"
+      ],
+      "associations": [
+        "Herbe",
+        "Vache",
+        "Champ",
+        "Foin",
+        "Vert"
+      ]
     },
     {
       "word": "Grotte",
@@ -87,7 +123,19 @@
       "theme": "nature",
       "difficulty": "facile",
       "clue": "Creusée dans la roche, on l'explore",
-      "freq": 17.84
+      "freq": 17.84,
+      "hints": [
+        "On y entre avec une lampe",
+        "Cavité naturelle sous la roche",
+        "Lascaux en est une, ornée de peintures"
+      ],
+      "associations": [
+        "Caverne",
+        "Roche",
+        "Sombre",
+        "Chauve-souris",
+        "Stalactite"
+      ]
     },
     {
       "word": "Torrent",
@@ -119,7 +167,19 @@
       "theme": "animaux",
       "difficulty": "moyen",
       "clue": "Réputé rusé",
-      "freq": 8.58
+      "freq": 8.58,
+      "hints": [
+        "Il a mauvaise réputation",
+        "Roux et rusé, il rôde autour du poulailler",
+        "La fable le montre flattant un corbeau"
+      ],
+      "associations": [
+        "Rusé",
+        "Roux",
+        "Poulailler",
+        "Terrier",
+        "Fable"
+      ]
     },
     {
       "word": "Hibou",
@@ -127,7 +187,19 @@
       "theme": "animaux",
       "difficulty": "moyen",
       "clue": "Rapace nocturne à aigrettes",
-      "freq": 4.08
+      "freq": 4.08,
+      "hints": [
+        "Il voit dans le noir",
+        "Rapace nocturne aux aigrettes",
+        "Il hulule quand la nuit tombe"
+      ],
+      "associations": [
+        "Nuit",
+        "Rapace",
+        "Plumes",
+        "Arbre",
+        "Silence"
+      ]
     },
     {
       "word": "Écureuil",
@@ -143,7 +215,19 @@
       "theme": "animaux",
       "difficulty": "moyen",
       "clue": "Le plus grand des mammifères",
-      "freq": 11.52
+      "freq": 11.52,
+      "hints": [
+        "Immense et pourtant paisible",
+        "Mammifère marin qui souffle un jet",
+        "La plus grande créature vivante"
+      ],
+      "associations": [
+        "Océan",
+        "Géante",
+        "Souffle",
+        "Mammifère",
+        "Plancton"
+      ]
     },
     {
       "word": "Tortue",
@@ -151,7 +235,19 @@
       "theme": "animaux",
       "difficulty": "moyen",
       "clue": "Elle porte sa maison sur le dos",
-      "freq": 4.66
+      "freq": 4.66,
+      "hints": [
+        "Elle prend son temps",
+        "Elle porte sa maison sur le dos",
+        "Elle bat le lièvre à la course"
+      ],
+      "associations": [
+        "Lente",
+        "Carapace",
+        "Reptile",
+        "Œuf",
+        "Lièvre"
+      ]
     },
     {
       "word": "Abeille",
@@ -159,7 +255,19 @@
       "theme": "animaux",
       "difficulty": "moyen",
       "clue": "Elle butine et fabrique le miel",
-      "freq": 3.53
+      "freq": 3.53,
+      "hints": [
+        "Elle travaille sans relâche",
+        "Elle butine de fleur en fleur",
+        "Sa colonie produit le miel"
+      ],
+      "associations": [
+        "Miel",
+        "Fleur",
+        "Ruche",
+        "Piqûre",
+        "Reine"
+      ]
     },
     {
       "word": "Panthère",
@@ -183,7 +291,19 @@
       "theme": "animaux",
       "difficulty": "difficile",
       "clue": "Mammifère marin très joueur",
-      "freq": 1.76
+      "freq": 1.76,
+      "hints": [
+        "Réputé très intelligent",
+        "Mammifère marin joueur qui saute",
+        "Il communique par sifflements"
+      ],
+      "associations": [
+        "Mer",
+        "Nage",
+        "Saut",
+        "Intelligent",
+        "Aileron"
+      ]
     },
     {
       "word": "Chameau",
@@ -199,7 +319,19 @@
       "theme": "animaux",
       "difficulty": "moyen",
       "clue": "Il sort de la chrysalide",
-      "freq": 10.68
+      "freq": 10.68,
+      "hints": [
+        "Il n'a pas toujours eu des ailes",
+        "Il sort transformé de sa chrysalide",
+        "Ses ailes colorées battent au soleil"
+      ],
+      "associations": [
+        "Ailes",
+        "Chenille",
+        "Fleur",
+        "Couleur",
+        "Vol"
+      ]
     },
     {
       "word": "Hérisson",
@@ -207,7 +339,19 @@
       "theme": "animaux",
       "difficulty": "difficile",
       "clue": "Boule de piquants du jardin",
-      "freq": 1.76
+      "freq": 1.76,
+      "hints": [
+        "Mieux vaut ne pas le caresser",
+        "Petite boule de piquants du jardin",
+        "Il se roule en boule au moindre danger"
+      ],
+      "associations": [
+        "Piquants",
+        "Jardin",
+        "Boule",
+        "Nuit",
+        "Escargot"
+      ]
     },
     {
       "word": "Sanglier",
@@ -239,7 +383,19 @@
       "theme": "maison",
       "difficulty": "facile",
       "clue": "Sous le toit, on y entasse",
-      "freq": 19.53
+      "freq": 19.53,
+      "hints": [
+        "Tout en haut de la maison",
+        "On y entasse ce qu'on ne jette pas",
+        "On y retrouve de vieux souvenirs poussiéreux"
+      ],
+      "associations": [
+        "Toit",
+        "Poussière",
+        "Vieux",
+        "Malle",
+        "Souvenir"
+      ]
     },
     {
       "word": "Escalier",
@@ -247,7 +403,19 @@
       "theme": "maison",
       "difficulty": "facile",
       "clue": "On le monte marche après marche",
-      "freq": 125.95
+      "freq": 125.95,
+      "hints": [
+        "On le monte ou on le descend",
+        "Suite de marches entre deux étages",
+        "En colimaçon, il tourne sur lui-même"
+      ],
+      "associations": [
+        "Marche",
+        "Étage",
+        "Monter",
+        "Rampe",
+        "Descendre"
+      ]
     },
     {
       "word": "Fenêtre",
@@ -295,7 +463,19 @@
       "theme": "maison",
       "difficulty": "facile",
       "clue": "Le feu y crépite l'hiver",
-      "freq": 36.28
+      "freq": 36.28,
+      "hints": [
+        "Elle réchauffe la pièce en hiver",
+        "Le feu y crépite derrière un pare-étincelles",
+        "Le Père Noël y descend, dit-on"
+      ],
+      "associations": [
+        "Feu",
+        "Bûche",
+        "Fumée",
+        "Hiver",
+        "Noël"
+      ]
     },
     {
       "word": "Cave",
@@ -311,7 +491,19 @@
       "theme": "maison",
       "difficulty": "facile",
       "clue": "Il renvoie votre image",
-      "freq": 48.58
+      "freq": 48.58,
+      "hints": [
+        "On s'y regarde",
+        "Il renvoie votre image inversée",
+        "La sorcière lui demande qui est la plus belle"
+      ],
+      "associations": [
+        "Reflet",
+        "Glace",
+        "Image",
+        "Salle de bain",
+        "Vanité"
+      ]
     },
     {
       "word": "Balcon",
@@ -327,7 +519,19 @@
       "theme": "cuisine",
       "difficulty": "moyen",
       "clue": "Base du pain et des crêpes",
-      "freq": 13.51
+      "freq": 13.51,
+      "hints": [
+        "Blanche et volatile",
+        "On la tamise avant de l'utiliser",
+        "Base du pain et des crêpes"
+      ],
+      "associations": [
+        "Pain",
+        "Blé",
+        "Moulin",
+        "Blanche",
+        "Pâte"
+      ]
     },
     {
       "word": "Beurre",
@@ -351,7 +555,19 @@
       "theme": "cuisine",
       "difficulty": "moyen",
       "clue": "Jaune et très acide",
-      "freq": 9.05
+      "freq": 9.05,
+      "hints": [
+        "Il fait grimacer",
+        "Agrume jaune très acide",
+        "On en presse le jus sur le poisson"
+      ],
+      "associations": [
+        "Jaune",
+        "Acide",
+        "Agrume",
+        "Jus",
+        "Zeste"
+      ]
     },
     {
       "word": "Fromage",
@@ -359,7 +575,19 @@
       "theme": "cuisine",
       "difficulty": "facile",
       "clue": "La France en compte des centaines",
-      "freq": 25.68
+      "freq": 25.68,
+      "hints": [
+        "La France en compte des centaines",
+        "Il se fait à partir de lait caillé",
+        "Le corbeau le laisse tomber dans la fable"
+      ],
+      "associations": [
+        "Lait",
+        "Camembert",
+        "Plateau",
+        "Croûte",
+        "Affinage"
+      ]
     },
     {
       "word": "Gâteau",
@@ -383,7 +611,19 @@
       "theme": "cuisine",
       "difficulty": "moyen",
       "clue": "Fruits et sucre, sur la tartine",
-      "freq": 8.72
+      "freq": 8.72,
+      "hints": [
+        "Elle se tartine au petit-déjeuner",
+        "Fruits cuits longuement avec du sucre",
+        "On la conserve en bocal"
+      ],
+      "associations": [
+        "Fruit",
+        "Sucre",
+        "Tartine",
+        "Pot",
+        "Cuisson"
+      ]
     },
     {
       "word": "Vinaigre",
@@ -399,7 +639,19 @@
       "theme": "cuisine",
       "difficulty": "facile",
       "clue": "Elle chauffe sur le feu",
-      "freq": 16.22
+      "freq": 16.22,
+      "hints": [
+        "Elle passe sur le feu",
+        "Récipient à manche pour faire cuire",
+        "On y fait chauffer l'eau des pâtes"
+      ],
+      "associations": [
+        "Feu",
+        "Cuisson",
+        "Manche",
+        "Eau",
+        "Couvercle"
+      ]
     },
     {
       "word": "Recette",
@@ -423,7 +675,19 @@
       "theme": "corps",
       "difficulty": "facile",
       "clue": "Elle porte le sac",
-      "freq": 116.96
+      "freq": 116.96,
+      "hints": [
+        "Elle supporte le poids",
+        "Elle relie le bras au tronc",
+        "On y porte le sac ou l'enfant"
+      ],
+      "associations": [
+        "Bras",
+        "Porter",
+        "Articulation",
+        "Dos",
+        "Muscle"
+      ]
     },
     {
       "word": "Genou",
@@ -455,7 +719,19 @@
       "theme": "corps",
       "difficulty": "facile",
       "clue": "Il commande tout le reste",
-      "freq": 57.67
+      "freq": 57.67,
+      "hints": [
+        "Il ne se repose jamais vraiment",
+        "Organe logé dans la boîte crânienne",
+        "Il commande tout le reste du corps"
+      ],
+      "associations": [
+        "Tête",
+        "Pensée",
+        "Neurone",
+        "Crâne",
+        "Mémoire"
+      ]
     },
     {
       "word": "Coude",
@@ -479,7 +755,19 @@
       "theme": "corps",
       "difficulty": "moyen",
       "clue": "Elle se ferme sur l'œil",
-      "freq": 7.03
+      "freq": 7.03,
+      "hints": [
+        "Elle bat sans qu'on y pense",
+        "Fine peau qui protège l'œil",
+        "Elle se ferme quand on s'endort"
+      ],
+      "associations": [
+        "Œil",
+        "Cligner",
+        "Sommeil",
+        "Cil",
+        "Fermer"
+      ]
     },
     {
       "word": "Menton",
@@ -495,7 +783,19 @@
       "theme": "corps",
       "difficulty": "moyen",
       "clue": "Entre le pied et la jambe",
-      "freq": 8.99
+      "freq": 8.99,
+      "hints": [
+        "Fragile, elle se tord facilement",
+        "Articulation entre le pied et la jambe",
+        "On se la foule en glissant"
+      ],
+      "associations": [
+        "Pied",
+        "Jambe",
+        "Entorse",
+        "Os",
+        "Marcher"
+      ]
     },
     {
       "word": "Pouce",
@@ -511,7 +811,19 @@
       "theme": "corps",
       "difficulty": "facile",
       "clue": "Il digère ce qu'on avale",
-      "freq": 30.14
+      "freq": 30.14,
+      "hints": [
+        "Il gargouille quand il est vide",
+        "Organe qui reçoit ce qu'on avale",
+        "Il digère avant l'intestin"
+      ],
+      "associations": [
+        "Digestion",
+        "Faim",
+        "Ventre",
+        "Manger",
+        "Acide"
+      ]
     },
     {
       "word": "Avenue",
@@ -535,7 +847,19 @@
       "theme": "ville",
       "difficulty": "facile",
       "clue": "On y expose des œuvres",
-      "freq": 21.55
+      "freq": 21.55,
+      "hints": [
+        "On y marche lentement",
+        "On y expose des œuvres au public",
+        "Le Louvre en est le plus visité"
+      ],
+      "associations": [
+        "Tableau",
+        "Louvre",
+        "Visite",
+        "Art",
+        "Salle"
+      ]
     },
     {
       "word": "Théâtre",
@@ -543,7 +867,19 @@
       "theme": "ville",
       "difficulty": "facile",
       "clue": "On y joue des pièces",
-      "freq": 64.32
+      "freq": 64.32,
+      "hints": [
+        "Le rideau s'y lève",
+        "Salle où l'on joue des pièces",
+        "Molière y a fait rire des générations"
+      ],
+      "associations": [
+        "Scène",
+        "Pièce",
+        "Acteur",
+        "Rideau",
+        "Molière"
+      ]
     },
     {
       "word": "Piscine",
@@ -575,7 +911,19 @@
       "theme": "ville",
       "difficulty": "facile",
       "clue": "Réservé aux piétons",
-      "freq": 70.54
+      "freq": 70.54,
+      "hints": [
+        "Réservé à ceux qui marchent",
+        "Bande surélevée le long de la rue",
+        "On y attend pour traverser"
+      ],
+      "associations": [
+        "Rue",
+        "Piéton",
+        "Bordure",
+        "Marcher",
+        "Ville"
+      ]
     },
     {
       "word": "Mairie",
@@ -607,7 +955,19 @@
       "theme": "ville",
       "difficulty": "moyen",
       "clue": "On y vend les journaux",
-      "freq": 5.88
+      "freq": 5.88,
+      "hints": [
+        "Petite construction ouverte",
+        "On y vend journaux et revues",
+        "Il y en a un dans le parc pour la musique"
+      ],
+      "associations": [
+        "Journal",
+        "Presse",
+        "Parc",
+        "Vendre",
+        "Rond"
+      ]
     },
     {
       "word": "Camion",
@@ -615,7 +975,19 @@
       "theme": "transport",
       "difficulty": "facile",
       "clue": "Poids lourd de la route",
-      "freq": 50.06
+      "freq": 50.06,
+      "hints": [
+        "Il occupe toute la voie",
+        "Poids lourd qui transporte les marchandises",
+        "Il fait trembler le sol en passant"
+      ],
+      "associations": [
+        "Route",
+        "Lourd",
+        "Marchandise",
+        "Chauffeur",
+        "Remorque"
+      ]
     },
     {
       "word": "Bateau",
@@ -639,7 +1011,19 @@
       "theme": "transport",
       "difficulty": "facile",
       "clue": "Il suit la locomotive",
-      "freq": 18.11
+      "freq": 18.11,
+      "hints": [
+        "Il ne roule pas seul",
+        "Il suit la locomotive sur les rails",
+        "On y monte pour voyager assis"
+      ],
+      "associations": [
+        "Train",
+        "Rail",
+        "Locomotive",
+        "Voyage",
+        "Compartiment"
+      ]
     },
     {
       "word": "Voile",
@@ -703,7 +1087,19 @@
       "theme": "musique",
       "difficulty": "moyen",
       "clue": "On en joue avec un archet",
-      "freq": 11.56
+      "freq": 11.56,
+      "hints": [
+        "Il tient sous le menton",
+        "On en joue avec un archet",
+        "Stradivarius en a fabriqué de célèbres"
+      ],
+      "associations": [
+        "Archet",
+        "Cordes",
+        "Musique",
+        "Orchestre",
+        "Menton"
+      ]
     },
     {
       "word": "Trompette",
@@ -719,7 +1115,19 @@
       "theme": "musique",
       "difficulty": "moyen",
       "clue": "On le frappe avec des baguettes",
-      "freq": 10.54
+      "freq": 10.54,
+      "hints": [
+        "Ça résonne fort",
+        "On le frappe avec des baguettes",
+        "Il donne le rythme du défilé"
+      ],
+      "associations": [
+        "Rythme",
+        "Baguette",
+        "Peau",
+        "Percussion",
+        "Défilé"
+      ]
     },
     {
       "word": "Mélodie",
@@ -735,7 +1143,19 @@
       "theme": "musique",
       "difficulty": "moyen",
       "clue": "Il revient à chaque couplet",
-      "freq": 8.24
+      "freq": 8.24,
+      "hints": [
+        "Il revient toujours",
+        "Partie de la chanson qui se répète",
+        "C'est celui qu'on retient et qu'on chante"
+      ],
+      "associations": [
+        "Chanson",
+        "Couplet",
+        "Répéter",
+        "Chanter",
+        "Mélodie"
+      ]
     },
     {
       "word": "Orchestre",
@@ -791,7 +1211,19 @@
       "theme": "sport",
       "difficulty": "difficile",
       "clue": "Elle frappe la balle au tennis",
-      "freq": 1.77
+      "freq": 1.77,
+      "hints": [
+        "On la tient à la main",
+        "Elle sert à renvoyer la balle",
+        "Roland-Garros en voit passer beaucoup"
+      ],
+      "associations": [
+        "Tennis",
+        "Balle",
+        "Cordage",
+        "Manche",
+        "Court"
+      ]
     },
     {
       "word": "Piste",
@@ -823,7 +1255,19 @@
       "theme": "sport",
       "difficulty": "moyen",
       "clue": "Il siffle les fautes",
-      "freq": 6.92
+      "freq": 6.92,
+      "hints": [
+        "Personne ne l'aime vraiment",
+        "Il veille au respect des règles",
+        "Son coup de sifflet arrête le jeu"
+      ],
+      "associations": [
+        "Sifflet",
+        "Règle",
+        "Faute",
+        "Match",
+        "Carton"
+      ]
     },
     {
       "word": "Médaille",
@@ -831,7 +1275,19 @@
       "theme": "sport",
       "difficulty": "moyen",
       "clue": "Or, argent ou bronze",
-      "freq": 12.44
+      "freq": 12.44,
+      "hints": [
+        "Elle se porte au cou",
+        "Récompense remise au vainqueur",
+        "Elle peut être d'or, d'argent ou de bronze"
+      ],
+      "associations": [
+        "Or",
+        "Podium",
+        "Vainqueur",
+        "Ruban",
+        "Jeux"
+      ]
     },
     {
       "word": "Escrime",
@@ -863,7 +1319,19 @@
       "theme": "ecole",
       "difficulty": "moyen",
       "clue": "Elle blanchit le tableau",
-      "freq": 10.2
+      "freq": 10.2,
+      "hints": [
+        "Elle laisse de la poussière",
+        "Bâtonnet blanc qui écrit sur l'ardoise",
+        "Elle crisse parfois sur le tableau"
+      ],
+      "associations": [
+        "Tableau",
+        "Blanche",
+        "Écrire",
+        "Poussière",
+        "École"
+      ]
     },
     {
       "word": "Gomme",
@@ -879,7 +1347,19 @@
       "theme": "ecole",
       "difficulty": "moyen",
       "clue": "Il porte les livres sur le dos",
-      "freq": 9.32
+      "freq": 9.32,
+      "hints": [
+        "Il pèse lourd le matin",
+        "On le porte sur le dos jusqu'en classe",
+        "Il contient cahiers et trousse"
+      ],
+      "associations": [
+        "École",
+        "Dos",
+        "Cahier",
+        "Élève",
+        "Porter"
+      ]
     },
     {
       "word": "Devoir",
@@ -894,7 +1374,19 @@
       "theme": "ecole",
       "difficulty": "moyen",
       "clue": "La pause dans la cour",
-      "freq": 9.26
+      "freq": 9.26,
+      "hints": [
+        "Le moment préféré des enfants",
+        "Pause entre deux cours dans la cour",
+        "La sonnerie y met fin trop vite"
+      ],
+      "associations": [
+        "Cour",
+        "Pause",
+        "Sonnerie",
+        "Jouer",
+        "École"
+      ]
     },
     {
       "word": "Tableau",
@@ -941,7 +1433,19 @@
       "theme": "mer",
       "difficulty": "facile",
       "clue": "Elle monte et descend deux fois par jour",
-      "freq": 21.28
+      "freq": 21.28,
+      "hints": [
+        "Elle va et vient deux fois par jour",
+        "Montée et descente du niveau de la mer",
+        "La Lune en est responsable"
+      ],
+      "associations": [
+        "Mer",
+        "Lune",
+        "Montante",
+        "Plage",
+        "Coefficient"
+      ]
     },
     {
       "word": "Phare",
@@ -949,7 +1453,19 @@
       "theme": "mer",
       "difficulty": "moyen",
       "clue": "Il guide les navires la nuit",
-      "freq": 10.68
+      "freq": 10.68,
+      "hints": [
+        "Il veille la nuit",
+        "Tour qui projette un faisceau tournant",
+        "Il évite aux navires de s'échouer"
+      ],
+      "associations": [
+        "Lumière",
+        "Navire",
+        "Tour",
+        "Côte",
+        "Nuit"
+      ]
     },
     {
       "word": "Coquillage",
@@ -972,7 +1488,19 @@
       "theme": "mer",
       "difficulty": "facile",
       "clue": "Mousse blanche sur les vagues",
-      "freq": 16.08
+      "freq": 16.08,
+      "hints": [
+        "Blanche et éphémère",
+        "Mousse qui couronne la vague",
+        "Elle reste sur le sable après le reflux"
+      ],
+      "associations": [
+        "Vague",
+        "Mousse",
+        "Blanche",
+        "Mer",
+        "Sel"
+      ]
     },
     {
       "word": "Crabe",
@@ -1020,7 +1548,19 @@
       "theme": "ciel",
       "difficulty": "facile",
       "clue": "Il zèbre le ciel d'orage",
-      "freq": 21.08
+      "freq": 21.08,
+      "hints": [
+        "Bref et éblouissant",
+        "Décharge lumineuse dans le ciel d'orage",
+        "On compte les secondes avant le tonnerre"
+      ],
+      "associations": [
+        "Orage",
+        "Foudre",
+        "Ciel",
+        "Tonnerre",
+        "Lumière"
+      ]
     },
     {
       "word": "Arc",
@@ -1036,7 +1576,19 @@
       "theme": "ciel",
       "difficulty": "difficile",
       "clue": "Astre à longue traîne",
-      "freq": 2.3
+      "freq": 2.3,
+      "hints": [
+        "Elle ne passe pas souvent",
+        "Astre traînant une longue queue lumineuse",
+        "Halley revient tous les soixante-seize ans"
+      ],
+      "associations": [
+        "Astre",
+        "Queue",
+        "Ciel",
+        "Halley",
+        "Glace"
+      ]
     },
     {
       "word": "Planète",
@@ -1052,7 +1604,19 @@
       "theme": "ciel",
       "difficulty": "moyen",
       "clue": "Première lueur du matin",
-      "freq": 9.39
+      "freq": 9.39,
+      "hints": [
+        "Elle annonce la journée",
+        "Première clarté avant le lever du soleil",
+        "La boréale colore les ciels du Nord"
+      ],
+      "associations": [
+        "Matin",
+        "Lueur",
+        "Soleil",
+        "Boréale",
+        "Aube"
+      ]
     },
     {
       "word": "Brouillard",
@@ -1060,7 +1624,19 @@
       "theme": "ciel",
       "difficulty": "facile",
       "clue": "Il réduit la visibilité",
-      "freq": 32.84
+      "freq": 32.84,
+      "hints": [
+        "On n'y voit plus rien",
+        "Nuage posé au ras du sol",
+        "Il oblige à rouler au pas"
+      ],
+      "associations": [
+        "Nuage",
+        "Visibilité",
+        "Humide",
+        "Matin",
+        "Épais"
+      ]
     },
     {
       "word": "Tonnerre",
@@ -1100,7 +1676,19 @@
       "theme": "vetement",
       "difficulty": "moyen",
       "clue": "Elle protège le cou",
-      "freq": 11.22
+      "freq": 11.22,
+      "hints": [
+        "On l'enroule autour du cou",
+        "Longue bande de laine contre le froid",
+        "Elle complète le bonnet et les gants"
+      ],
+      "associations": [
+        "Cou",
+        "Laine",
+        "Froid",
+        "Hiver",
+        "Nouer"
+      ]
     },
     {
       "word": "Chapeau",
@@ -1140,7 +1728,19 @@
       "theme": "vetement",
       "difficulty": "facile",
       "clue": "Elle tient le pantalon",
-      "freq": 32.23
+      "freq": 32.23,
+      "hints": [
+        "Elle se boucle",
+        "Bande qui tient le pantalon à la taille",
+        "En voiture, elle sauve des vies"
+      ],
+      "associations": [
+        "Taille",
+        "Boucle",
+        "Pantalon",
+        "Cuir",
+        "Sécurité"
+      ]
     },
     {
       "word": "Manche",
@@ -1187,7 +1787,19 @@
       "theme": "objets",
       "difficulty": "moyen",
       "clue": "On l'ouvre sous l'averse",
-      "freq": 12.5
+      "freq": 12.5,
+      "hints": [
+        "On l'ouvre au mauvais moment",
+        "Toile tendue sur des baleines métalliques",
+        "Il se retourne au premier coup de vent"
+      ],
+      "associations": [
+        "Pluie",
+        "Ouvrir",
+        "Manche",
+        "Toile",
+        "Vent"
+      ]
     },
     {
       "word": "Horloge",
@@ -1195,7 +1807,19 @@
       "theme": "objets",
       "difficulty": "moyen",
       "clue": "Elle donne l'heure au mur",
-      "freq": 13.99
+      "freq": 13.99,
+      "hints": [
+        "Elle ne s'arrête jamais",
+        "Elle affiche l'heure au mur de la gare",
+        "Son balancier oscille régulièrement"
+      ],
+      "associations": [
+        "Heure",
+        "Aiguille",
+        "Mur",
+        "Balancier",
+        "Temps"
+      ]
     },
     {
       "word": "Valise",
@@ -1243,7 +1867,19 @@
       "theme": "objets",
       "difficulty": "moyen",
       "clue": "Son aiguille montre le nord",
-      "freq": 4.05
+      "freq": 4.05,
+      "hints": [
+        "Elle indique toujours la même direction",
+        "Son aiguille aimantée cherche le nord",
+        "Indispensable avant le GPS"
+      ],
+      "associations": [
+        "Nord",
+        "Aiguille",
+        "Direction",
+        "Aimant",
+        "Randonnée"
+      ]
     },
     {
       "word": "Loupe",
@@ -1251,7 +1887,19 @@
       "theme": "objets",
       "difficulty": "moyen",
       "clue": "Elle grossit ce qu'on regarde",
-      "freq": 4.86
+      "freq": 4.86,
+      "hints": [
+        "Elle agrandit ce qu'on regarde",
+        "Verre bombé qui grossit les détails",
+        "Sherlock Holmes ne s'en sépare pas"
+      ],
+      "associations": [
+        "Grossir",
+        "Verre",
+        "Détail",
+        "Sherlock",
+        "Œil"
+      ]
     },
     {
       "word": "Serrure",
@@ -1259,7 +1907,19 @@
       "theme": "objets",
       "difficulty": "facile",
       "clue": "On y introduit la clé",
-      "freq": 16.08
+      "freq": 16.08,
+      "hints": [
+        "Elle garde la porte fermée",
+        "Mécanisme dans lequel on tourne la clé",
+        "Le serrurier intervient quand on l'a perdue"
+      ],
+      "associations": [
+        "Clé",
+        "Porte",
+        "Verrou",
+        "Tourner",
+        "Sécurité"
+      ]
     },
     {
       "word": "Boulanger",
@@ -1267,7 +1927,19 @@
       "theme": "metiers",
       "difficulty": "moyen",
       "clue": "Il enfourne le pain dès l'aube",
-      "freq": 8.78
+      "freq": 8.78,
+      "hints": [
+        "Il se lève avant tout le monde",
+        "Il pétrit la pâte et enfourne dès l'aube",
+        "Sa vitrine sent bon dès le matin"
+      ],
+      "associations": [
+        "Pain",
+        "Four",
+        "Aube",
+        "Croissant",
+        "Pétrin"
+      ]
     },
     {
       "word": "Facteur",
@@ -1275,7 +1947,19 @@
       "theme": "metiers",
       "difficulty": "moyen",
       "clue": "Il distribue le courrier",
-      "freq": 12.36
+      "freq": 12.36,
+      "hints": [
+        "Il connaît toutes les boîtes du quartier",
+        "Il distribue le courrier de maison en maison",
+        "Sa tournée se fait souvent à vélo"
+      ],
+      "associations": [
+        "Courrier",
+        "Lettre",
+        "Tournée",
+        "Vélo",
+        "Boîte"
+      ]
     },
     {
       "word": "Pompier",
@@ -1283,7 +1967,19 @@
       "theme": "metiers",
       "difficulty": "moyen",
       "clue": "Il éteint les incendies",
-      "freq": 2.67
+      "freq": 2.67,
+      "hints": [
+        "On l'appelle en urgence",
+        "Il intervient avec sa lance et son échelle",
+        "Il éteint les incendies et secourt les blessés"
+      ],
+      "associations": [
+        "Feu",
+        "Caserne",
+        "Échelle",
+        "Urgence",
+        "Lance"
+      ]
     },
     {
       "word": "Berger",
@@ -1299,7 +1995,19 @@
       "theme": "metiers",
       "difficulty": "moyen",
       "clue": "Il travaille le bois",
-      "freq": 4.05
+      "freq": 4.05,
+      "hints": [
+        "Il travaille une matière qui vient des arbres",
+        "Il scie, rabote et assemble",
+        "Il fabrique portes et escaliers"
+      ],
+      "associations": [
+        "Bois",
+        "Scie",
+        "Rabot",
+        "Atelier",
+        "Copeau"
+      ]
     },
     {
       "word": "Pêcheur",
@@ -1315,7 +2023,19 @@
       "theme": "metiers",
       "difficulty": "moyen",
       "clue": "Il vend des livres",
-      "freq": 4.26
+      "freq": 4.26,
+      "hints": [
+        "Il conseille avant de vendre",
+        "Il tient un commerce plein de rayonnages",
+        "Il connaît les nouveautés de la rentrée"
+      ],
+      "associations": [
+        "Livre",
+        "Rayon",
+        "Lecture",
+        "Conseil",
+        "Roman"
+      ]
     },
     {
       "word": "Coiffeur",
@@ -1331,7 +2051,19 @@
       "theme": "metiers",
       "difficulty": "moyen",
       "clue": "Il taille et il sème",
-      "freq": 6.9
+      "freq": 6.9,
+      "hints": [
+        "Il travaille dehors, à genoux",
+        "Il taille, sème et arrose",
+        "Il connaît chaque plante par son nom"
+      ],
+      "associations": [
+        "Jardin",
+        "Taille",
+        "Semer",
+        "Arroser",
+        "Plante"
+      ]
     },
     {
       "word": "Serrurier",
@@ -1483,7 +2215,19 @@
       "theme": "mer",
       "difficulty": "moyen",
       "clue": "Femme-poisson des légendes",
-      "freq": 10.34
+      "freq": 10.34,
+      "hints": [
+        "Mi-femme, mi-poisson",
+        "Créature marine des légendes",
+        "Son chant attirait les marins d'Ulysse"
+      ],
+      "associations": [
+        "Mer",
+        "Chant",
+        "Légende",
+        "Poisson",
+        "Ulysse"
+      ]
     },
     {
       "word": "Cabine",
@@ -1499,7 +2243,19 @@
       "theme": "mer",
       "difficulty": "moyen",
       "clue": "Fenêtre ronde du navire",
-      "freq": 4.66
+      "freq": 4.66,
+      "hints": [
+        "Petit et rond",
+        "Fenêtre étanche d'un navire",
+        "On y colle son nez pour voir la mer"
+      ],
+      "associations": [
+        "Rond",
+        "Navire",
+        "Fenêtre",
+        "Vitre",
+        "Cabine"
+      ]
     },
     {
       "word": "Radeau",
@@ -1507,7 +2263,19 @@
       "theme": "mer",
       "difficulty": "moyen",
       "clue": "Plancher de fortune sur l'eau",
-      "freq": 4.32
+      "freq": 4.32,
+      "hints": [
+        "Assemblage de fortune",
+        "Plancher flottant fait de troncs liés",
+        "Celui de la Méduse a inspiré un tableau"
+      ],
+      "associations": [
+        "Flotter",
+        "Tronc",
+        "Naufrage",
+        "Corde",
+        "Dérive"
+      ]
     },
     {
       "word": "Route",
@@ -1563,7 +2331,19 @@
       "theme": "ecole",
       "difficulty": "facile",
       "clue": "Elle coule du stylo",
-      "freq": 28.65
+      "freq": 28.65,
+      "hints": [
+        "Elle tache les doigts",
+        "Liquide coloré qui sort de la plume",
+        "La seiche en projette pour fuir"
+      ],
+      "associations": [
+        "Stylo",
+        "Plume",
+        "Tache",
+        "Écrire",
+        "Noire"
+      ]
     },
     {
       "word": "Leçon",
@@ -1619,7 +2399,19 @@
       "theme": "ciel",
       "difficulty": "moyen",
       "clue": "Il blanchit les vitres au matin",
-      "freq": 5.07
+      "freq": 5.07,
+      "hints": [
+        "Il dessine sur les vitres",
+        "Fine couche de glace du petit matin",
+        "Il craque sous les pas dans l'herbe"
+      ],
+      "associations": [
+        "Glace",
+        "Froid",
+        "Vitre",
+        "Matin",
+        "Blanc"
+      ]
     },
     {
       "word": "Averse",
@@ -1627,7 +2419,19 @@
       "theme": "ciel",
       "difficulty": "moyen",
       "clue": "Pluie brève et drue",
-      "freq": 9.8
+      "freq": 9.8,
+      "hints": [
+        "Ça ne dure jamais longtemps",
+        "Pluie soudaine et drue",
+        "On s'abrite le temps qu'elle passe"
+      ],
+      "associations": [
+        "Pluie",
+        "Brève",
+        "Abri",
+        "Nuage",
+        "Mouiller"
+      ]
     },
     {
       "word": "Robe",
@@ -1755,7 +2559,19 @@
       "theme": "objets",
       "difficulty": "facile",
       "clue": "Elle enfile le fil",
-      "freq": 18.38
+      "freq": 18.38,
+      "hints": [
+        "Fine et pointue",
+        "On y enfile un fil pour coudre",
+        "On en cherche une dans une botte de foin"
+      ],
+      "associations": [
+        "Coudre",
+        "Fil",
+        "Pointe",
+        "Chas",
+        "Couture"
+      ]
     },
     {
       "word": "Table",

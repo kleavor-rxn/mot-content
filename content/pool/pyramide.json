@@ -318,5 +318,525 @@
       "Jetée par-dessus bord, elle retient le navire",
       "Popeye en a une tatouée sur le bras"
     ]
+  },
+  {
+    "word": "Falaise",
+    "hints": [
+      "Elle domine le vide",
+      "Paroi verticale au bord de l'eau",
+      "Celles d'Étretat sont célèbres"
+    ]
+  },
+  {
+    "word": "Prairie",
+    "hints": [
+      "Les vaches y broutent",
+      "Étendue d'herbe rase",
+      "On y fait les foins en été"
+    ]
+  },
+  {
+    "word": "Grotte",
+    "hints": [
+      "On y entre avec une lampe",
+      "Cavité naturelle sous la roche",
+      "Lascaux en est une, ornée de peintures"
+    ]
+  },
+  {
+    "word": "Renard",
+    "hints": [
+      "Il a mauvaise réputation",
+      "Roux et rusé, il rôde autour du poulailler",
+      "La fable le montre flattant un corbeau"
+    ]
+  },
+  {
+    "word": "Hibou",
+    "hints": [
+      "Il voit dans le noir",
+      "Rapace nocturne aux aigrettes",
+      "Il hulule quand la nuit tombe"
+    ]
+  },
+  {
+    "word": "Baleine",
+    "hints": [
+      "Immense et pourtant paisible",
+      "Mammifère marin qui souffle un jet",
+      "La plus grande créature vivante"
+    ]
+  },
+  {
+    "word": "Tortue",
+    "hints": [
+      "Elle prend son temps",
+      "Elle porte sa maison sur le dos",
+      "Elle bat le lièvre à la course"
+    ]
+  },
+  {
+    "word": "Abeille",
+    "hints": [
+      "Elle travaille sans relâche",
+      "Elle butine de fleur en fleur",
+      "Sa colonie produit le miel"
+    ]
+  },
+  {
+    "word": "Dauphin",
+    "hints": [
+      "Réputé très intelligent",
+      "Mammifère marin joueur qui saute",
+      "Il communique par sifflements"
+    ]
+  },
+  {
+    "word": "Papillon",
+    "hints": [
+      "Il n'a pas toujours eu des ailes",
+      "Il sort transformé de sa chrysalide",
+      "Ses ailes colorées battent au soleil"
+    ]
+  },
+  {
+    "word": "Hérisson",
+    "hints": [
+      "Mieux vaut ne pas le caresser",
+      "Petite boule de piquants du jardin",
+      "Il se roule en boule au moindre danger"
+    ]
+  },
+  {
+    "word": "Grenier",
+    "hints": [
+      "Tout en haut de la maison",
+      "On y entasse ce qu'on ne jette pas",
+      "On y retrouve de vieux souvenirs poussiéreux"
+    ]
+  },
+  {
+    "word": "Escalier",
+    "hints": [
+      "On le monte ou on le descend",
+      "Suite de marches entre deux étages",
+      "En colimaçon, il tourne sur lui-même"
+    ]
+  },
+  {
+    "word": "Cheminée",
+    "hints": [
+      "Elle réchauffe la pièce en hiver",
+      "Le feu y crépite derrière un pare-étincelles",
+      "Le Père Noël y descend, dit-on"
+    ]
+  },
+  {
+    "word": "Farine",
+    "hints": [
+      "Blanche et volatile",
+      "On la tamise avant de l'utiliser",
+      "Base du pain et des crêpes"
+    ]
+  },
+  {
+    "word": "Citron",
+    "hints": [
+      "Il fait grimacer",
+      "Agrume jaune très acide",
+      "On en presse le jus sur le poisson"
+    ]
+  },
+  {
+    "word": "Fromage",
+    "hints": [
+      "La France en compte des centaines",
+      "Il se fait à partir de lait caillé",
+      "Le corbeau le laisse tomber dans la fable"
+    ]
+  },
+  {
+    "word": "Confiture",
+    "hints": [
+      "Elle se tartine au petit-déjeuner",
+      "Fruits cuits longuement avec du sucre",
+      "On la conserve en bocal"
+    ]
+  },
+  {
+    "word": "Casserole",
+    "hints": [
+      "Elle passe sur le feu",
+      "Récipient à manche pour faire cuire",
+      "On y fait chauffer l'eau des pâtes"
+    ]
+  },
+  {
+    "word": "Épaule",
+    "hints": [
+      "Elle supporte le poids",
+      "Elle relie le bras au tronc",
+      "On y porte le sac ou l'enfant"
+    ]
+  },
+  {
+    "word": "Cerveau",
+    "hints": [
+      "Il ne se repose jamais vraiment",
+      "Organe logé dans la boîte crânienne",
+      "Il commande tout le reste du corps"
+    ]
+  },
+  {
+    "word": "Paupière",
+    "hints": [
+      "Elle bat sans qu'on y pense",
+      "Fine peau qui protège l'œil",
+      "Elle se ferme quand on s'endort"
+    ]
+  },
+  {
+    "word": "Cheville",
+    "hints": [
+      "Fragile, elle se tord facilement",
+      "Articulation entre le pied et la jambe",
+      "On se la foule en glissant"
+    ]
+  },
+  {
+    "word": "Estomac",
+    "hints": [
+      "Il gargouille quand il est vide",
+      "Organe qui reçoit ce qu'on avale",
+      "Il digère avant l'intestin"
+    ]
+  },
+  {
+    "word": "Musée",
+    "hints": [
+      "On y marche lentement",
+      "On y expose des œuvres au public",
+      "Le Louvre en est le plus visité"
+    ]
+  },
+  {
+    "word": "Théâtre",
+    "hints": [
+      "Le rideau s'y lève",
+      "Salle où l'on joue des pièces",
+      "Molière y a fait rire des générations"
+    ]
+  },
+  {
+    "word": "Trottoir",
+    "hints": [
+      "Réservé à ceux qui marchent",
+      "Bande surélevée le long de la rue",
+      "On y attend pour traverser"
+    ]
+  },
+  {
+    "word": "Kiosque",
+    "hints": [
+      "Petite construction ouverte",
+      "On y vend journaux et revues",
+      "Il y en a un dans le parc pour la musique"
+    ]
+  },
+  {
+    "word": "Camion",
+    "hints": [
+      "Il occupe toute la voie",
+      "Poids lourd qui transporte les marchandises",
+      "Il fait trembler le sol en passant"
+    ]
+  },
+  {
+    "word": "Wagon",
+    "hints": [
+      "Il ne roule pas seul",
+      "Il suit la locomotive sur les rails",
+      "On y monte pour voyager assis"
+    ]
+  },
+  {
+    "word": "Violon",
+    "hints": [
+      "Il tient sous le menton",
+      "On en joue avec un archet",
+      "Stradivarius en a fabriqué de célèbres"
+    ]
+  },
+  {
+    "word": "Tambour",
+    "hints": [
+      "Ça résonne fort",
+      "On le frappe avec des baguettes",
+      "Il donne le rythme du défilé"
+    ]
+  },
+  {
+    "word": "Refrain",
+    "hints": [
+      "Il revient toujours",
+      "Partie de la chanson qui se répète",
+      "C'est celui qu'on retient et qu'on chante"
+    ]
+  },
+  {
+    "word": "Raquette",
+    "hints": [
+      "On la tient à la main",
+      "Elle sert à renvoyer la balle",
+      "Roland-Garros en voit passer beaucoup"
+    ]
+  },
+  {
+    "word": "Arbitre",
+    "hints": [
+      "Personne ne l'aime vraiment",
+      "Il veille au respect des règles",
+      "Son coup de sifflet arrête le jeu"
+    ]
+  },
+  {
+    "word": "Médaille",
+    "hints": [
+      "Elle se porte au cou",
+      "Récompense remise au vainqueur",
+      "Elle peut être d'or, d'argent ou de bronze"
+    ]
+  },
+  {
+    "word": "Craie",
+    "hints": [
+      "Elle laisse de la poussière",
+      "Bâtonnet blanc qui écrit sur l'ardoise",
+      "Elle crisse parfois sur le tableau"
+    ]
+  },
+  {
+    "word": "Cartable",
+    "hints": [
+      "Il pèse lourd le matin",
+      "On le porte sur le dos jusqu'en classe",
+      "Il contient cahiers et trousse"
+    ]
+  },
+  {
+    "word": "Récréation",
+    "hints": [
+      "Le moment préféré des enfants",
+      "Pause entre deux cours dans la cour",
+      "La sonnerie y met fin trop vite"
+    ]
+  },
+  {
+    "word": "Marée",
+    "hints": [
+      "Elle va et vient deux fois par jour",
+      "Montée et descente du niveau de la mer",
+      "La Lune en est responsable"
+    ]
+  },
+  {
+    "word": "Phare",
+    "hints": [
+      "Il veille la nuit",
+      "Tour qui projette un faisceau tournant",
+      "Il évite aux navires de s'échouer"
+    ]
+  },
+  {
+    "word": "Écume",
+    "hints": [
+      "Blanche et éphémère",
+      "Mousse qui couronne la vague",
+      "Elle reste sur le sable après le reflux"
+    ]
+  },
+  {
+    "word": "Éclair",
+    "hints": [
+      "Bref et éblouissant",
+      "Décharge lumineuse dans le ciel d'orage",
+      "On compte les secondes avant le tonnerre"
+    ]
+  },
+  {
+    "word": "Comète",
+    "hints": [
+      "Elle ne passe pas souvent",
+      "Astre traînant une longue queue lumineuse",
+      "Halley revient tous les soixante-seize ans"
+    ]
+  },
+  {
+    "word": "Brouillard",
+    "hints": [
+      "On n'y voit plus rien",
+      "Nuage posé au ras du sol",
+      "Il oblige à rouler au pas"
+    ]
+  },
+  {
+    "word": "Écharpe",
+    "hints": [
+      "On l'enroule autour du cou",
+      "Longue bande de laine contre le froid",
+      "Elle complète le bonnet et les gants"
+    ]
+  },
+  {
+    "word": "Ceinture",
+    "hints": [
+      "Elle se boucle",
+      "Bande qui tient le pantalon à la taille",
+      "En voiture, elle sauve des vies"
+    ]
+  },
+  {
+    "word": "Parapluie",
+    "hints": [
+      "On l'ouvre au mauvais moment",
+      "Toile tendue sur des baleines métalliques",
+      "Il se retourne au premier coup de vent"
+    ]
+  },
+  {
+    "word": "Horloge",
+    "hints": [
+      "Elle ne s'arrête jamais",
+      "Elle affiche l'heure au mur de la gare",
+      "Son balancier oscille régulièrement"
+    ]
+  },
+  {
+    "word": "Boussole",
+    "hints": [
+      "Elle indique toujours la même direction",
+      "Son aiguille aimantée cherche le nord",
+      "Indispensable avant le GPS"
+    ]
+  },
+  {
+    "word": "Loupe",
+    "hints": [
+      "Elle agrandit ce qu'on regarde",
+      "Verre bombé qui grossit les détails",
+      "Sherlock Holmes ne s'en sépare pas"
+    ]
+  },
+  {
+    "word": "Serrure",
+    "hints": [
+      "Elle garde la porte fermée",
+      "Mécanisme dans lequel on tourne la clé",
+      "Le serrurier intervient quand on l'a perdue"
+    ]
+  },
+  {
+    "word": "Boulanger",
+    "hints": [
+      "Il se lève avant tout le monde",
+      "Il pétrit la pâte et enfourne dès l'aube",
+      "Sa vitrine sent bon dès le matin"
+    ]
+  },
+  {
+    "word": "Facteur",
+    "hints": [
+      "Il connaît toutes les boîtes du quartier",
+      "Il distribue le courrier de maison en maison",
+      "Sa tournée se fait souvent à vélo"
+    ]
+  },
+  {
+    "word": "Pompier",
+    "hints": [
+      "On l'appelle en urgence",
+      "Il intervient avec sa lance et son échelle",
+      "Il éteint les incendies et secourt les blessés"
+    ]
+  },
+  {
+    "word": "Menuisier",
+    "hints": [
+      "Il travaille une matière qui vient des arbres",
+      "Il scie, rabote et assemble",
+      "Il fabrique portes et escaliers"
+    ]
+  },
+  {
+    "word": "Libraire",
+    "hints": [
+      "Il conseille avant de vendre",
+      "Il tient un commerce plein de rayonnages",
+      "Il connaît les nouveautés de la rentrée"
+    ]
+  },
+  {
+    "word": "Jardinier",
+    "hints": [
+      "Il travaille dehors, à genoux",
+      "Il taille, sème et arrose",
+      "Il connaît chaque plante par son nom"
+    ]
+  },
+  {
+    "word": "Sirène",
+    "hints": [
+      "Mi-femme, mi-poisson",
+      "Créature marine des légendes",
+      "Son chant attirait les marins d'Ulysse"
+    ]
+  },
+  {
+    "word": "Hublot",
+    "hints": [
+      "Petit et rond",
+      "Fenêtre étanche d'un navire",
+      "On y colle son nez pour voir la mer"
+    ]
+  },
+  {
+    "word": "Radeau",
+    "hints": [
+      "Assemblage de fortune",
+      "Plancher flottant fait de troncs liés",
+      "Celui de la Méduse a inspiré un tableau"
+    ]
+  },
+  {
+    "word": "Encre",
+    "hints": [
+      "Elle tache les doigts",
+      "Liquide coloré qui sort de la plume",
+      "La seiche en projette pour fuir"
+    ]
+  },
+  {
+    "word": "Givre",
+    "hints": [
+      "Il dessine sur les vitres",
+      "Fine couche de glace du petit matin",
+      "Il craque sous les pas dans l'herbe"
+    ]
+  },
+  {
+    "word": "Averse",
+    "hints": [
+      "Ça ne dure jamais longtemps",
+      "Pluie soudaine et drue",
+      "On s'abrite le temps qu'elle passe"
+    ]
+  },
+  {
+    "word": "Aiguille",
+    "hints": [
+      "Fine et pointue",
+      "On y enfile un fil pour coudre",
+      "On en cherche une dans une botte de foin"
+    ]
   }
 ]
