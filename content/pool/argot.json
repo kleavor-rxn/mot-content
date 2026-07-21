@@ -358,5 +358,365 @@
       "Être pressé",
       "Être surpris"
     ]
+  },
+  {
+    "word": "Meuf",
+    "definition": "Femme, fille (verlan)",
+    "fakeDefinitions": [
+      "Voisine curieuse",
+      "Réunion de famille",
+      "Petite monnaie"
+    ]
+  },
+  {
+    "word": "Keuf",
+    "definition": "Policier (verlan)",
+    "fakeDefinitions": [
+      "Serrurier",
+      "Chauffeur de bus",
+      "Vendeur de journaux"
+    ]
+  },
+  {
+    "word": "Teuf",
+    "definition": "Fête, soirée (verlan)",
+    "fakeDefinitions": [
+      "Sieste",
+      "Dispute",
+      "Randonnée"
+    ]
+  },
+  {
+    "word": "Cheum",
+    "definition": "Moche, laid (verlan)",
+    "fakeDefinitions": [
+      "Élégant",
+      "Coûteux",
+      "Rapide"
+    ]
+  },
+  {
+    "word": "Zicmu",
+    "definition": "Musique (verlan)",
+    "fakeDefinitions": [
+      "Cuisine",
+      "Voiture",
+      "Vacances"
+    ]
+  },
+  {
+    "word": "Tromé",
+    "definition": "Métro (verlan)",
+    "fakeDefinitions": [
+      "Tracteur",
+      "Trompette",
+      "Trottoir"
+    ]
+  },
+  {
+    "word": "Reuf",
+    "definition": "Frère (verlan)",
+    "fakeDefinitions": [
+      "Patron",
+      "Client",
+      "Voisin"
+    ]
+  },
+  {
+    "word": "Reum",
+    "definition": "Mère (verlan)",
+    "fakeDefinitions": [
+      "Cousine",
+      "Enseignante",
+      "Infirmière"
+    ]
+  },
+  {
+    "word": "Chourer",
+    "definition": "Voler, dérober",
+    "fakeDefinitions": [
+      "Chanter faux",
+      "Courir vite",
+      "Pleurer"
+    ]
+  },
+  {
+    "word": "Zbeul",
+    "definition": "Désordre, bazar",
+    "fakeDefinitions": [
+      "Silence total",
+      "Repas de fête",
+      "Long voyage"
+    ]
+  },
+  {
+    "word": "Tise",
+    "definition": "Alcool, boisson",
+    "fakeDefinitions": [
+      "Chaussure",
+      "Bijou",
+      "Musique douce"
+    ]
+  },
+  {
+    "word": "Srab",
+    "definition": "Ami proche, pote",
+    "fakeDefinitions": [
+      "Inconnu",
+      "Concurrent",
+      "Professeur"
+    ]
+  },
+  {
+    "word": "Charo",
+    "definition": "Dragueur insistant",
+    "fakeDefinitions": [
+      "Cuisinier",
+      "Sportif",
+      "Comptable"
+    ]
+  },
+  {
+    "word": "Crari",
+    "definition": "Faire semblant, frimer",
+    "fakeDefinitions": [
+      "Dire la vérité",
+      "Se dépêcher",
+      "Dormir"
+    ]
+  },
+  {
+    "word": "Mytho",
+    "definition": "Menteur, mensonge",
+    "fakeDefinitions": [
+      "Champion",
+      "Cadeau",
+      "Trajet"
+    ]
+  },
+  {
+    "word": "Caillera",
+    "definition": "Racaille (verlan)",
+    "fakeDefinitions": [
+      "Boulanger",
+      "Écolier",
+      "Jardinier"
+    ]
+  },
+  {
+    "word": "Bosser",
+    "definition": "Travailler",
+    "fakeDefinitions": [
+      "Se reposer",
+      "Chanter",
+      "Voyager"
+    ]
+  },
+  {
+    "word": "Baraque",
+    "definition": "Maison",
+    "fakeDefinitions": [
+      "Valise",
+      "Chapeau",
+      "Casserole"
+    ]
+  },
+  {
+    "word": "Fringues",
+    "definition": "Vêtements",
+    "fakeDefinitions": [
+      "Chaussures de sport",
+      "Bijoux",
+      "Meubles"
+    ]
+  },
+  {
+    "word": "Godasses",
+    "definition": "Chaussures",
+    "fakeDefinitions": [
+      "Chaussettes",
+      "Gants",
+      "Lunettes"
+    ]
+  },
+  {
+    "word": "Bagnole",
+    "definition": "Voiture",
+    "fakeDefinitions": [
+      "Bicyclette",
+      "Bateau",
+      "Charrette"
+    ]
+  },
+  {
+    "word": "Flic",
+    "definition": "Policier",
+    "fakeDefinitions": [
+      "Pompier",
+      "Facteur",
+      "Médecin"
+    ]
+  },
+  {
+    "word": "Piger",
+    "definition": "Comprendre",
+    "fakeDefinitions": [
+      "Attraper",
+      "Peindre",
+      "Ranger"
+    ]
+  },
+  {
+    "word": "Roupiller",
+    "definition": "Dormir",
+    "fakeDefinitions": [
+      "Manger",
+      "Crier",
+      "Marcher"
+    ]
+  },
+  {
+    "word": "Bouquin",
+    "definition": "Livre",
+    "fakeDefinitions": [
+      "Bouquet de fleurs",
+      "Carnet de chèques",
+      "Sac à dos"
+    ]
+  },
+  {
+    "word": "Clope",
+    "definition": "Cigarette",
+    "fakeDefinitions": [
+      "Applaudissement",
+      "Chapeau",
+      "Pièce de monnaie"
+    ]
+  },
+  {
+    "word": "Bouffer",
+    "definition": "Manger",
+    "fakeDefinitions": [
+      "Souffler",
+      "Gonfler",
+      "Nettoyer"
+    ]
+  },
+  {
+    "word": "Balèze",
+    "definition": "Costaud, très fort",
+    "fakeDefinitions": [
+      "Fragile",
+      "Timide",
+      "Minuscule"
+    ]
+  },
+  {
+    "word": "Radin",
+    "definition": "Avare",
+    "fakeDefinitions": [
+      "Généreux",
+      "Distrait",
+      "Bavard"
+    ]
+  },
+  {
+    "word": "Nickel",
+    "definition": "Parfait, impeccable",
+    "fakeDefinitions": [
+      "Rouillé",
+      "Bruyant",
+      "Bon marché"
+    ]
+  },
+  {
+    "word": "Speeder",
+    "definition": "Être pressé, stressé",
+    "fakeDefinitions": [
+      "Flâner",
+      "Bâiller",
+      "Ronfler"
+    ]
+  },
+  {
+    "word": "Galérer",
+    "definition": "Avoir des difficultés",
+    "fakeDefinitions": [
+      "Réussir facilement",
+      "Se reposer",
+      "Célébrer"
+    ]
+  },
+  {
+    "word": "Flipper",
+    "definition": "Avoir peur",
+    "fakeDefinitions": [
+      "Rire aux éclats",
+      "S'endormir",
+      "Nager"
+    ]
+  },
+  {
+    "word": "Louper",
+    "definition": "Rater, manquer",
+    "fakeDefinitions": [
+      "Réparer",
+      "Réussir",
+      "Prêter"
+    ]
+  },
+  {
+    "word": "Squatter",
+    "definition": "Occuper un lieu sans droit",
+    "fakeDefinitions": [
+      "Repeindre",
+      "Déménager",
+      "Louer"
+    ]
+  },
+  {
+    "word": "Chiner",
+    "definition": "Chercher des occasions",
+    "fakeDefinitions": [
+      "Jeter",
+      "Fabriquer",
+      "Emballer"
+    ]
+  },
+  {
+    "word": "Pote",
+    "definition": "Ami, copain",
+    "fakeDefinitions": [
+      "Casserole",
+      "Poteau",
+      "Rival"
+    ]
+  },
+  {
+    "word": "Frangin",
+    "definition": "Frère",
+    "fakeDefinitions": [
+      "Cousin éloigné",
+      "Beau-père",
+      "Collègue"
+    ]
+  },
+  {
+    "word": "Bahut",
+    "definition": "Lycée, école",
+    "fakeDefinitions": [
+      "Hôpital",
+      "Théâtre",
+      "Marché"
+    ]
+  },
+  {
+    "word": "Cassos",
+    "definition": "Cas social, personne en galère",
+    "fakeDefinitions": [
+      "Personne chic",
+      "Athlète",
+      "Musicien"
+    ]
   }
 ]

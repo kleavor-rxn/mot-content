@@ -1068,5 +1068,265 @@
       "Chas",
       "Couture"
     ]
+  },
+  {
+    "word": "Docteur",
+    "forbidden": [
+      "Cabinet",
+      "Ordonnance",
+      "Malade",
+      "Soigner",
+      "Blouse"
+    ]
+  },
+  {
+    "word": "Avocat",
+    "forbidden": [
+      "Tribunal",
+      "Robe",
+      "Plaidoirie",
+      "Client",
+      "Justice"
+    ]
+  },
+  {
+    "word": "Piano",
+    "forbidden": [
+      "Touches",
+      "Clavier",
+      "Note",
+      "Queue",
+      "Accordeur"
+    ]
+  },
+  {
+    "word": "Harpe",
+    "forbidden": [
+      "Cordes",
+      "Pincer",
+      "Ange",
+      "Orchestre",
+      "Triangle"
+    ]
+  },
+  {
+    "word": "Quai",
+    "forbidden": [
+      "Port",
+      "Bateau",
+      "Amarre",
+      "Gare",
+      "Bord"
+    ]
+  },
+  {
+    "word": "Bouée",
+    "forbidden": [
+      "Flotter",
+      "Sauvetage",
+      "Mer",
+      "Anneau",
+      "Baliser"
+    ]
+  },
+  {
+    "word": "Route",
+    "forbidden": [
+      "Voiture",
+      "Goudron",
+      "Panneau",
+      "Voyage",
+      "Bitume"
+    ]
+  },
+  {
+    "word": "Frein",
+    "forbidden": [
+      "Voiture",
+      "Pédale",
+      "Arrêt",
+      "Ralentir",
+      "Disque"
+    ]
+  },
+  {
+    "word": "Livre",
+    "forbidden": [
+      "Page",
+      "Lire",
+      "Couverture",
+      "Bibliothèque",
+      "Roman"
+    ]
+  },
+  {
+    "word": "Vent",
+    "forbidden": [
+      "Air",
+      "Souffle",
+      "Voile",
+      "Moulin",
+      "Tempête"
+    ]
+  },
+  {
+    "word": "Soleil",
+    "forbidden": [
+      "Chaleur",
+      "Lumière",
+      "Jour",
+      "Été",
+      "Rayon"
+    ]
+  },
+  {
+    "word": "Robe",
+    "forbidden": [
+      "Vêtement",
+      "Mariée",
+      "Tissu",
+      "Longue",
+      "Porter"
+    ]
+  },
+  {
+    "word": "Botte",
+    "forbidden": [
+      "Chaussure",
+      "Pluie",
+      "Cuir",
+      "Cheville",
+      "Marcher"
+    ]
+  },
+  {
+    "word": "Sucre",
+    "forbidden": [
+      "Café",
+      "Doux",
+      "Canne",
+      "Blanc",
+      "Morceau"
+    ]
+  },
+  {
+    "word": "Pain",
+    "forbidden": [
+      "Baguette",
+      "Boulanger",
+      "Mie",
+      "Croûte",
+      "Farine"
+    ]
+  },
+  {
+    "word": "Match",
+    "forbidden": [
+      "Sport",
+      "Équipe",
+      "Arbitre",
+      "Terrain",
+      "Score"
+    ]
+  },
+  {
+    "word": "Score",
+    "forbidden": [
+      "Points",
+      "Tableau",
+      "Match",
+      "Égalité",
+      "Victoire"
+    ]
+  },
+  {
+    "word": "Corde",
+    "forbidden": [
+      "Nouer",
+      "Tendre",
+      "Nœud",
+      "Alpiniste",
+      "Fibre"
+    ]
+  },
+  {
+    "word": "Table",
+    "forbidden": [
+      "Repas",
+      "Chaise",
+      "Pied",
+      "Nappe",
+      "Dresser"
+    ]
+  },
+  {
+    "word": "Chaise",
+    "forbidden": [
+      "Assis",
+      "Dossier",
+      "Table",
+      "Siège",
+      "Pied"
+    ]
+  },
+  {
+    "word": "Bras",
+    "forbidden": [
+      "Épaule",
+      "Coude",
+      "Main",
+      "Muscle",
+      "Porter"
+    ]
+  },
+  {
+    "word": "Doigt",
+    "forbidden": [
+      "Main",
+      "Ongle",
+      "Pointer",
+      "Pouce",
+      "Phalange"
+    ]
+  },
+  {
+    "word": "Rue",
+    "forbidden": [
+      "Ville",
+      "Trottoir",
+      "Immeuble",
+      "Plaque",
+      "Passant"
+    ]
+  },
+  {
+    "word": "Place",
+    "forbidden": [
+      "Village",
+      "Marché",
+      "Fontaine",
+      "Pavé",
+      "Centre"
+    ]
+  },
+  {
+    "word": "Marin",
+    "forbidden": [
+      "Bateau",
+      "Mer",
+      "Équipage",
+      "Port",
+      "Vague"
+    ]
+  },
+  {
+    "word": "Pluie",
+    "forbidden": [
+      "Nuage",
+      "Goutte",
+      "Orage",
+      "Mouiller",
+      "Averse"
+    ]
   }
 ]

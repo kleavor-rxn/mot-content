@@ -2095,7 +2095,19 @@
       "theme": "metiers",
       "difficulty": "facile",
       "clue": "Il navigue pour gagner sa vie",
-      "freq": 15.34
+      "freq": 15.34,
+      "hints": [
+        "Il connaît le roulis",
+        "Il travaille sur les navires",
+        "Il porte le col bleu et le pompon rouge"
+      ],
+      "associations": [
+        "Bateau",
+        "Mer",
+        "Équipage",
+        "Port",
+        "Vague"
+      ]
     },
     {
       "word": "Fermier",
@@ -2111,7 +2123,19 @@
       "theme": "metiers",
       "difficulty": "facile",
       "clue": "On le consulte quand on tousse",
-      "freq": 223.48
+      "freq": 223.48,
+      "hints": [
+        "On le consulte quand ça ne va pas",
+        "Il ausculte avec son stéthoscope",
+        "Il rédige l'ordonnance à la fin"
+      ],
+      "associations": [
+        "Cabinet",
+        "Ordonnance",
+        "Malade",
+        "Soigner",
+        "Blouse"
+      ]
     },
     {
       "word": "Avocat",
@@ -2119,7 +2143,19 @@
       "theme": "metiers",
       "difficulty": "facile",
       "clue": "Il plaide au tribunal",
-      "freq": 89.28
+      "freq": 89.28,
+      "hints": [
+        "Il porte la robe noire",
+        "Il défend son client devant le tribunal",
+        "Il plaide avant le verdict"
+      ],
+      "associations": [
+        "Tribunal",
+        "Robe",
+        "Plaidoirie",
+        "Client",
+        "Justice"
+      ]
     },
     {
       "word": "Maçon",
@@ -2167,7 +2203,19 @@
       "theme": "musique",
       "difficulty": "facile",
       "clue": "Quatre-vingt-huit touches",
-      "freq": 28.51
+      "freq": 28.51,
+      "hints": [
+        "Blanc et noir",
+        "Grand meuble à touches et à cordes frappées",
+        "On l'accorde une fois par an"
+      ],
+      "associations": [
+        "Touches",
+        "Clavier",
+        "Note",
+        "Queue",
+        "Accordeur"
+      ]
     },
     {
       "word": "Harpe",
@@ -2175,7 +2223,19 @@
       "theme": "musique",
       "difficulty": "moyen",
       "clue": "Grandes cordes que l'on pince",
-      "freq": 4.86
+      "freq": 4.86,
+      "hints": [
+        "On en pince les cordes",
+        "Grand instrument triangulaire posé au sol",
+        "Les anges en jouent, dit-on"
+      ],
+      "associations": [
+        "Cordes",
+        "Pincer",
+        "Ange",
+        "Orchestre",
+        "Triangle"
+      ]
     },
     {
       "word": "Solo",
@@ -2199,7 +2259,19 @@
       "theme": "mer",
       "difficulty": "facile",
       "clue": "On y accoste",
-      "freq": 55.14
+      "freq": 55.14,
+      "hints": [
+        "On y attend le bateau ou le train",
+        "Bord aménagé le long de l'eau",
+        "On s'y amarre avant de débarquer"
+      ],
+      "associations": [
+        "Port",
+        "Bateau",
+        "Amarre",
+        "Gare",
+        "Bord"
+      ]
     },
     {
       "word": "Bouée",
@@ -2207,7 +2279,19 @@
       "theme": "mer",
       "difficulty": "moyen",
       "clue": "Elle flotte et sauve",
-      "freq": 4.59
+      "freq": 4.59,
+      "hints": [
+        "Elle flotte et rassure",
+        "Anneau gonflable qui empêche de couler",
+        "Elle balise aussi le chenal"
+      ],
+      "associations": [
+        "Flotter",
+        "Sauvetage",
+        "Mer",
+        "Anneau",
+        "Baliser"
+      ]
     },
     {
       "word": "Sirène",
@@ -2283,7 +2367,19 @@
       "theme": "transport",
       "difficulty": "facile",
       "clue": "Elle relie deux villes",
-      "freq": 251.35
+      "freq": 251.35,
+      "hints": [
+        "Elle relie deux endroits",
+        "Voie goudronnée où roulent les véhicules",
+        "On y met les panneaux et les bandes blanches"
+      ],
+      "associations": [
+        "Voiture",
+        "Goudron",
+        "Panneau",
+        "Voyage",
+        "Bitume"
+      ]
     },
     {
       "word": "Gare",
@@ -2307,7 +2403,19 @@
       "theme": "transport",
       "difficulty": "moyen",
       "clue": "Il arrête la voiture",
-      "freq": 7.91
+      "freq": 7.91,
+      "hints": [
+        "Il évite l'accident",
+        "Il ralentit puis immobilise le véhicule",
+        "La pédale du milieu le commande"
+      ],
+      "associations": [
+        "Voiture",
+        "Pédale",
+        "Arrêt",
+        "Ralentir",
+        "Disque"
+      ]
     },
     {
       "word": "Roue",
@@ -2323,7 +2431,19 @@
       "theme": "ecole",
       "difficulty": "facile",
       "clue": "On le lit page après page",
-      "freq": 151.76
+      "freq": 151.76,
+      "hints": [
+        "Il se referme quand on a fini",
+        "Des pages reliées entre deux couvertures",
+        "On le lit page après page"
+      ],
+      "associations": [
+        "Page",
+        "Lire",
+        "Couverture",
+        "Bibliothèque",
+        "Roman"
+      ]
     },
     {
       "word": "Encre",
@@ -2375,7 +2495,19 @@
       "theme": "ciel",
       "difficulty": "facile",
       "clue": "Il fait tourner les moulins",
-      "freq": 207.64
+      "freq": 207.64,
+      "hints": [
+        "On ne le voit pas, on le sent",
+        "Air en mouvement qui fait plier les arbres",
+        "Il gonfle la voile et tourne le moulin"
+      ],
+      "associations": [
+        "Air",
+        "Souffle",
+        "Voile",
+        "Moulin",
+        "Tempête"
+      ]
     },
     {
       "word": "Pluie",
@@ -2383,7 +2515,19 @@
       "theme": "ciel",
       "difficulty": "facile",
       "clue": "Elle tombe goutte à goutte",
-      "freq": 111.76
+      "freq": 111.76,
+      "hints": [
+        "Elle mouille sans prévenir",
+        "Gouttes d'eau qui tombent des nuages",
+        "On ouvre son abri portatif pour l'affronter"
+      ],
+      "associations": [
+        "Nuage",
+        "Goutte",
+        "Orage",
+        "Mouiller",
+        "Averse"
+      ]
     },
     {
       "word": "Soleil",
@@ -2391,7 +2535,19 @@
       "theme": "ciel",
       "difficulty": "facile",
       "clue": "Il éclaire nos journées",
-      "freq": 328.78
+      "freq": 328.78,
+      "hints": [
+        "Il se lève et se couche",
+        "Étoile qui éclaire et réchauffe la Terre",
+        "Il fait bronzer et fondre la neige"
+      ],
+      "associations": [
+        "Chaleur",
+        "Lumière",
+        "Jour",
+        "Été",
+        "Rayon"
+      ]
     },
     {
       "word": "Givre",
@@ -2439,7 +2595,19 @@
       "theme": "vetement",
       "difficulty": "facile",
       "clue": "Vêtement d'une seule pièce",
-      "freq": 111.96
+      "freq": 111.96,
+      "hints": [
+        "Elle se porte d'une seule pièce",
+        "Vêtement féminin sans séparation entre haut et bas",
+        "Elle est blanche pour la mariée"
+      ],
+      "associations": [
+        "Vêtement",
+        "Mariée",
+        "Tissu",
+        "Longue",
+        "Porter"
+      ]
     },
     {
       "word": "Jupe",
@@ -2455,7 +2623,19 @@
       "theme": "vetement",
       "difficulty": "moyen",
       "clue": "Chaussure montante",
-      "freq": 8.51
+      "freq": 8.51,
+      "hints": [
+        "Elle monte plus haut que la chaussure",
+        "Chaussure qui protège jusqu'au mollet",
+        "Le chat en portait des célèbres"
+      ],
+      "associations": [
+        "Chaussure",
+        "Pluie",
+        "Cuir",
+        "Cheville",
+        "Marcher"
+      ]
     },
     {
       "word": "Gant",
@@ -2479,7 +2659,19 @@
       "theme": "cuisine",
       "difficulty": "facile",
       "clue": "Il adoucit le café",
-      "freq": 30.57
+      "freq": 30.57,
+      "hints": [
+        "Il adoucit tout",
+        "Petits cristaux blancs qu'on met dans le café",
+        "La canne et la betterave en donnent"
+      ],
+      "associations": [
+        "Café",
+        "Doux",
+        "Canne",
+        "Blanc",
+        "Morceau"
+      ]
     },
     {
       "word": "Sel",
@@ -2495,7 +2687,19 @@
       "theme": "cuisine",
       "difficulty": "facile",
       "clue": "Base du sandwich",
-      "freq": 99.32
+      "freq": 99.32,
+      "hints": [
+        "Il est meilleur croustillant",
+        "On l'achète frais chaque matin",
+        "La baguette en est la forme la plus française"
+      ],
+      "associations": [
+        "Baguette",
+        "Boulanger",
+        "Mie",
+        "Croûte",
+        "Farine"
+      ]
     },
     {
       "word": "Huile",
@@ -2519,7 +2723,19 @@
       "theme": "sport",
       "difficulty": "facile",
       "clue": "Rencontre entre deux équipes",
-      "freq": 58.26
+      "freq": 58.26,
+      "hints": [
+        "Il dure deux mi-temps",
+        "Rencontre sportive entre deux camps",
+        "L'arbitre siffle sa fin"
+      ],
+      "associations": [
+        "Sport",
+        "Équipe",
+        "Arbitre",
+        "Terrain",
+        "Score"
+      ]
     },
     {
       "word": "Équipe",
@@ -2535,7 +2751,19 @@
       "theme": "sport",
       "difficulty": "moyen",
       "clue": "Il s'affiche au tableau",
-      "freq": 5.29
+      "freq": 5.29,
+      "hints": [
+        "Il s'affiche en grand",
+        "Nombre de points de chaque camp",
+        "On le consulte avant la fin"
+      ],
+      "associations": [
+        "Points",
+        "Tableau",
+        "Match",
+        "Égalité",
+        "Victoire"
+      ]
     },
     {
       "word": "Boîte",
@@ -2551,7 +2779,19 @@
       "theme": "objets",
       "difficulty": "facile",
       "clue": "On la noue et on la tend",
-      "freq": 31.76
+      "freq": 31.76,
+      "hints": [
+        "On la tend ou on la noue",
+        "Longue tresse de fibres solides",
+        "L'alpiniste s'y accroche"
+      ],
+      "associations": [
+        "Nouer",
+        "Tendre",
+        "Nœud",
+        "Alpiniste",
+        "Fibre"
+      ]
     },
     {
       "word": "Aiguille",
@@ -2579,7 +2819,19 @@
       "theme": "maison",
       "difficulty": "facile",
       "clue": "On y pose les assiettes",
-      "freq": 341.08
+      "freq": 341.08,
+      "hints": [
+        "On s'y installe pour manger",
+        "Plateau posé sur quatre pieds",
+        "On la dresse avant le repas"
+      ],
+      "associations": [
+        "Repas",
+        "Chaise",
+        "Pied",
+        "Nappe",
+        "Dresser"
+      ]
     },
     {
       "word": "Chaise",
@@ -2587,7 +2839,19 @@
       "theme": "maison",
       "difficulty": "facile",
       "clue": "On s'y assoit à table",
-      "freq": 86.35
+      "freq": 86.35,
+      "hints": [
+        "Elle a un dossier",
+        "Siège individuel qu'on approche de la table",
+        "On s'y assoit pour manger"
+      ],
+      "associations": [
+        "Assis",
+        "Dossier",
+        "Table",
+        "Siège",
+        "Pied"
+      ]
     },
     {
       "word": "Bras",
@@ -2595,7 +2859,19 @@
       "theme": "corps",
       "difficulty": "facile",
       "clue": "Il va de l'épaule à la main",
-      "freq": 487.97
+      "freq": 487.97,
+      "hints": [
+        "Il se plie au coude",
+        "Membre qui va de l'épaule à la main",
+        "On l'ouvre pour accueillir"
+      ],
+      "associations": [
+        "Épaule",
+        "Coude",
+        "Main",
+        "Muscle",
+        "Porter"
+      ]
     },
     {
       "word": "Doigt",
@@ -2603,7 +2879,19 @@
       "theme": "corps",
       "difficulty": "facile",
       "clue": "Il y en a cinq par main",
-      "freq": 80.34
+      "freq": 80.34,
+      "hints": [
+        "Il y en a cinq",
+        "Extrémité articulée de la main",
+        "On le pointe pour montrer"
+      ],
+      "associations": [
+        "Main",
+        "Ongle",
+        "Pointer",
+        "Pouce",
+        "Phalange"
+      ]
     },
     {
       "word": "Rue",
@@ -2611,7 +2899,19 @@
       "theme": "ville",
       "difficulty": "facile",
       "clue": "Bordée de maisons, on y marche",
-      "freq": 449.53
+      "freq": 449.53,
+      "hints": [
+        "Bordée d'immeubles",
+        "Voie urbaine où l'on marche et roule",
+        "Elle porte un nom sur une plaque bleue"
+      ],
+      "associations": [
+        "Ville",
+        "Trottoir",
+        "Immeuble",
+        "Plaque",
+        "Passant"
+      ]
     },
     {
       "word": "Place",
@@ -2619,7 +2919,19 @@
       "theme": "ville",
       "difficulty": "facile",
       "clue": "Espace ouvert au centre du village",
-      "freq": 437.97
+      "freq": 437.97,
+      "hints": [
+        "Ouverte et souvent pavée",
+        "Espace dégagé au cœur du village",
+        "Le marché s'y installe le matin"
+      ],
+      "associations": [
+        "Village",
+        "Marché",
+        "Fontaine",
+        "Pavé",
+        "Centre"
+      ]
     }
   ]
 }

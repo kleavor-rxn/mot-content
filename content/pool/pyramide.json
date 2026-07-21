@@ -838,5 +838,213 @@
       "On y enfile un fil pour coudre",
       "On en cherche une dans une botte de foin"
     ]
+  },
+  {
+    "word": "Docteur",
+    "hints": [
+      "On le consulte quand ça ne va pas",
+      "Il ausculte avec son stéthoscope",
+      "Il rédige l'ordonnance à la fin"
+    ]
+  },
+  {
+    "word": "Avocat",
+    "hints": [
+      "Il porte la robe noire",
+      "Il défend son client devant le tribunal",
+      "Il plaide avant le verdict"
+    ]
+  },
+  {
+    "word": "Piano",
+    "hints": [
+      "Blanc et noir",
+      "Grand meuble à touches et à cordes frappées",
+      "On l'accorde une fois par an"
+    ]
+  },
+  {
+    "word": "Harpe",
+    "hints": [
+      "On en pince les cordes",
+      "Grand instrument triangulaire posé au sol",
+      "Les anges en jouent, dit-on"
+    ]
+  },
+  {
+    "word": "Quai",
+    "hints": [
+      "On y attend le bateau ou le train",
+      "Bord aménagé le long de l'eau",
+      "On s'y amarre avant de débarquer"
+    ]
+  },
+  {
+    "word": "Bouée",
+    "hints": [
+      "Elle flotte et rassure",
+      "Anneau gonflable qui empêche de couler",
+      "Elle balise aussi le chenal"
+    ]
+  },
+  {
+    "word": "Route",
+    "hints": [
+      "Elle relie deux endroits",
+      "Voie goudronnée où roulent les véhicules",
+      "On y met les panneaux et les bandes blanches"
+    ]
+  },
+  {
+    "word": "Frein",
+    "hints": [
+      "Il évite l'accident",
+      "Il ralentit puis immobilise le véhicule",
+      "La pédale du milieu le commande"
+    ]
+  },
+  {
+    "word": "Livre",
+    "hints": [
+      "Il se referme quand on a fini",
+      "Des pages reliées entre deux couvertures",
+      "On le lit page après page"
+    ]
+  },
+  {
+    "word": "Vent",
+    "hints": [
+      "On ne le voit pas, on le sent",
+      "Air en mouvement qui fait plier les arbres",
+      "Il gonfle la voile et tourne le moulin"
+    ]
+  },
+  {
+    "word": "Soleil",
+    "hints": [
+      "Il se lève et se couche",
+      "Étoile qui éclaire et réchauffe la Terre",
+      "Il fait bronzer et fondre la neige"
+    ]
+  },
+  {
+    "word": "Robe",
+    "hints": [
+      "Elle se porte d'une seule pièce",
+      "Vêtement féminin sans séparation entre haut et bas",
+      "Elle est blanche pour la mariée"
+    ]
+  },
+  {
+    "word": "Botte",
+    "hints": [
+      "Elle monte plus haut que la chaussure",
+      "Chaussure qui protège jusqu'au mollet",
+      "Le chat en portait des célèbres"
+    ]
+  },
+  {
+    "word": "Sucre",
+    "hints": [
+      "Il adoucit tout",
+      "Petits cristaux blancs qu'on met dans le café",
+      "La canne et la betterave en donnent"
+    ]
+  },
+  {
+    "word": "Pain",
+    "hints": [
+      "Il est meilleur croustillant",
+      "On l'achète frais chaque matin",
+      "La baguette en est la forme la plus française"
+    ]
+  },
+  {
+    "word": "Match",
+    "hints": [
+      "Il dure deux mi-temps",
+      "Rencontre sportive entre deux camps",
+      "L'arbitre siffle sa fin"
+    ]
+  },
+  {
+    "word": "Score",
+    "hints": [
+      "Il s'affiche en grand",
+      "Nombre de points de chaque camp",
+      "On le consulte avant la fin"
+    ]
+  },
+  {
+    "word": "Corde",
+    "hints": [
+      "On la tend ou on la noue",
+      "Longue tresse de fibres solides",
+      "L'alpiniste s'y accroche"
+    ]
+  },
+  {
+    "word": "Table",
+    "hints": [
+      "On s'y installe pour manger",
+      "Plateau posé sur quatre pieds",
+      "On la dresse avant le repas"
+    ]
+  },
+  {
+    "word": "Chaise",
+    "hints": [
+      "Elle a un dossier",
+      "Siège individuel qu'on approche de la table",
+      "On s'y assoit pour manger"
+    ]
+  },
+  {
+    "word": "Bras",
+    "hints": [
+      "Il se plie au coude",
+      "Membre qui va de l'épaule à la main",
+      "On l'ouvre pour accueillir"
+    ]
+  },
+  {
+    "word": "Doigt",
+    "hints": [
+      "Il y en a cinq",
+      "Extrémité articulée de la main",
+      "On le pointe pour montrer"
+    ]
+  },
+  {
+    "word": "Rue",
+    "hints": [
+      "Bordée d'immeubles",
+      "Voie urbaine où l'on marche et roule",
+      "Elle porte un nom sur une plaque bleue"
+    ]
+  },
+  {
+    "word": "Place",
+    "hints": [
+      "Ouverte et souvent pavée",
+      "Espace dégagé au cœur du village",
+      "Le marché s'y installe le matin"
+    ]
+  },
+  {
+    "word": "Marin",
+    "hints": [
+      "Il connaît le roulis",
+      "Il travaille sur les navires",
+      "Il porte le col bleu et le pompon rouge"
+    ]
+  },
+  {
+    "word": "Pluie",
+    "hints": [
+      "Elle mouille sans prévenir",
+      "Gouttes d'eau qui tombent des nuages",
+      "On ouvre son abri portatif pour l'affronter"
+    ]
   }
 ]
