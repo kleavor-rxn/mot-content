@@ -1,0 +1,1809 @@
+{
+  "note": "Banque de mots annotés. `clue` suffit pour les grilles ; `hints` (Pyramide) et `associations` (Taboo) s'ajoutent par lots.",
+  "entries": [
+    {
+      "word": "Falaise",
+      "grid": "FALAISE",
+      "theme": "nature",
+      "difficulty": "facile",
+      "clue": "Paroi rocheuse qui domine la mer",
+      "freq": 15.47
+    },
+    {
+      "word": "Forêt",
+      "grid": "FORET",
+      "theme": "nature",
+      "difficulty": "facile",
+      "clue": "Des milliers d'arbres serrés",
+      "freq": 91.89
+    },
+    {
+      "word": "Rivière",
+      "grid": "RIVIERE",
+      "theme": "nature",
+      "difficulty": "facile",
+      "clue": "Elle se jette dans un fleuve",
+      "freq": 36.49
+    },
+    {
+      "word": "Cascade",
+      "grid": "CASCADE",
+      "theme": "nature",
+      "difficulty": "moyen",
+      "clue": "L'eau y tombe d'un coup",
+      "freq": 7.3
+    },
+    {
+      "word": "Vallée",
+      "grid": "VALLEE",
+      "theme": "nature",
+      "difficulty": "facile",
+      "clue": "Creux entre deux montagnes",
+      "freq": 30.14
+    },
+    {
+      "word": "Sommet",
+      "grid": "SOMMET",
+      "theme": "nature",
+      "difficulty": "facile",
+      "clue": "Le point le plus haut",
+      "freq": 38.85
+    },
+    {
+      "word": "Sable",
+      "grid": "SABLE",
+      "theme": "nature",
+      "difficulty": "facile",
+      "clue": "Il crisse sous les pieds à la plage",
+      "freq": 87.91
+    },
+    {
+      "word": "Racine",
+      "grid": "RACINE",
+      "theme": "nature",
+      "difficulty": "moyen",
+      "clue": "Elle nourrit l'arbre sous terre",
+      "freq": 11.01
+    },
+    {
+      "word": "Feuille",
+      "grid": "FEUILLE",
+      "theme": "nature",
+      "difficulty": "facile",
+      "clue": "Verte au printemps, rousse en automne",
+      "freq": 46.35
+    },
+    {
+      "word": "Prairie",
+      "grid": "PRAIRIE",
+      "theme": "nature",
+      "difficulty": "moyen",
+      "clue": "Herbe rase où paissent les vaches",
+      "freq": 9.8
+    },
+    {
+      "word": "Grotte",
+      "grid": "GROTTE",
+      "theme": "nature",
+      "difficulty": "facile",
+      "clue": "Creusée dans la roche, on l'explore",
+      "freq": 17.84
+    },
+    {
+      "word": "Torrent",
+      "grid": "TORRENT",
+      "theme": "nature",
+      "difficulty": "moyen",
+      "clue": "Cours d'eau rapide de montagne",
+      "freq": 11.96
+    },
+    {
+      "word": "Marais",
+      "grid": "MARAIS",
+      "theme": "nature",
+      "difficulty": "moyen",
+      "clue": "Terrain gorgé d'eau",
+      "freq": 10.68
+    },
+    {
+      "word": "Colline",
+      "grid": "COLLINE",
+      "theme": "nature",
+      "difficulty": "facile",
+      "clue": "Petite hauteur arrondie",
+      "freq": 30.07
+    },
+    {
+      "word": "Renard",
+      "grid": "RENARD",
+      "theme": "animaux",
+      "difficulty": "moyen",
+      "clue": "Réputé rusé",
+      "freq": 8.58
+    },
+    {
+      "word": "Hibou",
+      "grid": "HIBOU",
+      "theme": "animaux",
+      "difficulty": "moyen",
+      "clue": "Rapace nocturne à aigrettes",
+      "freq": 4.08
+    },
+    {
+      "word": "Écureuil",
+      "grid": "ECUREUIL",
+      "theme": "animaux",
+      "difficulty": "moyen",
+      "clue": "Il fait des réserves de noisettes",
+      "freq": 8.85
+    },
+    {
+      "word": "Baleine",
+      "grid": "BALEINE",
+      "theme": "animaux",
+      "difficulty": "moyen",
+      "clue": "Le plus grand des mammifères",
+      "freq": 11.52
+    },
+    {
+      "word": "Tortue",
+      "grid": "TORTUE",
+      "theme": "animaux",
+      "difficulty": "moyen",
+      "clue": "Elle porte sa maison sur le dos",
+      "freq": 4.66
+    },
+    {
+      "word": "Abeille",
+      "grid": "ABEILLE",
+      "theme": "animaux",
+      "difficulty": "moyen",
+      "clue": "Elle butine et fabrique le miel",
+      "freq": 3.53
+    },
+    {
+      "word": "Panthère",
+      "grid": "PANTHERE",
+      "theme": "animaux",
+      "difficulty": "moyen",
+      "clue": "Grand félin au pelage sombre",
+      "freq": 3.65
+    },
+    {
+      "word": "Corbeau",
+      "grid": "CORBEAU",
+      "theme": "animaux",
+      "difficulty": "moyen",
+      "clue": "Oiseau noir de la fable",
+      "freq": 3.92
+    },
+    {
+      "word": "Dauphin",
+      "grid": "DAUPHIN",
+      "theme": "animaux",
+      "difficulty": "difficile",
+      "clue": "Mammifère marin très joueur",
+      "freq": 1.76
+    },
+    {
+      "word": "Chameau",
+      "grid": "CHAMEAU",
+      "theme": "animaux",
+      "difficulty": "moyen",
+      "clue": "Il traverse le désert avec ses bosses",
+      "freq": 7.21
+    },
+    {
+      "word": "Papillon",
+      "grid": "PAPILLON",
+      "theme": "animaux",
+      "difficulty": "moyen",
+      "clue": "Il sort de la chrysalide",
+      "freq": 10.68
+    },
+    {
+      "word": "Hérisson",
+      "grid": "HERISSON",
+      "theme": "animaux",
+      "difficulty": "difficile",
+      "clue": "Boule de piquants du jardin",
+      "freq": 1.76
+    },
+    {
+      "word": "Sanglier",
+      "grid": "SANGLIER",
+      "theme": "animaux",
+      "difficulty": "moyen",
+      "clue": "Cousin sauvage du cochon",
+      "freq": 5.34
+    },
+    {
+      "word": "Mouette",
+      "grid": "MOUETTE",
+      "theme": "animaux",
+      "difficulty": "moyen",
+      "clue": "Oiseau blanc des ports",
+      "freq": 5.47
+    },
+    {
+      "word": "Cuisine",
+      "grid": "CUISINE",
+      "theme": "maison",
+      "difficulty": "facile",
+      "clue": "On y prépare les repas",
+      "freq": 123.31
+    },
+    {
+      "word": "Grenier",
+      "grid": "GRENIER",
+      "theme": "maison",
+      "difficulty": "facile",
+      "clue": "Sous le toit, on y entasse",
+      "freq": 19.53
+    },
+    {
+      "word": "Escalier",
+      "grid": "ESCALIER",
+      "theme": "maison",
+      "difficulty": "facile",
+      "clue": "On le monte marche après marche",
+      "freq": 125.95
+    },
+    {
+      "word": "Fenêtre",
+      "grid": "FENETRE",
+      "theme": "maison",
+      "difficulty": "facile",
+      "clue": "Elle laisse entrer le jour",
+      "freq": 199.39
+    },
+    {
+      "word": "Placard",
+      "grid": "PLACARD",
+      "theme": "maison",
+      "difficulty": "facile",
+      "clue": "On y range, derrière une porte",
+      "freq": 25.74
+    },
+    {
+      "word": "Tapis",
+      "grid": "TAPIS",
+      "theme": "maison",
+      "difficulty": "facile",
+      "clue": "Il couvre le sol du salon",
+      "freq": 60.88
+    },
+    {
+      "word": "Lampe",
+      "grid": "LAMPE",
+      "theme": "maison",
+      "difficulty": "facile",
+      "clue": "Elle éclaire la pièce",
+      "freq": 70.88
+    },
+    {
+      "word": "Rideau",
+      "grid": "RIDEAU",
+      "theme": "maison",
+      "difficulty": "facile",
+      "clue": "Il voile la vitre",
+      "freq": 43.65
+    },
+    {
+      "word": "Cheminée",
+      "grid": "CHEMINEE",
+      "theme": "maison",
+      "difficulty": "facile",
+      "clue": "Le feu y crépite l'hiver",
+      "freq": 36.28
+    },
+    {
+      "word": "Cave",
+      "grid": "CAVE",
+      "theme": "maison",
+      "difficulty": "facile",
+      "clue": "Fraîche, sous la maison",
+      "freq": 42.09
+    },
+    {
+      "word": "Miroir",
+      "grid": "MIROIR",
+      "theme": "maison",
+      "difficulty": "facile",
+      "clue": "Il renvoie votre image",
+      "freq": 48.58
+    },
+    {
+      "word": "Balcon",
+      "grid": "BALCON",
+      "theme": "maison",
+      "difficulty": "facile",
+      "clue": "On y prend l'air, en hauteur",
+      "freq": 32.97
+    },
+    {
+      "word": "Farine",
+      "grid": "FARINE",
+      "theme": "cuisine",
+      "difficulty": "moyen",
+      "clue": "Base du pain et des crêpes",
+      "freq": 13.51
+    },
+    {
+      "word": "Beurre",
+      "grid": "BEURRE",
+      "theme": "cuisine",
+      "difficulty": "facile",
+      "clue": "Il fond dans la poêle",
+      "freq": 27.5
+    },
+    {
+      "word": "Poivre",
+      "grid": "POIVRE",
+      "theme": "cuisine",
+      "difficulty": "moyen",
+      "clue": "Il accompagne toujours le sel",
+      "freq": 6.69
+    },
+    {
+      "word": "Citron",
+      "grid": "CITRON",
+      "theme": "cuisine",
+      "difficulty": "moyen",
+      "clue": "Jaune et très acide",
+      "freq": 9.05
+    },
+    {
+      "word": "Fromage",
+      "grid": "FROMAGE",
+      "theme": "cuisine",
+      "difficulty": "facile",
+      "clue": "La France en compte des centaines",
+      "freq": 25.68
+    },
+    {
+      "word": "Gâteau",
+      "grid": "GATEAU",
+      "theme": "cuisine",
+      "difficulty": "facile",
+      "clue": "On souffle ses bougies dessus",
+      "freq": 42.33
+    },
+    {
+      "word": "Soupe",
+      "grid": "SOUPE",
+      "theme": "cuisine",
+      "difficulty": "facile",
+      "clue": "Elle se mange chaude à la cuillère",
+      "freq": 35.74
+    },
+    {
+      "word": "Confiture",
+      "grid": "CONFITURE",
+      "theme": "cuisine",
+      "difficulty": "moyen",
+      "clue": "Fruits et sucre, sur la tartine",
+      "freq": 8.72
+    },
+    {
+      "word": "Vinaigre",
+      "grid": "VINAIGRE",
+      "theme": "cuisine",
+      "difficulty": "moyen",
+      "clue": "Il pique dans la salade",
+      "freq": 5.54
+    },
+    {
+      "word": "Casserole",
+      "grid": "CASSEROLE",
+      "theme": "cuisine",
+      "difficulty": "facile",
+      "clue": "Elle chauffe sur le feu",
+      "freq": 16.22
+    },
+    {
+      "word": "Recette",
+      "grid": "RECETTE",
+      "theme": "cuisine",
+      "difficulty": "moyen",
+      "clue": "On la suit pour réussir un plat",
+      "freq": 9.56
+    },
+    {
+      "word": "Épice",
+      "grid": "EPICE",
+      "theme": "cuisine",
+      "difficulty": "difficile",
+      "clue": "Elle relève un plat",
+      "freq": 1.69
+    },
+    {
+      "word": "Épaule",
+      "grid": "EPAULE",
+      "theme": "corps",
+      "difficulty": "facile",
+      "clue": "Elle porte le sac",
+      "freq": 116.96
+    },
+    {
+      "word": "Genou",
+      "grid": "GENOU",
+      "theme": "corps",
+      "difficulty": "facile",
+      "clue": "Articulation de la jambe",
+      "freq": 23.92
+    },
+    {
+      "word": "Cheveu",
+      "grid": "CHEVEU",
+      "theme": "corps",
+      "difficulty": "moyen",
+      "clue": "Il pousse sur la tête",
+      "freq": 7.5
+    },
+    {
+      "word": "Poumon",
+      "grid": "POUMON",
+      "theme": "corps",
+      "difficulty": "moyen",
+      "clue": "Il respire pour vous",
+      "freq": 4.55
+    },
+    {
+      "word": "Cerveau",
+      "grid": "CERVEAU",
+      "theme": "corps",
+      "difficulty": "facile",
+      "clue": "Il commande tout le reste",
+      "freq": 57.67
+    },
+    {
+      "word": "Coude",
+      "grid": "COUDE",
+      "theme": "corps",
+      "difficulty": "facile",
+      "clue": "Le milieu du bras",
+      "freq": 33.24
+    },
+    {
+      "word": "Talon",
+      "grid": "TALON",
+      "theme": "corps",
+      "difficulty": "moyen",
+      "clue": "L'arrière du pied",
+      "freq": 12.36
+    },
+    {
+      "word": "Paupière",
+      "grid": "PAUPIERE",
+      "theme": "corps",
+      "difficulty": "moyen",
+      "clue": "Elle se ferme sur l'œil",
+      "freq": 7.03
+    },
+    {
+      "word": "Menton",
+      "grid": "MENTON",
+      "theme": "corps",
+      "difficulty": "facile",
+      "clue": "Sous la bouche",
+      "freq": 58.65
+    },
+    {
+      "word": "Cheville",
+      "grid": "CHEVILLE",
+      "theme": "corps",
+      "difficulty": "moyen",
+      "clue": "Entre le pied et la jambe",
+      "freq": 8.99
+    },
+    {
+      "word": "Pouce",
+      "grid": "POUCE",
+      "theme": "corps",
+      "difficulty": "facile",
+      "clue": "Le plus court des cinq doigts",
+      "freq": 29.86
+    },
+    {
+      "word": "Estomac",
+      "grid": "ESTOMAC",
+      "theme": "corps",
+      "difficulty": "facile",
+      "clue": "Il digère ce qu'on avale",
+      "freq": 30.14
+    },
+    {
+      "word": "Avenue",
+      "grid": "AVENUE",
+      "theme": "ville",
+      "difficulty": "facile",
+      "clue": "Large voie bordée d'arbres",
+      "freq": 40.81
+    },
+    {
+      "word": "Marché",
+      "grid": "MARCHE",
+      "theme": "ville",
+      "difficulty": "facile",
+      "clue": "On y achète frais, en plein air",
+      "freq": 72.73
+    },
+    {
+      "word": "Musée",
+      "grid": "MUSEE",
+      "theme": "ville",
+      "difficulty": "facile",
+      "clue": "On y expose des œuvres",
+      "freq": 21.55
+    },
+    {
+      "word": "Théâtre",
+      "grid": "THEATRE",
+      "theme": "ville",
+      "difficulty": "facile",
+      "clue": "On y joue des pièces",
+      "freq": 64.32
+    },
+    {
+      "word": "Piscine",
+      "grid": "PISCINE",
+      "theme": "ville",
+      "difficulty": "facile",
+      "clue": "Grand bassin où l'on nage",
+      "freq": 22.19
+    },
+    {
+      "word": "Boutique",
+      "grid": "BOUTIQUE",
+      "theme": "ville",
+      "difficulty": "facile",
+      "clue": "Petit commerce de détail",
+      "freq": 36.01
+    },
+    {
+      "word": "Quartier",
+      "grid": "QUARTIER",
+      "theme": "ville",
+      "difficulty": "facile",
+      "clue": "Une partie de la ville",
+      "freq": 89.86
+    },
+    {
+      "word": "Trottoir",
+      "grid": "TROTTOIR",
+      "theme": "ville",
+      "difficulty": "facile",
+      "clue": "Réservé aux piétons",
+      "freq": 70.54
+    },
+    {
+      "word": "Mairie",
+      "grid": "MAIRIE",
+      "theme": "ville",
+      "difficulty": "facile",
+      "clue": "On y célèbre les mariages",
+      "freq": 15
+    },
+    {
+      "word": "Parking",
+      "grid": "PARKING",
+      "theme": "ville",
+      "difficulty": "facile",
+      "clue": "On y laisse sa voiture",
+      "freq": 17.38
+    },
+    {
+      "word": "Église",
+      "grid": "EGLISE",
+      "theme": "ville",
+      "difficulty": "facile",
+      "clue": "Son clocher domine le village",
+      "freq": 123.58
+    },
+    {
+      "word": "Kiosque",
+      "grid": "KIOSQUE",
+      "theme": "ville",
+      "difficulty": "moyen",
+      "clue": "On y vend les journaux",
+      "freq": 5.88
+    },
+    {
+      "word": "Camion",
+      "grid": "CAMION",
+      "theme": "transport",
+      "difficulty": "facile",
+      "clue": "Poids lourd de la route",
+      "freq": 50.06
+    },
+    {
+      "word": "Bateau",
+      "grid": "BATEAU",
+      "theme": "transport",
+      "difficulty": "facile",
+      "clue": "Il flotte et navigue",
+      "freq": 106.55
+    },
+    {
+      "word": "Bicyclette",
+      "grid": "BICYCLETTE",
+      "theme": "transport",
+      "difficulty": "facile",
+      "clue": "Deux roues et des pédales",
+      "freq": 23.51
+    },
+    {
+      "word": "Wagon",
+      "grid": "WAGON",
+      "theme": "transport",
+      "difficulty": "facile",
+      "clue": "Il suit la locomotive",
+      "freq": 18.11
+    },
+    {
+      "word": "Voile",
+      "grid": "VOILE",
+      "theme": "transport",
+      "difficulty": "facile",
+      "clue": "Elle prend le vent",
+      "freq": 30.27
+    },
+    {
+      "word": "Moteur",
+      "grid": "MOTEUR",
+      "theme": "transport",
+      "difficulty": "facile",
+      "clue": "Il fait avancer la voiture",
+      "freq": 41.28
+    },
+    {
+      "word": "Ancre",
+      "grid": "ANCRE",
+      "theme": "transport",
+      "difficulty": "moyen",
+      "clue": "Jetée, elle retient le navire",
+      "freq": 4.63
+    },
+    {
+      "word": "Volant",
+      "grid": "VOLANT",
+      "theme": "transport",
+      "difficulty": "facile",
+      "clue": "On le tourne pour diriger",
+      "freq": 33.51
+    },
+    {
+      "word": "Rame",
+      "grid": "RAME",
+      "theme": "transport",
+      "difficulty": "moyen",
+      "clue": "Elle fait avancer la barque",
+      "freq": 5.74
+    },
+    {
+      "word": "Pilote",
+      "grid": "PILOTE",
+      "theme": "transport",
+      "difficulty": "facile",
+      "clue": "Il tient les commandes",
+      "freq": 29.1
+    },
+    {
+      "word": "Guitare",
+      "grid": "GUITARE",
+      "theme": "musique",
+      "difficulty": "moyen",
+      "clue": "Six cordes et une caisse",
+      "freq": 12.78
+    },
+    {
+      "word": "Violon",
+      "grid": "VIOLON",
+      "theme": "musique",
+      "difficulty": "moyen",
+      "clue": "On en joue avec un archet",
+      "freq": 11.56
+    },
+    {
+      "word": "Trompette",
+      "grid": "TROMPETTE",
+      "theme": "musique",
+      "difficulty": "moyen",
+      "clue": "Cuivre à trois pistons",
+      "freq": 5.71
+    },
+    {
+      "word": "Tambour",
+      "grid": "TAMBOUR",
+      "theme": "musique",
+      "difficulty": "moyen",
+      "clue": "On le frappe avec des baguettes",
+      "freq": 10.54
+    },
+    {
+      "word": "Mélodie",
+      "grid": "MELODIE",
+      "theme": "musique",
+      "difficulty": "moyen",
+      "clue": "Suite de notes qu'on retient",
+      "freq": 5.95
+    },
+    {
+      "word": "Refrain",
+      "grid": "REFRAIN",
+      "theme": "musique",
+      "difficulty": "moyen",
+      "clue": "Il revient à chaque couplet",
+      "freq": 8.24
+    },
+    {
+      "word": "Orchestre",
+      "grid": "ORCHESTRE",
+      "theme": "musique",
+      "difficulty": "facile",
+      "clue": "Des dizaines de musiciens ensemble",
+      "freq": 18.04
+    },
+    {
+      "word": "Flûte",
+      "grid": "FLUTE",
+      "theme": "musique",
+      "difficulty": "moyen",
+      "clue": "On souffle dedans, elle est percée",
+      "freq": 9.11
+    },
+    {
+      "word": "Rythme",
+      "grid": "RYTHME",
+      "theme": "musique",
+      "difficulty": "facile",
+      "clue": "Il fait taper du pied",
+      "freq": 42.57
+    },
+    {
+      "word": "Concert",
+      "grid": "CONCERT",
+      "theme": "musique",
+      "difficulty": "facile",
+      "clue": "Spectacle joué en public",
+      "freq": 26.51
+    },
+    {
+      "word": "Ballon",
+      "grid": "BALLON",
+      "theme": "sport",
+      "difficulty": "facile",
+      "clue": "Rond, on le shoote",
+      "freq": 27.27
+    },
+    {
+      "word": "Course",
+      "grid": "COURSE",
+      "theme": "sport",
+      "difficulty": "facile",
+      "clue": "Le premier arrivé gagne",
+      "freq": 51.22
+    },
+    {
+      "word": "Raquette",
+      "grid": "RAQUETTE",
+      "theme": "sport",
+      "difficulty": "difficile",
+      "clue": "Elle frappe la balle au tennis",
+      "freq": 1.77
+    },
+    {
+      "word": "Piste",
+      "grid": "PISTE",
+      "theme": "sport",
+      "difficulty": "facile",
+      "clue": "On y court ou on y skie",
+      "freq": 43.01
+    },
+    {
+      "word": "Filet",
+      "grid": "FILET",
+      "theme": "sport",
+      "difficulty": "facile",
+      "clue": "Il coupe le terrain en deux",
+      "freq": 26.35
+    },
+    {
+      "word": "Nageur",
+      "grid": "NAGEUR",
+      "theme": "sport",
+      "difficulty": "moyen",
+      "clue": "Il fait des longueurs",
+      "freq": 3.24
+    },
+    {
+      "word": "Arbitre",
+      "grid": "ARBITRE",
+      "theme": "sport",
+      "difficulty": "moyen",
+      "clue": "Il siffle les fautes",
+      "freq": 6.92
+    },
+    {
+      "word": "Médaille",
+      "grid": "MEDAILLE",
+      "theme": "sport",
+      "difficulty": "moyen",
+      "clue": "Or, argent ou bronze",
+      "freq": 12.44
+    },
+    {
+      "word": "Escrime",
+      "grid": "ESCRIME",
+      "theme": "sport",
+      "difficulty": "difficile",
+      "clue": "Sport du fleuret et du sabre",
+      "freq": 2.03
+    },
+    {
+      "word": "Vélo",
+      "grid": "VELO",
+      "theme": "sport",
+      "difficulty": "facile",
+      "clue": "On pédale dessus",
+      "freq": 32.95
+    },
+    {
+      "word": "Cahier",
+      "grid": "CAHIER",
+      "theme": "ecole",
+      "difficulty": "facile",
+      "clue": "On y écrit ses leçons",
+      "freq": 20.07
+    },
+    {
+      "word": "Craie",
+      "grid": "CRAIE",
+      "theme": "ecole",
+      "difficulty": "moyen",
+      "clue": "Elle blanchit le tableau",
+      "freq": 10.2
+    },
+    {
+      "word": "Gomme",
+      "grid": "GOMME",
+      "theme": "ecole",
+      "difficulty": "moyen",
+      "clue": "Elle efface le crayon",
+      "freq": 9.26
+    },
+    {
+      "word": "Cartable",
+      "grid": "CARTABLE",
+      "theme": "ecole",
+      "difficulty": "moyen",
+      "clue": "Il porte les livres sur le dos",
+      "freq": 9.32
+    },
+    {
+      "word": "Devoir",
+      "grid": "DEVOIR",
+      "theme": "ecole",
+      "difficulty": "facile",
+      "clue": "À rendre pour demain"
+    },
+    {
+      "word": "Récréation",
+      "grid": "RECREATION",
+      "theme": "ecole",
+      "difficulty": "moyen",
+      "clue": "La pause dans la cour",
+      "freq": 9.26
+    },
+    {
+      "word": "Tableau",
+      "grid": "TABLEAU",
+      "theme": "ecole",
+      "difficulty": "facile",
+      "clue": "Le maître y écrit",
+      "freq": 57.84
+    },
+    {
+      "word": "Crayon",
+      "grid": "CRAYON",
+      "theme": "ecole",
+      "difficulty": "facile",
+      "clue": "On le taille quand il s'émousse",
+      "freq": 25.47
+    },
+    {
+      "word": "Cantine",
+      "grid": "CANTINE",
+      "theme": "ecole",
+      "difficulty": "moyen",
+      "clue": "On y déjeune à midi",
+      "freq": 10.61
+    },
+    {
+      "word": "Pupitre",
+      "grid": "PUPITRE",
+      "theme": "ecole",
+      "difficulty": "moyen",
+      "clue": "La table de l'élève",
+      "freq": 5.74
+    },
+    {
+      "word": "Vague",
+      "grid": "VAGUE",
+      "theme": "mer",
+      "difficulty": "facile",
+      "clue": "Elle déferle sur le rivage"
+    },
+    {
+      "word": "Marée",
+      "grid": "MAREE",
+      "theme": "mer",
+      "difficulty": "facile",
+      "clue": "Elle monte et descend deux fois par jour",
+      "freq": 21.28
+    },
+    {
+      "word": "Phare",
+      "grid": "PHARE",
+      "theme": "mer",
+      "difficulty": "moyen",
+      "clue": "Il guide les navires la nuit",
+      "freq": 10.68
+    },
+    {
+      "word": "Coquillage",
+      "grid": "COQUILLAGE",
+      "theme": "mer",
+      "difficulty": "moyen",
+      "clue": "On le ramasse sur le sable",
+      "freq": 3.51
+    },
+    {
+      "word": "Récif",
+      "grid": "RECIF",
+      "theme": "mer",
+      "difficulty": "moyen",
+      "clue": "Rochers dangereux sous l'eau"
+    },
+    {
+      "word": "Écume",
+      "grid": "ECUME",
+      "theme": "mer",
+      "difficulty": "facile",
+      "clue": "Mousse blanche sur les vagues",
+      "freq": 16.08
+    },
+    {
+      "word": "Crabe",
+      "grid": "CRABE",
+      "theme": "mer",
+      "difficulty": "moyen",
+      "clue": "Il marche de travers",
+      "freq": 7.3
+    },
+    {
+      "word": "Algue",
+      "grid": "ALGUE",
+      "theme": "mer",
+      "difficulty": "difficile",
+      "clue": "Plante verte des fonds marins",
+      "freq": 1.62
+    },
+    {
+      "word": "Port",
+      "grid": "PORT",
+      "theme": "mer",
+      "difficulty": "facile",
+      "clue": "Les bateaux s'y amarrent",
+      "freq": 64.86
+    },
+    {
+      "word": "Mouillage",
+      "grid": "MOUILLAGE",
+      "theme": "mer",
+      "difficulty": "difficile",
+      "clue": "Endroit où le bateau jette l'ancre",
+      "freq": 1.15
+    },
+    {
+      "word": "Nuage",
+      "grid": "NUAGE",
+      "theme": "ciel",
+      "difficulty": "facile",
+      "clue": "Il flotte au-dessus de nos têtes",
+      "freq": 26.49
+    },
+    {
+      "word": "Éclair",
+      "grid": "ECLAIR",
+      "theme": "ciel",
+      "difficulty": "facile",
+      "clue": "Il zèbre le ciel d'orage",
+      "freq": 21.08
+    },
+    {
+      "word": "Arc",
+      "grid": "ARC",
+      "theme": "ciel",
+      "difficulty": "moyen",
+      "clue": "En ciel, il a sept couleurs",
+      "freq": 14.05
+    },
+    {
+      "word": "Comète",
+      "grid": "COMETE",
+      "theme": "ciel",
+      "difficulty": "difficile",
+      "clue": "Astre à longue traîne",
+      "freq": 2.3
+    },
+    {
+      "word": "Planète",
+      "grid": "PLANETE",
+      "theme": "ciel",
+      "difficulty": "facile",
+      "clue": "Mars en est une",
+      "freq": 55.29
+    },
+    {
+      "word": "Aurore",
+      "grid": "AURORE",
+      "theme": "ciel",
+      "difficulty": "moyen",
+      "clue": "Première lueur du matin",
+      "freq": 9.39
+    },
+    {
+      "word": "Brouillard",
+      "grid": "BROUILLARD",
+      "theme": "ciel",
+      "difficulty": "facile",
+      "clue": "Il réduit la visibilité",
+      "freq": 32.84
+    },
+    {
+      "word": "Tonnerre",
+      "grid": "TONNERRE",
+      "theme": "ciel",
+      "difficulty": "facile",
+      "clue": "Il gronde après l'éclair",
+      "freq": 18.65
+    },
+    {
+      "word": "Lune",
+      "grid": "LUNE",
+      "theme": "ciel",
+      "difficulty": "facile",
+      "clue": "Satellite de la Terre",
+      "freq": 63.24
+    },
+    {
+      "word": "Étoile",
+      "grid": "ETOILE",
+      "theme": "ciel",
+      "difficulty": "facile",
+      "clue": "Elle brille la nuit",
+      "freq": 29.8
+    },
+    {
+      "word": "Manteau",
+      "grid": "MANTEAU",
+      "theme": "vetement",
+      "difficulty": "facile",
+      "clue": "On l'enfile quand il fait froid",
+      "freq": 58.99
+    },
+    {
+      "word": "Écharpe",
+      "grid": "ECHARPE",
+      "theme": "vetement",
+      "difficulty": "moyen",
+      "clue": "Elle protège le cou",
+      "freq": 11.22
+    },
+    {
+      "word": "Chapeau",
+      "grid": "CHAPEAU",
+      "theme": "vetement",
+      "difficulty": "facile",
+      "clue": "Il coiffe la tête",
+      "freq": 72.91
+    },
+    {
+      "word": "Chaussure",
+      "grid": "CHAUSSURE",
+      "theme": "vetement",
+      "difficulty": "moyen",
+      "clue": "Elle habille le pied",
+      "freq": 12.49
+    },
+    {
+      "word": "Bouton",
+      "grid": "BOUTON",
+      "theme": "vetement",
+      "difficulty": "facile",
+      "clue": "Il ferme la chemise",
+      "freq": 21.55
+    },
+    {
+      "word": "Poche",
+      "grid": "POCHE",
+      "theme": "vetement",
+      "difficulty": "facile",
+      "clue": "On y glisse les mains",
+      "freq": 101.82
+    },
+    {
+      "word": "Ceinture",
+      "grid": "CEINTURE",
+      "theme": "vetement",
+      "difficulty": "facile",
+      "clue": "Elle tient le pantalon",
+      "freq": 32.23
+    },
+    {
+      "word": "Manche",
+      "grid": "MANCHE",
+      "theme": "vetement",
+      "difficulty": "facile",
+      "clue": "Elle couvre le bras",
+      "freq": 35.41
+    },
+    {
+      "word": "Bonnet",
+      "grid": "BONNET",
+      "theme": "vetement",
+      "difficulty": "moyen",
+      "clue": "Il tient chaud aux oreilles",
+      "freq": 14.66
+    },
+    {
+      "word": "Chemise",
+      "grid": "CHEMISE",
+      "theme": "vetement",
+      "difficulty": "facile",
+      "clue": "Elle a un col et des boutons",
+      "freq": 74.59
+    },
+    {
+      "word": "Ciseaux",
+      "grid": "CISEAUX",
+      "theme": "objets",
+      "difficulty": "moyen",
+      "clue": "Ils coupent le papier"
+    },
+    {
+      "word": "Bougie",
+      "grid": "BOUGIE",
+      "theme": "objets",
+      "difficulty": "facile",
+      "clue": "Sa flamme éclaire doucement",
+      "freq": 16.22
+    },
+    {
+      "word": "Parapluie",
+      "grid": "PARAPLUIE",
+      "theme": "objets",
+      "difficulty": "moyen",
+      "clue": "On l'ouvre sous l'averse",
+      "freq": 12.5
+    },
+    {
+      "word": "Horloge",
+      "grid": "HORLOGE",
+      "theme": "objets",
+      "difficulty": "moyen",
+      "clue": "Elle donne l'heure au mur",
+      "freq": 13.99
+    },
+    {
+      "word": "Valise",
+      "grid": "VALISE",
+      "theme": "objets",
+      "difficulty": "facile",
+      "clue": "On la boucle avant de partir",
+      "freq": 47.43
+    },
+    {
+      "word": "Clé",
+      "grid": "CLE",
+      "theme": "objets",
+      "difficulty": "facile",
+      "clue": "Elle ouvre la serrure",
+      "freq": 68.73
+    },
+    {
+      "word": "Panier",
+      "grid": "PANIER",
+      "theme": "objets",
+      "difficulty": "facile",
+      "clue": "On y met les courses",
+      "freq": 24.39
+    },
+    {
+      "word": "Balai",
+      "grid": "BALAI",
+      "theme": "objets",
+      "difficulty": "moyen",
+      "clue": "Il ramasse la poussière",
+      "freq": 11.96
+    },
+    {
+      "word": "Échelle",
+      "grid": "ECHELLE",
+      "theme": "objets",
+      "difficulty": "facile",
+      "clue": "On y grimpe barreau par barreau",
+      "freq": 28.04
+    },
+    {
+      "word": "Boussole",
+      "grid": "BOUSSOLE",
+      "theme": "objets",
+      "difficulty": "moyen",
+      "clue": "Son aiguille montre le nord",
+      "freq": 4.05
+    },
+    {
+      "word": "Loupe",
+      "grid": "LOUPE",
+      "theme": "objets",
+      "difficulty": "moyen",
+      "clue": "Elle grossit ce qu'on regarde",
+      "freq": 4.86
+    },
+    {
+      "word": "Serrure",
+      "grid": "SERRURE",
+      "theme": "objets",
+      "difficulty": "facile",
+      "clue": "On y introduit la clé",
+      "freq": 16.08
+    },
+    {
+      "word": "Boulanger",
+      "grid": "BOULANGER",
+      "theme": "metiers",
+      "difficulty": "moyen",
+      "clue": "Il enfourne le pain dès l'aube",
+      "freq": 8.78
+    },
+    {
+      "word": "Facteur",
+      "grid": "FACTEUR",
+      "theme": "metiers",
+      "difficulty": "moyen",
+      "clue": "Il distribue le courrier",
+      "freq": 12.36
+    },
+    {
+      "word": "Pompier",
+      "grid": "POMPIER",
+      "theme": "metiers",
+      "difficulty": "moyen",
+      "clue": "Il éteint les incendies",
+      "freq": 2.67
+    },
+    {
+      "word": "Berger",
+      "grid": "BERGER",
+      "theme": "metiers",
+      "difficulty": "moyen",
+      "clue": "Il garde le troupeau",
+      "freq": 11.15
+    },
+    {
+      "word": "Menuisier",
+      "grid": "MENUISIER",
+      "theme": "metiers",
+      "difficulty": "moyen",
+      "clue": "Il travaille le bois",
+      "freq": 4.05
+    },
+    {
+      "word": "Pêcheur",
+      "grid": "PECHEUR",
+      "theme": "metiers",
+      "difficulty": "moyen",
+      "clue": "Il rentre avec sa prise",
+      "freq": 13.11
+    },
+    {
+      "word": "Libraire",
+      "grid": "LIBRAIRE",
+      "theme": "metiers",
+      "difficulty": "moyen",
+      "clue": "Il vend des livres",
+      "freq": 4.26
+    },
+    {
+      "word": "Coiffeur",
+      "grid": "COIFFEUR",
+      "theme": "metiers",
+      "difficulty": "moyen",
+      "clue": "Il manie les ciseaux sur la tête",
+      "freq": 13.38
+    },
+    {
+      "word": "Jardinier",
+      "grid": "JARDINIER",
+      "theme": "metiers",
+      "difficulty": "moyen",
+      "clue": "Il taille et il sème",
+      "freq": 6.9
+    },
+    {
+      "word": "Serrurier",
+      "grid": "SERRURIER",
+      "theme": "metiers",
+      "difficulty": "difficile",
+      "clue": "Il dépanne quand on est enfermé dehors",
+      "freq": 2.2
+    },
+    {
+      "word": "Infirmier",
+      "grid": "INFIRMIER",
+      "theme": "metiers",
+      "difficulty": "moyen",
+      "clue": "Il fait les piqûres à l'hôpital",
+      "freq": 3.58
+    },
+    {
+      "word": "Peintre",
+      "grid": "PEINTRE",
+      "theme": "metiers",
+      "difficulty": "facile",
+      "clue": "Il manie le pinceau",
+      "freq": 31.22
+    },
+    {
+      "word": "Marin",
+      "grid": "MARIN",
+      "theme": "metiers",
+      "difficulty": "facile",
+      "clue": "Il navigue pour gagner sa vie",
+      "freq": 15.34
+    },
+    {
+      "word": "Fermier",
+      "grid": "FERMIER",
+      "theme": "metiers",
+      "difficulty": "moyen",
+      "clue": "Il élève des bêtes et cultive",
+      "freq": 5.61
+    },
+    {
+      "word": "Docteur",
+      "grid": "DOCTEUR",
+      "theme": "metiers",
+      "difficulty": "facile",
+      "clue": "On le consulte quand on tousse",
+      "freq": 223.48
+    },
+    {
+      "word": "Avocat",
+      "grid": "AVOCAT",
+      "theme": "metiers",
+      "difficulty": "facile",
+      "clue": "Il plaide au tribunal",
+      "freq": 89.28
+    },
+    {
+      "word": "Maçon",
+      "grid": "MACON",
+      "theme": "metiers",
+      "difficulty": "moyen",
+      "clue": "Il monte les murs",
+      "freq": 3.48
+    },
+    {
+      "word": "Plombier",
+      "grid": "PLOMBIER",
+      "theme": "metiers",
+      "difficulty": "moyen",
+      "clue": "On l'appelle quand ça fuit",
+      "freq": 5.22
+    },
+    {
+      "word": "Caissier",
+      "grid": "CAISSIER",
+      "theme": "metiers",
+      "difficulty": "difficile",
+      "clue": "Il encaisse en fin de rayon",
+      "freq": 1.96
+    },
+    {
+      "word": "Note",
+      "grid": "NOTE",
+      "theme": "musique",
+      "difficulty": "facile",
+      "clue": "Do, ré ou mi",
+      "freq": 39.32
+    },
+    {
+      "word": "Chant",
+      "grid": "CHANT",
+      "theme": "musique",
+      "difficulty": "facile",
+      "clue": "On le pousse à tue-tête",
+      "freq": 28.38
+    },
+    {
+      "word": "Piano",
+      "grid": "PIANO",
+      "theme": "musique",
+      "difficulty": "facile",
+      "clue": "Quatre-vingt-huit touches",
+      "freq": 28.51
+    },
+    {
+      "word": "Harpe",
+      "grid": "HARPE",
+      "theme": "musique",
+      "difficulty": "moyen",
+      "clue": "Grandes cordes que l'on pince",
+      "freq": 4.86
+    },
+    {
+      "word": "Solo",
+      "grid": "SOLO",
+      "theme": "musique",
+      "difficulty": "moyen",
+      "clue": "Passage joué par un seul musicien",
+      "freq": 4.81
+    },
+    {
+      "word": "Accord",
+      "grid": "ACCORD",
+      "theme": "musique",
+      "difficulty": "facile",
+      "clue": "Plusieurs notes jouées ensemble",
+      "freq": 761.77
+    },
+    {
+      "word": "Quai",
+      "grid": "QUAI",
+      "theme": "mer",
+      "difficulty": "facile",
+      "clue": "On y accoste",
+      "freq": 55.14
+    },
+    {
+      "word": "Bouée",
+      "grid": "BOUEE",
+      "theme": "mer",
+      "difficulty": "moyen",
+      "clue": "Elle flotte et sauve",
+      "freq": 4.59
+    },
+    {
+      "word": "Sirène",
+      "grid": "SIRENE",
+      "theme": "mer",
+      "difficulty": "moyen",
+      "clue": "Femme-poisson des légendes",
+      "freq": 10.34
+    },
+    {
+      "word": "Cabine",
+      "grid": "CABINE",
+      "theme": "mer",
+      "difficulty": "facile",
+      "clue": "Petite chambre à bord",
+      "freq": 29.86
+    },
+    {
+      "word": "Hublot",
+      "grid": "HUBLOT",
+      "theme": "mer",
+      "difficulty": "moyen",
+      "clue": "Fenêtre ronde du navire",
+      "freq": 4.66
+    },
+    {
+      "word": "Radeau",
+      "grid": "RADEAU",
+      "theme": "mer",
+      "difficulty": "moyen",
+      "clue": "Plancher de fortune sur l'eau",
+      "freq": 4.32
+    },
+    {
+      "word": "Route",
+      "grid": "ROUTE",
+      "theme": "transport",
+      "difficulty": "facile",
+      "clue": "Elle relie deux villes",
+      "freq": 251.35
+    },
+    {
+      "word": "Gare",
+      "grid": "GARE",
+      "theme": "transport",
+      "difficulty": "facile",
+      "clue": "On y attend son départ",
+      "freq": 78.58
+    },
+    {
+      "word": "Pneu",
+      "grid": "PNEU",
+      "theme": "transport",
+      "difficulty": "moyen",
+      "clue": "Il se gonfle et se crève",
+      "freq": 5.64
+    },
+    {
+      "word": "Frein",
+      "grid": "FREIN",
+      "theme": "transport",
+      "difficulty": "moyen",
+      "clue": "Il arrête la voiture",
+      "freq": 7.91
+    },
+    {
+      "word": "Roue",
+      "grid": "ROUE",
+      "theme": "transport",
+      "difficulty": "facile",
+      "clue": "Ronde, elle tourne",
+      "freq": 17.77
+    },
+    {
+      "word": "Livre",
+      "grid": "LIVRE",
+      "theme": "ecole",
+      "difficulty": "facile",
+      "clue": "On le lit page après page",
+      "freq": 151.76
+    },
+    {
+      "word": "Encre",
+      "grid": "ENCRE",
+      "theme": "ecole",
+      "difficulty": "facile",
+      "clue": "Elle coule du stylo",
+      "freq": 28.65
+    },
+    {
+      "word": "Leçon",
+      "grid": "LECON",
+      "theme": "ecole",
+      "difficulty": "facile",
+      "clue": "On l'apprend par cœur",
+      "freq": 29.24
+    },
+    {
+      "word": "Élève",
+      "grid": "ELEVE",
+      "theme": "ecole",
+      "difficulty": "facile",
+      "clue": "Il est assis au pupitre",
+      "freq": 21.69
+    },
+    {
+      "word": "Classe",
+      "grid": "CLASSE",
+      "theme": "ecole",
+      "difficulty": "facile",
+      "clue": "La salle et ceux qui l'occupent",
+      "freq": 90.74
+    },
+    {
+      "word": "Vent",
+      "grid": "VENT",
+      "theme": "ciel",
+      "difficulty": "facile",
+      "clue": "Il fait tourner les moulins",
+      "freq": 207.64
+    },
+    {
+      "word": "Pluie",
+      "grid": "PLUIE",
+      "theme": "ciel",
+      "difficulty": "facile",
+      "clue": "Elle tombe goutte à goutte",
+      "freq": 111.76
+    },
+    {
+      "word": "Soleil",
+      "grid": "SOLEIL",
+      "theme": "ciel",
+      "difficulty": "facile",
+      "clue": "Il éclaire nos journées",
+      "freq": 328.78
+    },
+    {
+      "word": "Givre",
+      "grid": "GIVRE",
+      "theme": "ciel",
+      "difficulty": "moyen",
+      "clue": "Il blanchit les vitres au matin",
+      "freq": 5.07
+    },
+    {
+      "word": "Averse",
+      "grid": "AVERSE",
+      "theme": "ciel",
+      "difficulty": "moyen",
+      "clue": "Pluie brève et drue",
+      "freq": 9.8
+    },
+    {
+      "word": "Robe",
+      "grid": "ROBE",
+      "theme": "vetement",
+      "difficulty": "facile",
+      "clue": "Vêtement d'une seule pièce",
+      "freq": 111.96
+    },
+    {
+      "word": "Jupe",
+      "grid": "JUPE",
+      "theme": "vetement",
+      "difficulty": "facile",
+      "clue": "Elle tombe des hanches",
+      "freq": 34.05
+    },
+    {
+      "word": "Botte",
+      "grid": "BOTTE",
+      "theme": "vetement",
+      "difficulty": "moyen",
+      "clue": "Chaussure montante",
+      "freq": 8.51
+    },
+    {
+      "word": "Gant",
+      "grid": "GANT",
+      "theme": "vetement",
+      "difficulty": "moyen",
+      "clue": "Il habille la main",
+      "freq": 9.86
+    },
+    {
+      "word": "Veste",
+      "grid": "VESTE",
+      "theme": "vetement",
+      "difficulty": "facile",
+      "clue": "Elle se porte par-dessus",
+      "freq": 55.68
+    },
+    {
+      "word": "Sucre",
+      "grid": "SUCRE",
+      "theme": "cuisine",
+      "difficulty": "facile",
+      "clue": "Il adoucit le café",
+      "freq": 30.57
+    },
+    {
+      "word": "Sel",
+      "grid": "SEL",
+      "theme": "cuisine",
+      "difficulty": "facile",
+      "clue": "Il relève tous les plats",
+      "freq": 31.01
+    },
+    {
+      "word": "Pain",
+      "grid": "PAIN",
+      "theme": "cuisine",
+      "difficulty": "facile",
+      "clue": "Base du sandwich",
+      "freq": 99.32
+    },
+    {
+      "word": "Huile",
+      "grid": "HUILE",
+      "theme": "cuisine",
+      "difficulty": "facile",
+      "clue": "Elle graisse la poêle",
+      "freq": 36.22
+    },
+    {
+      "word": "But",
+      "grid": "BUT",
+      "theme": "sport",
+      "difficulty": "facile",
+      "clue": "Objectif du footballeur",
+      "freq": 73.8
+    },
+    {
+      "word": "Match",
+      "grid": "MATCH",
+      "theme": "sport",
+      "difficulty": "facile",
+      "clue": "Rencontre entre deux équipes",
+      "freq": 58.26
+    },
+    {
+      "word": "Équipe",
+      "grid": "EQUIPE",
+      "theme": "sport",
+      "difficulty": "facile",
+      "clue": "Ils jouent tous ensemble",
+      "freq": 118
+    },
+    {
+      "word": "Score",
+      "grid": "SCORE",
+      "theme": "sport",
+      "difficulty": "moyen",
+      "clue": "Il s'affiche au tableau",
+      "freq": 5.29
+    },
+    {
+      "word": "Boîte",
+      "grid": "BOITE",
+      "theme": "objets",
+      "difficulty": "facile",
+      "clue": "Elle a un couvercle",
+      "freq": 94.32
+    },
+    {
+      "word": "Corde",
+      "grid": "CORDE",
+      "theme": "objets",
+      "difficulty": "facile",
+      "clue": "On la noue et on la tend",
+      "freq": 31.76
+    },
+    {
+      "word": "Aiguille",
+      "grid": "AIGUILLE",
+      "theme": "objets",
+      "difficulty": "facile",
+      "clue": "Elle enfile le fil",
+      "freq": 18.38
+    },
+    {
+      "word": "Table",
+      "grid": "TABLE",
+      "theme": "maison",
+      "difficulty": "facile",
+      "clue": "On y pose les assiettes",
+      "freq": 341.08
+    },
+    {
+      "word": "Chaise",
+      "grid": "CHAISE",
+      "theme": "maison",
+      "difficulty": "facile",
+      "clue": "On s'y assoit à table",
+      "freq": 86.35
+    },
+    {
+      "word": "Bras",
+      "grid": "BRAS",
+      "theme": "corps",
+      "difficulty": "facile",
+      "clue": "Il va de l'épaule à la main",
+      "freq": 487.97
+    },
+    {
+      "word": "Doigt",
+      "grid": "DOIGT",
+      "theme": "corps",
+      "difficulty": "facile",
+      "clue": "Il y en a cinq par main",
+      "freq": 80.34
+    },
+    {
+      "word": "Rue",
+      "grid": "RUE",
+      "theme": "ville",
+      "difficulty": "facile",
+      "clue": "Bordée de maisons, on y marche",
+      "freq": 449.53
+    },
+    {
+      "word": "Place",
+      "grid": "PLACE",
+      "theme": "ville",
+      "difficulty": "facile",
+      "clue": "Espace ouvert au centre du village",
+      "freq": 437.97
+    }
+  ]
+}

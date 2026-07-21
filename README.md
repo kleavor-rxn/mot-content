@@ -12,3 +12,11 @@ Publié automatiquement chaque jour à 05:00 UTC :
 - https://kleavor-rxn.github.io/mot-content/daily.json — les défis, fenêtre de 8 jours
 
 `public/` est généré : ne pas l'éditer à la main.
+
+## Licence et attribution
+
+Ce contenu est publié sous **CC BY-SA 4.0**.
+
+Le pool de mots dérive de **Lexique 3.83** (Boris New & Christophe Pallier,
+<http://www.lexique.org>), lui-même distribué sous CC BY-SA 4.0. Le partage à
+l'identique s'applique donc à ce dépôt.

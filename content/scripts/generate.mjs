@@ -11,9 +11,6 @@
 // publication du jour, elle calcule localement le même défi que le serveur.
 // daily.json sert de canal de curation/override, pas de source de vérité unique.
 //
-// Dépôt de CONTENU : on ne publie que ces deux fichiers. Le GameData.json
-// embarqué dans l'app est régénéré côté dépôt applicatif (mots-nombres-ios).
-//
 // Usage : node content/scripts/generate.mjs [YYYY-MM-DD]
 
 import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
@@ -184,6 +181,7 @@ mkdirSync(outDir, { recursive: true });
 const bundle = { schemaVersion: SCHEMA_VERSION, pyramide, taboo, maudit, argot, crosswords };
 writeFileSync(join(outDir, "bundle.json"), JSON.stringify(bundle) + "\n");
 writeFileSync(join(outDir, "daily.json"), JSON.stringify(daily, null, 2) + "\n");
+
 
 console.log(`bundle.json : ${pyramide.length} pyramide, ${taboo.length} taboo, ${maudit.length} maudit, ${argot.length} argot, ${crosswords.length} grilles`);
 console.log(`daily.json  : ${days.length} jours, de ${days[0].date} à ${days[days.length - 1].date}`);
