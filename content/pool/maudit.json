@@ -1,0 +1,202 @@
+[
+  {
+    "wordA": "Soleil",
+    "wordB": "Lune",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Guitare",
+    "wordB": "Piano",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Montagne",
+    "wordB": "Volcan",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Chocolat",
+    "wordB": "Vanille",
+    "imposedClues": 1
+  },
+  {
+    "wordA": "Avion",
+    "wordB": "Hélicoptère",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Château",
+    "wordB": "Cathédrale",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Peinture",
+    "wordB": "Sculpture",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Requin",
+    "wordB": "Baleine",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Diamant",
+    "wordB": "Rubis",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Tornade",
+    "wordB": "Tsunami",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Robot",
+    "wordB": "Androïde",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Bibliothèque",
+    "wordB": "Librairie",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Safari",
+    "wordB": "Croisière",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Opéra",
+    "wordB": "Ballet",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Pharaon",
+    "wordB": "Empereur",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Sorcier",
+    "wordB": "Magicien",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Igloo",
+    "wordB": "Tipi",
+    "imposedClues": 1
+  },
+  {
+    "wordA": "Marathon",
+    "wordB": "Sprint",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Pendule",
+    "wordB": "Sablier",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Parachute",
+    "wordB": "Deltaplane",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Orchestre",
+    "wordB": "Chorale",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Ancre",
+    "wordB": "Bouée",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Comète",
+    "wordB": "Astéroïde",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Parchemin",
+    "wordB": "Papyrus",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Violon",
+    "wordB": "Violoncelle",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Trampoline",
+    "wordB": "Toboggan",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Phare",
+    "wordB": "Balise",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Carnaval",
+    "wordB": "Festival",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Cactus",
+    "wordB": "Bambou",
+    "imposedClues": 1
+  },
+  {
+    "wordA": "Couronne",
+    "wordB": "Tiare",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Labyrinthe",
+    "wordB": "Donjon",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Pirogue",
+    "wordB": "Radeau",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Galaxie",
+    "wordB": "Nébuleuse",
+    "imposedClues": 5
+  },
+  {
+    "wordA": "Cerf-volant",
+    "wordB": "Montgolfière",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Fjord",
+    "wordB": "Canyon",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Morse",
+    "wordB": "Braille",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Drakkar",
+    "wordB": "Galion",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Avalanche",
+    "wordB": "Éboulement",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Thermomètre",
+    "wordB": "Baromètre",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Grimoire",
+    "wordB": "Encyclopédie",
+    "imposedClues": 3
+  }
+]

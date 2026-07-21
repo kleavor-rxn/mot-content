@@ -1,0 +1,45 @@
+# Publie chaque jour bundle.json + daily.json sur GitHub Pages.
+#
+# Prérequis (une fois, manuel) : Settings → Pages → Source = "GitHub Actions".
+# URL publiée : https://kleavor-rxn.github.io/mots-nombres-ios/
+name: daily-content
+
+on:
+  schedule:
+    - cron: "0 5 * * *" # 05:00 UTC — 07:00 Paris
+  push:
+    branches: [main, develop]
+    paths:
+      - "content/**"
+      - ".github/workflows/daily-content.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Générer bundle.json + daily.json
+        run: node content/scripts/generate.mjs
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+      - id: deployment
+        uses: actions/deploy-pages@v4

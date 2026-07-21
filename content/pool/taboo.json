@@ -1,0 +1,402 @@
+[
+  {
+    "word": "Cinéma",
+    "forbidden": [
+      "Film",
+      "Salle",
+      "Écran",
+      "Acteur",
+      "Popcorn"
+    ]
+  },
+  {
+    "word": "Plage",
+    "forbidden": [
+      "Sable",
+      "Mer",
+      "Soleil",
+      "Vacances",
+      "Bronzer"
+    ]
+  },
+  {
+    "word": "Guitare",
+    "forbidden": [
+      "Musique",
+      "Cordes",
+      "Instrument",
+      "Jouer",
+      "Rock"
+    ]
+  },
+  {
+    "word": "Chocolat",
+    "forbidden": [
+      "Cacao",
+      "Noir",
+      "Lait",
+      "Sucré",
+      "Tablette"
+    ]
+  },
+  {
+    "word": "Avion",
+    "forbidden": [
+      "Voler",
+      "Aile",
+      "Pilote",
+      "Aéroport",
+      "Ciel"
+    ]
+  },
+  {
+    "word": "Mariage",
+    "forbidden": [
+      "Époux",
+      "Noces",
+      "Alliance",
+      "Robe",
+      "Cérémonie"
+    ]
+  },
+  {
+    "word": "Bibliothèque",
+    "forbidden": [
+      "Livre",
+      "Lire",
+      "Silence",
+      "Étagère",
+      "Emprunt"
+    ]
+  },
+  {
+    "word": "Pizza",
+    "forbidden": [
+      "Italie",
+      "Fromage",
+      "Tomate",
+      "Four",
+      "Pâte"
+    ]
+  },
+  {
+    "word": "Football",
+    "forbidden": [
+      "Ballon",
+      "But",
+      "Équipe",
+      "Match",
+      "Joueur"
+    ]
+  },
+  {
+    "word": "Montagne",
+    "forbidden": [
+      "Sommet",
+      "Ski",
+      "Neige",
+      "Escalade",
+      "Altitude"
+    ]
+  },
+  {
+    "word": "Hôpital",
+    "forbidden": [
+      "Médecin",
+      "Malade",
+      "Soigner",
+      "Urgence",
+      "Infirmier"
+    ]
+  },
+  {
+    "word": "Parapluie",
+    "forbidden": [
+      "Pluie",
+      "Mouillé",
+      "Ouvrir",
+      "Abri",
+      "Vent"
+    ]
+  },
+  {
+    "word": "Anniversaire",
+    "forbidden": [
+      "Gâteau",
+      "Bougie",
+      "Fête",
+      "Cadeau",
+      "Âge"
+    ]
+  },
+  {
+    "word": "Dinosaure",
+    "forbidden": [
+      "Préhistoire",
+      "Fossile",
+      "Extinction",
+      "Reptile",
+      "Jurassique"
+    ]
+  },
+  {
+    "word": "Astronaute",
+    "forbidden": [
+      "Espace",
+      "Fusée",
+      "Lune",
+      "NASA",
+      "Combinaison"
+    ]
+  },
+  {
+    "word": "Vampire",
+    "forbidden": [
+      "Sang",
+      "Dents",
+      "Nuit",
+      "Dracula",
+      "Morsure"
+    ]
+  },
+  {
+    "word": "Photographie",
+    "forbidden": [
+      "Image",
+      "Appareil",
+      "Objectif",
+      "Pose",
+      "Flash"
+    ]
+  },
+  {
+    "word": "Dictionnaire",
+    "forbidden": [
+      "Mot",
+      "Définition",
+      "Langue",
+      "Alphabet",
+      "Chercher"
+    ]
+  },
+  {
+    "word": "Piscine",
+    "forbidden": [
+      "Nager",
+      "Eau",
+      "Plonger",
+      "Maillot",
+      "Bassin"
+    ]
+  },
+  {
+    "word": "Dentiste",
+    "forbidden": [
+      "Dent",
+      "Bouche",
+      "Carie",
+      "Fauteuil",
+      "Douleur"
+    ]
+  },
+  {
+    "word": "Parachute",
+    "forbidden": [
+      "Sauter",
+      "Avion",
+      "Toile",
+      "Chute",
+      "Atterrir"
+    ]
+  },
+  {
+    "word": "Volcan",
+    "forbidden": [
+      "Lave",
+      "Éruption",
+      "Cratère",
+      "Magma",
+      "Feu"
+    ]
+  },
+  {
+    "word": "Carnaval",
+    "forbidden": [
+      "Masque",
+      "Déguisement",
+      "Fête",
+      "Défilé",
+      "Confetti"
+    ]
+  },
+  {
+    "word": "Château",
+    "forbidden": [
+      "Roi",
+      "Tour",
+      "Fort",
+      "Médiéval",
+      "Pierre"
+    ]
+  },
+  {
+    "word": "Kangourou",
+    "forbidden": [
+      "Australie",
+      "Sauter",
+      "Poche",
+      "Marsupial",
+      "Queue"
+    ]
+  },
+  {
+    "word": "Télévision",
+    "forbidden": [
+      "Écran",
+      "Chaîne",
+      "Regarder",
+      "Émission",
+      "Télécommande"
+    ]
+  },
+  {
+    "word": "Camping",
+    "forbidden": [
+      "Tente",
+      "Nature",
+      "Feu",
+      "Dormir",
+      "Forêt"
+    ]
+  },
+  {
+    "word": "Sorcier",
+    "forbidden": [
+      "Magie",
+      "Baguette",
+      "Sort",
+      "Harry",
+      "Chapeau"
+    ]
+  },
+  {
+    "word": "Crêpe",
+    "forbidden": [
+      "Bretagne",
+      "Poêle",
+      "Farine",
+      "Sucre",
+      "Chandeleur"
+    ]
+  },
+  {
+    "word": "Taxi",
+    "forbidden": [
+      "Voiture",
+      "Chauffeur",
+      "Course",
+      "Jaune",
+      "Compteur"
+    ]
+  },
+  {
+    "word": "Fantôme",
+    "forbidden": [
+      "Esprit",
+      "Mort",
+      "Hanter",
+      "Invisible",
+      "Peur"
+    ]
+  },
+  {
+    "word": "Igloo",
+    "forbidden": [
+      "Glace",
+      "Esquimau",
+      "Froid",
+      "Neige",
+      "Banquise"
+    ]
+  },
+  {
+    "word": "Requin",
+    "forbidden": [
+      "Mer",
+      "Dent",
+      "Nager",
+      "Dangereux",
+      "Aileron"
+    ]
+  },
+  {
+    "word": "Pyramide",
+    "forbidden": [
+      "Égypte",
+      "Triangle",
+      "Pharaon",
+      "Pierre",
+      "Tombeau"
+    ]
+  },
+  {
+    "word": "Boulangerie",
+    "forbidden": [
+      "Pain",
+      "Croissant",
+      "Four",
+      "Farine",
+      "Pâtisserie"
+    ]
+  },
+  {
+    "word": "Robot",
+    "forbidden": [
+      "Machine",
+      "Intelligence",
+      "Métal",
+      "Programme",
+      "Artificiel"
+    ]
+  },
+  {
+    "word": "Tempête",
+    "forbidden": [
+      "Vent",
+      "Pluie",
+      "Orage",
+      "Violent",
+      "Dégât"
+    ]
+  },
+  {
+    "word": "Safari",
+    "forbidden": [
+      "Afrique",
+      "Animal",
+      "Savane",
+      "Lion",
+      "Jeep"
+    ]
+  },
+  {
+    "word": "Karaté",
+    "forbidden": [
+      "Art",
+      "Martial",
+      "Ceinture",
+      "Coup",
+      "Japon"
+    ]
+  },
+  {
+    "word": "Grenouille",
+    "forbidden": [
+      "Vert",
+      "Sauter",
+      "Mare",
+      "Têtard",
+      "Coasser"
+    ]
+  }
+]

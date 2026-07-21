@@ -1,0 +1,802 @@
+[
+  {
+    "id": "puzzle-1",
+    "title": "Nature & Animaux",
+    "difficulty": "facile",
+    "gridSize": 8,
+    "words": [
+      {
+        "answer": "CHAT",
+        "clue": "Félin domestique"
+      },
+      {
+        "answer": "CERF",
+        "clue": "Animal à bois"
+      },
+      {
+        "answer": "ARBRE",
+        "clue": "Végétal à tronc"
+      },
+      {
+        "answer": "TIGRE",
+        "clue": "Grand félin rayé"
+      },
+      {
+        "answer": "FLEUR",
+        "clue": "Elle pousse au jardin"
+      },
+      {
+        "answer": "NUIT",
+        "clue": "Quand le soleil se couche"
+      },
+      {
+        "answer": "MER",
+        "clue": "Étendue d'eau salée"
+      },
+      {
+        "answer": "IRIS",
+        "clue": "Fleur ou partie de l'œil"
+      }
+    ]
+  },
+  {
+    "id": "puzzle-2",
+    "title": "Cuisine & Saveurs",
+    "difficulty": "facile",
+    "gridSize": 8,
+    "words": [
+      {
+        "answer": "PAIN",
+        "clue": "Base du sandwich"
+      },
+      {
+        "answer": "POIRE",
+        "clue": "Fruit en forme de goutte"
+      },
+      {
+        "answer": "SEL",
+        "clue": "Assaisonnement de base"
+      },
+      {
+        "answer": "AILS",
+        "clue": "Bulbes aromatiques"
+      },
+      {
+        "answer": "OEUF",
+        "clue": "Il est pondu"
+      },
+      {
+        "answer": "RIZ",
+        "clue": "Céréale asiatique"
+      },
+      {
+        "answer": "NOIX",
+        "clue": "Fruit à coque"
+      },
+      {
+        "answer": "MIEL",
+        "clue": "Produit par les abeilles"
+      }
+    ]
+  },
+  {
+    "id": "puzzle-3",
+    "title": "Voyages & Géographie",
+    "difficulty": "moyen",
+    "gridSize": 9,
+    "words": [
+      {
+        "answer": "PARIS",
+        "clue": "Ville Lumière"
+      },
+      {
+        "answer": "PLAGE",
+        "clue": "Sable et mer"
+      },
+      {
+        "answer": "ATLAS",
+        "clue": "Recueil de cartes"
+      },
+      {
+        "answer": "STEPPE",
+        "clue": "Plaine herbeuse"
+      },
+      {
+        "answer": "GLOBE",
+        "clue": "Sphère terrestre"
+      },
+      {
+        "answer": "NORD",
+        "clue": "Point cardinal"
+      },
+      {
+        "answer": "DESERT",
+        "clue": "Étendue aride"
+      },
+      {
+        "answer": "LAC",
+        "clue": "Étendue d'eau douce"
+      }
+    ]
+  },
+  {
+    "id": "puzzle-4",
+    "title": "Sport & Loisirs",
+    "difficulty": "moyen",
+    "gridSize": 9,
+    "words": [
+      {
+        "answer": "RUGBY",
+        "clue": "Sport au ballon ovale"
+      },
+      {
+        "answer": "RAME",
+        "clue": "On s'en sert en aviron"
+      },
+      {
+        "answer": "MATCH",
+        "clue": "Rencontre sportive"
+      },
+      {
+        "answer": "BUT",
+        "clue": "Objectif du foot"
+      },
+      {
+        "answer": "ESSAI",
+        "clue": "Marque au rugby"
+      },
+      {
+        "answer": "YOGA",
+        "clue": "Discipline zen"
+      },
+      {
+        "answer": "VELO",
+        "clue": "Deux roues sans moteur"
+      },
+      {
+        "answer": "SKI",
+        "clue": "Glisse sur neige"
+      }
+    ]
+  },
+  {
+    "id": "puzzle-5",
+    "title": "Musique",
+    "difficulty": "facile",
+    "gridSize": 9,
+    "words": [
+      {
+        "answer": "PIANO",
+        "clue": "Il a 88 touches"
+      },
+      {
+        "answer": "NOTE",
+        "clue": "Do, ré ou mi"
+      },
+      {
+        "answer": "CHANT",
+        "clue": "On le pousse à tue-tête"
+      },
+      {
+        "answer": "BATTERIE",
+        "clue": "On en joue avec des baguettes"
+      },
+      {
+        "answer": "OPERA",
+        "clue": "On y chante en costume"
+      },
+      {
+        "answer": "TEMPO",
+        "clue": "La vitesse d'un morceau"
+      },
+      {
+        "answer": "HARPE",
+        "clue": "Grand instrument à cordes pincées"
+      },
+      {
+        "answer": "DISQUE",
+        "clue": "Le vinyle en est un"
+      }
+    ]
+  },
+  {
+    "id": "puzzle-6",
+    "title": "Cinéma",
+    "difficulty": "facile",
+    "gridSize": 9,
+    "words": [
+      {
+        "answer": "ECRAN",
+        "clue": "On y projette le film"
+      },
+      {
+        "answer": "ACTEUR",
+        "clue": "Il joue un rôle"
+      },
+      {
+        "answer": "SCENE",
+        "clue": "Une séquence du film"
+      },
+      {
+        "answer": "CAMERA",
+        "clue": "Elle filme"
+      },
+      {
+        "answer": "ROLE",
+        "clue": "Ce que joue le comédien"
+      },
+      {
+        "answer": "OSCAR",
+        "clue": "La statuette dorée d'Hollywood"
+      },
+      {
+        "answer": "MUET",
+        "clue": "Le cinéma d'avant le son"
+      },
+      {
+        "answer": "PLAN",
+        "clue": "Une prise de vue continue"
+      }
+    ]
+  },
+  {
+    "id": "puzzle-7",
+    "title": "Métiers",
+    "difficulty": "moyen",
+    "gridSize": 9,
+    "words": [
+      {
+        "answer": "MEDECIN",
+        "clue": "Il soigne les malades"
+      },
+      {
+        "answer": "PILOTE",
+        "clue": "Il tient les commandes de l'avion"
+      },
+      {
+        "answer": "CUISINIER",
+        "clue": "Il travaille aux fourneaux"
+      },
+      {
+        "answer": "NOTAIRE",
+        "clue": "Il authentifie les actes"
+      },
+      {
+        "answer": "BERGER",
+        "clue": "Il garde le troupeau"
+      },
+      {
+        "answer": "MACON",
+        "clue": "Il monte les murs"
+      },
+      {
+        "answer": "JUGE",
+        "clue": "Il rend la justice"
+      },
+      {
+        "answer": "PEINTRE",
+        "clue": "Il manie le pinceau"
+      }
+    ]
+  },
+  {
+    "id": "puzzle-8",
+    "title": "Corps humain",
+    "difficulty": "facile",
+    "gridSize": 9,
+    "words": [
+      {
+        "answer": "COEUR",
+        "clue": "Il bat dans la poitrine"
+      },
+      {
+        "answer": "MAIN",
+        "clue": "Elle a cinq doigts"
+      },
+      {
+        "answer": "POUMON",
+        "clue": "Il respire"
+      },
+      {
+        "answer": "GENOU",
+        "clue": "Articulation de la jambe"
+      },
+      {
+        "answer": "NEZ",
+        "clue": "Il sent les odeurs"
+      },
+      {
+        "answer": "OEIL",
+        "clue": "Il voit"
+      },
+      {
+        "answer": "EPAULE",
+        "clue": "Elle porte le sac"
+      },
+      {
+        "answer": "CERVEAU",
+        "clue": "Il commande tout le reste"
+      }
+    ]
+  },
+  {
+    "id": "puzzle-9",
+    "title": "La maison",
+    "difficulty": "facile",
+    "gridSize": 9,
+    "words": [
+      {
+        "answer": "CUISINE",
+        "clue": "On y prépare les repas"
+      },
+      {
+        "answer": "TOIT",
+        "clue": "Il couvre la maison"
+      },
+      {
+        "answer": "PORTE",
+        "clue": "On la pousse pour entrer"
+      },
+      {
+        "answer": "SALON",
+        "clue": "Pièce où l'on reçoit"
+      },
+      {
+        "answer": "CAVE",
+        "clue": "Sous la maison, au frais"
+      },
+      {
+        "answer": "LIT",
+        "clue": "On y dort"
+      },
+      {
+        "answer": "MUR",
+        "clue": "Il sépare deux pièces"
+      },
+      {
+        "answer": "JARDIN",
+        "clue": "Espace vert de la maison"
+      }
+    ]
+  },
+  {
+    "id": "puzzle-10",
+    "title": "Météo",
+    "difficulty": "moyen",
+    "gridSize": 9,
+    "words": [
+      {
+        "answer": "ORAGE",
+        "clue": "Éclairs et tonnerre"
+      },
+      {
+        "answer": "NEIGE",
+        "clue": "Elle tombe en flocons"
+      },
+      {
+        "answer": "BRUME",
+        "clue": "Un brouillard léger"
+      },
+      {
+        "answer": "GRELE",
+        "clue": "Des billes de glace tombées du ciel"
+      },
+      {
+        "answer": "VENT",
+        "clue": "Il fait tourner les moulins"
+      },
+      {
+        "answer": "NUAGE",
+        "clue": "Il flotte dans le ciel"
+      },
+      {
+        "answer": "GEL",
+        "clue": "Il blanchit les vitres l'hiver"
+      },
+      {
+        "answer": "SOLEIL",
+        "clue": "Il éclaire nos journées"
+      }
+    ]
+  },
+  {
+    "id": "puzzle-11",
+    "title": "Fruits & légumes",
+    "difficulty": "facile",
+    "gridSize": 9,
+    "words": [
+      {
+        "answer": "POMME",
+        "clue": "Verte ou rouge, elle croque"
+      },
+      {
+        "answer": "CAROTTE",
+        "clue": "Orange, elle pousse sous terre"
+      },
+      {
+        "answer": "CERISE",
+        "clue": "Elle va souvent par paire"
+      },
+      {
+        "answer": "NAVET",
+        "clue": "Légume racine, aussi un mauvais film"
+      },
+      {
+        "answer": "MELON",
+        "clue": "Sucré et parfumé, il est de saison l'été"
+      },
+      {
+        "answer": "POIS",
+        "clue": "Petits et verts dans leur cosse"
+      },
+      {
+        "answer": "RAISIN",
+        "clue": "En grappes, il donne le vin"
+      },
+      {
+        "answer": "CHOU",
+        "clue": "Il peut être de Bruxelles"
+      }
+    ]
+  },
+  {
+    "id": "puzzle-12",
+    "title": "Transports",
+    "difficulty": "moyen",
+    "gridSize": 9,
+    "words": [
+      {
+        "answer": "TRAIN",
+        "clue": "Il roule sur des rails"
+      },
+      {
+        "answer": "AVION",
+        "clue": "Il vole d'un pays à l'autre"
+      },
+      {
+        "answer": "METRO",
+        "clue": "Il circule sous la ville"
+      },
+      {
+        "answer": "NAVIRE",
+        "clue": "Grand bateau de haute mer"
+      },
+      {
+        "answer": "VELO",
+        "clue": "Deux roues et des pédales"
+      },
+      {
+        "answer": "TRAM",
+        "clue": "Il circule en ville sur rails"
+      },
+      {
+        "answer": "GARE",
+        "clue": "On y attend son départ"
+      },
+      {
+        "answer": "MOTO",
+        "clue": "Deux roues à moteur"
+      }
+    ]
+  },
+  {
+    "id": "puzzle-13",
+    "title": "À l'école",
+    "difficulty": "facile",
+    "gridSize": 9,
+    "words": [
+      {
+        "answer": "CAHIER",
+        "clue": "On y écrit ses leçons"
+      },
+      {
+        "answer": "STYLO",
+        "clue": "Il écrit à l'encre"
+      },
+      {
+        "answer": "REGLE",
+        "clue": "Elle trace des traits droits"
+      },
+      {
+        "answer": "CRAIE",
+        "clue": "Elle écrit sur le tableau"
+      },
+      {
+        "answer": "LECON",
+        "clue": "On l'apprend par cœur"
+      },
+      {
+        "answer": "NOTE",
+        "clue": "Elle sanctionne le devoir"
+      },
+      {
+        "answer": "ELEVE",
+        "clue": "Il est assis au pupitre"
+      },
+      {
+        "answer": "COURS",
+        "clue": "Il dure une heure"
+      }
+    ]
+  },
+  {
+    "id": "puzzle-14",
+    "title": "Vêtements",
+    "difficulty": "moyen",
+    "gridSize": 9,
+    "words": [
+      {
+        "answer": "MANTEAU",
+        "clue": "On l'enfile quand il fait froid"
+      },
+      {
+        "answer": "ROBE",
+        "clue": "Vêtement d'une seule pièce"
+      },
+      {
+        "answer": "PULL",
+        "clue": "En laine, il tient chaud"
+      },
+      {
+        "answer": "BOTTE",
+        "clue": "Chaussure montante"
+      },
+      {
+        "answer": "ECHARPE",
+        "clue": "Elle protège le cou"
+      },
+      {
+        "answer": "GANT",
+        "clue": "Il habille la main"
+      },
+      {
+        "answer": "JUPE",
+        "clue": "Elle tombe des hanches"
+      },
+      {
+        "answer": "CHAPEAU",
+        "clue": "Il coiffe la tête"
+      }
+    ]
+  },
+  {
+    "id": "puzzle-15",
+    "title": "Mer & marine",
+    "difficulty": "moyen",
+    "gridSize": 9,
+    "words": [
+      {
+        "answer": "VAGUE",
+        "clue": "Elle déferle sur la plage"
+      },
+      {
+        "answer": "VOILE",
+        "clue": "Elle prend le vent"
+      },
+      {
+        "answer": "PORT",
+        "clue": "Les bateaux s'y amarrent"
+      },
+      {
+        "answer": "MAREE",
+        "clue": "Elle monte et descend deux fois par jour"
+      },
+      {
+        "answer": "PHARE",
+        "clue": "Il guide les navires la nuit"
+      },
+      {
+        "answer": "ILE",
+        "clue": "Terre entourée d'eau"
+      },
+      {
+        "answer": "CORAIL",
+        "clue": "Il construit les récifs"
+      },
+      {
+        "answer": "RAME",
+        "clue": "Elle fait avancer la barque"
+      }
+    ]
+  },
+  {
+    "id": "puzzle-16",
+    "title": "Espace",
+    "difficulty": "moyen",
+    "gridSize": 9,
+    "words": [
+      {
+        "answer": "PLANETE",
+        "clue": "Mars en est une"
+      },
+      {
+        "answer": "ETOILE",
+        "clue": "Elle brille la nuit"
+      },
+      {
+        "answer": "LUNE",
+        "clue": "Satellite de la Terre"
+      },
+      {
+        "answer": "COMETE",
+        "clue": "Astre à longue queue"
+      },
+      {
+        "answer": "FUSEE",
+        "clue": "Elle décolle vers l'espace"
+      },
+      {
+        "answer": "ORBITE",
+        "clue": "Trajectoire autour d'un astre"
+      },
+      {
+        "answer": "MARS",
+        "clue": "La planète rouge"
+      },
+      {
+        "answer": "SOL",
+        "clue": "Le sol lunaire en est un exemple"
+      }
+    ]
+  },
+  {
+    "id": "puzzle-17",
+    "title": "Histoire",
+    "difficulty": "difficile",
+    "gridSize": 9,
+    "words": [
+      {
+        "answer": "ROI",
+        "clue": "Il porte la couronne"
+      },
+      {
+        "answer": "EMPIRE",
+        "clue": "Celui de Napoléon"
+      },
+      {
+        "answer": "GAULOIS",
+        "clue": "Ancêtre selon la formule consacrée"
+      },
+      {
+        "answer": "TRAITE",
+        "clue": "Il scelle la paix"
+      },
+      {
+        "answer": "REINE",
+        "clue": "Elle règne aux côtés du roi"
+      },
+      {
+        "answer": "SIEGE",
+        "clue": "On l'installe devant une ville fortifiée"
+      },
+      {
+        "answer": "EPEE",
+        "clue": "Arme du chevalier"
+      },
+      {
+        "answer": "TRONE",
+        "clue": "Le siège du souverain"
+      }
+    ]
+  },
+  {
+    "id": "puzzle-18",
+    "title": "Couleurs & formes",
+    "difficulty": "facile",
+    "gridSize": 9,
+    "words": [
+      {
+        "answer": "ROUGE",
+        "clue": "Couleur du sang"
+      },
+      {
+        "answer": "CERCLE",
+        "clue": "Forme parfaitement ronde"
+      },
+      {
+        "answer": "CARRE",
+        "clue": "Quatre côtés égaux"
+      },
+      {
+        "answer": "VERT",
+        "clue": "Couleur de l'herbe"
+      },
+      {
+        "answer": "OVALE",
+        "clue": "Forme du ballon de rugby"
+      },
+      {
+        "answer": "BLEU",
+        "clue": "Couleur du ciel"
+      },
+      {
+        "answer": "ROSE",
+        "clue": "Une couleur et une fleur"
+      },
+      {
+        "answer": "LIGNE",
+        "clue": "Le plus court chemin entre deux points"
+      }
+    ]
+  },
+  {
+    "id": "puzzle-19",
+    "title": "Animaux sauvages",
+    "difficulty": "moyen",
+    "gridSize": 9,
+    "words": [
+      {
+        "answer": "LION",
+        "clue": "Le roi de la savane"
+      },
+      {
+        "answer": "ZEBRE",
+        "clue": "Rayé noir et blanc"
+      },
+      {
+        "answer": "GIRAFE",
+        "clue": "Le plus grand cou du monde"
+      },
+      {
+        "answer": "RENARD",
+        "clue": "Réputé rusé"
+      },
+      {
+        "answer": "OURS",
+        "clue": "Il hiberne tout l'hiver"
+      },
+      {
+        "answer": "AIGLE",
+        "clue": "Rapace au regard perçant"
+      },
+      {
+        "answer": "LOUP",
+        "clue": "Il hurle à la lune"
+      },
+      {
+        "answer": "SERPENT",
+        "clue": "Il rampe et siffle"
+      }
+    ]
+  },
+  {
+    "id": "puzzle-20",
+    "title": "Fêtes & traditions",
+    "difficulty": "difficile",
+    "gridSize": 9,
+    "words": [
+      {
+        "answer": "NOEL",
+        "clue": "On y ouvre les cadeaux"
+      },
+      {
+        "answer": "SAPIN",
+        "clue": "On le décore en décembre"
+      },
+      {
+        "answer": "GALETTE",
+        "clue": "Elle cache une fève"
+      },
+      {
+        "answer": "MUGUET",
+        "clue": "On l'offre le 1er mai"
+      },
+      {
+        "answer": "CREPE",
+        "clue": "Reine de la Chandeleur"
+      },
+      {
+        "answer": "BAL",
+        "clue": "Celui du 14 juillet"
+      },
+      {
+        "answer": "OEUF",
+        "clue": "On le cherche à Pâques"
+      },
+      {
+        "answer": "FEVE",
+        "clue": "Elle fait le roi de la galette"
+      }
+    ]
+  }
+]

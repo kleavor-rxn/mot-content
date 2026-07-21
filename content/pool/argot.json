@@ -1,0 +1,362 @@
+[
+  {
+    "word": "Kiffer",
+    "definition": "Adorer quelque chose",
+    "fakeDefinitions": [
+      "Dormir profondément",
+      "Se mettre en colère",
+      "Partir rapidement"
+    ]
+  },
+  {
+    "word": "Thune",
+    "definition": "Argent",
+    "fakeDefinitions": [
+      "Nourriture",
+      "Voiture rapide",
+      "Musique forte"
+    ]
+  },
+  {
+    "word": "Bail",
+    "definition": "Truc, affaire, situation",
+    "fakeDefinitions": [
+      "Danse traditionnelle",
+      "Vêtement à la mode",
+      "Repas copieux"
+    ]
+  },
+  {
+    "word": "Seum",
+    "definition": "Être dégoûté, frustré",
+    "fakeDefinitions": [
+      "Avoir très faim",
+      "Être fatigué",
+      "Être amoureux"
+    ]
+  },
+  {
+    "word": "Daronne",
+    "definition": "Mère",
+    "fakeDefinitions": [
+      "Sœur aînée",
+      "Meilleure amie",
+      "Professeure"
+    ]
+  },
+  {
+    "word": "Daron",
+    "definition": "Père",
+    "fakeDefinitions": [
+      "Frère aîné",
+      "Patron",
+      "Voisin"
+    ]
+  },
+  {
+    "word": "Chanmé",
+    "definition": "Méchant, incroyable (verlan)",
+    "fakeDefinitions": [
+      "Ennuyeux",
+      "Triste",
+      "Petit"
+    ]
+  },
+  {
+    "word": "Pélo",
+    "definition": "Mec, individu",
+    "fakeDefinitions": [
+      "Manteau",
+      "Vélo cassé",
+      "Chapeau"
+    ]
+  },
+  {
+    "word": "Blaze",
+    "definition": "Nom, prénom",
+    "fakeDefinitions": [
+      "Veste en cuir",
+      "Coiffure",
+      "Tatouage"
+    ]
+  },
+  {
+    "word": "Belek",
+    "definition": "Fais attention",
+    "fakeDefinitions": [
+      "Bonjour",
+      "Merci beaucoup",
+      "Au revoir"
+    ]
+  },
+  {
+    "word": "Tiékar",
+    "definition": "Quartier (verlan)",
+    "fakeDefinitions": [
+      "Voiture",
+      "Ticket de bus",
+      "Restaurant"
+    ]
+  },
+  {
+    "word": "Relou",
+    "definition": "Lourd, pénible (verlan)",
+    "fakeDefinitions": [
+      "Drôle",
+      "Rapide",
+      "Intelligent"
+    ]
+  },
+  {
+    "word": "Ouf",
+    "definition": "Fou (verlan)",
+    "fakeDefinitions": [
+      "Fatigué",
+      "Affamé",
+      "Timide"
+    ]
+  },
+  {
+    "word": "Bails",
+    "definition": "Histoires, plans",
+    "fakeDefinitions": [
+      "Chaussures",
+      "Examens",
+      "Vacances"
+    ]
+  },
+  {
+    "word": "Gow",
+    "definition": "Fille, copine",
+    "fakeDefinitions": [
+      "Chien",
+      "Musique",
+      "Voiture"
+    ]
+  },
+  {
+    "word": "Taf",
+    "definition": "Travail",
+    "fakeDefinitions": [
+      "Fête",
+      "Sport",
+      "Vacances"
+    ]
+  },
+  {
+    "word": "Poucave",
+    "definition": "Balance, mouchard",
+    "fakeDefinitions": [
+      "Coiffeur",
+      "Cuisinier",
+      "Danseur"
+    ]
+  },
+  {
+    "word": "Grailler",
+    "definition": "Manger",
+    "fakeDefinitions": [
+      "Courir",
+      "Chanter",
+      "Pleurer"
+    ]
+  },
+  {
+    "word": "Capter",
+    "definition": "Comprendre",
+    "fakeDefinitions": [
+      "Attraper un ballon",
+      "Prendre une photo",
+      "Monter en voiture"
+    ]
+  },
+  {
+    "word": "Vénère",
+    "definition": "Énervé (verlan)",
+    "fakeDefinitions": [
+      "Heureux",
+      "Endormi",
+      "Malade"
+    ]
+  },
+  {
+    "word": "Hagra",
+    "definition": "Arnaque, injustice",
+    "fakeDefinitions": [
+      "Cadeau surprise",
+      "Bonne nouvelle",
+      "Promotion au travail"
+    ]
+  },
+  {
+    "word": "Wesh",
+    "definition": "Salut, interjection",
+    "fakeDefinitions": [
+      "Merci",
+      "Excuse-moi",
+      "Bonne nuit"
+    ]
+  },
+  {
+    "word": "Zarma",
+    "definition": "Genre, soi-disant",
+    "fakeDefinitions": [
+      "Toujours",
+      "Jamais",
+      "Peut-être"
+    ]
+  },
+  {
+    "word": "Bicrave",
+    "definition": "Vendre",
+    "fakeDefinitions": [
+      "Acheter en gros",
+      "Cuisiner",
+      "Danser"
+    ]
+  },
+  {
+    "word": "Cramé",
+    "definition": "Grillé, repéré",
+    "fakeDefinitions": [
+      "Glacé",
+      "Trempé",
+      "Enrhumé"
+    ]
+  },
+  {
+    "word": "Chelou",
+    "definition": "Louche, bizarre (verlan)",
+    "fakeDefinitions": [
+      "Magnifique",
+      "Ordinaire",
+      "Rapide"
+    ]
+  },
+  {
+    "word": "Miskin",
+    "definition": "Pauvre, pitoyable",
+    "fakeDefinitions": [
+      "Riche",
+      "Courageux",
+      "Bavard"
+    ]
+  },
+  {
+    "word": "Bigo",
+    "definition": "Téléphone",
+    "fakeDefinitions": [
+      "Bijou",
+      "Vélo",
+      "Sac à dos"
+    ]
+  },
+  {
+    "word": "Deter",
+    "definition": "Déterminé (abréviation)",
+    "fakeDefinitions": [
+      "Détruit",
+      "Distrait",
+      "Déçu"
+    ]
+  },
+  {
+    "word": "Sah",
+    "definition": "Je te jure, sérieux",
+    "fakeDefinitions": [
+      "Peut-être",
+      "Je ne sais pas",
+      "Pas du tout"
+    ]
+  },
+  {
+    "word": "Askip",
+    "definition": "À ce qu'il paraît",
+    "fakeDefinitions": [
+      "À demain",
+      "À bientôt",
+      "À jamais"
+    ]
+  },
+  {
+    "word": "Péter un câble",
+    "definition": "Devenir fou de colère",
+    "fakeDefinitions": [
+      "Réparer l'électricité",
+      "Faire du sport",
+      "Éclater de rire"
+    ]
+  },
+  {
+    "word": "Boloss",
+    "definition": "Victime, naïf",
+    "fakeDefinitions": [
+      "Champion",
+      "Leader",
+      "Expert"
+    ]
+  },
+  {
+    "word": "Avoir le swag",
+    "definition": "Avoir du style",
+    "fakeDefinitions": [
+      "Avoir de la chance",
+      "Avoir sommeil",
+      "Avoir faim"
+    ]
+  },
+  {
+    "word": "Guez",
+    "definition": "Facile",
+    "fakeDefinitions": [
+      "Impossible",
+      "Ennuyeux",
+      "Dangereux"
+    ]
+  },
+  {
+    "word": "Sheh",
+    "definition": "Bien fait (moquerie)",
+    "fakeDefinitions": [
+      "Bravo",
+      "Désolé",
+      "Bonne chance"
+    ]
+  },
+  {
+    "word": "Frère",
+    "definition": "Ami proche, pote",
+    "fakeDefinitions": [
+      "Rival",
+      "Inconnu",
+      "Professeur"
+    ]
+  },
+  {
+    "word": "Ken",
+    "definition": "Avoir, posséder (verlan)",
+    "fakeDefinitions": [
+      "Perdre",
+      "Oublier",
+      "Casser"
+    ]
+  },
+  {
+    "word": "Miskine",
+    "definition": "Le/la pauvre (compassion)",
+    "fakeDefinitions": [
+      "Le/la champion(ne)",
+      "Le/la chef(fe)",
+      "Le/la star"
+    ]
+  },
+  {
+    "word": "Bader",
+    "definition": "Être triste, déprimer",
+    "fakeDefinitions": [
+      "Être excité",
+      "Être pressé",
+      "Être surpris"
+    ]
+  }
+]
