@@ -77,6 +77,18 @@ const maudit = load("maudit");
 const argot = load("argot");
 const crosswords = load("crosswords");
 
+// MARK: - Calendrier gelé des mots fléchés
+//
+// rotatingIndex(dayNumber, poolSize) dépend de la TAILLE du pool : ajouter des
+// grilles changerait rétroactivement la grille de chaque date passée (archive
+// des 14 jours, rattrapage). On fige donc chaque attribution à sa première
+// publication dans content/pool/crossword-schedule.json — append-only, jamais
+// réécrit. La formule ne sert plus qu'à choisir les dates ENCORE libres.
+const schedulePath = join(poolDir, "crossword-schedule.json");
+const schedule = existsSync(schedulePath)
+  ? JSON.parse(readFileSync(schedulePath, "utf8")).entries
+  : {};
+
 function validateCrossword(p) {
   const grid = new Map();
   for (const clue of p.clues) {
@@ -146,8 +158,13 @@ function challengeFor(date) {
   const sudokuDifficulty =
     weekday === 0 || weekday === 6 ? "Difficile" : weekday <= 2 ? "Facile" : "Moyen";
 
-  const dayNumber = Math.floor(Date.UTC(y, m - 1, d) / 86400000);
-  const crosswordIndex = rotatingIndex(dayNumber, crosswords.length);
+  // Grille du jour : l'entrée gelée du calendrier. Si la date n'y est pas
+  // encore, on l'attribue par la rotation et on la FIGE — c'est le seul
+  // endroit où le calendrier s'étend.
+  if (!schedule[dateKey]) {
+    const dayNumber = Math.floor(Date.UTC(y, m - 1, d) / 86400000);
+    schedule[dateKey] = crosswords[rotatingIndex(dayNumber, crosswords.length)].id;
+  }
 
   const rng = mulberry32(seed);
   const argotIndices = pickIndices(rng, 10, argot.length);
@@ -155,7 +172,7 @@ function challengeFor(date) {
   return {
     date: dateKey,
     sudoku: { seed, difficulty: sudokuDifficulty },
-    crosswordId: crosswords[crosswordIndex].id,
+    crosswordId: schedule[dateKey],
     argotWords: argotIndices.map((i) => argot[i].word),
   };
 }
@@ -172,13 +189,55 @@ const days = Array.from({ length: WINDOW_DAYS + 1 }, (_, i) => {
   return challengeFor(date);
 });
 
+// Gel rétroactif de l'archive visible (14 jours) : ces dates ne sont plus
+// servies par daily.json mais restent jouables en rattrapage. Le pool n'a pas
+// changé depuis leur publication — la formule refige exactement ce qui a été
+// servi. Sans effet aux runs suivants : les dates sont déjà dans le calendrier.
+for (let i = 1; i <= 14; i++) {
+  const date = new Date(start);
+  date.setUTCDate(start.getUTCDate() - i);
+  challengeFor(date);
+}
+
 const daily = { schemaVersion: SCHEMA_VERSION, days };
+
+// Une entrée gelée qui pointe vers une grille disparue rendrait le défi du
+// jour injouable : erreur dure sur la fenêtre servie, simple avertissement
+// pour les dates plus anciennes (l'app retombe alors sur la rotation).
+{
+  const known = new Set(crosswords.map((p) => p.id));
+  const served = new Set(days.map((d) => d.date));
+  for (const [date, id] of Object.entries(schedule)) {
+    if (known.has(id)) continue;
+    if (served.has(date)) {
+      throw new Error(`calendrier gelé : ${date} → ${id} absente du pool`);
+    }
+    console.warn(`⚠ calendrier gelé : ${date} → ${id} absente du pool (date passée)`);
+  }
+}
+
+writeFileSync(
+  schedulePath,
+  JSON.stringify(
+    { entries: Object.fromEntries(Object.entries(schedule).sort()) },
+    null,
+    2
+  ) + "\n"
+);
 
 // MARK: - Écriture
 
 mkdirSync(outDir, { recursive: true });
 
-const bundle = { schemaVersion: SCHEMA_VERSION, pyramide, taboo, maudit, argot, crosswords };
+const bundle = {
+  schemaVersion: SCHEMA_VERSION,
+  pyramide,
+  taboo,
+  maudit,
+  argot,
+  crosswords,
+  crosswordSchedule: Object.fromEntries(Object.entries(schedule).sort()),
+};
 writeFileSync(join(outDir, "bundle.json"), JSON.stringify(bundle) + "\n");
 writeFileSync(join(outDir, "daily.json"), JSON.stringify(daily, null, 2) + "\n");
 

@@ -15,7 +15,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write # le run fige le calendrier des mots fléchés (commit)
   pages: write
   id-token: write
 
@@ -34,6 +34,20 @@ jobs:
 
       - name: Générer bundle.json + daily.json
         run: node content/scripts/generate.mjs
+
+      # Le calendrier gelé (date → grille) s'étend à chaque génération : il
+      # doit être commité, sinon le gel ne survit pas au runner éphémère et
+      # une date déjà servie pourrait changer de grille si le pool grandit.
+      # [skip ci] : le push ne redéclenche pas ce workflow.
+      - name: Figer le calendrier des mots fléchés
+        run: |
+          if ! git diff --quiet content/pool/crossword-schedule.json; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add content/pool/crossword-schedule.json
+            git commit -m "chore: calendrier mots fléchés étendu [skip ci]"
+            git push
+          fi
 
       - uses: actions/configure-pages@v5
 
