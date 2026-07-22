@@ -198,5 +198,205 @@
     "wordA": "Grimoire",
     "wordB": "Encyclopédie",
     "imposedClues": 3
+  },
+  {
+    "wordA": "Chien",
+    "wordB": "Loup",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Rivière",
+    "wordB": "Fleuve",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Papillon",
+    "wordB": "Libellule",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Église",
+    "wordB": "Chapelle",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Épée",
+    "wordB": "Sabre",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Tigre",
+    "wordB": "Léopard",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Fraise",
+    "wordB": "Framboise",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Nuage",
+    "wordB": "Brouillard",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Poème",
+    "wordB": "Chanson",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Colline",
+    "wordB": "Montagne",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Bateau",
+    "wordB": "Barque",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Ruisseau",
+    "wordB": "Torrent",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Château",
+    "wordB": "Palais",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Sorcière",
+    "wordB": "Fée",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Guêpe",
+    "wordB": "Abeille",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Corbeau",
+    "wordB": "Corneille",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Étoile",
+    "wordB": "Comète",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Miel",
+    "wordB": "Sirop",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Renard",
+    "wordB": "Belette",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Grenouille",
+    "wordB": "Crapaud",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Violon",
+    "wordB": "Alto",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Casserole",
+    "wordB": "Poêle",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Balcon",
+    "wordB": "Terrasse",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Sabot",
+    "wordB": "Botte",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Pinceau",
+    "wordB": "Brosse",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Coussin",
+    "wordB": "Oreiller",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Chemin",
+    "wordB": "Sentier",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Averse",
+    "wordB": "Orage",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Muraille",
+    "wordB": "Rempart",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Flûte",
+    "wordB": "Clarinette",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Cerf",
+    "wordB": "Renne",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Lézard",
+    "wordB": "Salamandre",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Perle",
+    "wordB": "Diamant",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Cabane",
+    "wordB": "Chalet",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Écharpe",
+    "wordB": "Foulard",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Trompette",
+    "wordB": "Cornet",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Tonneau",
+    "wordB": "Baril",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Falaise",
+    "wordB": "Escarpement",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Ancre",
+    "wordB": "Grappin",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Lanterne",
+    "wordB": "Torche",
+    "imposedClues": 3
   }
 ]
