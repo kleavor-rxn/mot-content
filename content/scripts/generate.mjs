@@ -13,7 +13,7 @@
 //
 // Usage : node content/scripts/generate.mjs [YYYY-MM-DD]
 
-import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
+import { existsSync, readFileSync, writeFileSync, mkdirSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -182,6 +182,47 @@ const bundle = { schemaVersion: SCHEMA_VERSION, pyramide, taboo, maudit, argot, 
 writeFileSync(join(outDir, "bundle.json"), JSON.stringify(bundle) + "\n");
 writeFileSync(join(outDir, "daily.json"), JSON.stringify(daily, null, 2) + "\n");
 
+// Le pool est la source de vérité unique : le bundle embarqué dans l'app est
+// régénéré à chaque exécution pour ne jamais diverger du contenu publié.
+// Dans le dépôt mot-content (pas d'app iOS), Mot/Resources n'existe pas :
+// les écritures embarquées sont simplement sautées.
+const embeddedDir = join(root, "Mot", "Resources");
+if (existsSync(embeddedDir)) {
+  writeFileSync(
+    join(embeddedDir, "GameData.json"),
+    JSON.stringify(bundle, null, 2) + "\n"
+  );
+}
+
+// MARK: - Mot Caché (Wordle-like)
+//
+// Listes dérivées du lexique, embarquées dans l'app UNIQUEMENT (pas dans
+// bundle.json) : le mot du jour se calcule en local via rotatingIndex, il doit
+// être identique pour tous — un pool servi par le cache remote divergerait
+// selon la fraîcheur du cache de chacun. Le fichier est figé dans le binaire.
+const lexicon = load("lexicon");
+const five = lexicon.words.filter((w) => w.letters === 5);
+const wordle = {
+  // Réponses : mots dont la fréquence est réelle (facile + moyen), du plus
+  // courant au plus rare — l'ordre du lexique, stable tant qu'il ne bouge pas.
+  answers: five
+    .filter((w) => w.difficulty !== "difficile")
+    .map((w) => ({ g: w.grid, w: w.word })),
+  // Essais acceptés : toutes les formes de 5 lettres de Lexique (verbes,
+  // adjectifs, pluriels — cf. derive-wordle-accepted.mjs), en union avec le
+  // lexique de jeu par sécurité.
+  accepted: [...new Set([
+    ...load("wordle-accepted").grids,
+    ...five.map((w) => w.grid),
+  ])].sort(),
+};
+if (existsSync(embeddedDir)) {
+  writeFileSync(
+    join(embeddedDir, "WordleWords.json"),
+    JSON.stringify(wordle) + "\n"
+  );
+  console.log(`WordleWords : ${wordle.answers.length} réponses, ${wordle.accepted.length} acceptés`);
+}
 
 console.log(`bundle.json : ${pyramide.length} pyramide, ${taboo.length} taboo, ${maudit.length} maudit, ${argot.length} argot, ${crosswords.length} grilles`);
 console.log(`daily.json  : ${days.length} jours, de ${days[0].date} à ${days[days.length - 1].date}`);
