@@ -1046,5 +1046,1029 @@
       "Gouttes d'eau qui tombent des nuages",
       "On ouvre son abri portatif pour l'affronter"
     ]
+  },
+  {
+    "word": "Rivière",
+    "hints": [
+      "Elle serpente jusqu'au fleuve",
+      "Cours d'eau plus petit qu'un fleuve",
+      "On y pêche la truite"
+    ]
+  },
+  {
+    "word": "Vallée",
+    "hints": [
+      "Elle s'étend entre deux versants",
+      "Creux entre les montagnes",
+      "La rivière y coule au fond"
+    ]
+  },
+  {
+    "word": "Sommet",
+    "hints": [
+      "On y plante le drapeau",
+      "Le point le plus haut de la montagne",
+      "L'alpiniste vise à l'atteindre"
+    ]
+  },
+  {
+    "word": "Sable",
+    "hints": [
+      "Il crisse entre les orteils",
+      "Grains fins du désert et de la plage",
+      "On y bâtit des châteaux éphémères"
+    ]
+  },
+  {
+    "word": "Racine",
+    "hints": [
+      "Elle plonge sous le tronc",
+      "Partie de la plante enfouie dans le sol",
+      "Le carré en a une en maths"
+    ]
+  },
+  {
+    "word": "Feuille",
+    "hints": [
+      "Elle jaunit puis tombe en automne",
+      "Lame verte au bout de la branche",
+      "On en tourne les pages du cahier"
+    ]
+  },
+  {
+    "word": "Torrent",
+    "hints": [
+      "Il dévale la pente en grondant",
+      "Cours d'eau rapide de montagne",
+      "Il déborde à la fonte des neiges"
+    ]
+  },
+  {
+    "word": "Marais",
+    "hints": [
+      "On s'y enlise dans la boue",
+      "Zone humide couverte de roseaux",
+      "La grenouille y coasse"
+    ]
+  },
+  {
+    "word": "Colline",
+    "hints": [
+      "On la gravit sans corde",
+      "Petite hauteur arrondie",
+      "Rome en compte sept"
+    ]
+  },
+  {
+    "word": "Écureuil",
+    "hints": [
+      "Il grimpe vite aux troncs",
+      "Petit rongeur à la queue touffue",
+      "Il cache des noisettes pour l'hiver"
+    ]
+  },
+  {
+    "word": "Panthère",
+    "hints": [
+      "Elle chasse la nuit",
+      "Grand félin au pelage sombre",
+      "La rose du même nom est un dessin animé"
+    ]
+  },
+  {
+    "word": "Corbeau",
+    "hints": [
+      "Tout noir de la tête aux plumes",
+      "Oiseau au cri rauque de la fable",
+      "Il lâche son fromage devant le renard"
+    ]
+  },
+  {
+    "word": "Chameau",
+    "hints": [
+      "Il traverse les étendues arides",
+      "Il stocke l'eau dans ses bosses",
+      "Cousin du dromadaire à deux bosses"
+    ]
+  },
+  {
+    "word": "Sanglier",
+    "hints": [
+      "Il fouille la terre du groin",
+      "Cochon sauvage des forêts",
+      "Obélix en dévore des rôtis entiers"
+    ]
+  },
+  {
+    "word": "Mouette",
+    "hints": [
+      "Elle plane au-dessus du port",
+      "Oiseau blanc criard du bord de mer",
+      "Elle suit les bateaux de pêche"
+    ]
+  },
+  {
+    "word": "Cuisine",
+    "hints": [
+      "On y prépare les repas",
+      "Pièce équipée d'un four et d'un évier",
+      "Le chef y officie"
+    ]
+  },
+  {
+    "word": "Fenêtre",
+    "hints": [
+      "On l'ouvre pour aérer",
+      "Ouverture vitrée dans le mur",
+      "On regarde dehors à travers"
+    ]
+  },
+  {
+    "word": "Placard",
+    "hints": [
+      "On y range la vaisselle",
+      "Meuble fermé par des portes",
+      "Le squelette y est caché, dit l'expression"
+    ]
+  },
+  {
+    "word": "Tapis",
+    "hints": [
+      "Il couvre le sol du salon",
+      "Pièce de tissu posée par terre",
+      "Volant, il vole dans les contes"
+    ]
+  },
+  {
+    "word": "Lampe",
+    "hints": [
+      "Elle éclaire la pièce le soir",
+      "Objet qui donne de la lumière",
+      "Le génie sort de celle d'Aladin"
+    ]
+  },
+  {
+    "word": "Rideau",
+    "hints": [
+      "Il voile la fenêtre",
+      "Tissu qu'on tire devant la vitre",
+      "Il tombe à la fin du spectacle"
+    ]
+  },
+  {
+    "word": "Cave",
+    "hints": [
+      "On y descend chercher le vin",
+      "Pièce fraîche sous la maison",
+      "Les bouteilles y vieillissent"
+    ]
+  },
+  {
+    "word": "Balcon",
+    "hints": [
+      "On y prend l'air en étage",
+      "Plateforme avec garde-corps devant la fenêtre",
+      "Roméo y retrouve Juliette"
+    ]
+  },
+  {
+    "word": "Beurre",
+    "hints": [
+      "Il fond dans la poêle chaude",
+      "Matière grasse jaune tartinée sur le pain",
+      "On le bat avec le sucre pour les gâteaux"
+    ]
+  },
+  {
+    "word": "Poivre",
+    "hints": [
+      "Il fait éternuer",
+      "Épice noire qui pique",
+      "Il va toujours avec le sel"
+    ]
+  },
+  {
+    "word": "Gâteau",
+    "hints": [
+      "On souffle les bougies dessus",
+      "Pâtisserie sucrée des anniversaires",
+      "Le chocolat en fait un fondant"
+    ]
+  },
+  {
+    "word": "Soupe",
+    "hints": [
+      "On la mange chaude à la cuillère",
+      "Bouillon de légumes du soir",
+      "On souffle dessus pour la refroidir"
+    ]
+  },
+  {
+    "word": "Vinaigre",
+    "hints": [
+      "Il pique la langue",
+      "Liquide acide de la salade",
+      "On l'oppose au miel dans le dicton"
+    ]
+  },
+  {
+    "word": "Recette",
+    "hints": [
+      "On la suit pour réussir un plat",
+      "Liste des ingrédients et des étapes",
+      "Grand-mère garde la sienne secrète"
+    ]
+  },
+  {
+    "word": "Épice",
+    "hints": [
+      "Elle relève et parfume",
+      "Poudre aromatique venue d'Orient",
+      "Le curry et la cannelle en sont"
+    ]
+  },
+  {
+    "word": "Genou",
+    "hints": [
+      "Il se plie quand on s'accroupit",
+      "Articulation au milieu de la jambe",
+      "On s'y écorche en tombant"
+    ]
+  },
+  {
+    "word": "Cheveu",
+    "hints": [
+      "Il pousse sur le crâne",
+      "Fin filament de la chevelure",
+      "Le coiffeur le coupe"
+    ]
+  },
+  {
+    "word": "Poumon",
+    "hints": [
+      "Il gonfle à chaque inspiration",
+      "Organe de la respiration",
+      "On en a deux dans la poitrine"
+    ]
+  },
+  {
+    "word": "Coude",
+    "hints": [
+      "Il se plie au milieu du bras",
+      "Articulation entre le bras et l'avant-bras",
+      "On s'y appuie sur la table"
+    ]
+  },
+  {
+    "word": "Talon",
+    "hints": [
+      "On le claque en dansant",
+      "L'arrière du pied",
+      "Achille l'avait fragile"
+    ]
+  },
+  {
+    "word": "Menton",
+    "hints": [
+      "Il est parfois orné d'une barbe",
+      "Le bas du visage sous la bouche",
+      "Certains ont une fossette dessus"
+    ]
+  },
+  {
+    "word": "Pouce",
+    "hints": [
+      "On le lève pour approuver",
+      "Le plus court et le plus fort des doigts",
+      "Le bébé le suce pour se calmer"
+    ]
+  },
+  {
+    "word": "Avenue",
+    "hints": [
+      "Large et bordée d'arbres",
+      "Grande voie urbaine imposante",
+      "Les Champs-Élysées en sont une"
+    ]
+  },
+  {
+    "word": "Marché",
+    "hints": [
+      "On y achète frais en plein air",
+      "Étals de fruits et légumes du matin",
+      "On y marchande le prix"
+    ]
+  },
+  {
+    "word": "Piscine",
+    "hints": [
+      "On y fait des longueurs",
+      "Grand bassin rempli d'eau pour nager",
+      "On plonge du grand bain"
+    ]
+  },
+  {
+    "word": "Boutique",
+    "hints": [
+      "On y fait du lèche-vitrine",
+      "Petit commerce de détail",
+      "La vitrine expose ses articles"
+    ]
+  },
+  {
+    "word": "Quartier",
+    "hints": [
+      "On y connaît ses voisins",
+      "Partie d'une ville",
+      "Celui de l'orange se détache aussi"
+    ]
+  },
+  {
+    "word": "Mairie",
+    "hints": [
+      "On y célèbre les mariages",
+      "Bâtiment du maire et de l'administration",
+      "Le drapeau flotte sur sa façade"
+    ]
+  },
+  {
+    "word": "Parking",
+    "hints": [
+      "On y laisse la voiture",
+      "Aire de stationnement des véhicules",
+      "On y cherche une place libre"
+    ]
+  },
+  {
+    "word": "Église",
+    "hints": [
+      "Son clocher domine le village",
+      "Édifice où l'on prie",
+      "La cloche y sonne le dimanche"
+    ]
+  },
+  {
+    "word": "Bateau",
+    "hints": [
+      "Il vogue sur les flots",
+      "Embarcation qui flotte et navigue",
+      "Le sien coule dans le célèbre naufrage"
+    ]
+  },
+  {
+    "word": "Bicyclette",
+    "hints": [
+      "On la fait tenir en pédalant",
+      "Deux roues qu'on enfourche",
+      "Elle a une sonnette au guidon"
+    ]
+  },
+  {
+    "word": "Voile",
+    "hints": [
+      "Elle prend le vent",
+      "Toile tendue qui pousse le navire",
+      "Le planchiste la manœuvre"
+    ]
+  },
+  {
+    "word": "Moteur",
+    "hints": [
+      "Il ronronne sous le capot",
+      "Mécanisme qui fait avancer la voiture",
+      "On le démarre avec la clé"
+    ]
+  },
+  {
+    "word": "Volant",
+    "hints": [
+      "On le tourne pour diriger",
+      "Roue de commande de la voiture",
+      "Le badminton en use un à plumes"
+    ]
+  },
+  {
+    "word": "Rame",
+    "hints": [
+      "On la plonge dans l'eau pour avancer",
+      "Longue pelle de l'aviron",
+      "Le métro en forme une aussi"
+    ]
+  },
+  {
+    "word": "Pilote",
+    "hints": [
+      "Il tient les commandes du cockpit",
+      "Conducteur d'un avion ou d'une course",
+      "Il annonce l'altitude aux passagers"
+    ]
+  },
+  {
+    "word": "Guitare",
+    "hints": [
+      "On en pince les six cordes",
+      "Instrument à caisse creuse et à manche",
+      "Le rockeur en joue sur scène"
+    ]
+  },
+  {
+    "word": "Trompette",
+    "hints": [
+      "On souffle dans son embouchure",
+      "Cuivre brillant à trois pistons",
+      "Elle sonne la charge"
+    ]
+  },
+  {
+    "word": "Mélodie",
+    "hints": [
+      "On la fredonne sans les paroles",
+      "Suite de notes agréable à l'oreille",
+      "Elle reste en tête toute la journée"
+    ]
+  },
+  {
+    "word": "Orchestre",
+    "hints": [
+      "Le chef le dirige à la baguette",
+      "Grand ensemble de musiciens",
+      "Il joue la symphonie au complet"
+    ]
+  },
+  {
+    "word": "Flûte",
+    "hints": [
+      "On la tient de travers pour en jouer",
+      "Fin tuyau percé de trous",
+      "Celle du berger est en roseau"
+    ]
+  },
+  {
+    "word": "Rythme",
+    "hints": [
+      "Il fait taper du pied",
+      "Cadence régulière d'un morceau",
+      "Le batteur le donne"
+    ]
+  },
+  {
+    "word": "Concert",
+    "hints": [
+      "On y agite son briquet",
+      "Spectacle où des musiciens jouent en public",
+      "La foule y chante en chœur"
+    ]
+  },
+  {
+    "word": "Ballon",
+    "hints": [
+      "On le shoote vers les buts",
+      "Sphère gonflée d'air",
+      "Il s'envole gonflé à l'hélium"
+    ]
+  },
+  {
+    "word": "Course",
+    "hints": [
+      "Le premier arrivé gagne",
+      "Épreuve de vitesse à pied ou à vélo",
+      "On en fait aussi au supermarché"
+    ]
+  },
+  {
+    "word": "Piste",
+    "hints": [
+      "Le sprinteur y galope",
+      "Bande aménagée pour courir ou skier",
+      "L'avion y décolle"
+    ]
+  },
+  {
+    "word": "Filet",
+    "hints": [
+      "Il sépare les deux camps au tennis",
+      "Maille tendue pour arrêter la balle",
+      "Le pêcheur y attrape le poisson"
+    ]
+  },
+  {
+    "word": "Nageur",
+    "hints": [
+      "Il fend l'eau à grands bras",
+      "Sportif qui fait des longueurs",
+      "Il enchaîne le crawl et la brasse"
+    ]
+  },
+  {
+    "word": "Escrime",
+    "hints": [
+      "Elle oppose deux fleurets",
+      "Sport de combat à l'arme blanche",
+      "Touché ! crie l'arbitre"
+    ]
+  },
+  {
+    "word": "Vélo",
+    "hints": [
+      "On pédale pour avancer",
+      "Deux roues et un guidon",
+      "Le Tour de France en use beaucoup"
+    ]
+  },
+  {
+    "word": "Cahier",
+    "hints": [
+      "On y fait ses devoirs",
+      "Feuilles reliées pour écrire",
+      "Il peut être à grands ou petits carreaux"
+    ]
+  },
+  {
+    "word": "Gomme",
+    "hints": [
+      "Elle efface les erreurs de crayon",
+      "Petit bloc qui fait disparaître le graphite",
+      "On la frotte sur la faute"
+    ]
+  },
+  {
+    "word": "Devoir",
+    "hints": [
+      "On le rend au professeur",
+      "Travail scolaire à faire à la maison",
+      "Il y en a des surveillés en classe"
+    ]
+  },
+  {
+    "word": "Tableau",
+    "hints": [
+      "Le maître y écrit à la craie",
+      "Grande surface noire ou blanche du fond de la classe",
+      "On l'efface avec un chiffon"
+    ]
+  },
+  {
+    "word": "Crayon",
+    "hints": [
+      "On le taille quand il s'émousse",
+      "Bâtonnet de bois à mine de graphite",
+      "De couleur, il sert à dessiner"
+    ]
+  },
+  {
+    "word": "Cantine",
+    "hints": [
+      "On y déjeune à midi",
+      "Réfectoire de l'école",
+      "Le plateau y glisse sur les rails"
+    ]
+  },
+  {
+    "word": "Pupitre",
+    "hints": [
+      "L'élève s'y installe",
+      "Petite table individuelle d'écolier",
+      "On y range ses affaires sous le couvercle"
+    ]
+  },
+  {
+    "word": "Vague",
+    "hints": [
+      "Elle déferle sur le sable",
+      "Ondulation qui roule sur la mer",
+      "Le surfeur la chevauche"
+    ]
+  },
+  {
+    "word": "Coquillage",
+    "hints": [
+      "On le ramasse sur la plage",
+      "Coquille abandonnée par un mollusque",
+      "On y entend la mer, dit-on"
+    ]
+  },
+  {
+    "word": "Récif",
+    "hints": [
+      "Il déchire la coque des navires",
+      "Barrière rocheuse sous la surface",
+      "Celui de corail abrite les poissons"
+    ]
+  },
+  {
+    "word": "Crabe",
+    "hints": [
+      "Il marche de côté",
+      "Crustacé à pinces de la plage",
+      "On le pêche à l'épuisette"
+    ]
+  },
+  {
+    "word": "Algue",
+    "hints": [
+      "Elle ondule au fond de l'eau",
+      "Plante verte sans racine des mers",
+      "Le sushi l'enroule autour du riz"
+    ]
+  },
+  {
+    "word": "Port",
+    "hints": [
+      "Les bateaux y sont à quai",
+      "Abri aménagé pour les navires",
+      "On y débarque après la traversée"
+    ]
+  },
+  {
+    "word": "Mouillage",
+    "hints": [
+      "Le bateau y jette l'ancre",
+      "Endroit abrité où stationner en mer",
+      "On y passe la nuit au calme"
+    ]
+  },
+  {
+    "word": "Arc",
+    "hints": [
+      "Il a sept couleurs après l'averse",
+      "Courbe colorée dans le ciel",
+      "Robin des Bois tend le sien"
+    ]
+  },
+  {
+    "word": "Planète",
+    "hints": [
+      "La Terre en est une",
+      "Astre qui tourne autour du soleil",
+      "Mars et Jupiter en sont"
+    ]
+  },
+  {
+    "word": "Tonnerre",
+    "hints": [
+      "Il gronde après l'éclair",
+      "Grondement qui suit la foudre",
+      "On le compte pour mesurer la distance de l'orage"
+    ]
+  },
+  {
+    "word": "Lune",
+    "hints": [
+      "Elle éclaire la nuit",
+      "Satellite naturel de la Terre",
+      "On y a marché en 1969"
+    ]
+  },
+  {
+    "word": "Manteau",
+    "hints": [
+      "On l'enfile quand il gèle",
+      "Long vêtement chaud d'hiver",
+      "On l'accroche au vestiaire"
+    ]
+  },
+  {
+    "word": "Chapeau",
+    "hints": [
+      "Il coiffe et protège du soleil",
+      "Couvre-chef à bord",
+      "Le magicien en sort un lapin"
+    ]
+  },
+  {
+    "word": "Chaussure",
+    "hints": [
+      "Elle habille le pied",
+      "On la lace avant de sortir",
+      "Cendrillon en perd une de verre"
+    ]
+  },
+  {
+    "word": "Bouton",
+    "hints": [
+      "On le passe dans sa fente pour fermer",
+      "Petite pastille qui ferme la chemise",
+      "Il pousse aussi sur le nez à l'adolescence"
+    ]
+  },
+  {
+    "word": "Poche",
+    "hints": [
+      "On y glisse les mains",
+      "Petit sac cousu dans le vêtement",
+      "Le mouchoir s'y range"
+    ]
+  },
+  {
+    "word": "Manche",
+    "hints": [
+      "Elle couvre le bras",
+      "Partie du vêtement qui habille le membre",
+      "On la retrousse pour travailler"
+    ]
+  },
+  {
+    "word": "Bonnet",
+    "hints": [
+      "Il tient chaud aux oreilles",
+      "Coiffe de laine de l'hiver",
+      "Le lutin en porte un pointu"
+    ]
+  },
+  {
+    "word": "Chemise",
+    "hints": [
+      "Elle a un col et des boutons",
+      "Vêtement du haut à manches",
+      "On la repasse pour le bureau"
+    ]
+  },
+  {
+    "word": "Ciseaux",
+    "hints": [
+      "Ils coupent le papier",
+      "Deux lames croisées à anneaux",
+      "Le coiffeur les fait claquer"
+    ]
+  },
+  {
+    "word": "Bougie",
+    "hints": [
+      "Sa flamme vacille",
+      "Bâton de cire à mèche",
+      "On en souffle une de plus chaque année"
+    ]
+  },
+  {
+    "word": "Valise",
+    "hints": [
+      "On la boucle avant le départ",
+      "Bagage rigide à poignée",
+      "Elle tourne sur le tapis de l'aéroport"
+    ]
+  },
+  {
+    "word": "Clé",
+    "hints": [
+      "Elle ouvre la serrure",
+      "Petit objet dentelé de métal",
+      "On la perd toujours au mauvais moment"
+    ]
+  },
+  {
+    "word": "Panier",
+    "hints": [
+      "On y met les courses",
+      "Récipient tressé à anse",
+      "Au basket, on vise à l'atteindre"
+    ]
+  },
+  {
+    "word": "Balai",
+    "hints": [
+      "Il ramasse la poussière",
+      "Manche muni de brosse ou de paille",
+      "La sorcière l'enfourche pour voler"
+    ]
+  },
+  {
+    "word": "Échelle",
+    "hints": [
+      "On y grimpe barreau par barreau",
+      "Suite d'échelons entre deux montants",
+      "Le pompier la déploie"
+    ]
+  },
+  {
+    "word": "Berger",
+    "hints": [
+      "Il siffle son chien de troupeau",
+      "Gardien de moutons à la montagne",
+      "Il joue parfois de la flûte"
+    ]
+  },
+  {
+    "word": "Pêcheur",
+    "hints": [
+      "Il lance sa ligne à l'eau",
+      "Celui qui attrape les poissons",
+      "Il rentre au port avec sa prise"
+    ]
+  },
+  {
+    "word": "Coiffeur",
+    "hints": [
+      "Il manie ciseaux et peigne",
+      "Celui qui coupe les cheveux",
+      "On sort de chez lui bien peigné"
+    ]
+  },
+  {
+    "word": "Serrurier",
+    "hints": [
+      "On l'appelle quand la porte claque",
+      "Artisan des clés et des verrous",
+      "Il ouvre quand on est enfermé dehors"
+    ]
+  },
+  {
+    "word": "Infirmier",
+    "hints": [
+      "Il fait les piqûres à l'hôpital",
+      "Soignant en blouse blanche",
+      "Il assiste le médecin au chevet"
+    ]
+  },
+  {
+    "word": "Peintre",
+    "hints": [
+      "Il couvre les murs de couleur",
+      "Artiste au pinceau et à la palette",
+      "Van Gogh en fut un célèbre"
+    ]
+  },
+  {
+    "word": "Fermier",
+    "hints": [
+      "Il se lève avec le coq",
+      "Il élève les bêtes et cultive les champs",
+      "Il trait les vaches au matin"
+    ]
+  },
+  {
+    "word": "Maçon",
+    "hints": [
+      "Il monte les murs brique à brique",
+      "Ouvrier du bâtiment à la truelle",
+      "Il gâche le ciment"
+    ]
+  },
+  {
+    "word": "Plombier",
+    "hints": [
+      "On l'appelle quand ça fuit",
+      "Réparateur des tuyaux et robinets",
+      "Le célèbre en salopette saute sur les champignons"
+    ]
+  },
+  {
+    "word": "Caissier",
+    "hints": [
+      "Il scanne les articles",
+      "Employé assis derrière son tapis roulant",
+      "Il rend la monnaie en fin de rayon"
+    ]
+  },
+  {
+    "word": "Note",
+    "hints": [
+      "Do, ré, mi en sont",
+      "Signe posé sur la portée",
+      "L'élève en reçoit une sur son devoir"
+    ]
+  },
+  {
+    "word": "Chant",
+    "hints": [
+      "On le pousse sous la douche",
+      "Émission de la voix en musique",
+      "Le coq le lance au matin"
+    ]
+  },
+  {
+    "word": "Solo",
+    "hints": [
+      "Un seul musicien s'y illustre",
+      "Passage joué en soliste",
+      "Le guitariste s'y déchaîne"
+    ]
+  },
+  {
+    "word": "Accord",
+    "hints": [
+      "Plusieurs notes plaquées ensemble",
+      "Assemblage de sons qui sonnent juste",
+      "On l'appelle aussi une entente"
+    ]
+  },
+  {
+    "word": "Cabine",
+    "hints": [
+      "On s'y change à la piscine",
+      "Petit espace clos pour une personne",
+      "Le capitaine dort dans la sienne à bord"
+    ]
+  },
+  {
+    "word": "Gare",
+    "hints": [
+      "On y attend son train",
+      "Bâtiment de départ des trains",
+      "Le quai et l'horloge en sont"
+    ]
+  },
+  {
+    "word": "Pneu",
+    "hints": [
+      "Il se gonfle et se crève",
+      "Anneau de caoutchouc autour de la roue",
+      "On le change à plat sur le bord de la route"
+    ]
+  },
+  {
+    "word": "Roue",
+    "hints": [
+      "Elle tourne pour avancer",
+      "Cercle qui porte le véhicule",
+      "Le paon fait la sienne avec ses plumes"
+    ]
+  },
+  {
+    "word": "Leçon",
+    "hints": [
+      "On l'apprend par cœur le soir",
+      "Ce que le maître enseigne",
+      "On la récite au tableau"
+    ]
+  },
+  {
+    "word": "Élève",
+    "hints": [
+      "Il lève le doigt pour répondre",
+      "Enfant qui va à l'école",
+      "Le maître l'interroge"
+    ]
+  },
+  {
+    "word": "Classe",
+    "hints": [
+      "On y range les élèves par âge",
+      "Salle où l'on suit les cours",
+      "Elle a un tableau et des pupitres"
+    ]
+  },
+  {
+    "word": "Jupe",
+    "hints": [
+      "Elle tombe des hanches",
+      "Vêtement féminin sans jambes séparées",
+      "Écossaise, l'homme la porte à carreaux"
+    ]
+  },
+  {
+    "word": "Gant",
+    "hints": [
+      "Il enveloppe chaque doigt",
+      "Il habille la main contre le froid",
+      "Le boxeur enfile les siens rembourrés"
+    ]
+  },
+  {
+    "word": "Veste",
+    "hints": [
+      "Elle se porte par-dessus la chemise",
+      "Vêtement du haut ouvert devant",
+      "On la boutonne pour le costume"
+    ]
+  },
+  {
+    "word": "Sel",
+    "hints": [
+      "Il fait dresser les cheveux quand on en abuse",
+      "Cristaux blancs qui assaisonnent",
+      "La mer en est pleine"
+    ]
+  },
+  {
+    "word": "Huile",
+    "hints": [
+      "Elle graisse la poêle",
+      "Liquide gras pour la cuisson ou la salade",
+      "L'olive en donne une réputée"
+    ]
+  },
+  {
+    "word": "But",
+    "hints": [
+      "On le marque d'un tir précis",
+      "Cage gardée par le gardien",
+      "Objectif final du footballeur"
+    ]
+  },
+  {
+    "word": "Équipe",
+    "hints": [
+      "Ils jouent tous du même côté",
+      "Groupe de joueurs solidaires",
+      "Elle porte le même maillot"
+    ]
+  },
+  {
+    "word": "Boîte",
+    "hints": [
+      "Elle a un couvercle",
+      "Récipient carré qui se ferme",
+      "Celle aux lettres reçoit le courrier"
+    ]
   }
 ]

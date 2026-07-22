@@ -1328,5 +1328,1305 @@
       "Mouiller",
       "Averse"
     ]
+  },
+  {
+    "word": "Forêt",
+    "forbidden": [
+      "Arbre",
+      "Bois",
+      "Sentier",
+      "Chaperon",
+      "Feuillage"
+    ]
+  },
+  {
+    "word": "Rivière",
+    "forbidden": [
+      "Eau",
+      "Courant",
+      "Truite",
+      "Berge",
+      "Pont"
+    ]
+  },
+  {
+    "word": "Vallée",
+    "forbidden": [
+      "Montagne",
+      "Creux",
+      "Rivière",
+      "Versant",
+      "Pente"
+    ]
+  },
+  {
+    "word": "Sommet",
+    "forbidden": [
+      "Montagne",
+      "Haut",
+      "Alpiniste",
+      "Cime",
+      "Pic"
+    ]
+  },
+  {
+    "word": "Sable",
+    "forbidden": [
+      "Plage",
+      "Désert",
+      "Grain",
+      "Château",
+      "Dune"
+    ]
+  },
+  {
+    "word": "Racine",
+    "forbidden": [
+      "Arbre",
+      "Sol",
+      "Terre",
+      "Plante",
+      "Carré"
+    ]
+  },
+  {
+    "word": "Feuille",
+    "forbidden": [
+      "Arbre",
+      "Verte",
+      "Automne",
+      "Branche",
+      "Papier"
+    ]
+  },
+  {
+    "word": "Torrent",
+    "forbidden": [
+      "Montagne",
+      "Rapide",
+      "Eau",
+      "Cascade",
+      "Pente"
+    ]
+  },
+  {
+    "word": "Marais",
+    "forbidden": [
+      "Boue",
+      "Roseau",
+      "Grenouille",
+      "Humide",
+      "Moustique"
+    ]
+  },
+  {
+    "word": "Colline",
+    "forbidden": [
+      "Hauteur",
+      "Pente",
+      "Verte",
+      "Rome",
+      "Monter"
+    ]
+  },
+  {
+    "word": "Écureuil",
+    "forbidden": [
+      "Noisette",
+      "Queue",
+      "Arbre",
+      "Roux",
+      "Grimper"
+    ]
+  },
+  {
+    "word": "Panthère",
+    "forbidden": [
+      "Félin",
+      "Noire",
+      "Jungle",
+      "Griffe",
+      "Fauve"
+    ]
+  },
+  {
+    "word": "Corbeau",
+    "forbidden": [
+      "Noir",
+      "Croasse",
+      "Fable",
+      "Bec",
+      "Fromage"
+    ]
+  },
+  {
+    "word": "Chameau",
+    "forbidden": [
+      "Désert",
+      "Bosse",
+      "Sable",
+      "Caravane",
+      "Soif"
+    ]
+  },
+  {
+    "word": "Sanglier",
+    "forbidden": [
+      "Forêt",
+      "Groin",
+      "Défense",
+      "Sauvage",
+      "Obélix"
+    ]
+  },
+  {
+    "word": "Mouette",
+    "forbidden": [
+      "Mer",
+      "Blanche",
+      "Port",
+      "Cri",
+      "Vol"
+    ]
+  },
+  {
+    "word": "Cuisine",
+    "forbidden": [
+      "Repas",
+      "Four",
+      "Chef",
+      "Casserole",
+      "Évier"
+    ]
+  },
+  {
+    "word": "Fenêtre",
+    "forbidden": [
+      "Vitre",
+      "Ouvrir",
+      "Rideau",
+      "Mur",
+      "Vue"
+    ]
+  },
+  {
+    "word": "Placard",
+    "forbidden": [
+      "Ranger",
+      "Porte",
+      "Vaisselle",
+      "Meuble",
+      "Cacher"
+    ]
+  },
+  {
+    "word": "Tapis",
+    "forbidden": [
+      "Sol",
+      "Salon",
+      "Tissu",
+      "Moquette",
+      "Volant"
+    ]
+  },
+  {
+    "word": "Lampe",
+    "forbidden": [
+      "Lumière",
+      "Ampoule",
+      "Chevet",
+      "Aladin",
+      "Éclairer"
+    ]
+  },
+  {
+    "word": "Rideau",
+    "forbidden": [
+      "Fenêtre",
+      "Tissu",
+      "Théâtre",
+      "Voile",
+      "Tringle"
+    ]
+  },
+  {
+    "word": "Cave",
+    "forbidden": [
+      "Vin",
+      "Sous-sol",
+      "Bouteille",
+      "Frais",
+      "Escalier"
+    ]
+  },
+  {
+    "word": "Balcon",
+    "forbidden": [
+      "Étage",
+      "Rambarde",
+      "Fenêtre",
+      "Roméo",
+      "Extérieur"
+    ]
+  },
+  {
+    "word": "Beurre",
+    "forbidden": [
+      "Tartine",
+      "Jaune",
+      "Gras",
+      "Lait",
+      "Fondre"
+    ]
+  },
+  {
+    "word": "Poivre",
+    "forbidden": [
+      "Épice",
+      "Piquant",
+      "Moulin",
+      "Sel",
+      "Grain"
+    ]
+  },
+  {
+    "word": "Gâteau",
+    "forbidden": [
+      "Anniversaire",
+      "Bougie",
+      "Sucré",
+      "Chocolat",
+      "Four"
+    ]
+  },
+  {
+    "word": "Soupe",
+    "forbidden": [
+      "Bouillon",
+      "Légume",
+      "Cuillère",
+      "Chaude",
+      "Potage"
+    ]
+  },
+  {
+    "word": "Vinaigre",
+    "forbidden": [
+      "Acide",
+      "Salade",
+      "Aigre",
+      "Assaisonnement",
+      "Cornichon"
+    ]
+  },
+  {
+    "word": "Recette",
+    "forbidden": [
+      "Cuisine",
+      "Ingrédient",
+      "Plat",
+      "Étape",
+      "Livre"
+    ]
+  },
+  {
+    "word": "Épice",
+    "forbidden": [
+      "Parfum",
+      "Curry",
+      "Poudre",
+      "Orient",
+      "Saveur"
+    ]
+  },
+  {
+    "word": "Genou",
+    "forbidden": [
+      "Jambe",
+      "Plier",
+      "Rotule",
+      "Articulation",
+      "Tomber"
+    ]
+  },
+  {
+    "word": "Cheveu",
+    "forbidden": [
+      "Tête",
+      "Coiffure",
+      "Coupe",
+      "Brosse",
+      "Blond"
+    ]
+  },
+  {
+    "word": "Poumon",
+    "forbidden": [
+      "Respirer",
+      "Air",
+      "Souffle",
+      "Poitrine",
+      "Oxygène"
+    ]
+  },
+  {
+    "word": "Coude",
+    "forbidden": [
+      "Bras",
+      "Plier",
+      "Articulation",
+      "Appui",
+      "Angle"
+    ]
+  },
+  {
+    "word": "Talon",
+    "forbidden": [
+      "Pied",
+      "Chaussure",
+      "Arrière",
+      "Achille",
+      "Aiguille"
+    ]
+  },
+  {
+    "word": "Menton",
+    "forbidden": [
+      "Visage",
+      "Barbe",
+      "Bouche",
+      "Fossette",
+      "Bas"
+    ]
+  },
+  {
+    "word": "Pouce",
+    "forbidden": [
+      "Doigt",
+      "Main",
+      "Lever",
+      "Bébé",
+      "Opposable"
+    ]
+  },
+  {
+    "word": "Avenue",
+    "forbidden": [
+      "Rue",
+      "Arbre",
+      "Ville",
+      "Champs",
+      "Large"
+    ]
+  },
+  {
+    "word": "Marché",
+    "forbidden": [
+      "Étal",
+      "Légume",
+      "Vendeur",
+      "Panier",
+      "Frais"
+    ]
+  },
+  {
+    "word": "Boutique",
+    "forbidden": [
+      "Magasin",
+      "Vitrine",
+      "Vendeur",
+      "Achat",
+      "Commerce"
+    ]
+  },
+  {
+    "word": "Quartier",
+    "forbidden": [
+      "Ville",
+      "Voisin",
+      "Rue",
+      "Coin",
+      "Orange"
+    ]
+  },
+  {
+    "word": "Mairie",
+    "forbidden": [
+      "Maire",
+      "Ville",
+      "Mariage",
+      "Administration",
+      "Drapeau"
+    ]
+  },
+  {
+    "word": "Parking",
+    "forbidden": [
+      "Voiture",
+      "Stationner",
+      "Place",
+      "Garer",
+      "Ticket"
+    ]
+  },
+  {
+    "word": "Église",
+    "forbidden": [
+      "Clocher",
+      "Prière",
+      "Cloche",
+      "Curé",
+      "Village"
+    ]
+  },
+  {
+    "word": "Bateau",
+    "forbidden": [
+      "Mer",
+      "Voile",
+      "Naviguer",
+      "Coque",
+      "Flotter"
+    ]
+  },
+  {
+    "word": "Bicyclette",
+    "forbidden": [
+      "Roue",
+      "Pédale",
+      "Guidon",
+      "Sonnette",
+      "Selle"
+    ]
+  },
+  {
+    "word": "Voile",
+    "forbidden": [
+      "Vent",
+      "Toile",
+      "Mât",
+      "Bateau",
+      "Régate"
+    ]
+  },
+  {
+    "word": "Moteur",
+    "forbidden": [
+      "Voiture",
+      "Capot",
+      "Essence",
+      "Démarrer",
+      "Piston"
+    ]
+  },
+  {
+    "word": "Ancre",
+    "forbidden": [
+      "Bateau",
+      "Fond",
+      "Chaîne",
+      "Marin",
+      "Crochet"
+    ]
+  },
+  {
+    "word": "Volant",
+    "forbidden": [
+      "Voiture",
+      "Diriger",
+      "Tourner",
+      "Conduire",
+      "Badminton"
+    ]
+  },
+  {
+    "word": "Rame",
+    "forbidden": [
+      "Aviron",
+      "Barque",
+      "Pagaie",
+      "Métro",
+      "Pelle"
+    ]
+  },
+  {
+    "word": "Pilote",
+    "forbidden": [
+      "Avion",
+      "Cockpit",
+      "Course",
+      "Commande",
+      "Volant"
+    ]
+  },
+  {
+    "word": "Trompette",
+    "forbidden": [
+      "Cuivre",
+      "Souffle",
+      "Piston",
+      "Fanfare",
+      "Jazz"
+    ]
+  },
+  {
+    "word": "Mélodie",
+    "forbidden": [
+      "Note",
+      "Air",
+      "Chanson",
+      "Fredonner",
+      "Harmonie"
+    ]
+  },
+  {
+    "word": "Orchestre",
+    "forbidden": [
+      "Musicien",
+      "Chef",
+      "Symphonie",
+      "Baguette",
+      "Concert"
+    ]
+  },
+  {
+    "word": "Flûte",
+    "forbidden": [
+      "Souffle",
+      "Trou",
+      "Bois",
+      "Berger",
+      "Bec"
+    ]
+  },
+  {
+    "word": "Rythme",
+    "forbidden": [
+      "Cadence",
+      "Tempo",
+      "Batterie",
+      "Taper",
+      "Mesure"
+    ]
+  },
+  {
+    "word": "Concert",
+    "forbidden": [
+      "Musique",
+      "Scène",
+      "Public",
+      "Salle",
+      "Applaudir"
+    ]
+  },
+  {
+    "word": "Ballon",
+    "forbidden": [
+      "Rond",
+      "Foot",
+      "Air",
+      "Gonfler",
+      "Jouer"
+    ]
+  },
+  {
+    "word": "Course",
+    "forbidden": [
+      "Vitesse",
+      "Coureur",
+      "Piste",
+      "Départ",
+      "Arrivée"
+    ]
+  },
+  {
+    "word": "Piste",
+    "forbidden": [
+      "Course",
+      "Ski",
+      "Athlétisme",
+      "Aéroport",
+      "Cendrée"
+    ]
+  },
+  {
+    "word": "Filet",
+    "forbidden": [
+      "Tennis",
+      "Maille",
+      "Pêche",
+      "But",
+      "Tendu"
+    ]
+  },
+  {
+    "word": "Nageur",
+    "forbidden": [
+      "Eau",
+      "Piscine",
+      "Crawl",
+      "Brasse",
+      "Longueur"
+    ]
+  },
+  {
+    "word": "Escrime",
+    "forbidden": [
+      "Fleuret",
+      "Épée",
+      "Masque",
+      "Touche",
+      "Duel"
+    ]
+  },
+  {
+    "word": "Vélo",
+    "forbidden": [
+      "Roue",
+      "Pédale",
+      "Guidon",
+      "Cycliste",
+      "Tour"
+    ]
+  },
+  {
+    "word": "Cahier",
+    "forbidden": [
+      "Feuille",
+      "Écrire",
+      "Carreau",
+      "École",
+      "Classeur"
+    ]
+  },
+  {
+    "word": "Gomme",
+    "forbidden": [
+      "Effacer",
+      "Crayon",
+      "Frotter",
+      "Erreur",
+      "Trousse"
+    ]
+  },
+  {
+    "word": "Devoir",
+    "forbidden": [
+      "École",
+      "Travail",
+      "Maison",
+      "Note",
+      "Exercice"
+    ]
+  },
+  {
+    "word": "Tableau",
+    "forbidden": [
+      "Craie",
+      "Classe",
+      "Écrire",
+      "Effacer",
+      "Mur"
+    ]
+  },
+  {
+    "word": "Crayon",
+    "forbidden": [
+      "Mine",
+      "Papier",
+      "Taille",
+      "Dessin",
+      "Bois"
+    ]
+  },
+  {
+    "word": "Cantine",
+    "forbidden": [
+      "Repas",
+      "Midi",
+      "Plateau",
+      "Réfectoire",
+      "École"
+    ]
+  },
+  {
+    "word": "Pupitre",
+    "forbidden": [
+      "Table",
+      "Élève",
+      "Classe",
+      "Bois",
+      "Écrire"
+    ]
+  },
+  {
+    "word": "Vague",
+    "forbidden": [
+      "Mer",
+      "Surf",
+      "Écume",
+      "Rouler",
+      "Déferler"
+    ]
+  },
+  {
+    "word": "Coquillage",
+    "forbidden": [
+      "Plage",
+      "Coquille",
+      "Mollusque",
+      "Sable",
+      "Nacre"
+    ]
+  },
+  {
+    "word": "Récif",
+    "forbidden": [
+      "Rocher",
+      "Corail",
+      "Danger",
+      "Mer",
+      "Barrière"
+    ]
+  },
+  {
+    "word": "Crabe",
+    "forbidden": [
+      "Pince",
+      "Plage",
+      "Crustacé",
+      "Pincer",
+      "Rocher"
+    ]
+  },
+  {
+    "word": "Algue",
+    "forbidden": [
+      "Mer",
+      "Verte",
+      "Plante",
+      "Fond",
+      "Sushi"
+    ]
+  },
+  {
+    "word": "Port",
+    "forbidden": [
+      "Bateau",
+      "Quai",
+      "Amarre",
+      "Marin",
+      "Débarquer"
+    ]
+  },
+  {
+    "word": "Mouillage",
+    "forbidden": [
+      "Ancre",
+      "Bateau",
+      "Abri",
+      "Rade",
+      "Calme"
+    ]
+  },
+  {
+    "word": "Nuage",
+    "forbidden": [
+      "Ciel",
+      "Blanc",
+      "Pluie",
+      "Vapeur",
+      "Coton"
+    ]
+  },
+  {
+    "word": "Arc",
+    "forbidden": [
+      "Ciel",
+      "Couleur",
+      "Flèche",
+      "Courbe",
+      "Robin"
+    ]
+  },
+  {
+    "word": "Planète",
+    "forbidden": [
+      "Espace",
+      "Orbite",
+      "Terre",
+      "Mars",
+      "Système"
+    ]
+  },
+  {
+    "word": "Tonnerre",
+    "forbidden": [
+      "Orage",
+      "Éclair",
+      "Grondement",
+      "Foudre",
+      "Bruit"
+    ]
+  },
+  {
+    "word": "Lune",
+    "forbidden": [
+      "Nuit",
+      "Croissant",
+      "Satellite",
+      "Marée",
+      "Astronaute"
+    ]
+  },
+  {
+    "word": "Étoile",
+    "forbidden": [
+      "Ciel",
+      "Nuit",
+      "Briller",
+      "Filante",
+      "Constellation"
+    ]
+  },
+  {
+    "word": "Manteau",
+    "forbidden": [
+      "Hiver",
+      "Chaud",
+      "Vêtement",
+      "Porte",
+      "Laine"
+    ]
+  },
+  {
+    "word": "Chapeau",
+    "forbidden": [
+      "Tête",
+      "Bord",
+      "Magicien",
+      "Coiffe",
+      "Melon"
+    ]
+  },
+  {
+    "word": "Chaussure",
+    "forbidden": [
+      "Pied",
+      "Lacet",
+      "Semelle",
+      "Cendrillon",
+      "Talon"
+    ]
+  },
+  {
+    "word": "Bouton",
+    "forbidden": [
+      "Chemise",
+      "Fermer",
+      "Couture",
+      "Nez",
+      "Presser"
+    ]
+  },
+  {
+    "word": "Poche",
+    "forbidden": [
+      "Vêtement",
+      "Main",
+      "Pantalon",
+      "Sac",
+      "Mouchoir"
+    ]
+  },
+  {
+    "word": "Manche",
+    "forbidden": [
+      "Bras",
+      "Vêtement",
+      "Chemise",
+      "Retrousser",
+      "Coude"
+    ]
+  },
+  {
+    "word": "Bonnet",
+    "forbidden": [
+      "Laine",
+      "Tête",
+      "Hiver",
+      "Oreille",
+      "Lutin"
+    ]
+  },
+  {
+    "word": "Chemise",
+    "forbidden": [
+      "Col",
+      "Bouton",
+      "Manche",
+      "Repasser",
+      "Bureau"
+    ]
+  },
+  {
+    "word": "Ciseaux",
+    "forbidden": [
+      "Couper",
+      "Lame",
+      "Papier",
+      "Coiffeur",
+      "Trancher"
+    ]
+  },
+  {
+    "word": "Bougie",
+    "forbidden": [
+      "Cire",
+      "Flamme",
+      "Mèche",
+      "Anniversaire",
+      "Cierge"
+    ]
+  },
+  {
+    "word": "Valise",
+    "forbidden": [
+      "Bagage",
+      "Voyage",
+      "Poignée",
+      "Aéroport",
+      "Roulette"
+    ]
+  },
+  {
+    "word": "Clé",
+    "forbidden": [
+      "Serrure",
+      "Porte",
+      "Ouvrir",
+      "Trousseau",
+      "Métal"
+    ]
+  },
+  {
+    "word": "Panier",
+    "forbidden": [
+      "Osier",
+      "Anse",
+      "Course",
+      "Basket",
+      "Tresse"
+    ]
+  },
+  {
+    "word": "Balai",
+    "forbidden": [
+      "Poussière",
+      "Manche",
+      "Sorcière",
+      "Balayer",
+      "Sol"
+    ]
+  },
+  {
+    "word": "Échelle",
+    "forbidden": [
+      "Barreau",
+      "Grimper",
+      "Pompier",
+      "Échelon",
+      "Monter"
+    ]
+  },
+  {
+    "word": "Berger",
+    "forbidden": [
+      "Mouton",
+      "Troupeau",
+      "Montagne",
+      "Houlette",
+      "Chien"
+    ]
+  },
+  {
+    "word": "Pêcheur",
+    "forbidden": [
+      "Poisson",
+      "Ligne",
+      "Filet",
+      "Barque",
+      "Appât"
+    ]
+  },
+  {
+    "word": "Coiffeur",
+    "forbidden": [
+      "Cheveu",
+      "Ciseaux",
+      "Salon",
+      "Peigne",
+      "Brushing"
+    ]
+  },
+  {
+    "word": "Serrurier",
+    "forbidden": [
+      "Clé",
+      "Serrure",
+      "Porte",
+      "Verrou",
+      "Dépanner"
+    ]
+  },
+  {
+    "word": "Infirmier",
+    "forbidden": [
+      "Hôpital",
+      "Piqûre",
+      "Soin",
+      "Blouse",
+      "Malade"
+    ]
+  },
+  {
+    "word": "Peintre",
+    "forbidden": [
+      "Pinceau",
+      "Couleur",
+      "Toile",
+      "Palette",
+      "Mur"
+    ]
+  },
+  {
+    "word": "Fermier",
+    "forbidden": [
+      "Ferme",
+      "Vache",
+      "Champ",
+      "Tracteur",
+      "Récolte"
+    ]
+  },
+  {
+    "word": "Maçon",
+    "forbidden": [
+      "Mur",
+      "Brique",
+      "Ciment",
+      "Truelle",
+      "Chantier"
+    ]
+  },
+  {
+    "word": "Plombier",
+    "forbidden": [
+      "Tuyau",
+      "Fuite",
+      "Robinet",
+      "Eau",
+      "Salopette"
+    ]
+  },
+  {
+    "word": "Caissier",
+    "forbidden": [
+      "Caisse",
+      "Monnaie",
+      "Magasin",
+      "Ticket",
+      "Scanner"
+    ]
+  },
+  {
+    "word": "Note",
+    "forbidden": [
+      "Portée",
+      "Do",
+      "Musique",
+      "Solfège",
+      "Partition"
+    ]
+  },
+  {
+    "word": "Chant",
+    "forbidden": [
+      "Voix",
+      "Chorale",
+      "Coq",
+      "Fredonner",
+      "Refrain"
+    ]
+  },
+  {
+    "word": "Solo",
+    "forbidden": [
+      "Seul",
+      "Musicien",
+      "Improvisation",
+      "Guitare",
+      "Vedette"
+    ]
+  },
+  {
+    "word": "Accord",
+    "forbidden": [
+      "Note",
+      "Harmonie",
+      "Guitare",
+      "Ensemble",
+      "Entente"
+    ]
+  },
+  {
+    "word": "Cabine",
+    "forbidden": [
+      "Vestiaire",
+      "Douche",
+      "Bateau",
+      "Rideau",
+      "Essayage"
+    ]
+  },
+  {
+    "word": "Gare",
+    "forbidden": [
+      "Train",
+      "Quai",
+      "Voyage",
+      "Horloge",
+      "Rail"
+    ]
+  },
+  {
+    "word": "Pneu",
+    "forbidden": [
+      "Roue",
+      "Caoutchouc",
+      "Gonfler",
+      "Crever",
+      "Route"
+    ]
+  },
+  {
+    "word": "Roue",
+    "forbidden": [
+      "Cercle",
+      "Tourner",
+      "Voiture",
+      "Paon",
+      "Rayon"
+    ]
+  },
+  {
+    "word": "Leçon",
+    "forbidden": [
+      "Apprendre",
+      "Réciter",
+      "Cours",
+      "Maître",
+      "Savoir"
+    ]
+  },
+  {
+    "word": "Élève",
+    "forbidden": [
+      "École",
+      "Classe",
+      "Apprendre",
+      "Cartable",
+      "Maître"
+    ]
+  },
+  {
+    "word": "Classe",
+    "forbidden": [
+      "Salle",
+      "Cours",
+      "Élève",
+      "École",
+      "Tableau"
+    ]
+  },
+  {
+    "word": "Jupe",
+    "forbidden": [
+      "Hanche",
+      "Robe",
+      "Femme",
+      "Plissée",
+      "Écossaise"
+    ]
+  },
+  {
+    "word": "Gant",
+    "forbidden": [
+      "Main",
+      "Doigt",
+      "Froid",
+      "Boxe",
+      "Laine"
+    ]
+  },
+  {
+    "word": "Veste",
+    "forbidden": [
+      "Chemise",
+      "Costume",
+      "Manche",
+      "Bouton",
+      "Blazer"
+    ]
+  },
+  {
+    "word": "Sel",
+    "forbidden": [
+      "Blanc",
+      "Mer",
+      "Assaisonner",
+      "Grain",
+      "Poivre"
+    ]
+  },
+  {
+    "word": "Huile",
+    "forbidden": [
+      "Olive",
+      "Gras",
+      "Friture",
+      "Salade",
+      "Bidon"
+    ]
+  },
+  {
+    "word": "But",
+    "forbidden": [
+      "Foot",
+      "Cage",
+      "Gardien",
+      "Marquer",
+      "Filet"
+    ]
+  },
+  {
+    "word": "Équipe",
+    "forbidden": [
+      "Joueur",
+      "Maillot",
+      "Ensemble",
+      "Match",
+      "Coéquipier"
+    ]
+  },
+  {
+    "word": "Boîte",
+    "forbidden": [
+      "Couvercle",
+      "Carton",
+      "Ranger",
+      "Courrier",
+      "Fermer"
+    ]
   }
 ]
