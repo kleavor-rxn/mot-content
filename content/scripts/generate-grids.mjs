@@ -17,8 +17,11 @@ import { placeWords, toPuzzle, mulberry32 } from "./lib/place-words.mjs";
 const root = join(dirname(fileURLToPath(import.meta.url)), "..", "..");
 const poolDir = join(root, "content", "pool");
 
-const PER_THEME = parseInt(process.argv[2] ?? "12", 10);
-const WORDS_PER_GRID = 8;
+const PER_THEME = parseInt(process.argv[2] ?? "16", 10);
+// 7 mots (et non 8) : avec la règle de séparation des mots croisés, 8 mots ne
+// tiennent quasiment jamais dans une grille 9×9 sans se coller. 7 mots laissent
+// respirer la grille et permettent de couvrir les 15 thèmes.
+const WORDS_PER_GRID = 7;
 const GRID_SIZE = 9;
 const MAX_ATTEMPTS = 40; // tirages tentés par grille avant d'abandonner
 
@@ -33,10 +36,17 @@ const THEME_TITLES = {
 // MARK: - 1. Grilles écrites à la main
 
 const specs = JSON.parse(readFileSync(join(poolDir, "crosswords.spec.json"), "utf8"));
-const handmade = specs.map((spec) => {
+const handmadeSkipped = [];
+const handmade = specs.flatMap((spec) => {
   const placements = placeWords(spec.words, spec.gridSize);
-  if (!placements) throw new Error(`${spec.id} : aucun agencement trouvé`);
-  return toPuzzle({ ...spec, placements });
+  // Certaines grilles écrites à la main supposaient l'ancien empilement dense.
+  // Avec la séparation stricte, celles qui ne s'agencent plus sont écartées
+  // plutôt que de bloquer toute la génération.
+  if (!placements) {
+    handmadeSkipped.push(spec.id);
+    return [];
+  }
+  return [toPuzzle({ ...spec, placements })];
 });
 
 // MARK: - 2. Grilles dérivées de la banque
@@ -111,7 +121,7 @@ for (const [theme, words] of [...byTheme.entries()].sort()) {
 const all = [...handmade, ...generated];
 writeFileSync(join(poolDir, "crosswords.json"), JSON.stringify(all, null, 2) + "\n");
 
-console.log(`Écrites à la main : ${handmade.length}`);
+console.log(`Écrites à la main : ${handmade.length}${handmadeSkipped.length ? ` (écartées : ${handmadeSkipped.join(", ")})` : ""}`);
 console.log(`Dérivées de la banque : ${generated.length}`);
 for (const [theme] of [...byTheme.entries()].sort()) {
   const n = generated.filter((g) => g.id.startsWith(`auto-${theme}-`)).length;
