@@ -32,19 +32,28 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Générer bundle.json + daily.json
+      # Une langue = un pool, un calendrier et une sortie. Le français reste à
+      # la racine de public/ (l'URL servie aux v1 ne doit pas bouger),
+      # l'anglais va dans public/en/. Voir content/scripts/lib/locale.mjs.
+      - name: Générer bundle.json + daily.json (français)
         run: node content/scripts/generate.mjs
+
+      - name: Générer bundle.json + daily.json (anglais)
+        run: node content/scripts/generate.mjs --locale=en
 
       # Le calendrier gelé (date → grille) s'étend à chaque génération : il
       # doit être commité, sinon le gel ne survit pas au runner éphémère et
       # une date déjà servie pourrait changer de grille si le pool grandit.
+      # Chaque langue a le sien : les pools n'ont ni la même taille ni les
+      # mêmes grilles.
       # [skip ci] : le push ne redéclenche pas ce workflow.
       - name: Figer le calendrier des mots fléchés
         run: |
-          if ! git diff --quiet content/pool/crossword-schedule.json; then
+          SCHEDULES="content/pool/crossword-schedule.json content/pool/en/crossword-schedule.json"
+          if ! git diff --quiet -- $SCHEDULES; then
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add content/pool/crossword-schedule.json
+            git add $SCHEDULES
             git commit -m "chore: calendrier mots fléchés étendu [skip ci]"
             git push
           fi
