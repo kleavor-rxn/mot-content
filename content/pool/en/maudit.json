@@ -1,0 +1,802 @@
+[
+  {
+    "wordA": "Sun",
+    "wordB": "Moon",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Guitar",
+    "wordB": "Piano",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Mountain",
+    "wordB": "Volcano",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Chocolate",
+    "wordB": "Vanilla",
+    "imposedClues": 1
+  },
+  {
+    "wordA": "Plane",
+    "wordB": "Helicopter",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Castle",
+    "wordB": "Cathedral",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Painting",
+    "wordB": "Sculpture",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Shark",
+    "wordB": "Dolphin",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Coffee",
+    "wordB": "Tea",
+    "imposedClues": 1
+  },
+  {
+    "wordA": "Winter",
+    "wordB": "Summer",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Doctor",
+    "wordB": "Nurse",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "River",
+    "wordB": "Lake",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Violin",
+    "wordB": "Cello",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Tiger",
+    "wordB": "Lion",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Bread",
+    "wordB": "Cake",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Train",
+    "wordB": "Subway",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Book",
+    "wordB": "Magazine",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Shoe",
+    "wordB": "Boot",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Rain",
+    "wordB": "Snow",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Kitchen",
+    "wordB": "Bathroom",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Football",
+    "wordB": "Rugby",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Island",
+    "wordB": "Beach",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Wolf",
+    "wordB": "Dog",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Chair",
+    "wordB": "Sofa",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Camera",
+    "wordB": "Photograph",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Clock",
+    "wordB": "Watch",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Doctor",
+    "wordB": "Hospital",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Teacher",
+    "wordB": "School",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Butter",
+    "wordB": "Cheese",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Desert",
+    "wordB": "Camel",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Bicycle",
+    "wordB": "Motorbike",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Garden",
+    "wordB": "Flower",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Whale",
+    "wordB": "Ocean",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Cloud",
+    "wordB": "Sky",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Pencil",
+    "wordB": "Pen",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Soup",
+    "wordB": "Spoon",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Mirror",
+    "wordB": "Reflection",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Forest",
+    "wordB": "Tree",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Money",
+    "wordB": "Bank",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Bridge",
+    "wordB": "River",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Astronaut",
+    "wordB": "Rocket",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Pirate",
+    "wordB": "Treasure",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Wedding",
+    "wordB": "Ring",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Beach",
+    "wordB": "Sand",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Library",
+    "wordB": "Silence",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Circus",
+    "wordB": "Clown",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Farm",
+    "wordB": "Tractor",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Airport",
+    "wordB": "Luggage",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Hotel",
+    "wordB": "Bedroom",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Restaurant",
+    "wordB": "Menu",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Theater",
+    "wordB": "Curtain",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Museum",
+    "wordB": "Statue",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Storm",
+    "wordB": "Thunder",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Desert",
+    "wordB": "Oasis",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Honey",
+    "wordB": "Bee",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Snow",
+    "wordB": "Ski",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Football",
+    "wordB": "Referee",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Fireplace",
+    "wordB": "Smoke",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Ghost",
+    "wordB": "Castle",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Dragon",
+    "wordB": "Knight",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Wizard",
+    "wordB": "Magic",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Robot",
+    "wordB": "Machine",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Detective",
+    "wordB": "Mystery",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Vampire",
+    "wordB": "Garlic",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Pyramid",
+    "wordB": "Egypt",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Volcano",
+    "wordB": "Lava",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Compass",
+    "wordB": "North",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Anchor",
+    "wordB": "Ship",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Lighthouse",
+    "wordB": "Coast",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Umbrella",
+    "wordB": "Rain",
+    "imposedClues": 1
+  },
+  {
+    "wordA": "Candle",
+    "wordB": "Flame",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Guitar",
+    "wordB": "Concert",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Painter",
+    "wordB": "Brush",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Chess",
+    "wordB": "Queen",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Marathon",
+    "wordB": "Runner",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Telescope",
+    "wordB": "Star",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Penguin",
+    "wordB": "Ice",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Bakery",
+    "wordB": "Bread",
+    "imposedClues": 1
+  },
+  {
+    "wordA": "Postman",
+    "wordB": "Letter",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Fisherman",
+    "wordB": "Boat",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Cat",
+    "wordB": "Dog",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Spring",
+    "wordB": "Autumn",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Tea",
+    "wordB": "Biscuit",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Bread",
+    "wordB": "Croissant",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Train",
+    "wordB": "Tram",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Book",
+    "wordB": "Newspaper",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Doctor",
+    "wordB": "Surgeon",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Lake",
+    "wordB": "Pond",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Guitar",
+    "wordB": "Banjo",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Snow",
+    "wordB": "Hail",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Kitchen",
+    "wordB": "Pantry",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Football",
+    "wordB": "Basketball",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Island",
+    "wordB": "Peninsula",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Wolf",
+    "wordB": "Fox",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Armchair",
+    "wordB": "Sofa",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Photo",
+    "wordB": "Video",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Clock",
+    "wordB": "Sundial",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "School",
+    "wordB": "University",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Butter",
+    "wordB": "Margarine",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Desert",
+    "wordB": "Savannah",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Bike",
+    "wordB": "Scooter",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Garden",
+    "wordB": "Greenhouse",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Whale",
+    "wordB": "Dolphin",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Sky",
+    "wordB": "Space",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Pencil",
+    "wordB": "Crayon",
+    "imposedClues": 1
+  },
+  {
+    "wordA": "Soup",
+    "wordB": "Stew",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Mirror",
+    "wordB": "Window",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Forest",
+    "wordB": "Jungle",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Silver",
+    "wordB": "Gold",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Bridge",
+    "wordB": "Tunnel",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Astronaut",
+    "wordB": "Cosmonaut",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Pirate",
+    "wordB": "Sailor",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Wedding",
+    "wordB": "Engagement",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Beach",
+    "wordB": "Cove",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Library",
+    "wordB": "Archive",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Circus",
+    "wordB": "Carnival",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Farm",
+    "wordB": "Barn",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Airport",
+    "wordB": "Harbor",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Hotel",
+    "wordB": "Hostel",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Restaurant",
+    "wordB": "Canteen",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Theater",
+    "wordB": "Cinema",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Museum",
+    "wordB": "Gallery",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Storm",
+    "wordB": "Hurricane",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Oasis",
+    "wordB": "Well",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Bee",
+    "wordB": "Wasp",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Ski",
+    "wordB": "Sled",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Referee",
+    "wordB": "Coach",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Fireplace",
+    "wordB": "Stove",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Ghost",
+    "wordB": "Spirit",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Dragon",
+    "wordB": "Serpent",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Wizard",
+    "wordB": "Alchemist",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Robot",
+    "wordB": "Android",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Detective",
+    "wordB": "Spy",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Vampire",
+    "wordB": "Werewolf",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Pyramid",
+    "wordB": "Sphinx",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Volcano",
+    "wordB": "Geyser",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Compass",
+    "wordB": "Map",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Anchor",
+    "wordB": "Chain",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Lighthouse",
+    "wordB": "Beacon",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Umbrella",
+    "wordB": "Parasol",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Candle",
+    "wordB": "Lantern",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Concert",
+    "wordB": "Recital",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Painter",
+    "wordB": "Sculptor",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Chess",
+    "wordB": "Checkers",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Marathon",
+    "wordB": "Triathlon",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Telescope",
+    "wordB": "Microscope",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Penguin",
+    "wordB": "Seal",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Bakery",
+    "wordB": "Pastry",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Postman",
+    "wordB": "Courier",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Fisherman",
+    "wordB": "Hunter",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Cheese",
+    "wordB": "Yogurt",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Lemon",
+    "wordB": "Orange",
+    "imposedClues": 1
+  },
+  {
+    "wordA": "Rice",
+    "wordB": "Pasta",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Hat",
+    "wordB": "Cap",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Scarf",
+    "wordB": "Shawl",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Suitcase",
+    "wordB": "Trunk",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Key",
+    "wordB": "Padlock",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Ladder",
+    "wordB": "Stepladder",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Rope",
+    "wordB": "String",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Thunder",
+    "wordB": "Lightning",
+    "imposedClues": 1
+  }
+]

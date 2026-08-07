@@ -1,0 +1,5402 @@
+[
+  {
+    "word": "Forest",
+    "forbidden": [
+      "Trees",
+      "Wood",
+      "Green",
+      "Path",
+      "Deer"
+    ]
+  },
+  {
+    "word": "River",
+    "forbidden": [
+      "Water",
+      "Bank",
+      "Flow",
+      "Bridge",
+      "Fish"
+    ]
+  },
+  {
+    "word": "Flower",
+    "forbidden": [
+      "Petal",
+      "Rose",
+      "Bee",
+      "Vase",
+      "Spring"
+    ]
+  },
+  {
+    "word": "Stone",
+    "forbidden": [
+      "Rock",
+      "Hard",
+      "Wall",
+      "Pebble",
+      "Gray"
+    ]
+  },
+  {
+    "word": "Valley",
+    "forbidden": [
+      "Hill",
+      "Mountain",
+      "Low",
+      "Slope",
+      "Green"
+    ]
+  },
+  {
+    "word": "Island",
+    "forbidden": [
+      "Sea",
+      "Beach",
+      "Boat",
+      "Palm",
+      "Alone"
+    ]
+  },
+  {
+    "word": "Jungle",
+    "forbidden": [
+      "Tropical",
+      "Monkey",
+      "Vines",
+      "Humid",
+      "Tiger"
+    ]
+  },
+  {
+    "word": "Branch",
+    "forbidden": [
+      "Tree",
+      "Leaf",
+      "Wood",
+      "Bird",
+      "Trunk"
+    ]
+  },
+  {
+    "word": "Garden",
+    "forbidden": [
+      "Flower",
+      "Grass",
+      "Vegetable",
+      "Water",
+      "Fence"
+    ]
+  },
+  {
+    "word": "Canyon",
+    "forbidden": [
+      "Gorge",
+      "Deep",
+      "Rock",
+      "Echo",
+      "Cliff"
+    ]
+  },
+  {
+    "word": "Meadow",
+    "forbidden": [
+      "Grass",
+      "Field",
+      "Cow",
+      "Hay",
+      "Green"
+    ]
+  },
+  {
+    "word": "Breeze",
+    "forbidden": [
+      "Wind",
+      "Cool",
+      "Air",
+      "Gentle",
+      "Sail"
+    ]
+  },
+  {
+    "word": "Blossom",
+    "forbidden": [
+      "Cherry",
+      "Spring",
+      "Petal",
+      "Tree",
+      "Pink"
+    ]
+  },
+  {
+    "word": "Swamp",
+    "forbidden": [
+      "Mud",
+      "Wet",
+      "Alligator",
+      "Bog",
+      "Mosquito"
+    ]
+  },
+  {
+    "word": "Horse",
+    "forbidden": [
+      "Ride",
+      "Gallop",
+      "Saddle",
+      "Mane",
+      "Stable"
+    ]
+  },
+  {
+    "word": "Tiger",
+    "forbidden": [
+      "Stripes",
+      "Jungle",
+      "Cat",
+      "Orange",
+      "Roar"
+    ]
+  },
+  {
+    "word": "Rabbit",
+    "forbidden": [
+      "Ears",
+      "Carrot",
+      "Burrow",
+      "Hop",
+      "Fur"
+    ]
+  },
+  {
+    "word": "Monkey",
+    "forbidden": [
+      "Banana",
+      "Tree",
+      "Climb",
+      "Tail",
+      "Ape"
+    ]
+  },
+  {
+    "word": "Spider",
+    "forbidden": [
+      "Web",
+      "Legs",
+      "Insect",
+      "Fear",
+      "Silk"
+    ]
+  },
+  {
+    "word": "Turtle",
+    "forbidden": [
+      "Shell",
+      "Slow",
+      "Sea",
+      "Reptile",
+      "Egg"
+    ]
+  },
+  {
+    "word": "Dolphin",
+    "forbidden": [
+      "Sea",
+      "Swim",
+      "Clever",
+      "Jump",
+      "Whale"
+    ]
+  },
+  {
+    "word": "Eagle",
+    "forbidden": [
+      "Bird",
+      "Wings",
+      "Prey",
+      "Sky",
+      "Beak"
+    ]
+  },
+  {
+    "word": "Snake",
+    "forbidden": [
+      "Reptile",
+      "Venom",
+      "Slither",
+      "Skin",
+      "Hiss"
+    ]
+  },
+  {
+    "word": "Panda",
+    "forbidden": [
+      "Bamboo",
+      "China",
+      "Bear",
+      "Black",
+      "White"
+    ]
+  },
+  {
+    "word": "Donkey",
+    "forbidden": [
+      "Ears",
+      "Stubborn",
+      "Farm",
+      "Bray",
+      "Cart"
+    ]
+  },
+  {
+    "word": "Badger",
+    "forbidden": [
+      "Stripe",
+      "Night",
+      "Dig",
+      "Burrow",
+      "Wood"
+    ]
+  },
+  {
+    "word": "Beaver",
+    "forbidden": [
+      "Dam",
+      "Wood",
+      "Teeth",
+      "River",
+      "Lodge"
+    ]
+  },
+  {
+    "word": "Parrot",
+    "forbidden": [
+      "Bird",
+      "Repeat",
+      "Feather",
+      "Pirate",
+      "Cage"
+    ]
+  },
+  {
+    "word": "Kitchen",
+    "forbidden": [
+      "Cook",
+      "Food",
+      "Sink",
+      "Fridge",
+      "Pan"
+    ]
+  },
+  {
+    "word": "Window",
+    "forbidden": [
+      "Glass",
+      "Light",
+      "Open",
+      "View",
+      "Frame"
+    ]
+  },
+  {
+    "word": "Garage",
+    "forbidden": [
+      "Car",
+      "Door",
+      "Tools",
+      "Park",
+      "Oil"
+    ]
+  },
+  {
+    "word": "Pillow",
+    "forbidden": [
+      "Sleep",
+      "Bed",
+      "Head",
+      "Soft",
+      "Feather"
+    ]
+  },
+  {
+    "word": "Blanket",
+    "forbidden": [
+      "Bed",
+      "Warm",
+      "Wool",
+      "Cover",
+      "Sleep"
+    ]
+  },
+  {
+    "word": "Ladder",
+    "forbidden": [
+      "Climb",
+      "Rung",
+      "High",
+      "Paint",
+      "Roof"
+    ]
+  },
+  {
+    "word": "Carpet",
+    "forbidden": [
+      "Floor",
+      "Soft",
+      "Rug",
+      "Wool",
+      "Vacuum"
+    ]
+  },
+  {
+    "word": "Mirror",
+    "forbidden": [
+      "Reflection",
+      "Glass",
+      "Face",
+      "Bathroom",
+      "Break"
+    ]
+  },
+  {
+    "word": "Closet",
+    "forbidden": [
+      "Clothes",
+      "Hang",
+      "Door",
+      "Wardrobe",
+      "Shoes"
+    ]
+  },
+  {
+    "word": "Curtain",
+    "forbidden": [
+      "Window",
+      "Cloth",
+      "Draw",
+      "Rail",
+      "Theater"
+    ]
+  },
+  {
+    "word": "Basement",
+    "forbidden": [
+      "Cellar",
+      "Under",
+      "Stairs",
+      "Dark",
+      "Storage"
+    ]
+  },
+  {
+    "word": "Attic",
+    "forbidden": [
+      "Roof",
+      "Dust",
+      "Storage",
+      "Trunk",
+      "Beam"
+    ]
+  },
+  {
+    "word": "Chimney",
+    "forbidden": [
+      "Smoke",
+      "Fire",
+      "Roof",
+      "Brick",
+      "Santa"
+    ]
+  },
+  {
+    "word": "Sofa",
+    "forbidden": [
+      "Sit",
+      "Cushion",
+      "Living",
+      "Couch",
+      "Television"
+    ]
+  },
+  {
+    "word": "Recipe",
+    "forbidden": [
+      "Cook",
+      "Book",
+      "Steps",
+      "Dish",
+      "Ingredient"
+    ]
+  },
+  {
+    "word": "Butter",
+    "forbidden": [
+      "Bread",
+      "Cream",
+      "Yellow",
+      "Melt",
+      "Toast"
+    ]
+  },
+  {
+    "word": "Cheese",
+    "forbidden": [
+      "Milk",
+      "Dairy",
+      "Blue",
+      "Grate",
+      "France"
+    ]
+  },
+  {
+    "word": "Garlic",
+    "forbidden": [
+      "Clove",
+      "Bulb",
+      "Breath",
+      "Cook",
+      "Vampire"
+    ]
+  },
+  {
+    "word": "Pepper",
+    "forbidden": [
+      "Salt",
+      "Spice",
+      "Grind",
+      "Sneeze",
+      "Mill"
+    ]
+  },
+  {
+    "word": "Kettle",
+    "forbidden": [
+      "Boil",
+      "Water",
+      "Tea",
+      "Whistle",
+      "Steam"
+    ]
+  },
+  {
+    "word": "Oven",
+    "forbidden": [
+      "Bake",
+      "Heat",
+      "Cake",
+      "Roast",
+      "Tray"
+    ]
+  },
+  {
+    "word": "Spoon",
+    "forbidden": [
+      "Fork",
+      "Soup",
+      "Stir",
+      "Sugar",
+      "Cutlery"
+    ]
+  },
+  {
+    "word": "Plate",
+    "forbidden": [
+      "Dish",
+      "Round",
+      "Meal",
+      "Wash",
+      "Table"
+    ]
+  },
+  {
+    "word": "Bakery",
+    "forbidden": [
+      "Bread",
+      "Shop",
+      "Oven",
+      "Croissant",
+      "Morning"
+    ]
+  },
+  {
+    "word": "Dessert",
+    "forbidden": [
+      "Sweet",
+      "Cake",
+      "Last",
+      "Sugar",
+      "Ice"
+    ]
+  },
+  {
+    "word": "Noodle",
+    "forbidden": [
+      "Pasta",
+      "Soup",
+      "Boil",
+      "Asia",
+      "Fork"
+    ]
+  },
+  {
+    "word": "Vinegar",
+    "forbidden": [
+      "Sour",
+      "Oil",
+      "Salad",
+      "Wine",
+      "Acid"
+    ]
+  },
+  {
+    "word": "Apron",
+    "forbidden": [
+      "Cook",
+      "Tie",
+      "Kitchen",
+      "Chef",
+      "Stain"
+    ]
+  },
+  {
+    "word": "Elbow",
+    "forbidden": [
+      "Arm",
+      "Joint",
+      "Bend",
+      "Lean",
+      "Bone"
+    ]
+  },
+  {
+    "word": "Finger",
+    "forbidden": [
+      "Hand",
+      "Nail",
+      "Ring",
+      "Point",
+      "Thumb"
+    ]
+  },
+  {
+    "word": "Shoulder",
+    "forbidden": [
+      "Arm",
+      "Neck",
+      "Bag",
+      "Joint",
+      "Back"
+    ]
+  },
+  {
+    "word": "Ankle",
+    "forbidden": [
+      "Foot",
+      "Leg",
+      "Twist",
+      "Joint",
+      "Sock"
+    ]
+  },
+  {
+    "word": "Throat",
+    "forbidden": [
+      "Neck",
+      "Swallow",
+      "Voice",
+      "Sore",
+      "Mouth"
+    ]
+  },
+  {
+    "word": "Tongue",
+    "forbidden": [
+      "Taste",
+      "Mouth",
+      "Speak",
+      "Lick",
+      "Teeth"
+    ]
+  },
+  {
+    "word": "Muscle",
+    "forbidden": [
+      "Strong",
+      "Gym",
+      "Arm",
+      "Flex",
+      "Body"
+    ]
+  },
+  {
+    "word": "Kidney",
+    "forbidden": [
+      "Organ",
+      "Filter",
+      "Blood",
+      "Bean",
+      "Pair"
+    ]
+  },
+  {
+    "word": "Thumb",
+    "forbidden": [
+      "Hand",
+      "Finger",
+      "Green",
+      "Grip",
+      "Nail"
+    ]
+  },
+  {
+    "word": "Wrist",
+    "forbidden": [
+      "Watch",
+      "Hand",
+      "Joint",
+      "Turn",
+      "Bracelet"
+    ]
+  },
+  {
+    "word": "Spine",
+    "forbidden": [
+      "Back",
+      "Bone",
+      "Column",
+      "Nerve",
+      "Straight"
+    ]
+  },
+  {
+    "word": "Eyebrow",
+    "forbidden": [
+      "Eye",
+      "Hair",
+      "Raise",
+      "Face",
+      "Pluck"
+    ]
+  },
+  {
+    "word": "Knee",
+    "forbidden": [
+      "Leg",
+      "Bend",
+      "Joint",
+      "Fall",
+      "Bone"
+    ]
+  },
+  {
+    "word": "Stomach",
+    "forbidden": [
+      "Belly",
+      "Food",
+      "Digest",
+      "Hungry",
+      "Ache"
+    ]
+  },
+  {
+    "word": "Street",
+    "forbidden": [
+      "Road",
+      "City",
+      "Corner",
+      "Sign",
+      "Cross"
+    ]
+  },
+  {
+    "word": "Market",
+    "forbidden": [
+      "Stall",
+      "Fruit",
+      "Buy",
+      "Square",
+      "Vendor"
+    ]
+  },
+  {
+    "word": "Bridge",
+    "forbidden": [
+      "River",
+      "Cross",
+      "Arch",
+      "Water",
+      "Span"
+    ]
+  },
+  {
+    "word": "Museum",
+    "forbidden": [
+      "Art",
+      "Visit",
+      "Painting",
+      "History",
+      "Guide"
+    ]
+  },
+  {
+    "word": "Library",
+    "forbidden": [
+      "Book",
+      "Silence",
+      "Borrow",
+      "Shelf",
+      "Read"
+    ]
+  },
+  {
+    "word": "Avenue",
+    "forbidden": [
+      "Street",
+      "Trees",
+      "Wide",
+      "City",
+      "Walk"
+    ]
+  },
+  {
+    "word": "Traffic",
+    "forbidden": [
+      "Cars",
+      "Jam",
+      "Lights",
+      "Rush",
+      "Horn"
+    ]
+  },
+  {
+    "word": "Subway",
+    "forbidden": [
+      "Train",
+      "Underground",
+      "Ticket",
+      "Line",
+      "City"
+    ]
+  },
+  {
+    "word": "Station",
+    "forbidden": [
+      "Train",
+      "Platform",
+      "Ticket",
+      "Clock",
+      "Travel"
+    ]
+  },
+  {
+    "word": "Square",
+    "forbidden": [
+      "Town",
+      "Fountain",
+      "Café",
+      "Open",
+      "Bench"
+    ]
+  },
+  {
+    "word": "Sidewalk",
+    "forbidden": [
+      "Walk",
+      "Curb",
+      "Street",
+      "Pedestrian",
+      "Pavement"
+    ]
+  },
+  {
+    "word": "Fountain",
+    "forbidden": [
+      "Water",
+      "Coin",
+      "Basin",
+      "Splash",
+      "Jet"
+    ]
+  },
+  {
+    "word": "Suburb",
+    "forbidden": [
+      "House",
+      "Commute",
+      "Outskirts",
+      "Quiet",
+      "Garden"
+    ]
+  },
+  {
+    "word": "Alley",
+    "forbidden": [
+      "Narrow",
+      "Dark",
+      "Shortcut",
+      "Bins",
+      "Cat"
+    ]
+  },
+  {
+    "word": "Bicycle",
+    "forbidden": [
+      "Pedal",
+      "Wheel",
+      "Ride",
+      "Chain",
+      "Saddle"
+    ]
+  },
+  {
+    "word": "Scooter",
+    "forbidden": [
+      "Wheels",
+      "City",
+      "Park",
+      "Ride",
+      "Motor"
+    ]
+  },
+  {
+    "word": "Tractor",
+    "forbidden": [
+      "Farm",
+      "Field",
+      "Plow",
+      "Wheels",
+      "Diesel"
+    ]
+  },
+  {
+    "word": "Shuttle",
+    "forbidden": [
+      "Bus",
+      "Airport",
+      "Return",
+      "Space",
+      "Service"
+    ]
+  },
+  {
+    "word": "Taxi",
+    "forbidden": [
+      "Fare",
+      "Driver",
+      "Yellow",
+      "Meter",
+      "Ride"
+    ]
+  },
+  {
+    "word": "Engine",
+    "forbidden": [
+      "Motor",
+      "Car",
+      "Hood",
+      "Power",
+      "Oil"
+    ]
+  },
+  {
+    "word": "Wagon",
+    "forbidden": [
+      "Cart",
+      "Horse",
+      "Wheels",
+      "Load",
+      "Farm"
+    ]
+  },
+  {
+    "word": "Tunnel",
+    "forbidden": [
+      "Dark",
+      "Under",
+      "Dig",
+      "Road",
+      "Mountain"
+    ]
+  },
+  {
+    "word": "Airport",
+    "forbidden": [
+      "Plane",
+      "Flight",
+      "Runway",
+      "Gate",
+      "Check"
+    ]
+  },
+  {
+    "word": "Ticket",
+    "forbidden": [
+      "Train",
+      "Fare",
+      "Buy",
+      "Inspector",
+      "Seat"
+    ]
+  },
+  {
+    "word": "Railway",
+    "forbidden": [
+      "Train",
+      "Rails",
+      "Track",
+      "Sleepers",
+      "Steam"
+    ]
+  },
+  {
+    "word": "Luggage",
+    "forbidden": [
+      "Bags",
+      "Suitcase",
+      "Travel",
+      "Belt",
+      "Weight"
+    ]
+  },
+  {
+    "word": "Platform",
+    "forbidden": [
+      "Train",
+      "Wait",
+      "Edge",
+      "Board",
+      "Announcement"
+    ]
+  },
+  {
+    "word": "Trailer",
+    "forbidden": [
+      "Tow",
+      "Hitch",
+      "Load",
+      "Truck",
+      "Wheels"
+    ]
+  },
+  {
+    "word": "Guitar",
+    "forbidden": [
+      "Strings",
+      "Rock",
+      "Strum",
+      "Chord",
+      "Band"
+    ]
+  },
+  {
+    "word": "Piano",
+    "forbidden": [
+      "Keys",
+      "Keyboard",
+      "Chopin",
+      "Tune",
+      "Stool"
+    ]
+  },
+  {
+    "word": "Violin",
+    "forbidden": [
+      "Bow",
+      "Strings",
+      "Chin",
+      "Orchestra",
+      "Solo"
+    ]
+  },
+  {
+    "word": "Trumpet",
+    "forbidden": [
+      "Brass",
+      "Blow",
+      "Jazz",
+      "Valve",
+      "Band"
+    ]
+  },
+  {
+    "word": "Melody",
+    "forbidden": [
+      "Tune",
+      "Notes",
+      "Hum",
+      "Song",
+      "Air"
+    ]
+  },
+  {
+    "word": "Rhythm",
+    "forbidden": [
+      "Beat",
+      "Drums",
+      "Tempo",
+      "Dance",
+      "Time"
+    ]
+  },
+  {
+    "word": "Concert",
+    "forbidden": [
+      "Stage",
+      "Live",
+      "Audience",
+      "Ticket",
+      "Band"
+    ]
+  },
+  {
+    "word": "Singer",
+    "forbidden": [
+      "Voice",
+      "Microphone",
+      "Song",
+      "Band",
+      "Stage"
+    ]
+  },
+  {
+    "word": "Chorus",
+    "forbidden": [
+      "Verse",
+      "Repeat",
+      "Song",
+      "Sing",
+      "Refrain"
+    ]
+  },
+  {
+    "word": "Flute",
+    "forbidden": [
+      "Wind",
+      "Blow",
+      "Silver",
+      "High",
+      "Orchestra"
+    ]
+  },
+  {
+    "word": "Banjo",
+    "forbidden": [
+      "Strings",
+      "Country",
+      "Bluegrass",
+      "Pluck",
+      "Round"
+    ]
+  },
+  {
+    "word": "Tempo",
+    "forbidden": [
+      "Speed",
+      "Beat",
+      "Fast",
+      "Slow",
+      "Metronome"
+    ]
+  },
+  {
+    "word": "Drummer",
+    "forbidden": [
+      "Sticks",
+      "Beat",
+      "Band",
+      "Cymbal",
+      "Kit"
+    ]
+  },
+  {
+    "word": "Harmony",
+    "forbidden": [
+      "Chord",
+      "Voices",
+      "Choir",
+      "Together",
+      "Notes"
+    ]
+  },
+  {
+    "word": "Soccer",
+    "forbidden": [
+      "Ball",
+      "Goal",
+      "Team",
+      "Kick",
+      "Field"
+    ]
+  },
+  {
+    "word": "Tennis",
+    "forbidden": [
+      "Racket",
+      "Net",
+      "Court",
+      "Serve",
+      "Ball"
+    ]
+  },
+  {
+    "word": "Hockey",
+    "forbidden": [
+      "Ice",
+      "Puck",
+      "Stick",
+      "Team",
+      "Rink"
+    ]
+  },
+  {
+    "word": "Referee",
+    "forbidden": [
+      "Whistle",
+      "Rules",
+      "Card",
+      "Match",
+      "Decision"
+    ]
+  },
+  {
+    "word": "Stadium",
+    "forbidden": [
+      "Crowd",
+      "Seats",
+      "Field",
+      "Match",
+      "Roar"
+    ]
+  },
+  {
+    "word": "Medal",
+    "forbidden": [
+      "Gold",
+      "Ribbon",
+      "Winner",
+      "Olympic",
+      "Podium"
+    ]
+  },
+  {
+    "word": "Racket",
+    "forbidden": [
+      "Tennis",
+      "Strings",
+      "Handle",
+      "Hit",
+      "Court"
+    ]
+  },
+  {
+    "word": "Marathon",
+    "forbidden": [
+      "Run",
+      "Distance",
+      "Race",
+      "Greece",
+      "Finish"
+    ]
+  },
+  {
+    "word": "Trophy",
+    "forbidden": [
+      "Cup",
+      "Winner",
+      "Silver",
+      "Lift",
+      "Title"
+    ]
+  },
+  {
+    "word": "Jersey",
+    "forbidden": [
+      "Shirt",
+      "Number",
+      "Team",
+      "Colors",
+      "Swap"
+    ]
+  },
+  {
+    "word": "Athlete",
+    "forbidden": [
+      "Train",
+      "Sport",
+      "Olympic",
+      "Fit",
+      "Compete"
+    ]
+  },
+  {
+    "word": "Helmet",
+    "forbidden": [
+      "Head",
+      "Protect",
+      "Bike",
+      "Hard",
+      "Strap"
+    ]
+  },
+  {
+    "word": "Goalie",
+    "forbidden": [
+      "Gloves",
+      "Save",
+      "Net",
+      "Posts",
+      "Keeper"
+    ]
+  },
+  {
+    "word": "Coach",
+    "forbidden": [
+      "Team",
+      "Train",
+      "Tactics",
+      "Bench",
+      "Manager"
+    ]
+  },
+  {
+    "word": "Teacher",
+    "forbidden": [
+      "Class",
+      "School",
+      "Lesson",
+      "Board",
+      "Marks"
+    ]
+  },
+  {
+    "word": "Pencil",
+    "forbidden": [
+      "Write",
+      "Sharpen",
+      "Lead",
+      "Eraser",
+      "Paper"
+    ]
+  },
+  {
+    "word": "Ruler",
+    "forbidden": [
+      "Measure",
+      "Line",
+      "Straight",
+      "Centimeter",
+      "Draw"
+    ]
+  },
+  {
+    "word": "Homework",
+    "forbidden": [
+      "Evening",
+      "Exercise",
+      "Due",
+      "School",
+      "Desk"
+    ]
+  },
+  {
+    "word": "Lesson",
+    "forbidden": [
+      "Class",
+      "Hour",
+      "Learn",
+      "Teacher",
+      "Bell"
+    ]
+  },
+  {
+    "word": "Chalk",
+    "forbidden": [
+      "Board",
+      "White",
+      "Dust",
+      "Write",
+      "Cliff"
+    ]
+  },
+  {
+    "word": "Backpack",
+    "forbidden": [
+      "Shoulders",
+      "Books",
+      "Bag",
+      "Straps",
+      "Carry"
+    ]
+  },
+  {
+    "word": "Notebook",
+    "forbidden": [
+      "Pages",
+      "Write",
+      "Spiral",
+      "Notes",
+      "Cover"
+    ]
+  },
+  {
+    "word": "Diploma",
+    "forbidden": [
+      "Degree",
+      "Exam",
+      "Paper",
+      "Graduate",
+      "Frame"
+    ]
+  },
+  {
+    "word": "Student",
+    "forbidden": [
+      "Learn",
+      "Class",
+      "Exam",
+      "University",
+      "Notes"
+    ]
+  },
+  {
+    "word": "Recess",
+    "forbidden": [
+      "Break",
+      "Yard",
+      "Play",
+      "Bell",
+      "Snack"
+    ]
+  },
+  {
+    "word": "Alphabet",
+    "forbidden": [
+      "Letters",
+      "Order",
+      "Sing",
+      "Read",
+      "First"
+    ]
+  },
+  {
+    "word": "College",
+    "forbidden": [
+      "Study",
+      "Campus",
+      "Degree",
+      "Lecture",
+      "Student"
+    ]
+  },
+  {
+    "word": "Campus",
+    "forbidden": [
+      "University",
+      "Grounds",
+      "Halls",
+      "Lawn",
+      "Students"
+    ]
+  },
+  {
+    "word": "Anchor",
+    "forbidden": [
+      "Chain",
+      "Ship",
+      "Seabed",
+      "Weight",
+      "Drop"
+    ]
+  },
+  {
+    "word": "Harbor",
+    "forbidden": [
+      "Boats",
+      "Port",
+      "Quay",
+      "Shelter",
+      "Masts"
+    ]
+  },
+  {
+    "word": "Sailor",
+    "forbidden": [
+      "Ship",
+      "Sea",
+      "Knot",
+      "Crew",
+      "Navy"
+    ]
+  },
+  {
+    "word": "Seagull",
+    "forbidden": [
+      "Bird",
+      "Coast",
+      "Cry",
+      "White",
+      "Fish"
+    ]
+  },
+  {
+    "word": "Captain",
+    "forbidden": [
+      "Ship",
+      "Command",
+      "Stripes",
+      "Crew",
+      "Deck"
+    ]
+  },
+  {
+    "word": "Compass",
+    "forbidden": [
+      "North",
+      "Needle",
+      "Direction",
+      "Navigate",
+      "Map"
+    ]
+  },
+  {
+    "word": "Cargo",
+    "forbidden": [
+      "Ship",
+      "Containers",
+      "Load",
+      "Hold",
+      "Freight"
+    ]
+  },
+  {
+    "word": "Tide",
+    "forbidden": [
+      "Moon",
+      "Sea",
+      "High",
+      "Low",
+      "Shore"
+    ]
+  },
+  {
+    "word": "Reef",
+    "forbidden": [
+      "Coral",
+      "Shallow",
+      "Dive",
+      "Rocks",
+      "Wreck"
+    ]
+  },
+  {
+    "word": "Shore",
+    "forbidden": [
+      "Coast",
+      "Sand",
+      "Sea",
+      "Land",
+      "Waves"
+    ]
+  },
+  {
+    "word": "Seaweed",
+    "forbidden": [
+      "Green",
+      "Beach",
+      "Slippery",
+      "Sea",
+      "Sushi"
+    ]
+  },
+  {
+    "word": "Yacht",
+    "forbidden": [
+      "Sail",
+      "Boat",
+      "Rich",
+      "Marina",
+      "Deck"
+    ]
+  },
+  {
+    "word": "Current",
+    "forbidden": [
+      "Flow",
+      "Water",
+      "Pull",
+      "Stream",
+      "Drift"
+    ]
+  },
+  {
+    "word": "Voyage",
+    "forbidden": [
+      "Sea",
+      "Journey",
+      "Ship",
+      "Long",
+      "Sail"
+    ]
+  },
+  {
+    "word": "Cloud",
+    "forbidden": [
+      "Sky",
+      "Rain",
+      "White",
+      "Fluffy",
+      "Gray"
+    ]
+  },
+  {
+    "word": "Storm",
+    "forbidden": [
+      "Wind",
+      "Rain",
+      "Lightning",
+      "Dark",
+      "Thunder"
+    ]
+  },
+  {
+    "word": "Rainbow",
+    "forbidden": [
+      "Colors",
+      "Rain",
+      "Sun",
+      "Arc",
+      "Gold"
+    ]
+  },
+  {
+    "word": "Thunder",
+    "forbidden": [
+      "Lightning",
+      "Noise",
+      "Storm",
+      "Rumble",
+      "Sky"
+    ]
+  },
+  {
+    "word": "Sunset",
+    "forbidden": [
+      "Evening",
+      "Orange",
+      "Horizon",
+      "Dusk",
+      "West"
+    ]
+  },
+  {
+    "word": "Comet",
+    "forbidden": [
+      "Tail",
+      "Ice",
+      "Space",
+      "Orbit",
+      "Halley"
+    ]
+  },
+  {
+    "word": "Planet",
+    "forbidden": [
+      "Earth",
+      "Mars",
+      "Orbit",
+      "Space",
+      "Star"
+    ]
+  },
+  {
+    "word": "Meteor",
+    "forbidden": [
+      "Shooting",
+      "Star",
+      "Night",
+      "Streak",
+      "Wish"
+    ]
+  },
+  {
+    "word": "Horizon",
+    "forbidden": [
+      "Line",
+      "Sky",
+      "Distance",
+      "Sea",
+      "Far"
+    ]
+  },
+  {
+    "word": "Frost",
+    "forbidden": [
+      "Cold",
+      "White",
+      "Ice",
+      "Morning",
+      "Winter"
+    ]
+  },
+  {
+    "word": "Twilight",
+    "forbidden": [
+      "Dusk",
+      "Evening",
+      "Half",
+      "Light",
+      "Night"
+    ]
+  },
+  {
+    "word": "Blizzard",
+    "forbidden": [
+      "Snow",
+      "Wind",
+      "Storm",
+      "White",
+      "Cold"
+    ]
+  },
+  {
+    "word": "Sunrise",
+    "forbidden": [
+      "Dawn",
+      "Morning",
+      "East",
+      "Light",
+      "Early"
+    ]
+  },
+  {
+    "word": "Galaxy",
+    "forbidden": [
+      "Stars",
+      "Space",
+      "Milky",
+      "Spiral",
+      "Universe"
+    ]
+  },
+  {
+    "word": "Jacket",
+    "forbidden": [
+      "Coat",
+      "Sleeves",
+      "Zip",
+      "Wear",
+      "Warm"
+    ]
+  },
+  {
+    "word": "Sweater",
+    "forbidden": [
+      "Wool",
+      "Knit",
+      "Warm",
+      "Winter",
+      "Pullover"
+    ]
+  },
+  {
+    "word": "Scarf",
+    "forbidden": [
+      "Neck",
+      "Wool",
+      "Winter",
+      "Wrap",
+      "Warm"
+    ]
+  },
+  {
+    "word": "Glove",
+    "forbidden": [
+      "Hand",
+      "Fingers",
+      "Pair",
+      "Winter",
+      "Leather"
+    ]
+  },
+  {
+    "word": "Button",
+    "forbidden": [
+      "Shirt",
+      "Sew",
+      "Fasten",
+      "Hole",
+      "Thread"
+    ]
+  },
+  {
+    "word": "Skirt",
+    "forbidden": [
+      "Waist",
+      "Dress",
+      "Pleat",
+      "Hem",
+      "Wear"
+    ]
+  },
+  {
+    "word": "Pocket",
+    "forbidden": [
+      "Keys",
+      "Coins",
+      "Hands",
+      "Sewn",
+      "Deep"
+    ]
+  },
+  {
+    "word": "Collar",
+    "forbidden": [
+      "Shirt",
+      "Neck",
+      "Starch",
+      "Tie",
+      "Dog"
+    ]
+  },
+  {
+    "word": "Ribbon",
+    "forbidden": [
+      "Bow",
+      "Tie",
+      "Gift",
+      "Hair",
+      "Silk"
+    ]
+  },
+  {
+    "word": "Slipper",
+    "forbidden": [
+      "Home",
+      "Feet",
+      "Soft",
+      "Warm",
+      "Indoors"
+    ]
+  },
+  {
+    "word": "Uniform",
+    "forbidden": [
+      "School",
+      "Army",
+      "Same",
+      "Work",
+      "Badge"
+    ]
+  },
+  {
+    "word": "Costume",
+    "forbidden": [
+      "Actor",
+      "Halloween",
+      "Dress",
+      "Stage",
+      "Mask"
+    ]
+  },
+  {
+    "word": "Sleeve",
+    "forbidden": [
+      "Arm",
+      "Shirt",
+      "Roll",
+      "Long",
+      "Short"
+    ]
+  },
+  {
+    "word": "Boot",
+    "forbidden": [
+      "Shoe",
+      "Ankle",
+      "Leather",
+      "Rubber",
+      "Laces"
+    ]
+  },
+  {
+    "word": "Candle",
+    "forbidden": [
+      "Wax",
+      "Wick",
+      "Flame",
+      "Light",
+      "Birthday"
+    ]
+  },
+  {
+    "word": "Basket",
+    "forbidden": [
+      "Woven",
+      "Handle",
+      "Picnic",
+      "Carry",
+      "Wicker"
+    ]
+  },
+  {
+    "word": "Bottle",
+    "forbidden": [
+      "Glass",
+      "Cork",
+      "Water",
+      "Neck",
+      "Cap"
+    ]
+  },
+  {
+    "word": "Hammer",
+    "forbidden": [
+      "Nail",
+      "Tool",
+      "Steel",
+      "Blow",
+      "Handle"
+    ]
+  },
+  {
+    "word": "Umbrella",
+    "forbidden": [
+      "Rain",
+      "Open",
+      "Handle",
+      "Wet",
+      "Wind"
+    ]
+  },
+  {
+    "word": "Wallet",
+    "forbidden": [
+      "Money",
+      "Cards",
+      "Pocket",
+      "Leather",
+      "Notes"
+    ]
+  },
+  {
+    "word": "Camera",
+    "forbidden": [
+      "Photo",
+      "Lens",
+      "Picture",
+      "Flash",
+      "Shoot"
+    ]
+  },
+  {
+    "word": "Brush",
+    "forbidden": [
+      "Bristles",
+      "Hair",
+      "Paint",
+      "Handle",
+      "Sweep"
+    ]
+  },
+  {
+    "word": "Needle",
+    "forbidden": [
+      "Thread",
+      "Sew",
+      "Sharp",
+      "Eye",
+      "Pin"
+    ]
+  },
+  {
+    "word": "Lantern",
+    "forbidden": [
+      "Light",
+      "Carry",
+      "Glass",
+      "Flame",
+      "Camp"
+    ]
+  },
+  {
+    "word": "Magnet",
+    "forbidden": [
+      "Iron",
+      "Attract",
+      "Fridge",
+      "Poles",
+      "Metal"
+    ]
+  },
+  {
+    "word": "Broom",
+    "forbidden": [
+      "Sweep",
+      "Floor",
+      "Handle",
+      "Dust",
+      "Witch"
+    ]
+  },
+  {
+    "word": "Scissors",
+    "forbidden": [
+      "Cut",
+      "Blades",
+      "Paper",
+      "Pair",
+      "Sharp"
+    ]
+  },
+  {
+    "word": "Rope",
+    "forbidden": [
+      "Knot",
+      "Tie",
+      "Pull",
+      "Climb",
+      "Cord"
+    ]
+  },
+  {
+    "word": "Baker",
+    "forbidden": [
+      "Bread",
+      "Flour",
+      "Oven",
+      "Dough",
+      "Shop"
+    ]
+  },
+  {
+    "word": "Doctor",
+    "forbidden": [
+      "Patient",
+      "Hospital",
+      "Coat",
+      "White",
+      "Stethoscope"
+    ]
+  },
+  {
+    "word": "Farmer",
+    "forbidden": [
+      "Field",
+      "Tractor",
+      "Animals",
+      "Harvest",
+      "Land"
+    ]
+  },
+  {
+    "word": "Painter",
+    "forbidden": [
+      "Brush",
+      "Wall",
+      "Paint",
+      "Ladder",
+      "Canvas"
+    ]
+  },
+  {
+    "word": "Lawyer",
+    "forbidden": [
+      "Court",
+      "Judge",
+      "Case",
+      "Client",
+      "Law"
+    ]
+  },
+  {
+    "word": "Plumber",
+    "forbidden": [
+      "Pipe",
+      "Leak",
+      "Water",
+      "Wrench",
+      "Sink"
+    ]
+  },
+  {
+    "word": "Engineer",
+    "forbidden": [
+      "Design",
+      "Build",
+      "Machine",
+      "Bridge",
+      "Plan"
+    ]
+  },
+  {
+    "word": "Waiter",
+    "forbidden": [
+      "Restaurant",
+      "Order",
+      "Table",
+      "Tray",
+      "Tip"
+    ]
+  },
+  {
+    "word": "Dentist",
+    "forbidden": [
+      "Teeth",
+      "Drill",
+      "Chair",
+      "Cavity",
+      "Mouth"
+    ]
+  },
+  {
+    "word": "Butcher",
+    "forbidden": [
+      "Meat",
+      "Knife",
+      "Shop",
+      "Cut",
+      "Apron"
+    ]
+  },
+  {
+    "word": "Florist",
+    "forbidden": [
+      "Flowers",
+      "Bouquet",
+      "Shop",
+      "Vase",
+      "Roses"
+    ]
+  },
+  {
+    "word": "Barber",
+    "forbidden": [
+      "Hair",
+      "Cut",
+      "Scissors",
+      "Shop",
+      "Beard"
+    ]
+  },
+  {
+    "word": "Chef",
+    "forbidden": [
+      "Kitchen",
+      "Cook",
+      "Hat",
+      "Restaurant",
+      "Menu"
+    ]
+  },
+  {
+    "word": "Pilot",
+    "forbidden": [
+      "Plane",
+      "Fly",
+      "Cockpit",
+      "Airport",
+      "Wings"
+    ]
+  },
+  {
+    "word": "Lake",
+    "forbidden": [
+      "Water",
+      "Fish",
+      "Boat",
+      "Calm",
+      "Shore"
+    ]
+  },
+  {
+    "word": "Hill",
+    "forbidden": [
+      "Slope",
+      "Climb",
+      "Top",
+      "Grass",
+      "Mountain"
+    ]
+  },
+  {
+    "word": "Leaf",
+    "forbidden": [
+      "Tree",
+      "Green",
+      "Autumn",
+      "Fall",
+      "Branch"
+    ]
+  },
+  {
+    "word": "Rock",
+    "forbidden": [
+      "Stone",
+      "Hard",
+      "Climb",
+      "Cliff",
+      "Heavy"
+    ]
+  },
+  {
+    "word": "Wolf",
+    "forbidden": [
+      "Pack",
+      "Howl",
+      "Forest",
+      "Dog",
+      "Moon"
+    ]
+  },
+  {
+    "word": "Duck",
+    "forbidden": [
+      "Pond",
+      "Quack",
+      "Feathers",
+      "Swim",
+      "Bill"
+    ]
+  },
+  {
+    "word": "Goat",
+    "forbidden": [
+      "Horns",
+      "Milk",
+      "Cheese",
+      "Mountain",
+      "Beard"
+    ]
+  },
+  {
+    "word": "Crab",
+    "forbidden": [
+      "Claws",
+      "Shell",
+      "Beach",
+      "Sideways",
+      "Sea"
+    ]
+  },
+  {
+    "word": "Door",
+    "forbidden": [
+      "Handle",
+      "Open",
+      "Lock",
+      "Knock",
+      "Hinge"
+    ]
+  },
+  {
+    "word": "Roof",
+    "forbidden": [
+      "Tiles",
+      "House",
+      "Rain",
+      "Slope",
+      "Attic"
+    ]
+  },
+  {
+    "word": "Lamp",
+    "forbidden": [
+      "Light",
+      "Bulb",
+      "Shade",
+      "Switch",
+      "Table"
+    ]
+  },
+  {
+    "word": "Desk",
+    "forbidden": [
+      "Work",
+      "Chair",
+      "Drawer",
+      "Office",
+      "Paper"
+    ]
+  },
+  {
+    "word": "Salt",
+    "forbidden": [
+      "Pepper",
+      "Sea",
+      "Grain",
+      "Season",
+      "Taste"
+    ]
+  },
+  {
+    "word": "Soup",
+    "forbidden": [
+      "Spoon",
+      "Bowl",
+      "Hot",
+      "Broth",
+      "Vegetable"
+    ]
+  },
+  {
+    "word": "Fork",
+    "forbidden": [
+      "Knife",
+      "Prongs",
+      "Eat",
+      "Spoon",
+      "Plate"
+    ]
+  },
+  {
+    "word": "Cake",
+    "forbidden": [
+      "Birthday",
+      "Candles",
+      "Sweet",
+      "Bake",
+      "Slice"
+    ]
+  },
+  {
+    "word": "Nose",
+    "forbidden": [
+      "Smell",
+      "Face",
+      "Breathe",
+      "Sneeze",
+      "Nostril"
+    ]
+  },
+  {
+    "word": "Chin",
+    "forbidden": [
+      "Face",
+      "Beard",
+      "Jaw",
+      "Below",
+      "Mouth"
+    ]
+  },
+  {
+    "word": "Lung",
+    "forbidden": [
+      "Breathe",
+      "Air",
+      "Chest",
+      "Organ",
+      "Oxygen"
+    ]
+  },
+  {
+    "word": "Hair",
+    "forbidden": [
+      "Head",
+      "Cut",
+      "Comb",
+      "Wash",
+      "Color"
+    ]
+  },
+  {
+    "word": "Park",
+    "forbidden": [
+      "Grass",
+      "Bench",
+      "Trees",
+      "Walk",
+      "Playground"
+    ]
+  },
+  {
+    "word": "Shop",
+    "forbidden": [
+      "Buy",
+      "Window",
+      "Counter",
+      "Goods",
+      "Till"
+    ]
+  },
+  {
+    "word": "Road",
+    "forbidden": [
+      "Car",
+      "Drive",
+      "Line",
+      "Lane",
+      "Way"
+    ]
+  },
+  {
+    "word": "Bank",
+    "forbidden": [
+      "Money",
+      "Account",
+      "Card",
+      "Loan",
+      "Safe"
+    ]
+  },
+  {
+    "word": "Bus",
+    "forbidden": [
+      "Stop",
+      "Passengers",
+      "Driver",
+      "Route",
+      "Seat"
+    ]
+  },
+  {
+    "word": "Boat",
+    "forbidden": [
+      "Water",
+      "Float",
+      "Row",
+      "Sail",
+      "River"
+    ]
+  },
+  {
+    "word": "Bike",
+    "forbidden": [
+      "Wheels",
+      "Ride",
+      "Chain",
+      "Pedal",
+      "Lock"
+    ]
+  },
+  {
+    "word": "Train",
+    "forbidden": [
+      "Rails",
+      "Station",
+      "Carriage",
+      "Track",
+      "Ticket"
+    ]
+  },
+  {
+    "word": "Song",
+    "forbidden": [
+      "Music",
+      "Words",
+      "Sing",
+      "Radio",
+      "Tune"
+    ]
+  },
+  {
+    "word": "Note",
+    "forbidden": [
+      "Music",
+      "Staff",
+      "Sound",
+      "Sharp",
+      "Scale"
+    ]
+  },
+  {
+    "word": "Drum",
+    "forbidden": [
+      "Beat",
+      "Sticks",
+      "Skin",
+      "Rhythm",
+      "Bass"
+    ]
+  },
+  {
+    "word": "Choir",
+    "forbidden": [
+      "Voices",
+      "Sing",
+      "Group",
+      "Harmony",
+      "Concert"
+    ]
+  },
+  {
+    "word": "Goal",
+    "forbidden": [
+      "Score",
+      "Net",
+      "Posts",
+      "Point",
+      "Win"
+    ]
+  },
+  {
+    "word": "Team",
+    "forbidden": [
+      "Players",
+      "Side",
+      "Together",
+      "Club",
+      "Squad"
+    ]
+  },
+  {
+    "word": "Race",
+    "forbidden": [
+      "Run",
+      "Win",
+      "Finish",
+      "Speed",
+      "Line"
+    ]
+  },
+  {
+    "word": "Ball",
+    "forbidden": [
+      "Round",
+      "Kick",
+      "Throw",
+      "Game",
+      "Bounce"
+    ]
+  },
+  {
+    "word": "Book",
+    "forbidden": [
+      "Read",
+      "Pages",
+      "Cover",
+      "Library",
+      "Story"
+    ]
+  },
+  {
+    "word": "Exam",
+    "forbidden": [
+      "Test",
+      "Revise",
+      "Result",
+      "Paper",
+      "Pass"
+    ]
+  },
+  {
+    "word": "Bell",
+    "forbidden": [
+      "Ring",
+      "Hour",
+      "School",
+      "Sound",
+      "Break"
+    ]
+  },
+  {
+    "word": "Class",
+    "forbidden": [
+      "Pupils",
+      "Teacher",
+      "Room",
+      "Group",
+      "School"
+    ]
+  },
+  {
+    "word": "Wave",
+    "forbidden": [
+      "Sea",
+      "Surf",
+      "Break",
+      "Foam",
+      "Swell"
+    ]
+  },
+  {
+    "word": "Sand",
+    "forbidden": [
+      "Beach",
+      "Grain",
+      "Castle",
+      "Dune",
+      "Barefoot"
+    ]
+  },
+  {
+    "word": "Crew",
+    "forbidden": [
+      "Ship",
+      "Captain",
+      "Sailors",
+      "Team",
+      "Aboard"
+    ]
+  },
+  {
+    "word": "Mast",
+    "forbidden": [
+      "Sail",
+      "Pole",
+      "Ship",
+      "Rigging",
+      "Tall"
+    ]
+  },
+  {
+    "word": "Moon",
+    "forbidden": [
+      "Night",
+      "Full",
+      "Crescent",
+      "Earth",
+      "Space"
+    ]
+  },
+  {
+    "word": "Star",
+    "forbidden": [
+      "Night",
+      "Sky",
+      "Shine",
+      "Sun",
+      "Constellation"
+    ]
+  },
+  {
+    "word": "Wind",
+    "forbidden": [
+      "Air",
+      "Blow",
+      "Breeze",
+      "Gust",
+      "Storm"
+    ]
+  },
+  {
+    "word": "Snow",
+    "forbidden": [
+      "White",
+      "Cold",
+      "Flakes",
+      "Winter",
+      "Ski"
+    ]
+  },
+  {
+    "word": "Shoe",
+    "forbidden": [
+      "Feet",
+      "Laces",
+      "Sole",
+      "Pair",
+      "Walk"
+    ]
+  },
+  {
+    "word": "Sock",
+    "forbidden": [
+      "Foot",
+      "Pair",
+      "Wool",
+      "Wash",
+      "Toe"
+    ]
+  },
+  {
+    "word": "Coat",
+    "forbidden": [
+      "Winter",
+      "Warm",
+      "Buttons",
+      "Wear",
+      "Hang"
+    ]
+  },
+  {
+    "word": "Belt",
+    "forbidden": [
+      "Buckle",
+      "Waist",
+      "Leather",
+      "Loops",
+      "Hold"
+    ]
+  },
+  {
+    "word": "Key",
+    "forbidden": [
+      "Lock",
+      "Open",
+      "Door",
+      "Metal",
+      "Turn"
+    ]
+  },
+  {
+    "word": "Cup",
+    "forbidden": [
+      "Tea",
+      "Coffee",
+      "Handle",
+      "Saucer",
+      "Drink"
+    ]
+  },
+  {
+    "word": "Soap",
+    "forbidden": [
+      "Wash",
+      "Bubbles",
+      "Hands",
+      "Bath",
+      "Clean"
+    ]
+  },
+  {
+    "word": "Clock",
+    "forbidden": [
+      "Time",
+      "Hands",
+      "Hour",
+      "Tick",
+      "Wall"
+    ]
+  },
+  {
+    "word": "Cook",
+    "forbidden": [
+      "Kitchen",
+      "Meal",
+      "Stove",
+      "Pot",
+      "Recipe"
+    ]
+  },
+  {
+    "word": "Actor",
+    "forbidden": [
+      "Stage",
+      "Film",
+      "Role",
+      "Lines",
+      "Theater"
+    ]
+  },
+  {
+    "word": "Guide",
+    "forbidden": [
+      "Tour",
+      "Visit",
+      "Group",
+      "Museum",
+      "Explain"
+    ]
+  },
+  {
+    "word": "Clerk",
+    "forbidden": [
+      "Counter",
+      "Office",
+      "Files",
+      "Desk",
+      "Serve"
+    ]
+  },
+  {
+    "word": "Field",
+    "forbidden": [
+      "Farm",
+      "Crop",
+      "Grass",
+      "Open",
+      "Tractor"
+    ]
+  },
+  {
+    "word": "Cave",
+    "forbidden": [
+      "Dark",
+      "Rock",
+      "Bat",
+      "Echo",
+      "Underground"
+    ]
+  },
+  {
+    "word": "Cliff",
+    "forbidden": [
+      "Steep",
+      "Fall",
+      "Sea",
+      "Rock",
+      "Edge"
+    ]
+  },
+  {
+    "word": "Pond",
+    "forbidden": [
+      "Water",
+      "Frog",
+      "Duck",
+      "Small",
+      "Garden"
+    ]
+  },
+  {
+    "word": "Dune",
+    "forbidden": [
+      "Sand",
+      "Wind",
+      "Desert",
+      "Beach",
+      "Hill"
+    ]
+  },
+  {
+    "word": "Moss",
+    "forbidden": [
+      "Green",
+      "Damp",
+      "Stone",
+      "Soft",
+      "Shade"
+    ]
+  },
+  {
+    "word": "Root",
+    "forbidden": [
+      "Soil",
+      "Plant",
+      "Underground",
+      "Grow",
+      "Tree"
+    ]
+  },
+  {
+    "word": "Seed",
+    "forbidden": [
+      "Plant",
+      "Soil",
+      "Grow",
+      "Grain",
+      "Sow"
+    ]
+  },
+  {
+    "word": "Grass",
+    "forbidden": [
+      "Lawn",
+      "Green",
+      "Mow",
+      "Field",
+      "Cow"
+    ]
+  },
+  {
+    "word": "Bush",
+    "forbidden": [
+      "Shrub",
+      "Leaves",
+      "Garden",
+      "Berry",
+      "Thick"
+    ]
+  },
+  {
+    "word": "Fern",
+    "forbidden": [
+      "Green",
+      "Shade",
+      "Damp",
+      "Leaf",
+      "Forest"
+    ]
+  },
+  {
+    "word": "Vine",
+    "forbidden": [
+      "Grape",
+      "Climb",
+      "Wine",
+      "Leaf",
+      "Twist"
+    ]
+  },
+  {
+    "word": "Pebble",
+    "forbidden": [
+      "Stone",
+      "Beach",
+      "Smooth",
+      "Small",
+      "Skim"
+    ]
+  },
+  {
+    "word": "Stream",
+    "forbidden": [
+      "Water",
+      "Brook",
+      "Flow",
+      "Small",
+      "River"
+    ]
+  },
+  {
+    "word": "Marsh",
+    "forbidden": [
+      "Wet",
+      "Reeds",
+      "Mud",
+      "Birds",
+      "Bog"
+    ]
+  },
+  {
+    "word": "Hedge",
+    "forbidden": [
+      "Bush",
+      "Trim",
+      "Garden",
+      "Border",
+      "Green"
+    ]
+  },
+  {
+    "word": "Cactus",
+    "forbidden": [
+      "Desert",
+      "Spines",
+      "Water",
+      "Prickly",
+      "Sand"
+    ]
+  },
+  {
+    "word": "Palm",
+    "forbidden": [
+      "Beach",
+      "Coconut",
+      "Tropical",
+      "Tree",
+      "Island"
+    ]
+  },
+  {
+    "word": "Cat",
+    "forbidden": [
+      "Purr",
+      "Mouse",
+      "Whiskers",
+      "Pet",
+      "Claws"
+    ]
+  },
+  {
+    "word": "Dog",
+    "forbidden": [
+      "Bark",
+      "Bone",
+      "Leash",
+      "Pet",
+      "Tail"
+    ]
+  },
+  {
+    "word": "Cow",
+    "forbidden": [
+      "Milk",
+      "Farm",
+      "Moo",
+      "Grass",
+      "Herd"
+    ]
+  },
+  {
+    "word": "Pig",
+    "forbidden": [
+      "Mud",
+      "Farm",
+      "Snout",
+      "Grunt",
+      "Bacon"
+    ]
+  },
+  {
+    "word": "Hen",
+    "forbidden": [
+      "Egg",
+      "Farm",
+      "Cluck",
+      "Feathers",
+      "Coop"
+    ]
+  },
+  {
+    "word": "Bear",
+    "forbidden": [
+      "Fur",
+      "Honey",
+      "Forest",
+      "Winter",
+      "Growl"
+    ]
+  },
+  {
+    "word": "Deer",
+    "forbidden": [
+      "Antlers",
+      "Forest",
+      "Leap",
+      "Wild",
+      "Woods"
+    ]
+  },
+  {
+    "word": "Fox",
+    "forbidden": [
+      "Red",
+      "Cunning",
+      "Tail",
+      "Night",
+      "Chicken"
+    ]
+  },
+  {
+    "word": "Lion",
+    "forbidden": [
+      "Mane",
+      "Roar",
+      "Savannah",
+      "King",
+      "Pride"
+    ]
+  },
+  {
+    "word": "Mouse",
+    "forbidden": [
+      "Small",
+      "Cheese",
+      "Squeak",
+      "Trap",
+      "Tail"
+    ]
+  },
+  {
+    "word": "Whale",
+    "forbidden": [
+      "Ocean",
+      "Blue",
+      "Spout",
+      "Huge",
+      "Dive"
+    ]
+  },
+  {
+    "word": "Sheep",
+    "forbidden": [
+      "Wool",
+      "Flock",
+      "Lamb",
+      "Field",
+      "Baa"
+    ]
+  },
+  {
+    "word": "Camel",
+    "forbidden": [
+      "Desert",
+      "Hump",
+      "Sand",
+      "Thirst",
+      "Caravan"
+    ]
+  },
+  {
+    "word": "Zebra",
+    "forbidden": [
+      "Stripes",
+      "Africa",
+      "Horse",
+      "Black",
+      "White"
+    ]
+  },
+  {
+    "word": "Giraffe",
+    "forbidden": [
+      "Neck",
+      "Tall",
+      "Africa",
+      "Spots",
+      "Leaves"
+    ]
+  },
+  {
+    "word": "Penguin",
+    "forbidden": [
+      "Ice",
+      "Antarctic",
+      "Swim",
+      "Black",
+      "Waddle"
+    ]
+  },
+  {
+    "word": "Squirrel",
+    "forbidden": [
+      "Nut",
+      "Tree",
+      "Tail",
+      "Bury",
+      "Park"
+    ]
+  },
+  {
+    "word": "Hedgehog",
+    "forbidden": [
+      "Spines",
+      "Roll",
+      "Night",
+      "Garden",
+      "Small"
+    ]
+  },
+  {
+    "word": "Chair",
+    "forbidden": [
+      "Sit",
+      "Legs",
+      "Table",
+      "Seat",
+      "Wood"
+    ]
+  },
+  {
+    "word": "Table",
+    "forbidden": [
+      "Eat",
+      "Legs",
+      "Dinner",
+      "Cloth",
+      "Chair"
+    ]
+  },
+  {
+    "word": "Bed",
+    "forbidden": [
+      "Sleep",
+      "Pillow",
+      "Sheets",
+      "Night",
+      "Duvet"
+    ]
+  },
+  {
+    "word": "Stairs",
+    "forbidden": [
+      "Steps",
+      "Climb",
+      "Floor",
+      "Banister",
+      "Up"
+    ]
+  },
+  {
+    "word": "Shelf",
+    "forbidden": [
+      "Books",
+      "Wall",
+      "Plank",
+      "Store",
+      "Row"
+    ]
+  },
+  {
+    "word": "Fridge",
+    "forbidden": [
+      "Cold",
+      "Food",
+      "Kitchen",
+      "Milk",
+      "Door"
+    ]
+  },
+  {
+    "word": "Sink",
+    "forbidden": [
+      "Tap",
+      "Water",
+      "Dishes",
+      "Drain",
+      "Wash"
+    ]
+  },
+  {
+    "word": "Bath",
+    "forbidden": [
+      "Water",
+      "Soap",
+      "Tub",
+      "Hot",
+      "Towel"
+    ]
+  },
+  {
+    "word": "Towel",
+    "forbidden": [
+      "Dry",
+      "Bath",
+      "Cloth",
+      "Beach",
+      "Rail"
+    ]
+  },
+  {
+    "word": "Hall",
+    "forbidden": [
+      "Entrance",
+      "Coats",
+      "Door",
+      "Corridor",
+      "Welcome"
+    ]
+  },
+  {
+    "word": "Porch",
+    "forbidden": [
+      "Door",
+      "Outside",
+      "Shelter",
+      "Step",
+      "Roof"
+    ]
+  },
+  {
+    "word": "Fence",
+    "forbidden": [
+      "Garden",
+      "Border",
+      "Wood",
+      "Post",
+      "Gate"
+    ]
+  },
+  {
+    "word": "Gate",
+    "forbidden": [
+      "Fence",
+      "Open",
+      "Latch",
+      "Garden",
+      "Swing"
+    ]
+  },
+  {
+    "word": "Wall",
+    "forbidden": [
+      "Brick",
+      "Paint",
+      "Room",
+      "Hang",
+      "Stone"
+    ]
+  },
+  {
+    "word": "Floor",
+    "forbidden": [
+      "Ground",
+      "Carpet",
+      "Tile",
+      "Walk",
+      "Below"
+    ]
+  },
+  {
+    "word": "Corridor",
+    "forbidden": [
+      "Passage",
+      "Doors",
+      "Long",
+      "Narrow",
+      "Hotel"
+    ]
+  },
+  {
+    "word": "Cellar",
+    "forbidden": [
+      "Wine",
+      "Cool",
+      "Below",
+      "Dark",
+      "Steps"
+    ]
+  },
+  {
+    "word": "Balcony",
+    "forbidden": [
+      "Above",
+      "Rail",
+      "Outside",
+      "View",
+      "Plant"
+    ]
+  },
+  {
+    "word": "Knife",
+    "forbidden": [
+      "Cut",
+      "Blade",
+      "Fork",
+      "Sharp",
+      "Handle"
+    ]
+  },
+  {
+    "word": "Bowl",
+    "forbidden": [
+      "Soup",
+      "Dish",
+      "Cereal",
+      "Deep",
+      "Round"
+    ]
+  },
+  {
+    "word": "Pan",
+    "forbidden": [
+      "Fry",
+      "Handle",
+      "Heat",
+      "Cook",
+      "Oil"
+    ]
+  },
+  {
+    "word": "Pot",
+    "forbidden": [
+      "Boil",
+      "Lid",
+      "Handle",
+      "Soup",
+      "Deep"
+    ]
+  },
+  {
+    "word": "Stove",
+    "forbidden": [
+      "Heat",
+      "Kitchen",
+      "Gas",
+      "Cook",
+      "Burner"
+    ]
+  },
+  {
+    "word": "Sugar",
+    "forbidden": [
+      "Sweet",
+      "Coffee",
+      "White",
+      "Cube",
+      "Cake"
+    ]
+  },
+  {
+    "word": "Flour",
+    "forbidden": [
+      "Bread",
+      "Wheat",
+      "Bake",
+      "White",
+      "Powder"
+    ]
+  },
+  {
+    "word": "Bread",
+    "forbidden": [
+      "Loaf",
+      "Slice",
+      "Bake",
+      "Crust",
+      "Butter"
+    ]
+  },
+  {
+    "word": "Honey",
+    "forbidden": [
+      "Bee",
+      "Sweet",
+      "Golden",
+      "Jar",
+      "Sticky"
+    ]
+  },
+  {
+    "word": "Jam",
+    "forbidden": [
+      "Fruit",
+      "Toast",
+      "Sweet",
+      "Jar",
+      "Spread"
+    ]
+  },
+  {
+    "word": "Rice",
+    "forbidden": [
+      "Grain",
+      "Asia",
+      "Boil",
+      "White",
+      "Bowl"
+    ]
+  },
+  {
+    "word": "Pasta",
+    "forbidden": [
+      "Italy",
+      "Noodle",
+      "Sauce",
+      "Boil",
+      "Fork"
+    ]
+  },
+  {
+    "word": "Sauce",
+    "forbidden": [
+      "Pour",
+      "Tomato",
+      "Cream",
+      "Dish",
+      "Thick"
+    ]
+  },
+  {
+    "word": "Egg",
+    "forbidden": [
+      "Hen",
+      "Shell",
+      "Yolk",
+      "Boil",
+      "Fry"
+    ]
+  },
+  {
+    "word": "Milk",
+    "forbidden": [
+      "Cow",
+      "White",
+      "Drink",
+      "Bottle",
+      "Cereal"
+    ]
+  },
+  {
+    "word": "Onion",
+    "forbidden": [
+      "Cry",
+      "Layers",
+      "Bulb",
+      "Chop",
+      "Soup"
+    ]
+  },
+  {
+    "word": "Lemon",
+    "forbidden": [
+      "Yellow",
+      "Sour",
+      "Citrus",
+      "Juice",
+      "Slice"
+    ]
+  },
+  {
+    "word": "Tomato",
+    "forbidden": [
+      "Red",
+      "Salad",
+      "Sauce",
+      "Round",
+      "Ripe"
+    ]
+  },
+  {
+    "word": "Eye",
+    "forbidden": [
+      "See",
+      "Look",
+      "Blue",
+      "Blink",
+      "Face"
+    ]
+  },
+  {
+    "word": "Ear",
+    "forbidden": [
+      "Sound",
+      "Listen",
+      "Head",
+      "Lobe",
+      "Ring"
+    ]
+  },
+  {
+    "word": "Mouth",
+    "forbidden": [
+      "Lips",
+      "Teeth",
+      "Speak",
+      "Eat",
+      "Tongue"
+    ]
+  },
+  {
+    "word": "Tooth",
+    "forbidden": [
+      "Dentist",
+      "Bite",
+      "White",
+      "Enamel",
+      "Smile"
+    ]
+  },
+  {
+    "word": "Heart",
+    "forbidden": [
+      "Beat",
+      "Blood",
+      "Chest",
+      "Pulse",
+      "Love"
+    ]
+  },
+  {
+    "word": "Brain",
+    "forbidden": [
+      "Think",
+      "Head",
+      "Mind",
+      "Memory",
+      "Nerve"
+    ]
+  },
+  {
+    "word": "Bone",
+    "forbidden": [
+      "Skeleton",
+      "Hard",
+      "Break",
+      "White",
+      "Marrow"
+    ]
+  },
+  {
+    "word": "Skin",
+    "forbidden": [
+      "Cover",
+      "Tan",
+      "Touch",
+      "Soft",
+      "Body"
+    ]
+  },
+  {
+    "word": "Neck",
+    "forbidden": [
+      "Head",
+      "Throat",
+      "Scarf",
+      "Turn",
+      "Collar"
+    ]
+  },
+  {
+    "word": "Back",
+    "forbidden": [
+      "Spine",
+      "Ache",
+      "Behind",
+      "Shoulder",
+      "Lie"
+    ]
+  },
+  {
+    "word": "Hand",
+    "forbidden": [
+      "Fingers",
+      "Palm",
+      "Shake",
+      "Glove",
+      "Grip"
+    ]
+  },
+  {
+    "word": "Foot",
+    "forbidden": [
+      "Shoe",
+      "Toe",
+      "Walk",
+      "Sock",
+      "Heel"
+    ]
+  },
+  {
+    "word": "Leg",
+    "forbidden": [
+      "Walk",
+      "Knee",
+      "Thigh",
+      "Stand",
+      "Run"
+    ]
+  },
+  {
+    "word": "Arm",
+    "forbidden": [
+      "Elbow",
+      "Shoulder",
+      "Hand",
+      "Lift",
+      "Sleeve"
+    ]
+  },
+  {
+    "word": "Liver",
+    "forbidden": [
+      "Organ",
+      "Filter",
+      "Blood",
+      "Diet",
+      "Side"
+    ]
+  },
+  {
+    "word": "Cheek",
+    "forbidden": [
+      "Face",
+      "Kiss",
+      "Blush",
+      "Soft",
+      "Bone"
+    ]
+  },
+  {
+    "word": "Forehead",
+    "forbidden": [
+      "Face",
+      "Above",
+      "Wrinkle",
+      "Head",
+      "Flat"
+    ]
+  },
+  {
+    "word": "Eyelash",
+    "forbidden": [
+      "Eye",
+      "Hair",
+      "Blink",
+      "Tiny",
+      "Curl"
+    ]
+  },
+  {
+    "word": "City",
+    "forbidden": [
+      "Town",
+      "Urban",
+      "Traffic",
+      "Big",
+      "Lights"
+    ]
+  },
+  {
+    "word": "Town",
+    "forbidden": [
+      "Village",
+      "Small",
+      "Square",
+      "Local",
+      "Market"
+    ]
+  },
+  {
+    "word": "Hotel",
+    "forbidden": [
+      "Room",
+      "Night",
+      "Reception",
+      "Stars",
+      "Travel"
+    ]
+  },
+  {
+    "word": "Tower",
+    "forbidden": [
+      "Tall",
+      "Climb",
+      "View",
+      "Bell",
+      "Height"
+    ]
+  },
+  {
+    "word": "Cinema",
+    "forbidden": [
+      "Film",
+      "Screen",
+      "Popcorn",
+      "Seat",
+      "Dark"
+    ]
+  },
+  {
+    "word": "Theater",
+    "forbidden": [
+      "Play",
+      "Stage",
+      "Curtain",
+      "Actor",
+      "Seat"
+    ]
+  },
+  {
+    "word": "Hospital",
+    "forbidden": [
+      "Doctor",
+      "Nurse",
+      "Bed",
+      "Ambulance",
+      "Ward"
+    ]
+  },
+  {
+    "word": "Office",
+    "forbidden": [
+      "Desk",
+      "Work",
+      "Meeting",
+      "Computer",
+      "Chair"
+    ]
+  },
+  {
+    "word": "Factory",
+    "forbidden": [
+      "Machine",
+      "Work",
+      "Chimney",
+      "Worker",
+      "Produce"
+    ]
+  },
+  {
+    "word": "Statue",
+    "forbidden": [
+      "Bronze",
+      "Marble",
+      "Square",
+      "Figure",
+      "Pigeon"
+    ]
+  },
+  {
+    "word": "Corner",
+    "forbidden": [
+      "Street",
+      "Turn",
+      "Angle",
+      "Shop",
+      "Meet"
+    ]
+  },
+  {
+    "word": "Crowd",
+    "forbidden": [
+      "People",
+      "Packed",
+      "Noise",
+      "Match",
+      "Queue"
+    ]
+  },
+  {
+    "word": "Curb",
+    "forbidden": [
+      "Sidewalk",
+      "Edge",
+      "Step",
+      "Street",
+      "Stone"
+    ]
+  },
+  {
+    "word": "Block",
+    "forbidden": [
+      "Street",
+      "Buildings",
+      "Square",
+      "Walk",
+      "Around"
+    ]
+  },
+  {
+    "word": "Center",
+    "forbidden": [
+      "Middle",
+      "Heart",
+      "Square",
+      "Old",
+      "Downtown"
+    ]
+  },
+  {
+    "word": "District",
+    "forbidden": [
+      "Area",
+      "Quarter",
+      "Zone",
+      "Part",
+      "Map"
+    ]
+  },
+  {
+    "word": "Quarter",
+    "forbidden": [
+      "District",
+      "Old",
+      "Streets",
+      "Area",
+      "Latin"
+    ]
+  },
+  {
+    "word": "Kiosk",
+    "forbidden": [
+      "Newspaper",
+      "Stall",
+      "Small",
+      "Street",
+      "Sell"
+    ]
+  },
+  {
+    "word": "Car",
+    "forbidden": [
+      "Drive",
+      "Wheels",
+      "Engine",
+      "Road",
+      "Park"
+    ]
+  },
+  {
+    "word": "Truck",
+    "forbidden": [
+      "Load",
+      "Big",
+      "Road",
+      "Driver",
+      "Freight"
+    ]
+  },
+  {
+    "word": "Van",
+    "forbidden": [
+      "Delivery",
+      "Load",
+      "Doors",
+      "Small",
+      "White"
+    ]
+  },
+  {
+    "word": "Plane",
+    "forbidden": [
+      "Fly",
+      "Wings",
+      "Airport",
+      "Sky",
+      "Pilot"
+    ]
+  },
+  {
+    "word": "Ship",
+    "forbidden": [
+      "Sea",
+      "Deck",
+      "Sail",
+      "Port",
+      "Hull"
+    ]
+  },
+  {
+    "word": "Canoe",
+    "forbidden": [
+      "Paddle",
+      "River",
+      "Narrow",
+      "Water",
+      "Row"
+    ]
+  },
+  {
+    "word": "Kayak",
+    "forbidden": [
+      "Paddle",
+      "River",
+      "Rapids",
+      "Water",
+      "Sport"
+    ]
+  },
+  {
+    "word": "Tram",
+    "forbidden": [
+      "Rails",
+      "Street",
+      "Wires",
+      "Stop",
+      "City"
+    ]
+  },
+  {
+    "word": "Metro",
+    "forbidden": [
+      "Underground",
+      "Line",
+      "Station",
+      "City",
+      "Ticket"
+    ]
+  },
+  {
+    "word": "Driver",
+    "forbidden": [
+      "Wheel",
+      "Car",
+      "Seat",
+      "Licence",
+      "Road"
+    ]
+  },
+  {
+    "word": "Wheel",
+    "forbidden": [
+      "Round",
+      "Turn",
+      "Tire",
+      "Roll",
+      "Axle"
+    ]
+  },
+  {
+    "word": "Brake",
+    "forbidden": [
+      "Stop",
+      "Pedal",
+      "Slow",
+      "Disc",
+      "Foot"
+    ]
+  },
+  {
+    "word": "Horn",
+    "forbidden": [
+      "Sound",
+      "Press",
+      "Traffic",
+      "Warn",
+      "Loud"
+    ]
+  },
+  {
+    "word": "Tire",
+    "forbidden": [
+      "Rubber",
+      "Wheel",
+      "Flat",
+      "Air",
+      "Grip"
+    ]
+  },
+  {
+    "word": "Fuel",
+    "forbidden": [
+      "Petrol",
+      "Diesel",
+      "Tank",
+      "Engine",
+      "Fill"
+    ]
+  },
+  {
+    "word": "Route",
+    "forbidden": [
+      "Road",
+      "Way",
+      "Map",
+      "Journey",
+      "Direction"
+    ]
+  },
+  {
+    "word": "Jet",
+    "forbidden": [
+      "Plane",
+      "Fast",
+      "Engine",
+      "Sky",
+      "Turbine"
+    ]
+  },
+  {
+    "word": "Seat",
+    "forbidden": [
+      "Sit",
+      "Belt",
+      "Window",
+      "Number",
+      "Row"
+    ]
+  },
+  {
+    "word": "Band",
+    "forbidden": [
+      "Group",
+      "Play",
+      "Rock",
+      "Concert",
+      "Members"
+    ]
+  },
+  {
+    "word": "Radio",
+    "forbidden": [
+      "Waves",
+      "Station",
+      "Listen",
+      "Song",
+      "Dial"
+    ]
+  },
+  {
+    "word": "Album",
+    "forbidden": [
+      "Songs",
+      "Vinyl",
+      "Cover",
+      "Record",
+      "Tracks"
+    ]
+  },
+  {
+    "word": "Stage",
+    "forbidden": [
+      "Concert",
+      "Lights",
+      "Perform",
+      "Curtain",
+      "Front"
+    ]
+  },
+  {
+    "word": "Opera",
+    "forbidden": [
+      "Sing",
+      "Italy",
+      "Drama",
+      "Voice",
+      "Aria"
+    ]
+  },
+  {
+    "word": "Jazz",
+    "forbidden": [
+      "Improvise",
+      "Saxophone",
+      "Swing",
+      "Solo",
+      "Club"
+    ]
+  },
+  {
+    "word": "Blues",
+    "forbidden": [
+      "Sad",
+      "Guitar",
+      "Mississippi",
+      "Slow",
+      "Soul"
+    ]
+  },
+  {
+    "word": "Tune",
+    "forbidden": [
+      "Melody",
+      "Whistle",
+      "Song",
+      "Notes",
+      "Pitch"
+    ]
+  },
+  {
+    "word": "Lyric",
+    "forbidden": [
+      "Words",
+      "Song",
+      "Verse",
+      "Sing",
+      "Text"
+    ]
+  },
+  {
+    "word": "Cello",
+    "forbidden": [
+      "Strings",
+      "Bow",
+      "Deep",
+      "Orchestra",
+      "Sit"
+    ]
+  },
+  {
+    "word": "Harp",
+    "forbidden": [
+      "Strings",
+      "Pluck",
+      "Tall",
+      "Orchestra",
+      "Golden"
+    ]
+  },
+  {
+    "word": "Organ",
+    "forbidden": [
+      "Pipes",
+      "Keys",
+      "Pedals",
+      "Bach",
+      "Loud"
+    ]
+  },
+  {
+    "word": "Oboe",
+    "forbidden": [
+      "Reed",
+      "Wind",
+      "Orchestra",
+      "Tune",
+      "Thin"
+    ]
+  },
+  {
+    "word": "Tuba",
+    "forbidden": [
+      "Brass",
+      "Low",
+      "Big",
+      "Band",
+      "Blow"
+    ]
+  },
+  {
+    "word": "Viola",
+    "forbidden": [
+      "Strings",
+      "Bow",
+      "Orchestra",
+      "Alto",
+      "Middle"
+    ]
+  },
+  {
+    "word": "Chord",
+    "forbidden": [
+      "Notes",
+      "Guitar",
+      "Major",
+      "Minor",
+      "Harmony"
+    ]
+  },
+  {
+    "word": "Scale",
+    "forbidden": [
+      "Notes",
+      "Practice",
+      "Climb",
+      "Octave",
+      "Key"
+    ]
+  },
+  {
+    "word": "Dance",
+    "forbidden": [
+      "Move",
+      "Music",
+      "Feet",
+      "Beat",
+      "Floor"
+    ]
+  },
+  {
+    "word": "Golf",
+    "forbidden": [
+      "Club",
+      "Hole",
+      "Green",
+      "Ball",
+      "Swing"
+    ]
+  },
+  {
+    "word": "Rugby",
+    "forbidden": [
+      "Oval",
+      "Scrum",
+      "Try",
+      "Tackle",
+      "Team"
+    ]
+  },
+  {
+    "word": "Boxing",
+    "forbidden": [
+      "Gloves",
+      "Ring",
+      "Round",
+      "Punch",
+      "Bell"
+    ]
+  },
+  {
+    "word": "Judo",
+    "forbidden": [
+      "Throw",
+      "Belt",
+      "Japan",
+      "Mat",
+      "Grip"
+    ]
+  },
+  {
+    "word": "Karate",
+    "forbidden": [
+      "Strike",
+      "Belt",
+      "Japan",
+      "Kick",
+      "Block"
+    ]
+  },
+  {
+    "word": "Surf",
+    "forbidden": [
+      "Wave",
+      "Board",
+      "Ocean",
+      "Ride",
+      "Beach"
+    ]
+  },
+  {
+    "word": "Runner",
+    "forbidden": [
+      "Race",
+      "Shoes",
+      "Track",
+      "Marathon",
+      "Speed"
+    ]
+  },
+  {
+    "word": "Swimmer",
+    "forbidden": [
+      "Pool",
+      "Stroke",
+      "Goggles",
+      "Lane",
+      "Water"
+    ]
+  },
+  {
+    "word": "Player",
+    "forbidden": [
+      "Team",
+      "Game",
+      "Field",
+      "Number",
+      "Squad"
+    ]
+  },
+  {
+    "word": "Match",
+    "forbidden": [
+      "Game",
+      "Teams",
+      "Score",
+      "Ticket",
+      "Play"
+    ]
+  },
+  {
+    "word": "Score",
+    "forbidden": [
+      "Goal",
+      "Points",
+      "Board",
+      "Win",
+      "Number"
+    ]
+  },
+  {
+    "word": "Court",
+    "forbidden": [
+      "Tennis",
+      "Net",
+      "Lines",
+      "Play",
+      "Ground"
+    ]
+  },
+  {
+    "word": "League",
+    "forbidden": [
+      "Table",
+      "Season",
+      "Teams",
+      "Champion",
+      "Points"
+    ]
+  },
+  {
+    "word": "Track",
+    "forbidden": [
+      "Lane",
+      "Run",
+      "Oval",
+      "Stadium",
+      "Sprint"
+    ]
+  },
+  {
+    "word": "Gym",
+    "forbidden": [
+      "Weights",
+      "Muscle",
+      "Train",
+      "Machine",
+      "Sweat"
+    ]
+  },
+  {
+    "word": "Prize",
+    "forbidden": [
+      "Win",
+      "Cup",
+      "Medal",
+      "Award",
+      "First"
+    ]
+  },
+  {
+    "word": "Victory",
+    "forbidden": [
+      "Win",
+      "Triumph",
+      "Celebrate",
+      "First",
+      "Cup"
+    ]
+  },
+  {
+    "word": "Defeat",
+    "forbidden": [
+      "Lose",
+      "Loss",
+      "Beaten",
+      "Sad",
+      "End"
+    ]
+  },
+  {
+    "word": "Pen",
+    "forbidden": [
+      "Write",
+      "Ink",
+      "Cap",
+      "Paper",
+      "Blue"
+    ]
+  },
+  {
+    "word": "Paper",
+    "forbidden": [
+      "Sheet",
+      "Write",
+      "White",
+      "Print",
+      "Thin"
+    ]
+  },
+  {
+    "word": "Page",
+    "forbidden": [
+      "Book",
+      "Turn",
+      "Number",
+      "Read",
+      "Sheet"
+    ]
+  },
+  {
+    "word": "Ink",
+    "forbidden": [
+      "Pen",
+      "Blue",
+      "Stain",
+      "Write",
+      "Cartridge"
+    ]
+  },
+  {
+    "word": "Math",
+    "forbidden": [
+      "Numbers",
+      "Sum",
+      "Equation",
+      "Count",
+      "Problem"
+    ]
+  },
+  {
+    "word": "Science",
+    "forbidden": [
+      "Lab",
+      "Experiment",
+      "Physics",
+      "Chemistry",
+      "Proof"
+    ]
+  },
+  {
+    "word": "History",
+    "forbidden": [
+      "Past",
+      "Dates",
+      "War",
+      "Kings",
+      "Memory"
+    ]
+  },
+  {
+    "word": "Grammar",
+    "forbidden": [
+      "Rules",
+      "Verb",
+      "Sentence",
+      "Language",
+      "Error"
+    ]
+  },
+  {
+    "word": "Poem",
+    "forbidden": [
+      "Verse",
+      "Rhyme",
+      "Lines",
+      "Read",
+      "Write"
+    ]
+  },
+  {
+    "word": "Story",
+    "forbidden": [
+      "Tale",
+      "Book",
+      "Tell",
+      "End",
+      "Character"
+    ]
+  },
+  {
+    "word": "Essay",
+    "forbidden": [
+      "Write",
+      "Argument",
+      "Pages",
+      "Draft",
+      "Deadline"
+    ]
+  },
+  {
+    "word": "Test",
+    "forbidden": [
+      "Question",
+      "Mark",
+      "Quiz",
+      "Check",
+      "Paper"
+    ]
+  },
+  {
+    "word": "Grade",
+    "forbidden": [
+      "Mark",
+      "Result",
+      "Letter",
+      "Report",
+      "Score"
+    ]
+  },
+  {
+    "word": "Pupil",
+    "forbidden": [
+      "School",
+      "Child",
+      "Class",
+      "Learn",
+      "Desk"
+    ]
+  },
+  {
+    "word": "Tutor",
+    "forbidden": [
+      "Private",
+      "Teach",
+      "Lesson",
+      "Help",
+      "Hour"
+    ]
+  },
+  {
+    "word": "Subject",
+    "forbidden": [
+      "Timetable",
+      "Class",
+      "Study",
+      "Topic",
+      "School"
+    ]
+  },
+  {
+    "word": "Lecture",
+    "forbidden": [
+      "Hall",
+      "Notes",
+      "University",
+      "Talk",
+      "Slides"
+    ]
+  },
+  {
+    "word": "Canteen",
+    "forbidden": [
+      "Tray",
+      "Lunch",
+      "Queue",
+      "Food",
+      "Noise"
+    ]
+  },
+  {
+    "word": "Ocean",
+    "forbidden": [
+      "Water",
+      "Deep",
+      "Blue",
+      "Salt",
+      "Waves"
+    ]
+  },
+  {
+    "word": "Wreck",
+    "forbidden": [
+      "Sunk",
+      "Dive",
+      "Bottom",
+      "Ruin",
+      "Treasure"
+    ]
+  },
+  {
+    "word": "Sail",
+    "forbidden": [
+      "Wind",
+      "Cloth",
+      "Mast",
+      "Boat",
+      "Hoist"
+    ]
+  },
+  {
+    "word": "Port",
+    "forbidden": [
+      "Ship",
+      "Dock",
+      "Cargo",
+      "Crane",
+      "Harbor"
+    ]
+  },
+  {
+    "word": "Dock",
+    "forbidden": [
+      "Moor",
+      "Boat",
+      "Wood",
+      "Water",
+      "Quay"
+    ]
+  },
+  {
+    "word": "Buoy",
+    "forbidden": [
+      "Float",
+      "Marker",
+      "Anchor",
+      "Channel",
+      "Bell"
+    ]
+  },
+  {
+    "word": "Oyster",
+    "forbidden": [
+      "Pearl",
+      "Shell",
+      "Salt",
+      "Raw",
+      "Knife"
+    ]
+  },
+  {
+    "word": "Coral",
+    "forbidden": [
+      "Reef",
+      "Tropical",
+      "Colorful",
+      "Polyp",
+      "Diving"
+    ]
+  },
+  {
+    "word": "Shell",
+    "forbidden": [
+      "Beach",
+      "Spiral",
+      "Hard",
+      "Collect",
+      "Sand"
+    ]
+  },
+  {
+    "word": "Net",
+    "forbidden": [
+      "Fish",
+      "Mesh",
+      "Catch",
+      "Knots",
+      "Throw"
+    ]
+  },
+  {
+    "word": "Fish",
+    "forbidden": [
+      "Swim",
+      "Scales",
+      "Gills",
+      "Sea",
+      "Fin"
+    ]
+  },
+  {
+    "word": "Deck",
+    "forbidden": [
+      "Ship",
+      "Above",
+      "Wood",
+      "Rail",
+      "Walk"
+    ]
+  },
+  {
+    "word": "Cabin",
+    "forbidden": [
+      "Bunk",
+      "Porthole",
+      "Small",
+      "Sleep",
+      "Ship"
+    ]
+  },
+  {
+    "word": "Hull",
+    "forbidden": [
+      "Boat",
+      "Water",
+      "Body",
+      "Steel",
+      "Float"
+    ]
+  },
+  {
+    "word": "Keel",
+    "forbidden": [
+      "Bottom",
+      "Balance",
+      "Boat",
+      "Spine",
+      "Deep"
+    ]
+  },
+  {
+    "word": "Tuna",
+    "forbidden": [
+      "Fish",
+      "Can",
+      "Sushi",
+      "Sea",
+      "Steak"
+    ]
+  },
+  {
+    "word": "Squid",
+    "forbidden": [
+      "Ink",
+      "Arms",
+      "Sea",
+      "Rings",
+      "Escape"
+    ]
+  },
+  {
+    "word": "Lagoon",
+    "forbidden": [
+      "Shallow",
+      "Reef",
+      "Turquoise",
+      "Island",
+      "Calm"
+    ]
+  },
+  {
+    "word": "Sky",
+    "forbidden": [
+      "Above",
+      "Blue",
+      "Clouds",
+      "Air",
+      "Space"
+    ]
+  },
+  {
+    "word": "Sun",
+    "forbidden": [
+      "Star",
+      "Light",
+      "Heat",
+      "Day",
+      "Yellow"
+    ]
+  },
+  {
+    "word": "Rain",
+    "forbidden": [
+      "Wet",
+      "Drops",
+      "Umbrella",
+      "Clouds",
+      "Puddle"
+    ]
+  },
+  {
+    "word": "Hail",
+    "forbidden": [
+      "Ice",
+      "Storm",
+      "Balls",
+      "Damage",
+      "Cold"
+    ]
+  },
+  {
+    "word": "Fog",
+    "forbidden": [
+      "Thick",
+      "Grey",
+      "Lights",
+      "Slow",
+      "Damp"
+    ]
+  },
+  {
+    "word": "Mist",
+    "forbidden": [
+      "Haze",
+      "Morning",
+      "Valley",
+      "Thin",
+      "Damp"
+    ]
+  },
+  {
+    "word": "Dawn",
+    "forbidden": [
+      "Morning",
+      "Early",
+      "Light",
+      "Sunrise",
+      "Birds"
+    ]
+  },
+  {
+    "word": "Dusk",
+    "forbidden": [
+      "Evening",
+      "Twilight",
+      "Dark",
+      "Late",
+      "Light"
+    ]
+  },
+  {
+    "word": "Night",
+    "forbidden": [
+      "Dark",
+      "Moon",
+      "Sleep",
+      "Stars",
+      "Late"
+    ]
+  },
+  {
+    "word": "Orbit",
+    "forbidden": [
+      "Circle",
+      "Planet",
+      "Satellite",
+      "Space",
+      "Path"
+    ]
+  },
+  {
+    "word": "Space",
+    "forbidden": [
+      "Stars",
+      "Rocket",
+      "Vacuum",
+      "Empty",
+      "Astronaut"
+    ]
+  },
+  {
+    "word": "Aurora",
+    "forbidden": [
+      "Polar",
+      "Green",
+      "Lights",
+      "North",
+      "Sky"
+    ]
+  },
+  {
+    "word": "Gale",
+    "forbidden": [
+      "Wind",
+      "Strong",
+      "Storm",
+      "Blow",
+      "Warning"
+    ]
+  },
+  {
+    "word": "Drought",
+    "forbidden": [
+      "Dry",
+      "Thirst",
+      "Crops",
+      "Heat",
+      "Empty"
+    ]
+  },
+  {
+    "word": "Shower",
+    "forbidden": [
+      "Rain",
+      "Short",
+      "Wet",
+      "April",
+      "Passing"
+    ]
+  },
+  {
+    "word": "Sunbeam",
+    "forbidden": [
+      "Light",
+      "Ray",
+      "Dust",
+      "Warm",
+      "Window"
+    ]
+  },
+  {
+    "word": "Cyclone",
+    "forbidden": [
+      "Spiral",
+      "Wind",
+      "Storm",
+      "Eye",
+      "Tropical"
+    ]
+  },
+  {
+    "word": "Shade",
+    "forbidden": [
+      "Cool",
+      "Tree",
+      "Sun",
+      "Shelter",
+      "Dark"
+    ]
+  },
+  {
+    "word": "Shirt",
+    "forbidden": [
+      "Collar",
+      "Buttons",
+      "Iron",
+      "Sleeve",
+      "Cotton"
+    ]
+  },
+  {
+    "word": "Dress",
+    "forbidden": [
+      "Wedding",
+      "Skirt",
+      "Long",
+      "Wear",
+      "Fabric"
+    ]
+  },
+  {
+    "word": "Hat",
+    "forbidden": [
+      "Head",
+      "Brim",
+      "Wear",
+      "Cap",
+      "Sun"
+    ]
+  },
+  {
+    "word": "Cap",
+    "forbidden": [
+      "Peak",
+      "Head",
+      "Baseball",
+      "Soft",
+      "Wear"
+    ]
+  },
+  {
+    "word": "Tie",
+    "forbidden": [
+      "Knot",
+      "Collar",
+      "Silk",
+      "Suit",
+      "Office"
+    ]
+  },
+  {
+    "word": "Vest",
+    "forbidden": [
+      "Sleeveless",
+      "Suit",
+      "Layer",
+      "Warm",
+      "Buttons"
+    ]
+  },
+  {
+    "word": "Robe",
+    "forbidden": [
+      "Loose",
+      "Belt",
+      "Long",
+      "Bath",
+      "Silk"
+    ]
+  },
+  {
+    "word": "Cloak",
+    "forbidden": [
+      "Shoulders",
+      "Long",
+      "Swirl",
+      "Cover",
+      "Hood"
+    ]
+  },
+  {
+    "word": "Hood",
+    "forbidden": [
+      "Head",
+      "Rain",
+      "Attached",
+      "Cover",
+      "Pull"
+    ]
+  },
+  {
+    "word": "Zipper",
+    "forbidden": [
+      "Teeth",
+      "Close",
+      "Slider",
+      "Jacket",
+      "Metal"
+    ]
+  },
+  {
+    "word": "Lace",
+    "forbidden": [
+      "Holes",
+      "Fine",
+      "White",
+      "Thread",
+      "Delicate"
+    ]
+  },
+  {
+    "word": "Cotton",
+    "forbidden": [
+      "Plant",
+      "Cloth",
+      "Soft",
+      "White",
+      "Shirt"
+    ]
+  },
+  {
+    "word": "Wool",
+    "forbidden": [
+      "Sheep",
+      "Warm",
+      "Knit",
+      "Itch",
+      "Sweater"
+    ]
+  },
+  {
+    "word": "Silk",
+    "forbidden": [
+      "Smooth",
+      "Worm",
+      "Fine",
+      "China",
+      "Scarf"
+    ]
+  },
+  {
+    "word": "Denim",
+    "forbidden": [
+      "Blue",
+      "Jeans",
+      "Tough",
+      "Fade",
+      "Cloth"
+    ]
+  },
+  {
+    "word": "Heel",
+    "forbidden": [
+      "Shoe",
+      "High",
+      "Back",
+      "Foot",
+      "Walk"
+    ]
+  },
+  {
+    "word": "Blouse",
+    "forbidden": [
+      "Light",
+      "Buttons",
+      "Silk",
+      "Loose",
+      "Top"
+    ]
+  },
+  {
+    "word": "Kilt",
+    "forbidden": [
+      "Scotland",
+      "Tartan",
+      "Pleats",
+      "Wool",
+      "Pin"
+    ]
+  },
+  {
+    "word": "Box",
+    "forbidden": [
+      "Cardboard",
+      "Store",
+      "Lid",
+      "Square",
+      "Pack"
+    ]
+  },
+  {
+    "word": "Bag",
+    "forbidden": [
+      "Carry",
+      "Handles",
+      "Shopping",
+      "Plastic",
+      "Hold"
+    ]
+  },
+  {
+    "word": "Jar",
+    "forbidden": [
+      "Glass",
+      "Lid",
+      "Jam",
+      "Screw",
+      "Store"
+    ]
+  },
+  {
+    "word": "Tin",
+    "forbidden": [
+      "Metal",
+      "Can",
+      "Soup",
+      "Open",
+      "Store"
+    ]
+  },
+  {
+    "word": "Nail",
+    "forbidden": [
+      "Hammer",
+      "Wood",
+      "Metal",
+      "Sharp",
+      "Hit"
+    ]
+  },
+  {
+    "word": "Screw",
+    "forbidden": [
+      "Turn",
+      "Thread",
+      "Driver",
+      "Metal",
+      "Fix"
+    ]
+  },
+  {
+    "word": "Saw",
+    "forbidden": [
+      "Teeth",
+      "Wood",
+      "Cut",
+      "Blade",
+      "Tool"
+    ]
+  },
+  {
+    "word": "Drill",
+    "forbidden": [
+      "Hole",
+      "Wall",
+      "Bit",
+      "Tool",
+      "Noise"
+    ]
+  },
+  {
+    "word": "Torch",
+    "forbidden": [
+      "Light",
+      "Battery",
+      "Dark",
+      "Beam",
+      "Hand"
+    ]
+  },
+  {
+    "word": "Battery",
+    "forbidden": [
+      "Power",
+      "Charge",
+      "Flat",
+      "Plus",
+      "Energy"
+    ]
+  },
+  {
+    "word": "Comb",
+    "forbidden": [
+      "Hair",
+      "Teeth",
+      "Part",
+      "Brush",
+      "Pocket"
+    ]
+  },
+  {
+    "word": "Razor",
+    "forbidden": [
+      "Shave",
+      "Blade",
+      "Sharp",
+      "Beard",
+      "Foam"
+    ]
+  },
+  {
+    "word": "Thread",
+    "forbidden": [
+      "Needle",
+      "Sew",
+      "Reel",
+      "Fine",
+      "Cotton"
+    ]
+  },
+  {
+    "word": "Glue",
+    "forbidden": [
+      "Stick",
+      "Paper",
+      "Dry",
+      "Bond",
+      "Tube"
+    ]
+  },
+  {
+    "word": "Tape",
+    "forbidden": [
+      "Sticky",
+      "Roll",
+      "Parcel",
+      "Cut",
+      "Measure"
+    ]
+  },
+  {
+    "word": "String",
+    "forbidden": [
+      "Tie",
+      "Ball",
+      "Knot",
+      "Parcel",
+      "Thin"
+    ]
+  },
+  {
+    "word": "Coin",
+    "forbidden": [
+      "Money",
+      "Round",
+      "Metal",
+      "Flip",
+      "Change"
+    ]
+  },
+  {
+    "word": "Watch",
+    "forbidden": [
+      "Time",
+      "Wrist",
+      "Hands",
+      "Strap",
+      "Tick"
+    ]
+  },
+  {
+    "word": "Nurse",
+    "forbidden": [
+      "Hospital",
+      "Care",
+      "Patient",
+      "Shift",
+      "Doctor"
+    ]
+  },
+  {
+    "word": "Judge",
+    "forbidden": [
+      "Court",
+      "Verdict",
+      "Law",
+      "Robe",
+      "Trial"
+    ]
+  },
+  {
+    "word": "Soldier",
+    "forbidden": [
+      "Army",
+      "Uniform",
+      "Boots",
+      "March",
+      "Duty"
+    ]
+  },
+  {
+    "word": "Officer",
+    "forbidden": [
+      "Rank",
+      "Command",
+      "Uniform",
+      "Stripes",
+      "Order"
+    ]
+  },
+  {
+    "word": "Miner",
+    "forbidden": [
+      "Coal",
+      "Underground",
+      "Helmet",
+      "Tunnel",
+      "Dust"
+    ]
+  },
+  {
+    "word": "Tailor",
+    "forbidden": [
+      "Suit",
+      "Measure",
+      "Cloth",
+      "Needle",
+      "Fit"
+    ]
+  },
+  {
+    "word": "Jeweler",
+    "forbidden": [
+      "Gold",
+      "Ring",
+      "Diamond",
+      "Shop",
+      "Lens"
+    ]
+  },
+  {
+    "word": "Potter",
+    "forbidden": [
+      "Clay",
+      "Wheel",
+      "Kiln",
+      "Vase",
+      "Shape"
+    ]
+  },
+  {
+    "word": "Dancer",
+    "forbidden": [
+      "Ballet",
+      "Stage",
+      "Feet",
+      "Music",
+      "Grace"
+    ]
+  },
+  {
+    "word": "Writer",
+    "forbidden": [
+      "Book",
+      "Page",
+      "Pen",
+      "Story",
+      "Desk"
+    ]
+  },
+  {
+    "word": "Editor",
+    "forbidden": [
+      "Text",
+      "Cut",
+      "Press",
+      "Correct",
+      "Deadline"
+    ]
+  },
+  {
+    "word": "Banker",
+    "forbidden": [
+      "Money",
+      "Loan",
+      "Interest",
+      "Suit",
+      "Client"
+    ]
+  },
+  {
+    "word": "Mechanic",
+    "forbidden": [
+      "Engine",
+      "Garage",
+      "Repair",
+      "Oil",
+      "Tools"
+    ]
+  },
+  {
+    "word": "Builder",
+    "forbidden": [
+      "Brick",
+      "Site",
+      "Helmet",
+      "Wall",
+      "Cement"
+    ]
+  },
+  {
+    "word": "Gardener",
+    "forbidden": [
+      "Plants",
+      "Weed",
+      "Prune",
+      "Soil",
+      "Green"
+    ]
+  },
+  {
+    "word": "Cleaner",
+    "forbidden": [
+      "Mop",
+      "Office",
+      "Night",
+      "Dust",
+      "Shine"
+    ]
+  },
+  {
+    "word": "Nanny",
+    "forbidden": [
+      "Children",
+      "Care",
+      "Home",
+      "Story",
+      "Park"
+    ]
+  },
+  {
+    "word": "Artist",
+    "forbidden": [
+      "Studio",
+      "Paint",
+      "Create",
+      "Gallery",
+      "Work"
+    ]
+  }
+]

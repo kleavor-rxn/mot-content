@@ -1,0 +1,4322 @@
+[
+  {
+    "word": "Forest",
+    "hints": [
+      "You walk under a roof of leaves here",
+      "Trails, moss and birdsong belong to it",
+      "Robin Hood hid in the one at Sherwood"
+    ]
+  },
+  {
+    "word": "River",
+    "hints": [
+      "It always ends up in the sea",
+      "Bridges are built across it",
+      "The Nile is the longest one on Earth"
+    ]
+  },
+  {
+    "word": "Flower",
+    "hints": [
+      "It opens in the morning and closes at night",
+      "Bees come to it for nectar",
+      "A rose is the one lovers give"
+    ]
+  },
+  {
+    "word": "Stone",
+    "hints": [
+      "You can skip it across a pond",
+      "Castles and walls were built from it",
+      "David brought down Goliath with one"
+    ]
+  },
+  {
+    "word": "Valley",
+    "hints": [
+      "It lies between two heights",
+      "Water usually runs along its floor",
+      "Silicon named the famous one in California"
+    ]
+  },
+  {
+    "word": "Island",
+    "hints": [
+      "You need a boat or a plane to reach it",
+      "Water surrounds it on every side",
+      "Robinson Crusoe was stranded on one"
+    ]
+  },
+  {
+    "word": "Jungle",
+    "hints": [
+      "It is hot, wet and never quiet",
+      "Monkeys and snakes live in its canopy",
+      "Mowgli grew up in one"
+    ]
+  },
+  {
+    "word": "Branch",
+    "hints": [
+      "Birds perch on it",
+      "It grows out of a trunk and carries leaves",
+      "Saw through the one you are sitting on and you fall"
+    ]
+  },
+  {
+    "word": "Garden",
+    "hints": [
+      "It is often just behind the house",
+      "You water it, weed it and mow it",
+      "The English are said to be mad about theirs"
+    ]
+  },
+  {
+    "word": "Canyon",
+    "hints": [
+      "Its walls are steep and its floor is narrow",
+      "Water dug it over millions of years",
+      "The Grand one is in Arizona"
+    ]
+  },
+  {
+    "word": "Meadow",
+    "hints": [
+      "Cows graze on it all summer",
+      "It is a field left to grass and wild flowers",
+      "Poets fill it with shepherds and lambs"
+    ]
+  },
+  {
+    "word": "Breeze",
+    "hints": [
+      "You feel it on your face in summer",
+      "It is wind, but the kind that pleases",
+      "Sailors name the one that comes off the sea"
+    ]
+  },
+  {
+    "word": "Blossom",
+    "hints": [
+      "It covers fruit trees in spring",
+      "Pink and white, and gone within a week",
+      "Japan celebrates the cherry one every year"
+    ]
+  },
+  {
+    "word": "Swamp",
+    "hints": [
+      "Your boots sink into it",
+      "It is land that never finished drying",
+      "Alligators lurk in the ones in Florida"
+    ]
+  },
+  {
+    "word": "Horse",
+    "hints": [
+      "It is ridden with a saddle and reins",
+      "It gallops, trots and neighs",
+      "A famous wooden one entered Troy"
+    ]
+  },
+  {
+    "word": "Tiger",
+    "hints": [
+      "Orange with black stripes",
+      "The largest of the big cats",
+      "Bengal named the best known one"
+    ]
+  },
+  {
+    "word": "Rabbit",
+    "hints": [
+      "Long ears, short tail, quick jumps",
+      "It digs a burrow and raids the carrots",
+      "One made Alice late for a very important date"
+    ]
+  },
+  {
+    "word": "Monkey",
+    "hints": [
+      "It climbs and hangs by its tail",
+      "Bananas are its cliché meal",
+      "It is our close relative up in the trees"
+    ]
+  },
+  {
+    "word": "Spider",
+    "hints": [
+      "Eight legs and no wings",
+      "It spins a web to catch flies",
+      "Many people will not share a bathtub with one"
+    ]
+  },
+  {
+    "word": "Turtle",
+    "hints": [
+      "It carries its house on its back",
+      "Slow on land, quick in the water",
+      "Some cross oceans to lay eggs on a beach"
+    ]
+  },
+  {
+    "word": "Dolphin",
+    "hints": [
+      "It leaps clear out of the waves",
+      "A mammal that never leaves the sea",
+      "Sailors say it guides their ships"
+    ]
+  },
+  {
+    "word": "Eagle",
+    "hints": [
+      "It spots a mouse from very high up",
+      "A bird of prey with a hooked beak",
+      "It is the emblem of the United States"
+    ]
+  },
+  {
+    "word": "Snake",
+    "hints": [
+      "It has no legs at all",
+      "It sheds its skin and hisses",
+      "The cobra and the python are two of them"
+    ]
+  },
+  {
+    "word": "Panda",
+    "hints": [
+      "Black and white, and never in a hurry",
+      "It eats bamboo all day long",
+      "China lends them to zoos around the world"
+    ]
+  },
+  {
+    "word": "Donkey",
+    "hints": [
+      "Long ears and a stubborn temper",
+      "It carries loads up mountain paths",
+      "Its bray wakes the whole village"
+    ]
+  },
+  {
+    "word": "Badger",
+    "hints": [
+      "Black and white stripes run down its face",
+      "It digs a maze of tunnels and sleeps by day",
+      "You mostly see one at night, crossing a road"
+    ]
+  },
+  {
+    "word": "Beaver",
+    "hints": [
+      "Its teeth bring down whole trees",
+      "It builds a dam across a stream",
+      "Canada put it on a coin"
+    ]
+  },
+  {
+    "word": "Parrot",
+    "hints": [
+      "It repeats whatever you say",
+      "Bright feathers and a curved beak",
+      "A pirate keeps one on his shoulder"
+    ]
+  },
+  {
+    "word": "Kitchen",
+    "hints": [
+      "It is the room that smells of dinner",
+      "Pots, pans and the fridge live here",
+      "Too many cooks spoil what happens in it"
+    ]
+  },
+  {
+    "word": "Window",
+    "hints": [
+      "You look out through it",
+      "Glass, a frame and a latch",
+      "Cleaning it always leaves streaks"
+    ]
+  },
+  {
+    "word": "Garage",
+    "hints": [
+      "The car sleeps in it",
+      "Tools, boxes and old paint end up there",
+      "Several famous companies were started in one"
+    ]
+  },
+  {
+    "word": "Pillow",
+    "hints": [
+      "Your head rests on it",
+      "It gets punched and folded during the night",
+      "Children fight with them"
+    ]
+  },
+  {
+    "word": "Blanket",
+    "hints": [
+      "You pull it up when the night turns cold",
+      "Wool or fleece, spread across a bed",
+      "Snow is said to lay one over the fields"
+    ]
+  },
+  {
+    "word": "Ladder",
+    "hints": [
+      "You climb it rung by rung",
+      "Painters and window cleaners carry one",
+      "Walking under it is said to bring bad luck"
+    ]
+  },
+  {
+    "word": "Carpet",
+    "hints": [
+      "It covers the floor and softens every step",
+      "You vacuum it and it still hides crumbs",
+      "Film stars walk on a red one"
+    ]
+  },
+  {
+    "word": "Mirror",
+    "hints": [
+      "You check yourself in it before going out",
+      "Glass with silver laid behind it",
+      "Breaking one is said to cost seven years"
+    ]
+  },
+  {
+    "word": "Closet",
+    "hints": [
+      "Clothes hang inside it",
+      "It is the cupboard you never quite tidy",
+      "Skeletons are said to hide in one"
+    ]
+  },
+  {
+    "word": "Curtain",
+    "hints": [
+      "You draw it at nightfall",
+      "Cloth on a rail, hiding the glass",
+      "It rises at the start of a play"
+    ]
+  },
+  {
+    "word": "Basement",
+    "hints": [
+      "It lies under the whole house",
+      "Boxes, the boiler and old furniture end up there",
+      "Horror films always send someone down to it"
+    ]
+  },
+  {
+    "word": "Attic",
+    "hints": [
+      "It sits directly under the roof",
+      "You reach it by a hatch and a folding ladder",
+      "Old trunks and forgotten toys gather there"
+    ]
+  },
+  {
+    "word": "Chimney",
+    "hints": [
+      "Smoke leaves the house through it",
+      "It stands on the roof, in brick or stone",
+      "Santa is said to come down one"
+    ]
+  },
+  {
+    "word": "Sofa",
+    "hints": [
+      "Three people can sit on it at once",
+      "It faces the television",
+      "Coins and remotes vanish between its cushions"
+    ]
+  },
+  {
+    "word": "Recipe",
+    "hints": [
+      "You follow it step by step",
+      "It lists what to buy and what to do",
+      "Grandmothers guard theirs jealously"
+    ]
+  },
+  {
+    "word": "Butter",
+    "hints": [
+      "It melts on hot toast",
+      "Churned from cream and sold in a block",
+      "Bread wants it before the jam"
+    ]
+  },
+  {
+    "word": "Cheese",
+    "hints": [
+      "It comes from milk and gets better with age",
+      "France claims hundreds of them",
+      "You say it in front of a camera"
+    ]
+  },
+  {
+    "word": "Garlic",
+    "hints": [
+      "A bulb made of small cloves",
+      "It stays on your breath long after dinner",
+      "Vampires are said to flee it"
+    ]
+  },
+  {
+    "word": "Pepper",
+    "hints": [
+      "It stands next to the salt",
+      "Grind it and somebody sneezes",
+      "Black, white or green, but always sharp"
+    ]
+  },
+  {
+    "word": "Kettle",
+    "hints": [
+      "It whistles when the water is ready",
+      "Tea cannot be made without it",
+      "You fill it, switch it on and wait"
+    ]
+  },
+  {
+    "word": "Oven",
+    "hints": [
+      "Cakes go in flat and come out risen",
+      "You preheat it before baking",
+      "It is the hot half of the cooker"
+    ]
+  },
+  {
+    "word": "Spoon",
+    "hints": [
+      "You stir your coffee with it",
+      "It carries soup to your mouth",
+      "Wooden, silver or plastic, it never cuts"
+    ]
+  },
+  {
+    "word": "Plate",
+    "hints": [
+      "Your dinner is served on it",
+      "Round, flat and easily broken",
+      "You clear it before the sweet course"
+    ]
+  },
+  {
+    "word": "Bakery",
+    "hints": [
+      "Its smell reaches the street",
+      "Bread and croissants leave its ovens each morning",
+      "You queue there on Sunday morning"
+    ]
+  },
+  {
+    "word": "Dessert",
+    "hints": [
+      "It closes the meal",
+      "Children always keep room for it",
+      "Cake, ice cream or fruit, but always last"
+    ]
+  },
+  {
+    "word": "Noodle",
+    "hints": [
+      "Long, thin and boiled",
+      "Asia serves them in soup, Italy with sauce",
+      "You twist them around a fork"
+    ]
+  },
+  {
+    "word": "Vinegar",
+    "hints": [
+      "Sour enough to make you blink",
+      "Oil is its partner in a dressing",
+      "Wine that turned bad becomes it"
+    ]
+  },
+  {
+    "word": "Apron",
+    "hints": [
+      "You tie it behind your back",
+      "It takes the splashes instead of your shirt",
+      "Chefs and grandmothers both wear one"
+    ]
+  },
+  {
+    "word": "Elbow",
+    "hints": [
+      "It folds your arm in two",
+      "You lean on it at the table",
+      "Knock it and a shock runs to your hand"
+    ]
+  },
+  {
+    "word": "Finger",
+    "hints": [
+      "There are five on each hand",
+      "You point, count and type with them",
+      "One of them wears a ring"
+    ]
+  },
+  {
+    "word": "Shoulder",
+    "hints": [
+      "Bags hang from it",
+      "It is where the arm meets the body",
+      "A friend offers one to cry on"
+    ]
+  },
+  {
+    "word": "Ankle",
+    "hints": [
+      "It joins the foot to the leg",
+      "Runners twist it on uneven ground",
+      "Socks stop just above it"
+    ]
+  },
+  {
+    "word": "Throat",
+    "hints": [
+      "Food and air both pass through it",
+      "It turns sore before a cold arrives",
+      "Singers protect it with honey"
+    ]
+  },
+  {
+    "word": "Tongue",
+    "hints": [
+      "It knows salt from sugar",
+      "It moves whenever you speak",
+      "Children stick it out to be rude"
+    ]
+  },
+  {
+    "word": "Muscle",
+    "hints": [
+      "It contracts and the bone follows",
+      "Weightlifters make them grow",
+      "The heart is the one that never rests"
+    ]
+  },
+  {
+    "word": "Kidney",
+    "hints": [
+      "You have two, and can live with one",
+      "It filters what the blood must lose",
+      "Its shape gave a bean its name"
+    ]
+  },
+  {
+    "word": "Thumb",
+    "hints": [
+      "The shortest of the five, and the strongest",
+      "It faces the other four",
+      "Gardeners are said to have a green one"
+    ]
+  },
+  {
+    "word": "Wrist",
+    "hints": [
+      "A watch is worn on it",
+      "It joins the hand to the arm",
+      "Tennis players strap it up"
+    ]
+  },
+  {
+    "word": "Spine",
+    "hints": [
+      "A stack of small bones",
+      "It runs from the neck to the hips",
+      "A book has one too"
+    ]
+  },
+  {
+    "word": "Eyebrow",
+    "hints": [
+      "It sits just above the eye",
+      "Raise it and you look surprised",
+      "Some people pluck them thin"
+    ]
+  },
+  {
+    "word": "Knee",
+    "hints": [
+      "It folds the leg in two",
+      "Footballers injure it more than anything else",
+      "You go down on one to propose"
+    ]
+  },
+  {
+    "word": "Stomach",
+    "hints": [
+      "It growls when you skip lunch",
+      "Food goes there first",
+      "Butterflies are said to gather in it"
+    ]
+  },
+  {
+    "word": "Street",
+    "hints": [
+      "Houses stand on either side of it",
+      "Cars park along it and children cross it",
+      "It has a name, and every door has a number"
+    ]
+  },
+  {
+    "word": "Market",
+    "hints": [
+      "The stalls go up early and come down at noon",
+      "You haggle over vegetables there",
+      "It fills the square once a week"
+    ]
+  },
+  {
+    "word": "Bridge",
+    "hints": [
+      "It carries you over the water",
+      "Stone, iron or rope, it always spans a gap",
+      "San Francisco painted its most famous one red"
+    ]
+  },
+  {
+    "word": "Museum",
+    "hints": [
+      "Its rooms are full of glass cases",
+      "You walk slowly and speak quietly inside",
+      "The Louvre is the best known of them"
+    ]
+  },
+  {
+    "word": "Library",
+    "hints": [
+      "Silence is the rule inside",
+      "You borrow, and you give back",
+      "Its shelves run from floor to ceiling"
+    ]
+  },
+  {
+    "word": "Avenue",
+    "hints": [
+      "Wider than an ordinary street, and usually planted",
+      "Paris made its most famous one end at an arch",
+      "It is a city's grandest address"
+    ]
+  },
+  {
+    "word": "Traffic",
+    "hints": [
+      "It builds up at six in the evening",
+      "Horns, brake lights and no progress",
+      "Lights and roundabouts try to tame it"
+    ]
+  },
+  {
+    "word": "Subway",
+    "hints": [
+      "It runs beneath the city",
+      "You buy a ticket and go down the stairs",
+      "London calls its own the Tube"
+    ]
+  },
+  {
+    "word": "Station",
+    "hints": [
+      "Trains stop there and people get off",
+      "A clock, a platform and a departure board",
+      "You run through it when you are late"
+    ]
+  },
+  {
+    "word": "Square",
+    "hints": [
+      "Four sides and something in the middle",
+      "Cafés put their tables out around it",
+      "Crowds gather there on New Year's Eve"
+    ]
+  },
+  {
+    "word": "Sidewalk",
+    "hints": [
+      "Cars have no business on it",
+      "It runs beside the road, raised by a curb",
+      "Children avoid stepping on its cracks"
+    ]
+  },
+  {
+    "word": "Fountain",
+    "hints": [
+      "Water shoots up and falls back into a basin",
+      "Coins are thrown in for luck",
+      "Rome built the most famous ones"
+    ]
+  },
+  {
+    "word": "Suburb",
+    "hints": [
+      "It rings the city without being in it",
+      "Houses, gardens and a long commute",
+      "People move there when a second child arrives"
+    ]
+  },
+  {
+    "word": "Alley",
+    "hints": [
+      "Two buildings leave barely enough room",
+      "Bins, cats and a useful shortcut",
+      "Detectives always find something in a dark one"
+    ]
+  },
+  {
+    "word": "Bicycle",
+    "hints": [
+      "Two wheels and no engine",
+      "You pedal it, and you never forget how",
+      "Its riders race around France every July"
+    ]
+  },
+  {
+    "word": "Scooter",
+    "hints": [
+      "Smaller than a motorbike and far easier to park",
+      "Rome is full of them",
+      "Children have one without any engine"
+    ]
+  },
+  {
+    "word": "Tractor",
+    "hints": [
+      "It works the fields all day long",
+      "Huge wheels behind, small ones in front",
+      "It drags a plow or a trailer"
+    ]
+  },
+  {
+    "word": "Shuttle",
+    "hints": [
+      "It goes there and back, all day long",
+      "Airports run one out to the parking lots",
+      "NASA gave the name to a spacecraft"
+    ]
+  },
+  {
+    "word": "Taxi",
+    "hints": [
+      "You raise an arm to stop it",
+      "A meter runs while you sit",
+      "New York painted them all yellow"
+    ]
+  },
+  {
+    "word": "Engine",
+    "hints": [
+      "It sits under the hood",
+      "Pistons, oil and a great deal of noise",
+      "Without it the car goes nowhere"
+    ]
+  },
+  {
+    "word": "Wagon",
+    "hints": [
+      "Horses used to pull it",
+      "Four wheels, an open bed and no motor",
+      "Settlers crossed America in trains of them"
+    ]
+  },
+  {
+    "word": "Tunnel",
+    "hints": [
+      "You go through the hill instead of over it",
+      "Lights overhead and no daylight at all",
+      "One runs under the sea between France and England"
+    ]
+  },
+  {
+    "word": "Airport",
+    "hints": [
+      "You are told to arrive two hours early",
+      "Runways, baggage belts and departure boards",
+      "Everyone waves goodbye at its gates"
+    ]
+  },
+  {
+    "word": "Ticket",
+    "hints": [
+      "Keep it until the journey ends",
+      "An inspector will ask to see it",
+      "Lose it and you pay a second time"
+    ]
+  },
+  {
+    "word": "Railway",
+    "hints": [
+      "Two rails and a great many sleepers",
+      "It crosses the country in a straight line",
+      "Steam ran on it long before diesel"
+    ]
+  },
+  {
+    "word": "Luggage",
+    "hints": [
+      "You check it in and hope to see it again",
+      "It goes round and round on a belt",
+      "Wheels made it far easier to move"
+    ]
+  },
+  {
+    "word": "Platform",
+    "hints": [
+      "You wait on it, behind a yellow line",
+      "Trains pull in alongside it",
+      "One at King's Cross carries a magic number"
+    ]
+  },
+  {
+    "word": "Trailer",
+    "hints": [
+      "It has no motor of its own",
+      "A hitch links it to the car in front",
+      "Cinemas use the same word for a short preview"
+    ]
+  },
+  {
+    "word": "Guitar",
+    "hints": [
+      "Six strings over a wooden body",
+      "You strum it around a campfire",
+      "Rock made it the loudest thing on stage"
+    ]
+  },
+  {
+    "word": "Piano",
+    "hints": [
+      "Eighty-eight keys, black and white",
+      "You need both hands and a stool",
+      "Its lid hides hammers and strings"
+    ]
+  },
+  {
+    "word": "Violin",
+    "hints": [
+      "You tuck it under your chin",
+      "A bow crosses its four strings",
+      "The finest ones came out of Cremona"
+    ]
+  },
+  {
+    "word": "Trumpet",
+    "hints": [
+      "Brass, three valves and a lot of air",
+      "It opens the parade and calls the charge",
+      "Jazz gave it its greatest players"
+    ]
+  },
+  {
+    "word": "Melody",
+    "hints": [
+      "It is the part you hum afterwards",
+      "Notes in a line, not in a stack",
+      "A good one stays in your head all day"
+    ]
+  },
+  {
+    "word": "Rhythm",
+    "hints": [
+      "Your foot follows it without being asked",
+      "Drums keep it steady",
+      "It is what makes a room start dancing"
+    ]
+  },
+  {
+    "word": "Concert",
+    "hints": [
+      "Tickets, a stage and a crowd",
+      "The music happens once, and never the same way twice",
+      "Encores are demanded at the end"
+    ]
+  },
+  {
+    "word": "Singer",
+    "hints": [
+      "The voice at the front of the band",
+      "Microphone in hand, lyrics in memory",
+      "This is the face on the poster"
+    ]
+  },
+  {
+    "word": "Chorus",
+    "hints": [
+      "It returns after every verse",
+      "This is where everybody joins in",
+      "It is the bit you still remember in the morning"
+    ]
+  },
+  {
+    "word": "Flute",
+    "hints": [
+      "You hold it sideways and blow across it",
+      "Silver, light, and very high",
+      "A magic one gave Mozart an opera"
+    ]
+  },
+  {
+    "word": "Banjo",
+    "hints": [
+      "A round body with skin stretched across it",
+      "Bluegrass could not exist without it",
+      "Five strings, plucked very fast"
+    ]
+  },
+  {
+    "word": "Tempo",
+    "hints": [
+      "It says how fast, never how loud",
+      "A metronome keeps it honest",
+      "Slow it down and the same piece turns sad"
+    ]
+  },
+  {
+    "word": "Drummer",
+    "hints": [
+      "Sits at the back, behind the cymbals",
+      "Holds two sticks and keeps everyone together",
+      "Every joke about bands is aimed at this one"
+    ]
+  },
+  {
+    "word": "Harmony",
+    "hints": [
+      "Two voices that agree",
+      "Notes stacked instead of laid in a line",
+      "Choirs live on it"
+    ]
+  },
+  {
+    "word": "Soccer",
+    "hints": [
+      "Eleven a side and a single round ball",
+      "Hands are forbidden to all but one player",
+      "The World Cup is its greatest prize"
+    ]
+  },
+  {
+    "word": "Tennis",
+    "hints": [
+      "Two or four players, one net",
+      "Love means zero in its scoring",
+      "Wimbledon plays it on grass"
+    ]
+  },
+  {
+    "word": "Hockey",
+    "hints": [
+      "Sticks, a puck and a lot of ice",
+      "Canada treats it as a religion",
+      "Players change without stopping the clock"
+    ]
+  },
+  {
+    "word": "Referee",
+    "hints": [
+      "A whistle and a very hard job",
+      "Everyone in the stadium disagrees with this person",
+      "Cards come out of this one's pocket"
+    ]
+  },
+  {
+    "word": "Stadium",
+    "hints": [
+      "Tiers of seats built around a field",
+      "Eighty thousand people fit into a big one",
+      "It roars when the home side scores"
+    ]
+  },
+  {
+    "word": "Medal",
+    "hints": [
+      "It hangs from a ribbon",
+      "Gold, silver or bronze",
+      "Winners bite it for the photographers"
+    ]
+  },
+  {
+    "word": "Racket",
+    "hints": [
+      "Strings across a frame, and a handle",
+      "You restring it when the tension drops",
+      "Tennis and badminton both need one"
+    ]
+  },
+  {
+    "word": "Marathon",
+    "hints": [
+      "Forty-two kilometers and a bit",
+      "A Greek messenger gave it its name",
+      "Runners hit a wall around the thirtieth kilometer"
+    ]
+  },
+  {
+    "word": "Trophy",
+    "hints": [
+      "The captain lifts it over the head",
+      "Silver, and usually with two handles",
+      "Its base carries the names of past winners"
+    ]
+  },
+  {
+    "word": "Jersey",
+    "hints": [
+      "It carries a number and a name",
+      "Players swap them at the final whistle",
+      "The yellow one leads the Tour de France"
+    ]
+  },
+  {
+    "word": "Athlete",
+    "hints": [
+      "Trains twice a day, every day",
+      "Diet, sleep and repetition rule this life",
+      "The Olympic Games exist for them"
+    ]
+  },
+  {
+    "word": "Helmet",
+    "hints": [
+      "Hard outside, padded inside",
+      "Cyclists and builders both wear one",
+      "The law made it compulsory on two wheels"
+    ]
+  },
+  {
+    "word": "Goalie",
+    "hints": [
+      "The one wearing gloves",
+      "Stands between two posts",
+      "The only player who may use both hands"
+    ]
+  },
+  {
+    "word": "Coach",
+    "hints": [
+      "Never plays, yet decides everything",
+      "Draws diagrams on a small board",
+      "Gets fired when the team keeps losing"
+    ]
+  },
+  {
+    "word": "Teacher",
+    "hints": [
+      "Stands at the front all day long",
+      "Marks your work in red",
+      "Half the class hopes to be liked by this one"
+    ]
+  },
+  {
+    "word": "Pencil",
+    "hints": [
+      "Wood outside, graphite inside",
+      "You sharpen it and it gets shorter",
+      "Mistakes made with it can be rubbed out"
+    ]
+  },
+  {
+    "word": "Ruler",
+    "hints": [
+      "Straight, flat, and marked along one edge",
+      "You draw a straight line against it",
+      "Thirty centimeters is the usual length"
+    ]
+  },
+  {
+    "word": "Homework",
+    "hints": [
+      "It follows you home",
+      "The dog is traditionally blamed for eating it",
+      "It is due first thing tomorrow"
+    ]
+  },
+  {
+    "word": "Lesson",
+    "hints": [
+      "It lasts about an hour",
+      "The bell brings it to an end",
+      "Learn from a mistake and you have had one"
+    ]
+  },
+  {
+    "word": "Chalk",
+    "hints": [
+      "It squeaks against the board",
+      "White dust all over the fingers",
+      "The cliffs at Dover are made of it"
+    ]
+  },
+  {
+    "word": "Backpack",
+    "hints": [
+      "It hangs from both shoulders",
+      "Books make it far too heavy",
+      "Travelers live out of one for months"
+    ]
+  },
+  {
+    "word": "Notebook",
+    "hints": [
+      "Blank pages held together by a spiral",
+      "You write the date at the top of each page",
+      "The first page is always the neatest"
+    ]
+  },
+  {
+    "word": "Diploma",
+    "hints": [
+      "It gets framed and hung on a wall",
+      "Years of work compressed into a single sheet",
+      "You collect it wearing a very odd hat"
+    ]
+  },
+  {
+    "word": "Student",
+    "hints": [
+      "Lives on little money and less sleep",
+      "Takes notes and sits exams",
+      "Libraries fill up with them in June"
+    ]
+  },
+  {
+    "word": "Recess",
+    "hints": [
+      "The bell sets everyone free for fifteen minutes",
+      "The yard fills with noise",
+      "It always ends far too quickly"
+    ]
+  },
+  {
+    "word": "Alphabet",
+    "hints": [
+      "Twenty-six letters in English",
+      "Children sing it before they can read",
+      "Dictionaries follow its order"
+    ]
+  },
+  {
+    "word": "College",
+    "hints": [
+      "You go there once school is finished",
+      "Lectures, a campus and late nights",
+      "Americans apply to several at once"
+    ]
+  },
+  {
+    "word": "Campus",
+    "hints": [
+      "Lawns, libraries and lecture halls together",
+      "You cross it on a bicycle",
+      "Students live on it in halls"
+    ]
+  },
+  {
+    "word": "Anchor",
+    "hints": [
+      "It bites into the seabed",
+      "The chain rattles as it goes down",
+      "A ship that drops one is staying put"
+    ]
+  },
+  {
+    "word": "Harbor",
+    "hints": [
+      "Boats are safe from the swell inside it",
+      "Masts, ropes and gulls",
+      "A wall keeps the open sea out of it"
+    ]
+  },
+  {
+    "word": "Sailor",
+    "hints": [
+      "Months at sea, then a few weeks ashore",
+      "Knots, night watches and a tattoo",
+      "Popeye is the best known of them"
+    ]
+  },
+  {
+    "word": "Seagull",
+    "hints": [
+      "It follows the fishing boats home",
+      "It will take chips straight out of your hand",
+      "Its cry is the sound of the coast"
+    ]
+  },
+  {
+    "word": "Captain",
+    "hints": [
+      "The last to leave the ship",
+      "Four stripes on the sleeve",
+      "Ahab was one, and obsessed with a whale"
+    ]
+  },
+  {
+    "word": "Compass",
+    "hints": [
+      "Its needle knows where north lies",
+      "Sailors trusted it long before satellites",
+      "It sits in a bowl, level whatever the swell"
+    ]
+  },
+  {
+    "word": "Cargo",
+    "hints": [
+      "It fills the hold",
+      "Containers stacked six high",
+      "A ship that carries nothing else is named after it"
+    ]
+  },
+  {
+    "word": "Tide",
+    "hints": [
+      "It comes in and goes out twice a day",
+      "The moon is what pulls it",
+      "Wait for the high one before you sail"
+    ]
+  },
+  {
+    "word": "Reef",
+    "hints": [
+      "Coral built it, ship by ship it broke them",
+      "Divers love it and captains fear it",
+      "Australia has the Great Barrier one"
+    ]
+  },
+  {
+    "word": "Shore",
+    "hints": [
+      "The line where land gives way to water",
+      "You walk along it looking for shells",
+      "Sailors long for it after weeks away"
+    ]
+  },
+  {
+    "word": "Seaweed",
+    "hints": [
+      "It wraps around your ankles when you swim",
+      "Japan wraps rice in it",
+      "It lies in dark ribbons along the beach"
+    ]
+  },
+  {
+    "word": "Yacht",
+    "hints": [
+      "Sails, a deck and no freight",
+      "Monaco fills its port with them",
+      "You own one for pleasure, never for work"
+    ]
+  },
+  {
+    "word": "Current",
+    "hints": [
+      "It moves the water with no wind at all",
+      "Swimmers get pulled sideways by it",
+      "The Gulf Stream is the famous one"
+    ]
+  },
+  {
+    "word": "Voyage",
+    "hints": [
+      "Weeks of nothing but open water",
+      "Magellan's went all the way round",
+      "It ends the moment land is sighted"
+    ]
+  },
+  {
+    "word": "Cloud",
+    "hints": [
+      "It drifts between you and the sun",
+      "Children find animals in them",
+      "Rain falls when it can hold no more"
+    ]
+  },
+  {
+    "word": "Storm",
+    "hints": [
+      "The sky goes dark in the middle of the day",
+      "Wind, rain and a great deal of noise",
+      "Sailors either run before it or ride it out"
+    ]
+  },
+  {
+    "word": "Rainbow",
+    "hints": [
+      "It needs sun and rain at the same moment",
+      "Seven colors bent into an arch",
+      "A pot of gold is said to sit at its end"
+    ]
+  },
+  {
+    "word": "Thunder",
+    "hints": [
+      "It always arrives after the flash",
+      "Count the seconds and you know how far away it is",
+      "Dogs hide under the bed when it starts"
+    ]
+  },
+  {
+    "word": "Sunset",
+    "hints": [
+      "The sky turns orange, then red",
+      "Couples photograph it and post it",
+      "Cowboys ride into it at the end of the film"
+    ]
+  },
+  {
+    "word": "Comet",
+    "hints": [
+      "Ice and dust, with a tail streaming behind",
+      "Halley's returns every seventy-six years",
+      "People once read them as omens"
+    ]
+  },
+  {
+    "word": "Planet",
+    "hints": [
+      "It circles a star and shines by borrowed light",
+      "Earth is one, and so is Mars",
+      "Eight of them belong to our system"
+    ]
+  },
+  {
+    "word": "Meteor",
+    "hints": [
+      "A streak of light, gone in a second",
+      "People wish on it",
+      "One that survives the fall gets a new name"
+    ]
+  },
+  {
+    "word": "Horizon",
+    "hints": [
+      "The line where sky and earth seem to touch",
+      "Ships disappear over it",
+      "The sun goes down at it every evening"
+    ]
+  },
+  {
+    "word": "Frost",
+    "hints": [
+      "The grass turns white overnight",
+      "You scrape it off the car in winter",
+      "It draws patterns on the window"
+    ]
+  },
+  {
+    "word": "Twilight",
+    "hints": [
+      "The light that is left when the sun has gone",
+      "It sits between day and night",
+      "Photographers call it the blue hour"
+    ]
+  },
+  {
+    "word": "Blizzard",
+    "hints": [
+      "Snow so thick the road disappears",
+      "Wind turns falling snow into a wall",
+      "Whole cities shut down for one"
+    ]
+  },
+  {
+    "word": "Sunrise",
+    "hints": [
+      "The first light over the hills",
+      "Birds start before it",
+      "Farmers and bakers are already awake for it"
+    ]
+  },
+  {
+    "word": "Galaxy",
+    "hints": [
+      "Billions of stars held together by gravity",
+      "Ours is called the Milky Way",
+      "Andromeda is our nearest neighbor"
+    ]
+  },
+  {
+    "word": "Jacket",
+    "hints": [
+      "It stops at the waist",
+      "You put it on last and take it off first",
+      "Leather, denim or wool, it always has sleeves"
+    ]
+  },
+  {
+    "word": "Sweater",
+    "hints": [
+      "Wool, knitted, and pulled over the head",
+      "Grandmothers give one every Christmas",
+      "It itches when the wool is cheap"
+    ]
+  },
+  {
+    "word": "Scarf",
+    "hints": [
+      "It goes around the neck twice",
+      "Wool in winter, silk in summer",
+      "Football fans hold theirs above their heads"
+    ]
+  },
+  {
+    "word": "Glove",
+    "hints": [
+      "Five fingers, worn on one hand",
+      "You lose one and keep the other for years",
+      "Boxers and surgeons both wear a pair"
+    ]
+  },
+  {
+    "word": "Button",
+    "hints": [
+      "It slips through a small slit",
+      "Sewing one back on takes two minutes",
+      "The top one is usually left undone"
+    ]
+  },
+  {
+    "word": "Skirt",
+    "hints": [
+      "It hangs from the waist and has no legs",
+      "Pleated, straight or flared",
+      "Scotsmen wear their own version of it"
+    ]
+  },
+  {
+    "word": "Pocket",
+    "hints": [
+      "Keys and coins end up in it",
+      "Hands go in when the wind turns cold",
+      "Some are sewn shut when the garment is new"
+    ]
+  },
+  {
+    "word": "Collar",
+    "hints": [
+      "It frames the neck of a shirt",
+      "You turn it up against the wind",
+      "Dogs wear one too"
+    ]
+  },
+  {
+    "word": "Ribbon",
+    "hints": [
+      "It ties a parcel or a plait",
+      "Narrow, flat and easy to curl",
+      "Awards hang from one"
+    ]
+  },
+  {
+    "word": "Slipper",
+    "hints": [
+      "You put them on the moment you get home",
+      "Soft, warm, and never worn outdoors",
+      "Cinderella lost one made of glass"
+    ]
+  },
+  {
+    "word": "Uniform",
+    "hints": [
+      "Everybody wears exactly the same one",
+      "Schools, armies and airlines all impose one",
+      "It tells you someone's job at a glance"
+    ]
+  },
+  {
+    "word": "Costume",
+    "hints": [
+      "You wear one to be someone else for an evening",
+      "Actors are fitted for theirs",
+      "Halloween sells them by the million"
+    ]
+  },
+  {
+    "word": "Sleeve",
+    "hints": [
+      "The arm goes through it",
+      "Roll them up when the work starts",
+      "Cards are said to hide up one"
+    ]
+  },
+  {
+    "word": "Boot",
+    "hints": [
+      "It covers the ankle, sometimes the calf",
+      "Walkers, riders and soldiers all wear them",
+      "Rain is no problem in the rubber kind"
+    ]
+  },
+  {
+    "word": "Candle",
+    "hints": [
+      "Wax outside, a wick down the middle",
+      "You light one when the power fails",
+      "Children blow them out on a cake"
+    ]
+  },
+  {
+    "word": "Basket",
+    "hints": [
+      "Woven, with a handle across the top",
+      "Picnics travel in one",
+      "Cats sleep in one by the fire"
+    ]
+  },
+  {
+    "word": "Bottle",
+    "hints": [
+      "Narrow neck, wide body",
+      "A cork or a cap closes it",
+      "Messages are said to travel in one"
+    ]
+  },
+  {
+    "word": "Hammer",
+    "hints": [
+      "It drives a nail home in three blows",
+      "A steel head on a wooden handle",
+      "Hit your thumb once and you never forget"
+    ]
+  },
+  {
+    "word": "Umbrella",
+    "hints": [
+      "It opens above your head",
+      "The wind turns it inside out",
+      "You leave it on the train the day the rain stops"
+    ]
+  },
+  {
+    "word": "Wallet",
+    "hints": [
+      "It lives in a back pocket",
+      "Cards, notes and one very old receipt",
+      "Losing it ruins a whole week"
+    ]
+  },
+  {
+    "word": "Camera",
+    "hints": [
+      "It catches a moment through a lens",
+      "Film once, memory cards now",
+      "Everyone carries one inside a phone"
+    ]
+  },
+  {
+    "word": "Brush",
+    "hints": [
+      "Bristles set into a handle",
+      "One for hair, one for teeth, one for paint",
+      "Dip it in the pot and start on the wall"
+    ]
+  },
+  {
+    "word": "Needle",
+    "hints": [
+      "A thread goes through its eye",
+      "Sewing begins with threading it",
+      "Finding one in a haystack is the proverb"
+    ]
+  },
+  {
+    "word": "Lantern",
+    "hints": [
+      "A flame kept safe behind glass",
+      "Miners and campers carry one",
+      "Chinese festivals fill the sky with them"
+    ]
+  },
+  {
+    "word": "Magnet",
+    "hints": [
+      "It pulls iron toward itself",
+      "It holds notes on the fridge door",
+      "One end pushes, the other pulls"
+    ]
+  },
+  {
+    "word": "Broom",
+    "hints": [
+      "You sweep the floor with it",
+      "A long handle and stiff bristles",
+      "Witches are said to fly on one"
+    ]
+  },
+  {
+    "word": "Scissors",
+    "hints": [
+      "Two blades joined at a pivot",
+      "Left-handed people struggle with most of them",
+      "They beat paper and lose to stone"
+    ]
+  },
+  {
+    "word": "Rope",
+    "hints": [
+      "Strands twisted into one strong line",
+      "Sailors and climbers cannot do without it",
+      "Two teams pull on one in the schoolyard game"
+    ]
+  },
+  {
+    "word": "Baker",
+    "hints": [
+      "Up at four, finished by noon",
+      "Flour up to the elbows",
+      "Bread and croissants are the whole day's work"
+    ]
+  },
+  {
+    "word": "Doctor",
+    "hints": [
+      "A white coat and a stethoscope",
+      "Says it is nothing, then writes a prescription",
+      "Ten years of study before the first patient"
+    ]
+  },
+  {
+    "word": "Farmer",
+    "hints": [
+      "Up with the animals, in bed with the sun",
+      "Depends entirely on the weather",
+      "Tractors, fields and no holidays"
+    ]
+  },
+  {
+    "word": "Painter",
+    "hints": [
+      "A ladder, a pot and a wide brush",
+      "Covers walls, or canvases",
+      "White overalls, forever spotted"
+    ]
+  },
+  {
+    "word": "Lawyer",
+    "hints": [
+      "A black robe and a very thick file",
+      "Argues your case in front of a judge",
+      "Charges by the hour"
+    ]
+  },
+  {
+    "word": "Plumber",
+    "hints": [
+      "Called out at the worst possible hour",
+      "Pipes, joints and a heavy wrench",
+      "The leak stops when this one arrives"
+    ]
+  },
+  {
+    "word": "Engineer",
+    "hints": [
+      "Designs it before anyone builds it",
+      "Bridges, motors and software all need one",
+      "Maths and drawings fill the day"
+    ]
+  },
+  {
+    "word": "Waiter",
+    "hints": [
+      "Takes the order and never writes it down",
+      "Balances three plates along one arm",
+      "Reappears exactly when your mouth is full"
+    ]
+  },
+  {
+    "word": "Dentist",
+    "hints": [
+      "Asks you to open wide",
+      "A drill, some cotton and a small mirror on a stick",
+      "Nobody looks forward to the appointment"
+    ]
+  },
+  {
+    "word": "Butcher",
+    "hints": [
+      "A white apron and a very sharp knife",
+      "Cuts, weighs and wraps",
+      "Knows every cut by its name"
+    ]
+  },
+  {
+    "word": "Florist",
+    "hints": [
+      "Works in water and green stems all day",
+      "Wraps a bouquet in seconds",
+      "Valentine's Day is the busiest of the year"
+    ]
+  },
+  {
+    "word": "Barber",
+    "hints": [
+      "Scissors, clippers and a large mirror",
+      "A striped pole marks the shop",
+      "Talks about football throughout"
+    ]
+  },
+  {
+    "word": "Chef",
+    "hints": [
+      "Wears a tall white hat",
+      "Runs the kitchen and calls the orders",
+      "Stars are awarded to the very best"
+    ]
+  },
+  {
+    "word": "Pilot",
+    "hints": [
+      "Sits at the very front of the plane",
+      "Announces the weather at the destination",
+      "Four stripes and a peaked cap"
+    ]
+  },
+  {
+    "word": "Lake",
+    "hints": [
+      "Water with land on every side",
+      "You row across it rather than sail around it",
+      "Scotland hides a monster in one"
+    ]
+  },
+  {
+    "word": "Hill",
+    "hints": [
+      "Higher than the field, lower than a mountain",
+      "You are out of breath by the top",
+      "Rome was built on seven of them"
+    ]
+  },
+  {
+    "word": "Leaf",
+    "hints": [
+      "Green in summer, brown in October",
+      "It falls, and somebody has to sweep it up",
+      "The tree feeds itself through it"
+    ]
+  },
+  {
+    "word": "Rock",
+    "hints": [
+      "Hard, heavy and older than everything around it",
+      "Climbers hang from it by their fingers",
+      "It beats scissors in the game"
+    ]
+  },
+  {
+    "word": "Wolf",
+    "hints": [
+      "It hunts in a pack",
+      "It howls at the moon",
+      "Three little pigs were afraid of one"
+    ]
+  },
+  {
+    "word": "Duck",
+    "hints": [
+      "It swims, it waddles and it quacks",
+      "Children throw bread at them in the park",
+      "An ugly one grew up to be a swan"
+    ]
+  },
+  {
+    "word": "Goat",
+    "hints": [
+      "It climbs where nothing else can stand",
+      "Its milk makes a famous cheese",
+      "It is said to eat absolutely anything"
+    ]
+  },
+  {
+    "word": "Crab",
+    "hints": [
+      "It walks sideways",
+      "Two claws and a hard shell",
+      "You find one under a rock at low tide"
+    ]
+  },
+  {
+    "word": "Door",
+    "hints": [
+      "You knock before opening it",
+      "A handle, two hinges and a lock",
+      "Slamming it ends the argument"
+    ]
+  },
+  {
+    "word": "Roof",
+    "hints": [
+      "Tiles or slate, sloped so the rain runs off",
+      "The chimney comes up through it",
+      "Cats stretch out on hot ones in summer"
+    ]
+  },
+  {
+    "word": "Lamp",
+    "hints": [
+      "It stands on the bedside table",
+      "A bulb, a shade and a switch",
+      "Rub the magic one and a genie appears"
+    ]
+  },
+  {
+    "word": "Desk",
+    "hints": [
+      "You sit at it to work",
+      "Drawers underneath, a lamp on top",
+      "Pupils carve their initials into it"
+    ]
+  },
+  {
+    "word": "Salt",
+    "hints": [
+      "A pinch changes everything",
+      "It comes out of the sea or out of a mine",
+      "Too much and the soup is ruined"
+    ]
+  },
+  {
+    "word": "Soup",
+    "hints": [
+      "Hot, liquid, and eaten with a spoon",
+      "Vegetables end up in it",
+      "It is what you want when you are ill"
+    ]
+  },
+  {
+    "word": "Fork",
+    "hints": [
+      "Four prongs on a handle",
+      "It holds the meat while the knife cuts",
+      "Pasta gets twisted around it"
+    ]
+  },
+  {
+    "word": "Cake",
+    "hints": [
+      "Candles are stuck into the top of it",
+      "Flour, eggs, sugar and an hour of heat",
+      "You blow, and everybody claps"
+    ]
+  },
+  {
+    "word": "Nose",
+    "hints": [
+      "It smells dinner before you see it",
+      "It runs when you catch a cold",
+      "Pinocchio's grew whenever he lied"
+    ]
+  },
+  {
+    "word": "Chin",
+    "hints": [
+      "It sits just below the mouth",
+      "Boxers are told to keep it up",
+      "A beard grows all over it"
+    ]
+  },
+  {
+    "word": "Lung",
+    "hints": [
+      "You have two, and neither ever rests",
+      "It fills when you breathe in",
+      "Smoke is its worst enemy"
+    ]
+  },
+  {
+    "word": "Hair",
+    "hints": [
+      "It grows back after every cut",
+      "Blonde, brown, red or gray",
+      "A barber charges to shorten it"
+    ]
+  },
+  {
+    "word": "Park",
+    "hints": [
+      "Grass, benches and dogs off the leash",
+      "Children go straight for the swings",
+      "New York keeps a very central one"
+    ]
+  },
+  {
+    "word": "Shop",
+    "hints": [
+      "You go in with money and come out with a bag",
+      "A bell rings when the door opens",
+      "Its window is dressed to tempt you"
+    ]
+  },
+  {
+    "word": "Road",
+    "hints": [
+      "Cars, trucks and a white line down the middle",
+      "It leads somewhere, eventually",
+      "All of them are said to lead to Rome"
+    ]
+  },
+  {
+    "word": "Bank",
+    "hints": [
+      "Money sleeps there",
+      "Cards, loans and a great deal of paperwork",
+      "It closes exactly when you need it"
+    ]
+  },
+  {
+    "word": "Bus",
+    "hints": [
+      "You wait for one and three arrive together",
+      "It stops every two hundred meters",
+      "London painted its own bright red"
+    ]
+  },
+  {
+    "word": "Boat",
+    "hints": [
+      "It floats and takes you across",
+      "Oars, a sail or a small motor",
+      "Rocking it is a very bad idea"
+    ]
+  },
+  {
+    "word": "Bike",
+    "hints": [
+      "Two wheels and a chain",
+      "You learn once and never forget",
+      "It needs a lock in every city"
+    ]
+  },
+  {
+    "word": "Train",
+    "hints": [
+      "Carriages coupled one behind another",
+      "It runs on rails and stops at platforms",
+      "You miss it by thirty seconds"
+    ]
+  },
+  {
+    "word": "Song",
+    "hints": [
+      "Words and music together",
+      "You know its chorus, never its verses",
+      "The radio plays the same one all summer"
+    ]
+  },
+  {
+    "word": "Note",
+    "hints": [
+      "It sits on a line or in a space",
+      "Whole, half or quarter, it has a length",
+      "Sing the wrong one and everybody hears"
+    ]
+  },
+  {
+    "word": "Drum",
+    "hints": [
+      "You hit it with two sticks",
+      "A skin stretched over a hollow body",
+      "It holds the whole band together"
+    ]
+  },
+  {
+    "word": "Choir",
+    "hints": [
+      "Many voices, one piece of music",
+      "Sopranos on one side, basses on the other",
+      "Schools and churches both keep one"
+    ]
+  },
+  {
+    "word": "Goal",
+    "hints": [
+      "Score one and the whole crowd stands up",
+      "A net stretched between two posts",
+      "In football, one is often enough"
+    ]
+  },
+  {
+    "word": "Team",
+    "hints": [
+      "Eleven of them play football",
+      "They all wear the same shirt",
+      "One player cannot beat a whole one"
+    ]
+  },
+  {
+    "word": "Race",
+    "hints": [
+      "First to the line wins",
+      "Runners, cars or horses, the rule is the same",
+      "A hare lost one to a tortoise"
+    ]
+  },
+  {
+    "word": "Ball",
+    "hints": [
+      "Round, and the whole game follows it",
+      "Leather, plastic or rubber",
+      "Twenty-two players chase one for ninety minutes"
+    ]
+  },
+  {
+    "word": "Book",
+    "hints": [
+      "Pages bound between two covers",
+      "You keep your place with a corner or a ribbon",
+      "Some are judged by their cover anyway"
+    ]
+  },
+  {
+    "word": "Exam",
+    "hints": [
+      "Silence, a clock and a single sheet",
+      "Everybody revises the night before",
+      "The results arrive in an envelope"
+    ]
+  },
+  {
+    "word": "Bell",
+    "hints": [
+      "It rings and everyone stands up",
+      "It marks the start and the end of every hour",
+      "Boxers get one at the end of a round"
+    ]
+  },
+  {
+    "word": "Class",
+    "hints": [
+      "Thirty pupils and one teacher",
+      "It has a number and a room of its own",
+      "You keep the photograph of yours for life"
+    ]
+  },
+  {
+    "word": "Wave",
+    "hints": [
+      "It rises, curls and breaks",
+      "Surfers wait hours for a good one",
+      "The wind is what makes it"
+    ]
+  },
+  {
+    "word": "Sand",
+    "hints": [
+      "Millions of grains under your feet",
+      "It gets into everything you brought with you",
+      "An hourglass measures time with it"
+    ]
+  },
+  {
+    "word": "Crew",
+    "hints": [
+      "Everyone aboard who is not a passenger",
+      "The captain gives them their orders",
+      "A film set has one too"
+    ]
+  },
+  {
+    "word": "Mast",
+    "hints": [
+      "The sail hangs from it",
+      "Lookouts used to climb to the top of it",
+      "It is the tallest part of a sailing ship"
+    ]
+  },
+  {
+    "word": "Moon",
+    "hints": [
+      "It changes shape over a month",
+      "It pulls the sea twice a day",
+      "Armstrong walked on it in 1969"
+    ]
+  },
+  {
+    "word": "Star",
+    "hints": [
+      "A distant sun, no bigger than a point from here",
+      "Sailors once steered by looking up at them",
+      "Ours is the nearest one, and we call it the Sun"
+    ]
+  },
+  {
+    "word": "Wind",
+    "hints": [
+      "You never see it, only what it moves",
+      "It turns the blades of a mill",
+      "Sailors name it by the direction it comes from"
+    ]
+  },
+  {
+    "word": "Snow",
+    "hints": [
+      "White flakes falling in silence",
+      "Children build things out of it",
+      "It closes schools and delights everyone under twelve"
+    ]
+  },
+  {
+    "word": "Shoe",
+    "hints": [
+      "A pair goes on your feet",
+      "Laces, a sole and a size",
+      "Cinderella left one behind"
+    ]
+  },
+  {
+    "word": "Sock",
+    "hints": [
+      "It goes on before the shoe",
+      "One of them always disappears in the wash",
+      "Wool for winter, cotton for summer"
+    ]
+  },
+  {
+    "word": "Coat",
+    "hints": [
+      "You put it on last, on the way out",
+      "It reaches the knees and buttons up",
+      "Winter is its only reason to exist"
+    ]
+  },
+  {
+    "word": "Belt",
+    "hints": [
+      "It threads through the loops",
+      "A buckle holds it tight",
+      "Judo awards a black one"
+    ]
+  },
+  {
+    "word": "Key",
+    "hints": [
+      "It turns in a lock",
+      "Lose it and you stand outside",
+      "Every one of them is cut differently"
+    ]
+  },
+  {
+    "word": "Cup",
+    "hints": [
+      "Tea and coffee are drunk from it",
+      "It has a handle and sits on a saucer",
+      "Winners lift a very large one"
+    ]
+  },
+  {
+    "word": "Soap",
+    "hints": [
+      "It makes bubbles under the tap",
+      "It slips straight out of wet hands",
+      "Twenty seconds of it kills the germs"
+    ]
+  },
+  {
+    "word": "Clock",
+    "hints": [
+      "Two hands going round at different speeds",
+      "It hangs on a wall or stands on a mantel",
+      "It strikes twelve at midnight"
+    ]
+  },
+  {
+    "word": "Cook",
+    "hints": [
+      "Prepares the meal for everyone else",
+      "Pots, pans and a hot stove",
+      "Too many of them spoil the broth"
+    ]
+  },
+  {
+    "word": "Actor",
+    "hints": [
+      "Learns the lines and repeats them every night",
+      "Is somebody else for a living",
+      "Awards are handed to the best of them"
+    ]
+  },
+  {
+    "word": "Guide",
+    "hints": [
+      "Walks backwards while talking",
+      "Holds an umbrella up so the group can follow",
+      "Knows every date of the monument by heart"
+    ]
+  },
+  {
+    "word": "Clerk",
+    "hints": [
+      "Sits behind a counter all day",
+      "Stamps, files and forms",
+      "Serves you just before closing time"
+    ]
+  },
+  {
+    "word": "Field",
+    "hints": [
+      "A farmer plows it in spring",
+      "Wheat or cows, but always flat and open",
+      "Football is played on one"
+    ]
+  },
+  {
+    "word": "Cave",
+    "hints": [
+      "It goes into the hillside and darkens fast",
+      "Bats hang from its ceiling",
+      "Early humans painted on its walls"
+    ]
+  },
+  {
+    "word": "Cliff",
+    "hints": [
+      "The land simply stops",
+      "Seabirds nest along its ledges",
+      "Dover has white ones"
+    ]
+  },
+  {
+    "word": "Pond",
+    "hints": [
+      "Smaller than a lake, larger than a puddle",
+      "Frogs and ducks share it",
+      "Children throw bread into it"
+    ]
+  },
+  {
+    "word": "Dune",
+    "hints": [
+      "The wind builds it, then moves it",
+      "Grass holds it together behind the beach",
+      "The Sahara is covered in them"
+    ]
+  },
+  {
+    "word": "Moss",
+    "hints": [
+      "Green, soft, and always in the shade",
+      "It grows on the north side of a trunk",
+      "A rolling stone gathers none"
+    ]
+  },
+  {
+    "word": "Root",
+    "hints": [
+      "It works entirely underground",
+      "It drinks for the whole plant",
+      "Pull it up and the plant dies"
+    ]
+  },
+  {
+    "word": "Seed",
+    "hints": [
+      "A whole tree is folded inside it",
+      "You put it in the soil and wait",
+      "Birds empty a feeder of them"
+    ]
+  },
+  {
+    "word": "Grass",
+    "hints": [
+      "You mow it every fortnight in summer",
+      "Cows spend the whole day eating it",
+      "It is always greener somewhere else"
+    ]
+  },
+  {
+    "word": "Bush",
+    "hints": [
+      "Lower than a tree, thicker than a flower",
+      "Berries hide inside it",
+      "A bird in the hand is worth two in it"
+    ]
+  },
+  {
+    "word": "Fern",
+    "hints": [
+      "Its leaves unroll like a shepherd's crook",
+      "It likes damp shade and old walls",
+      "It grew long before flowers existed"
+    ]
+  },
+  {
+    "word": "Vine",
+    "hints": [
+      "It climbs anything it touches",
+      "Grapes hang from it",
+      "Tarzan swings on one"
+    ]
+  },
+  {
+    "word": "Pebble",
+    "hints": [
+      "Smooth, round and easy to pocket",
+      "Some beaches are made of nothing else",
+      "You skim one across the water"
+    ]
+  },
+  {
+    "word": "Stream",
+    "hints": [
+      "Narrow enough to jump across",
+      "It ends up joining a river",
+      "It babbles over the stones"
+    ]
+  },
+  {
+    "word": "Marsh",
+    "hints": [
+      "The ground gives way under your boot",
+      "Reeds and birds, and very little else",
+      "Mist sits over it at dawn"
+    ]
+  },
+  {
+    "word": "Hedge",
+    "hints": [
+      "It marks where one garden ends",
+      "It gets clipped square every summer",
+      "Some are cut into the shape of animals"
+    ]
+  },
+  {
+    "word": "Cactus",
+    "hints": [
+      "It stores water and shares none",
+      "Do not sit on it",
+      "It survives where nothing else does"
+    ]
+  },
+  {
+    "word": "Palm",
+    "hints": [
+      "A bare trunk with a burst of leaves on top",
+      "Coconuts fall from it",
+      "Every desert island drawing has one"
+    ]
+  },
+  {
+    "word": "Cat",
+    "hints": [
+      "It purrs when pleased and ignores you otherwise",
+      "It sleeps sixteen hours a day",
+      "Egypt worshipped them"
+    ]
+  },
+  {
+    "word": "Dog",
+    "hints": [
+      "It fetches whatever you throw",
+      "It waits by the door all afternoon",
+      "We call it our best friend"
+    ]
+  },
+  {
+    "word": "Cow",
+    "hints": [
+      "It chews all day and gives milk",
+      "Black and white in the meadow",
+      "It has four stomachs"
+    ]
+  },
+  {
+    "word": "Pig",
+    "hints": [
+      "Pink, round, and happiest in mud",
+      "It grunts and roots about",
+      "Three of them each built a house"
+    ]
+  },
+  {
+    "word": "Hen",
+    "hints": [
+      "It lays what you eat at breakfast",
+      "It scratches around the yard all day",
+      "It came before the egg, or after"
+    ]
+  },
+  {
+    "word": "Bear",
+    "hints": [
+      "It sleeps through the entire winter",
+      "It scoops salmon out of a river",
+      "Children take a small one to bed"
+    ]
+  },
+  {
+    "word": "Deer",
+    "hints": [
+      "Antlers, and one leap over the fence",
+      "It freezes in the headlights",
+      "Bambi was one"
+    ]
+  },
+  {
+    "word": "Fox",
+    "hints": [
+      "Red coat and a very bushy tail",
+      "It raids bins at night, even in the city",
+      "Fables always make it the clever one"
+    ]
+  },
+  {
+    "word": "Lion",
+    "hints": [
+      "The male wears a mane",
+      "It is called the king of beasts",
+      "It roars, then sleeps twenty hours"
+    ]
+  },
+  {
+    "word": "Mouse",
+    "hints": [
+      "Small, gray and extremely quick",
+      "Cheese is the traditional bait",
+      "One also sits under your hand at a desk"
+    ]
+  },
+  {
+    "word": "Whale",
+    "hints": [
+      "The largest animal alive",
+      "It blows a spout of water",
+      "Moby Dick was a white one"
+    ]
+  },
+  {
+    "word": "Sheep",
+    "hints": [
+      "Its coat becomes your jumper",
+      "It follows whichever one goes first",
+      "Counting them is said to bring sleep"
+    ]
+  },
+  {
+    "word": "Camel",
+    "hints": [
+      "One hump, or two",
+      "It crosses the desert for days without drinking",
+      "Caravans were made of them"
+    ]
+  },
+  {
+    "word": "Zebra",
+    "hints": [
+      "Black and white stripes, no two sets alike",
+      "It gallops across the savannah",
+      "A pedestrian crossing is named after it"
+    ]
+  },
+  {
+    "word": "Giraffe",
+    "hints": [
+      "It eats from the top of the tree",
+      "The longest neck in the world",
+      "It sleeps barely two hours a night"
+    ]
+  },
+  {
+    "word": "Penguin",
+    "hints": [
+      "It swims far better than it walks",
+      "A bird that cannot fly at all",
+      "It huddles through the Antarctic winter"
+    ]
+  },
+  {
+    "word": "Squirrel",
+    "hints": [
+      "It buries nuts and forgets half of them",
+      "Bushy tail, and very quick up a trunk",
+      "Parks are full of them"
+    ]
+  },
+  {
+    "word": "Hedgehog",
+    "hints": [
+      "It rolls into a ball when frightened",
+      "Spines on top, soft underneath",
+      "It crosses the road far too slowly"
+    ]
+  },
+  {
+    "word": "Chair",
+    "hints": [
+      "Four legs and a back",
+      "One person, one seat",
+      "The musical ones vanish when the music stops"
+    ]
+  },
+  {
+    "word": "Table",
+    "hints": [
+      "The meal is laid out on it",
+      "Four legs and a flat top",
+      "You set it before dinner"
+    ]
+  },
+  {
+    "word": "Bed",
+    "hints": [
+      "You spend a third of your life in it",
+      "Sheets, a pillow and a duvet",
+      "Getting out of it is the hard part"
+    ]
+  },
+  {
+    "word": "Stairs",
+    "hints": [
+      "You take them two at a time",
+      "They join one floor to the next",
+      "A banister runs alongside"
+    ]
+  },
+  {
+    "word": "Shelf",
+    "hints": [
+      "Books stand in a row on it",
+      "A plank fixed to the wall",
+      "It sags in the middle after a few years"
+    ]
+  },
+  {
+    "word": "Fridge",
+    "hints": [
+      "It hums in the corner of the kitchen",
+      "You open it and stare into it",
+      "Magnets live on its door"
+    ]
+  },
+  {
+    "word": "Sink",
+    "hints": [
+      "A tap above, a drain below",
+      "Dishes pile up in it",
+      "Everything ends up in it after dinner"
+    ]
+  },
+  {
+    "word": "Bath",
+    "hints": [
+      "You fill it and lie back",
+      "Bubbles are optional",
+      "Archimedes made his discovery in one"
+    ]
+  },
+  {
+    "word": "Towel",
+    "hints": [
+      "You reach for it coming out of the water",
+      "Hung on a rail, and never quite dry",
+      "Throwing it in means giving up"
+    ]
+  },
+  {
+    "word": "Hall",
+    "hints": [
+      "The first room you enter",
+      "Coats and shoes gather there",
+      "It leads to every other room"
+    ]
+  },
+  {
+    "word": "Porch",
+    "hints": [
+      "You shelter there while finding the key",
+      "Covered, but still outside",
+      "Americans hang a swing on it"
+    ]
+  },
+  {
+    "word": "Fence",
+    "hints": [
+      "It says where your ground stops",
+      "Wooden panels, or wire and posts",
+      "Neighbours argue over who repairs it"
+    ]
+  },
+  {
+    "word": "Gate",
+    "hints": [
+      "A door with no house behind it",
+      "It swings, and it squeaks",
+      "You latch it so the dog stays in"
+    ]
+  },
+  {
+    "word": "Wall",
+    "hints": [
+      "You hang pictures on it",
+      "Brick, stone or plaster",
+      "One in Berlin came down in 1989"
+    ]
+  },
+  {
+    "word": "Floor",
+    "hints": [
+      "You walk on it all day long",
+      "Wood, tile or carpet",
+      "Drop something and it goes straight there"
+    ]
+  },
+  {
+    "word": "Corridor",
+    "hints": [
+      "Long, narrow, and lined with doors",
+      "It connects the rooms of a hotel",
+      "Nothing happens there, you only pass through"
+    ]
+  },
+  {
+    "word": "Cellar",
+    "hints": [
+      "Cool and dark, below the house",
+      "Wine is kept there",
+      "You go down steps to reach it"
+    ]
+  },
+  {
+    "word": "Balcony",
+    "hints": [
+      "You step out and look down on the street",
+      "Room for two chairs and a plant",
+      "Romeo waited under one"
+    ]
+  },
+  {
+    "word": "Knife",
+    "hints": [
+      "It sits to the right of the plate",
+      "Sharp on one side only",
+      "You sharpen it against a steel"
+    ]
+  },
+  {
+    "word": "Bowl",
+    "hints": [
+      "Deeper than a plate",
+      "Cereal goes in it every morning",
+      "You hold it in both hands when it is hot"
+    ]
+  },
+  {
+    "word": "Pan",
+    "hints": [
+      "It goes on the heat with oil in it",
+      "Flat, with one long handle",
+      "You flip an omelette in it"
+    ]
+  },
+  {
+    "word": "Pot",
+    "hints": [
+      "Water comes to the boil in it",
+      "Deep, with a lid and two handles",
+      "A watched one never boils"
+    ]
+  },
+  {
+    "word": "Stove",
+    "hints": [
+      "The pans sit on top of it",
+      "Gas, electric or wood",
+      "It is the hot heart of the kitchen"
+    ]
+  },
+  {
+    "word": "Sugar",
+    "hints": [
+      "Two lumps in the coffee",
+      "Sweet, white, and hard to give up",
+      "Cane and beet both produce it"
+    ]
+  },
+  {
+    "word": "Flour",
+    "hints": [
+      "Wheat, ground down to powder",
+      "Bread cannot be made without it",
+      "It ends up all over the kitchen"
+    ]
+  },
+  {
+    "word": "Bread",
+    "hints": [
+      "A loaf, waiting to be sliced",
+      "It goes stale within a day",
+      "The saying makes it the daily need"
+    ]
+  },
+  {
+    "word": "Honey",
+    "hints": [
+      "Bees make it and we take it",
+      "Golden, thick and slow to pour",
+      "Winnie the Pooh cannot resist it"
+    ]
+  },
+  {
+    "word": "Jam",
+    "hints": [
+      "Fruit and sugar, boiled down together",
+      "It goes on toast, over the butter",
+      "Grandmothers make it in August"
+    ]
+  },
+  {
+    "word": "Rice",
+    "hints": [
+      "Small white grains, boiled",
+      "Asia eats it at nearly every meal",
+      "It gets thrown at weddings"
+    ]
+  },
+  {
+    "word": "Pasta",
+    "hints": [
+      "Italy invented a hundred shapes of it",
+      "Boil it, drain it, sauce it",
+      "A fork and a spoon are the tools"
+    ]
+  },
+  {
+    "word": "Sauce",
+    "hints": [
+      "It gets poured over everything else",
+      "Tomato, cheese or cream",
+      "It hides whatever the cook got wrong"
+    ]
+  },
+  {
+    "word": "Egg",
+    "hints": [
+      "The hen provides it",
+      "Boiled, fried or scrambled",
+      "You cannot make an omelette without breaking a few"
+    ]
+  },
+  {
+    "word": "Milk",
+    "hints": [
+      "The cow gives it",
+      "White, and it turns within two days",
+      "Babies live on nothing else"
+    ]
+  },
+  {
+    "word": "Onion",
+    "hints": [
+      "Chopping it makes you cry",
+      "Layer after layer, and nothing in the middle",
+      "It goes into almost every savory dish"
+    ]
+  },
+  {
+    "word": "Lemon",
+    "hints": [
+      "Yellow, and far too sour to bite",
+      "A slice sits on the rim of the glass",
+      "Life gives you them, says the saying"
+    ]
+  },
+  {
+    "word": "Tomato",
+    "hints": [
+      "Red, round, and technically a fruit",
+      "Sauce, salad or soup",
+      "It ripens on the vine in the sun"
+    ]
+  },
+  {
+    "word": "Eye",
+    "hints": [
+      "Two of them, and the world comes in through both",
+      "Blue, brown or green",
+      "A needle has one too"
+    ]
+  },
+  {
+    "word": "Ear",
+    "hints": [
+      "Sound arrives through it",
+      "Two of them, one on each side",
+      "Some people can wiggle them"
+    ]
+  },
+  {
+    "word": "Mouth",
+    "hints": [
+      "Words come out, food goes in",
+      "Teeth and tongue live inside it",
+      "A river has one where it meets the sea"
+    ]
+  },
+  {
+    "word": "Tooth",
+    "hints": [
+      "The dentist hunts for a hole in it",
+      "A child puts one under the pillow",
+      "An adult has thirty-two of them"
+    ]
+  },
+  {
+    "word": "Heart",
+    "hints": [
+      "It beats a hundred thousand times a day",
+      "The one organ that never gets a break",
+      "A deck of cards has a red suit named after it"
+    ]
+  },
+  {
+    "word": "Brain",
+    "hints": [
+      "It weighs about a kilo and a half",
+      "Every thought takes place inside it",
+      "It takes a fifth of your oxygen"
+    ]
+  },
+  {
+    "word": "Bone",
+    "hints": [
+      "Two hundred and six of them in all",
+      "The skeleton is built from them",
+      "A dog buries one in the garden"
+    ]
+  },
+  {
+    "word": "Skin",
+    "hints": [
+      "The largest organ, and the only one on show",
+      "It tans in the sun and peels afterwards",
+      "A snake sheds its own"
+    ]
+  },
+  {
+    "word": "Neck",
+    "hints": [
+      "It holds the head up all day",
+      "A scarf goes around it",
+      "The giraffe has the longest"
+    ]
+  },
+  {
+    "word": "Back",
+    "hints": [
+      "It aches after a day of lifting",
+      "The side you cannot reach to scratch",
+      "You lie on it to watch the clouds"
+    ]
+  },
+  {
+    "word": "Hand",
+    "hints": [
+      "Five fingers on the end of the arm",
+      "You shake it to greet somebody",
+      "A clock has a big one and a small one"
+    ]
+  },
+  {
+    "word": "Foot",
+    "hints": [
+      "The leg ends in it",
+      "A shoe covers it",
+      "Twelve inches make one"
+    ]
+  },
+  {
+    "word": "Leg",
+    "hints": [
+      "You stand on two of them",
+      "It runs from the hip to the ankle",
+      "A table has four"
+    ]
+  },
+  {
+    "word": "Arm",
+    "hints": [
+      "It runs from the shoulder to the hand",
+      "You hold a baby in the crook of it",
+      "A shirt has a sleeve for each one"
+    ]
+  },
+  {
+    "word": "Liver",
+    "hints": [
+      "It filters whatever you drank",
+      "The largest organ inside you",
+      "It can rebuild part of itself"
+    ]
+  },
+  {
+    "word": "Cheek",
+    "hints": [
+      "The soft part just below the eye",
+      "Grandmothers pinch it",
+      "The French kiss both"
+    ]
+  },
+  {
+    "word": "Forehead",
+    "hints": [
+      "Flat, and just above the eyebrows",
+      "You slap it when you forget something",
+      "A thermometer goes across it"
+    ]
+  },
+  {
+    "word": "Eyelash",
+    "hints": [
+      "A row of tiny hairs guarding the eye",
+      "Blow one off a finger and make a wish",
+      "Mascara is meant to lengthen them"
+    ]
+  },
+  {
+    "word": "City",
+    "hints": [
+      "Bigger than a town, and never quiet",
+      "Millions live in the largest ones",
+      "It has a heart, a ring road and a rush hour"
+    ]
+  },
+  {
+    "word": "Town",
+    "hints": [
+      "Smaller than a city, larger than a village",
+      "Everybody knows the baker",
+      "One main street holds all the shops"
+    ]
+  },
+  {
+    "word": "Hotel",
+    "hints": [
+      "You take a key and find the room",
+      "Breakfast is served until ten",
+      "The stars on the door say how much"
+    ]
+  },
+  {
+    "word": "Tower",
+    "hints": [
+      "Much taller than it is wide",
+      "Pisa has a leaning one",
+      "You climb it for the view"
+    ]
+  },
+  {
+    "word": "Cinema",
+    "hints": [
+      "The lights go down and everybody stops talking",
+      "Popcorn costs more than the ticket",
+      "The screen fills an entire wall"
+    ]
+  },
+  {
+    "word": "Theater",
+    "hints": [
+      "The curtain rises at eight",
+      "Actors, and no second take",
+      "The audience applauds at the end"
+    ]
+  },
+  {
+    "word": "Hospital",
+    "hints": [
+      "Ambulances arrive at its door",
+      "White corridors and a smell of disinfectant",
+      "You are born in one and repaired in one"
+    ]
+  },
+  {
+    "word": "Office",
+    "hints": [
+      "Desks, screens and a coffee machine",
+      "Nine to five happens here",
+      "The meeting could have been an email"
+    ]
+  },
+  {
+    "word": "Factory",
+    "hints": [
+      "Machines run in long lines inside it",
+      "A chimney and a very large car park",
+      "Chaplin got caught in the gears of one"
+    ]
+  },
+  {
+    "word": "Statue",
+    "hints": [
+      "Bronze or marble, and it never moves",
+      "Pigeons treat it badly",
+      "One in New York holds a torch"
+    ]
+  },
+  {
+    "word": "Corner",
+    "hints": [
+      "Two streets meet there",
+      "The shop on it sells a bit of everything",
+      "You turn it and the wind hits you"
+    ]
+  },
+  {
+    "word": "Crowd",
+    "hints": [
+      "Thousands of people in one place",
+      "You lose your friends inside it",
+      "It roars when the goal goes in"
+    ]
+  },
+  {
+    "word": "Curb",
+    "hints": [
+      "The raised edge you step down from",
+      "Cars park hard against it",
+      "It separates walkers from traffic"
+    ]
+  },
+  {
+    "word": "Block",
+    "hints": [
+      "Four streets enclose it",
+      "New Yorkers give directions by counting them",
+      "You walk around it to clear your head"
+    ]
+  },
+  {
+    "word": "Center",
+    "hints": [
+      "Every distance is measured from it",
+      "The oldest streets are there",
+      "Cars are increasingly banned from it"
+    ]
+  },
+  {
+    "word": "District",
+    "hints": [
+      "A city is divided into them",
+      "Each one has its own character",
+      "Paris gives its own a number"
+    ]
+  },
+  {
+    "word": "Quarter",
+    "hints": [
+      "The Latin one is in Paris",
+      "A named corner of an old town",
+      "Narrow streets and one square"
+    ]
+  },
+  {
+    "word": "Kiosk",
+    "hints": [
+      "A tiny shop you never go inside",
+      "Newspapers, sweets and postcards",
+      "It stands on the pavement, open to the street"
+    ]
+  },
+  {
+    "word": "Car",
+    "hints": [
+      "Four wheels, four seats and a boot",
+      "You need a licence to move it",
+      "It spends most of its life parked"
+    ]
+  },
+  {
+    "word": "Truck",
+    "hints": [
+      "It carries everything you buy, at some point",
+      "Eighteen wheels on the biggest ones",
+      "It fills the mirror when it overtakes"
+    ]
+  },
+  {
+    "word": "Van",
+    "hints": [
+      "Deliveries arrive in one",
+      "Two seats in front and space behind",
+      "Plumbers and painters live out of theirs"
+    ]
+  },
+  {
+    "word": "Plane",
+    "hints": [
+      "It leaves the ground and stays up",
+      "Wings, engines and a very narrow aisle",
+      "You fold the tray away before it lands"
+    ]
+  },
+  {
+    "word": "Ship",
+    "hints": [
+      "Far larger than a boat",
+      "It crosses oceans with freight or passengers",
+      "One famous one met an iceberg"
+    ]
+  },
+  {
+    "word": "Canoe",
+    "hints": [
+      "A paddle, and no motor at all",
+      "You kneel or sit very low in it",
+      "Lean too far and it tips"
+    ]
+  },
+  {
+    "word": "Kayak",
+    "hints": [
+      "You sit inside it, sealed at the waist",
+      "One paddle with a blade at each end",
+      "The Inuit invented it"
+    ]
+  },
+  {
+    "word": "Tram",
+    "hints": [
+      "It runs on rails, but through the street",
+      "Wires above, rails below",
+      "Lisbon and Amsterdam are full of them"
+    ]
+  },
+  {
+    "word": "Metro",
+    "hints": [
+      "It runs beneath the city",
+      "A map of colored lines",
+      "Paris opened one in 1900"
+    ]
+  },
+  {
+    "word": "Driver",
+    "hints": [
+      "The one who holds the wheel",
+      "Everybody else is a passenger",
+      "This one must not look at the phone"
+    ]
+  },
+  {
+    "word": "Wheel",
+    "hints": [
+      "Round, and it turns",
+      "Somebody invented it once and for all",
+      "A bicycle has two, a car four"
+    ]
+  },
+  {
+    "word": "Brake",
+    "hints": [
+      "You press it with the right foot",
+      "It turns speed into heat",
+      "A hand one holds the car on a hill"
+    ]
+  },
+  {
+    "word": "Horn",
+    "hints": [
+      "You press it in the middle of the wheel",
+      "Traffic jams are full of the sound",
+      "Some cities use it constantly"
+    ]
+  },
+  {
+    "word": "Tire",
+    "hints": [
+      "Rubber, and full of air",
+      "It goes flat at the worst possible moment",
+      "Winter ones have deeper grooves"
+    ]
+  },
+  {
+    "word": "Fuel",
+    "hints": [
+      "The engine burns it",
+      "You stop to fill up with it",
+      "Its price is on a sign by the road"
+    ]
+  },
+  {
+    "word": "Route",
+    "hints": [
+      "The way you choose to get there",
+      "The satellite navigator recalculates it",
+      "Sixty-six is a famous one"
+    ]
+  },
+  {
+    "word": "Jet",
+    "hints": [
+      "Turbines instead of propellers",
+      "It leaves a white trail across the sky",
+      "Lag is named after it"
+    ]
+  },
+  {
+    "word": "Seat",
+    "hints": [
+      "The passenger belongs in it",
+      "A number and a letter on the ticket",
+      "The one by the window is the best"
+    ]
+  },
+  {
+    "word": "Band",
+    "hints": [
+      "Four or five people and their instruments",
+      "They rehearse in a garage first",
+      "The Beatles were the most famous of them"
+    ]
+  },
+  {
+    "word": "Radio",
+    "hints": [
+      "Somebody else picks the songs",
+      "Waves, a dial and a presenter",
+      "Television tried to kill it and failed"
+    ]
+  },
+  {
+    "word": "Album",
+    "hints": [
+      "A dozen songs sold as one",
+      "It had two sides when it was vinyl",
+      "Its cover is half the work"
+    ]
+  },
+  {
+    "word": "Stage",
+    "hints": [
+      "Raised, lit, and everybody looks at it",
+      "The band walks onto it at nine",
+      "Fright is named after it"
+    ]
+  },
+  {
+    "word": "Opera",
+    "hints": [
+      "Everything is sung, nothing is spoken",
+      "Italy invented it",
+      "It is not over until one particular singer finishes"
+    ]
+  },
+  {
+    "word": "Jazz",
+    "hints": [
+      "New Orleans is its birthplace",
+      "Nobody plays the same solo twice",
+      "Saxophone and trumpet lead the way"
+    ]
+  },
+  {
+    "word": "Blues",
+    "hints": [
+      "Twelve bars and a sad story",
+      "Mississippi gave it to the world",
+      "A guitar bends its notes"
+    ]
+  },
+  {
+    "word": "Tune",
+    "hints": [
+      "You whistle it without meaning to",
+      "Carry it badly and everybody notices",
+      "An instrument out of it is painful"
+    ]
+  },
+  {
+    "word": "Lyric",
+    "hints": [
+      "The words, not the music",
+      "You learn them wrong for years",
+      "They are printed inside the sleeve"
+    ]
+  },
+  {
+    "word": "Cello",
+    "hints": [
+      "You sit down and hold it between your knees",
+      "Deeper than a violin, higher than a double bass",
+      "Its spike rests on the floor"
+    ]
+  },
+  {
+    "word": "Harp",
+    "hints": [
+      "A tall triangle strung from top to bottom",
+      "You pluck it with both hands",
+      "Angels are always drawn holding one"
+    ]
+  },
+  {
+    "word": "Organ",
+    "hints": [
+      "Pipes reaching up to the ceiling",
+      "Hands on the keys, feet on the pedals",
+      "Bach wrote his greatest work for it"
+    ]
+  },
+  {
+    "word": "Oboe",
+    "hints": [
+      "A double reed and a very thin sound",
+      "The whole orchestra tunes to its note",
+      "It looks like a clarinet, and is not one"
+    ]
+  },
+  {
+    "word": "Tuba",
+    "hints": [
+      "The biggest brass, and the lowest",
+      "It wraps around the player",
+      "It carries the bass in a marching band"
+    ]
+  },
+  {
+    "word": "Viola",
+    "hints": [
+      "Slightly larger than a violin, and lower",
+      "It reads a clef of its own",
+      "Every joke in an orchestra is aimed at it"
+    ]
+  },
+  {
+    "word": "Chord",
+    "hints": [
+      "Three notes at the very same moment",
+      "A guitarist learns three and starts a band",
+      "Major sounds happy, minor sounds sad"
+    ]
+  },
+  {
+    "word": "Scale",
+    "hints": [
+      "Eight notes, climbing in order",
+      "Pupils practice it before anything else",
+      "Do, re, mi and the rest of them"
+    ]
+  },
+  {
+    "word": "Dance",
+    "hints": [
+      "Feet moving in time with the beat",
+      "Some do it badly at weddings",
+      "Tango and waltz are two of them"
+    ]
+  },
+  {
+    "word": "Golf",
+    "hints": [
+      "Eighteen holes and a very long walk",
+      "A tiny ball and a bag of clubs",
+      "Scotland invented it"
+    ]
+  },
+  {
+    "word": "Rugby",
+    "hints": [
+      "The ball is oval and passes backwards",
+      "Thirty players and a great deal of mud",
+      "An English school gave it its name"
+    ]
+  },
+  {
+    "word": "Boxing",
+    "hints": [
+      "Two people, gloves, and a square called a ring",
+      "Rounds of three minutes each",
+      "Ali was its greatest name"
+    ]
+  },
+  {
+    "word": "Judo",
+    "hints": [
+      "You throw your opponent rather than strike them",
+      "Japan invented it",
+      "The color of the belt says how good you are"
+    ]
+  },
+  {
+    "word": "Karate",
+    "hints": [
+      "Strikes, blocks, and one very loud shout",
+      "Okinawa is its home",
+      "Films made it famous in the seventies"
+    ]
+  },
+  {
+    "word": "Surf",
+    "hints": [
+      "A board, and the right wave",
+      "Hawaii gave it to the world",
+      "You spend more time paddling than standing"
+    ]
+  },
+  {
+    "word": "Runner",
+    "hints": [
+      "The one who competes on foot",
+      "Shoes matter more than anything else",
+      "This one hits a wall at thirty kilometers"
+    ]
+  },
+  {
+    "word": "Swimmer",
+    "hints": [
+      "Goggles, a cap and a very early alarm",
+      "Counts lengths for hours every day",
+      "Four strokes to choose between"
+    ]
+  },
+  {
+    "word": "Player",
+    "hints": [
+      "One of the people actually on the field",
+      "The coach picks eleven of them",
+      "A number is printed on the back"
+    ]
+  },
+  {
+    "word": "Match",
+    "hints": [
+      "Two sides, ninety minutes",
+      "It can end with nobody winning",
+      "You buy a ticket for it weeks ahead"
+    ]
+  },
+  {
+    "word": "Score",
+    "hints": [
+      "It says who is winning",
+      "Nil-nil is the dullest one there is",
+      "It sits in the corner of the screen"
+    ]
+  },
+  {
+    "word": "Court",
+    "hints": [
+      "Lines painted onto a flat surface",
+      "Tennis and basketball each need one",
+      "A net usually crosses the middle"
+    ]
+  },
+  {
+    "word": "League",
+    "hints": [
+      "Every team plays every other team",
+      "A table shows who is on top",
+      "It lasts an entire season"
+    ]
+  },
+  {
+    "word": "Track",
+    "hints": [
+      "An oval with painted lanes",
+      "Four hundred meters all the way round",
+      "Athletes always turn to the left on it"
+    ]
+  },
+  {
+    "word": "Gym",
+    "hints": [
+      "Weights, machines and a wall of mirrors",
+      "January fills it, February empties it",
+      "You pay monthly and go twice"
+    ]
+  },
+  {
+    "word": "Prize",
+    "hints": [
+      "The winner takes it away",
+      "A cup, a medal or a cheque",
+      "Second place gets a smaller one"
+    ]
+  },
+  {
+    "word": "Victory",
+    "hints": [
+      "The result everybody trains for",
+      "The opposite of a loss",
+      "Champagne usually follows it"
+    ]
+  },
+  {
+    "word": "Defeat",
+    "hints": [
+      "The result nobody trains for",
+      "You shake hands anyway",
+      "It teaches more than winning does"
+    ]
+  },
+  {
+    "word": "Pen",
+    "hints": [
+      "What it writes stays written",
+      "Ink inside, a cap on top",
+      "It runs dry mid-sentence"
+    ]
+  },
+  {
+    "word": "Paper",
+    "hints": [
+      "White, thin, and made from trees",
+      "You crumple it and start again",
+      "Scissors cut it, and it beats stone"
+    ]
+  },
+  {
+    "word": "Page",
+    "hints": [
+      "You turn it to keep reading",
+      "Numbered in the corner",
+      "A blank one is intimidating"
+    ]
+  },
+  {
+    "word": "Ink",
+    "hints": [
+      "It leaves the mark on the paper",
+      "Blue, black or red",
+      "An octopus defends itself with it"
+    ]
+  },
+  {
+    "word": "Math",
+    "hints": [
+      "Numbers, and rules that never bend",
+      "Either you love it or you dread it",
+      "Its homework has exactly one right answer"
+    ]
+  },
+  {
+    "word": "Science",
+    "hints": [
+      "It has a laboratory and safety goggles",
+      "An experiment proves the idea or kills it",
+      "Physics, chemistry and biology together"
+    ]
+  },
+  {
+    "word": "History",
+    "hints": [
+      "The subject about what already happened",
+      "Dates, wars and treaties",
+      "Those who ignore it repeat it"
+    ]
+  },
+  {
+    "word": "Grammar",
+    "hints": [
+      "The rules that hold a sentence up",
+      "Verbs, subjects and agreements",
+      "Some people correct it in public"
+    ]
+  },
+  {
+    "word": "Poem",
+    "hints": [
+      "The lines break wherever the writer decides",
+      "It may rhyme, and often does not",
+      "Children learn one by heart"
+    ]
+  },
+  {
+    "word": "Story",
+    "hints": [
+      "A beginning, a middle and an end",
+      "One gets told before sleep",
+      "Everybody has one about themselves"
+    ]
+  },
+  {
+    "word": "Essay",
+    "hints": [
+      "Several pages arguing a single point",
+      "Introduction, body, conclusion",
+      "It is due at midnight"
+    ]
+  },
+  {
+    "word": "Test",
+    "hints": [
+      "Shorter than an exam, and just as feared",
+      "Ten questions, twenty minutes",
+      "It checks whether you did the reading"
+    ]
+  },
+  {
+    "word": "Grade",
+    "hints": [
+      "The mark written at the top of the page",
+      "A letter, or a number out of twenty",
+      "Parents ask about it first"
+    ]
+  },
+  {
+    "word": "Pupil",
+    "hints": [
+      "The one sitting at the desk",
+      "Thirty of them to a room",
+      "The eye has one too"
+    ]
+  },
+  {
+    "word": "Tutor",
+    "hints": [
+      "Teaches one person at a time",
+      "Parents hire this one before the exam",
+      "An hour costs more than a whole lesson"
+    ]
+  },
+  {
+    "word": "Subject",
+    "hints": [
+      "The timetable is made of them",
+      "You pick your favorites at sixteen",
+      "A sentence has one too"
+    ]
+  },
+  {
+    "word": "Lecture",
+    "hints": [
+      "One person talks, two hundred write",
+      "It lasts an hour and fills a hall",
+      "Parents give a different kind of one"
+    ]
+  },
+  {
+    "word": "Canteen",
+    "hints": [
+      "Trays, a queue and a great deal of noise",
+      "Everybody eats at the same hour",
+      "Its food is the subject of every complaint"
+    ]
+  },
+  {
+    "word": "Ocean",
+    "hints": [
+      "Larger than any sea",
+      "Five of them cover the planet",
+      "We know less about it than about the moon"
+    ]
+  },
+  {
+    "word": "Wreck",
+    "hints": [
+      "What is left of a ship on the bottom",
+      "Divers go down to explore one",
+      "Treasure hunters spend lifetimes looking"
+    ]
+  },
+  {
+    "word": "Sail",
+    "hints": [
+      "Cloth stretched to catch the wind",
+      "It is hoisted, trimmed and reefed",
+      "Before engines, nothing crossed the sea without one"
+    ]
+  },
+  {
+    "word": "Port",
+    "hints": [
+      "Ships tie up there",
+      "Cranes, containers and a customs shed",
+      "Rotterdam has the busiest in Europe"
+    ]
+  },
+  {
+    "word": "Dock",
+    "hints": [
+      "The boat is tied alongside it",
+      "Wood or concrete, reaching into the water",
+      "You step off the boat onto it"
+    ]
+  },
+  {
+    "word": "Buoy",
+    "hints": [
+      "It floats but never drifts away",
+      "It marks the channel for the helmsman",
+      "Some carry a bell that rings with the swell"
+    ]
+  },
+  {
+    "word": "Oyster",
+    "hints": [
+      "Two rough halves, hinged together",
+      "You need a special knife to open one",
+      "A pearl grows inside the lucky ones"
+    ]
+  },
+  {
+    "word": "Coral",
+    "hints": [
+      "It looks like stone but is alive",
+      "It builds reefs over thousands of years",
+      "Warming water turns it white"
+    ]
+  },
+  {
+    "word": "Shell",
+    "hints": [
+      "You hold it to your ear to hear the sea",
+      "The empty house of a sea creature",
+      "An egg has one too"
+    ]
+  },
+  {
+    "word": "Net",
+    "hints": [
+      "Knotted mesh, and everything larger stays in",
+      "Fishermen throw one over the side",
+      "Tennis has one across the middle"
+    ]
+  },
+  {
+    "word": "Fish",
+    "hints": [
+      "It breathes through gills",
+      "It swims and never blinks",
+      "Friday is traditionally its day"
+    ]
+  },
+  {
+    "word": "Deck",
+    "hints": [
+      "You walk on it, above the water",
+      "The top of a ship, open to the sky",
+      "A pack of cards is also called one"
+    ]
+  },
+  {
+    "word": "Cabin",
+    "hints": [
+      "A very small room with a bunk",
+      "A porthole instead of a window",
+      "The captain has the best one"
+    ]
+  },
+  {
+    "word": "Hull",
+    "hints": [
+      "The part that meets the water",
+      "Wood, steel or fiberglass",
+      "A hole in it is the end of the voyage"
+    ]
+  },
+  {
+    "word": "Keel",
+    "hints": [
+      "It runs the length of the bottom",
+      "It keeps the boat upright under sail",
+      "The first piece laid when building a boat"
+    ]
+  },
+  {
+    "word": "Tuna",
+    "hints": [
+      "Big, fast, and sold in a can",
+      "Sushi made the best ones very expensive",
+      "It never stops swimming"
+    ]
+  },
+  {
+    "word": "Squid",
+    "hints": [
+      "Ten arms and a jet of ink",
+      "It escapes backwards",
+      "Fried in rings, it is a starter"
+    ]
+  },
+  {
+    "word": "Lagoon",
+    "hints": [
+      "Shallow, warm and turquoise",
+      "A reef or a sandbar keeps the ocean out",
+      "Every postcard island has one"
+    ]
+  },
+  {
+    "word": "Sky",
+    "hints": [
+      "You look up and it is there",
+      "Blue by day, black by night",
+      "The saying makes it the limit"
+    ]
+  },
+  {
+    "word": "Sun",
+    "hints": [
+      "It rises in the east, every single day",
+      "Our nearest star",
+      "Cream protects your skin from it"
+    ]
+  },
+  {
+    "word": "Rain",
+    "hints": [
+      "It falls, and umbrellas open",
+      "Water coming down from the clouds",
+      "In Britain it is a whole conversation"
+    ]
+  },
+  {
+    "word": "Hail",
+    "hints": [
+      "Ice falls instead of water",
+      "It dents the roof of the car",
+      "It arrives in the middle of a summer storm"
+    ]
+  },
+  {
+    "word": "Fog",
+    "hints": [
+      "You cannot see the end of the street",
+      "A cloud that came down to ground level",
+      "London was once famous for it"
+    ]
+  },
+  {
+    "word": "Mist",
+    "hints": [
+      "Thinner than fog, and far prettier",
+      "It hangs over the valley at daybreak",
+      "It burns off by mid-morning"
+    ]
+  },
+  {
+    "word": "Dawn",
+    "hints": [
+      "The first light, before the sun clears the hills",
+      "Birds start singing then",
+      "Armies used to attack at that hour"
+    ]
+  },
+  {
+    "word": "Dusk",
+    "hints": [
+      "The last light, once the sun has gone",
+      "Bats come out then",
+      "The streetlights switch themselves on"
+    ]
+  },
+  {
+    "word": "Night",
+    "hints": [
+      "The dark half of the twenty-four hours",
+      "Owls and bakers work through it",
+      "Some people say it belongs to them"
+    ]
+  },
+  {
+    "word": "Orbit",
+    "hints": [
+      "The path one body traces around another",
+      "The Earth completes one in a year",
+      "Satellites are placed into it"
+    ]
+  },
+  {
+    "word": "Space",
+    "hints": [
+      "Everything above the atmosphere",
+      "It is mostly empty and completely silent",
+      "Nobody hears you there, says the film"
+    ]
+  },
+  {
+    "word": "Aurora",
+    "hints": [
+      "Green curtains rippling across the polar sky",
+      "The solar wind causes it",
+      "Norway sells whole trips to see it"
+    ]
+  },
+  {
+    "word": "Gale",
+    "hints": [
+      "Strong enough to bring down a tree",
+      "Force eight on the scale",
+      "Boats stay in port when one is forecast"
+    ]
+  },
+  {
+    "word": "Drought",
+    "hints": [
+      "Months without a drop",
+      "The ground cracks open",
+      "Reservoirs empty and hosepipes get banned"
+    ]
+  },
+  {
+    "word": "Shower",
+    "hints": [
+      "It starts and stops within ten minutes",
+      "You take one in the morning as well",
+      "April is famous for them"
+    ]
+  },
+  {
+    "word": "Sunbeam",
+    "hints": [
+      "A shaft of light through a gap in the clouds",
+      "Dust dances in it",
+      "It comes through a gap in the curtain"
+    ]
+  },
+  {
+    "word": "Cyclone",
+    "hints": [
+      "It spins around a calm center",
+      "Satellites see it as a huge spiral",
+      "Each one is given a name"
+    ]
+  },
+  {
+    "word": "Shade",
+    "hints": [
+      "You sit in it when the sun is too strong",
+      "A tree gives it for free",
+      "Ten degrees cooler than the pavement"
+    ]
+  },
+  {
+    "word": "Shirt",
+    "hints": [
+      "Buttons down the front and a collar on top",
+      "It needs ironing, always",
+      "The top button is the one nobody fastens"
+    ]
+  },
+  {
+    "word": "Dress",
+    "hints": [
+      "One piece, from the shoulders down",
+      "No separate top and bottom",
+      "A white one gets worn once"
+    ]
+  },
+  {
+    "word": "Hat",
+    "hints": [
+      "It sits on your head",
+      "Cowboys and chefs each wear their own kind",
+      "You raise it to say hello"
+    ]
+  },
+  {
+    "word": "Cap",
+    "hints": [
+      "A soft hat with a peak at the front",
+      "Baseball made it universal",
+      "It also closes a bottle"
+    ]
+  },
+  {
+    "word": "Tie",
+    "hints": [
+      "A strip of silk knotted at the throat",
+      "Offices insisted on one for a century",
+      "A match can end in one"
+    ]
+  },
+  {
+    "word": "Vest",
+    "hints": [
+      "No sleeves, worn under the jacket",
+      "Three pieces make a suit with one",
+      "Some are stuffed with feathers for the cold"
+    ]
+  },
+  {
+    "word": "Robe",
+    "hints": [
+      "You put it on coming out of the bath",
+      "Long, loose and tied at the waist",
+      "Judges and scholars wear a formal one"
+    ]
+  },
+  {
+    "word": "Cloak",
+    "hints": [
+      "It hangs from the shoulders, with no sleeves",
+      "It swirls when you turn",
+      "Magicians and vampires both favor one"
+    ]
+  },
+  {
+    "word": "Hood",
+    "hints": [
+      "You pull it up when it starts to rain",
+      "It is sewn onto the collar",
+      "Little Red wore a red one"
+    ]
+  },
+  {
+    "word": "Zipper",
+    "hints": [
+      "Two rows of metal teeth and a slider",
+      "It jams at the worst possible moment",
+      "It replaced a great many buttons"
+    ]
+  },
+  {
+    "word": "Lace",
+    "hints": [
+      "Fine cloth that is mostly holes",
+      "Bruges and Calais were famous for it",
+      "It also threads through a shoe"
+    ]
+  },
+  {
+    "word": "Cotton",
+    "hints": [
+      "It comes from a plant, not an animal",
+      "It breathes, and it creases",
+      "Egypt claims the finest"
+    ]
+  },
+  {
+    "word": "Wool",
+    "hints": [
+      "The sheep grows it and we take it",
+      "Warm, and itchy when it is cheap",
+      "It shrinks in a hot wash"
+    ]
+  },
+  {
+    "word": "Silk",
+    "hints": [
+      "A worm spins the thread",
+      "Smooth, cool, and expensive",
+      "It travelled a road named after it"
+    ]
+  },
+  {
+    "word": "Denim",
+    "hints": [
+      "Tough blue cloth, dyed with indigo",
+      "Miners wore it first",
+      "It fades exactly where you bend"
+    ]
+  },
+  {
+    "word": "Heel",
+    "hints": [
+      "The raised part at the back of a shoe",
+      "High ones make you taller and slower",
+      "It is also the back of the foot"
+    ]
+  },
+  {
+    "word": "Blouse",
+    "hints": [
+      "Lighter than a shirt, and looser",
+      "Silk or cotton, worn tucked in",
+      "It buttons the other way round"
+    ]
+  },
+  {
+    "word": "Kilt",
+    "hints": [
+      "Pleated at the back, flat at the front",
+      "Tartan says which family you belong to",
+      "Scotland made it a national dress"
+    ]
+  },
+  {
+    "word": "Box",
+    "hints": [
+      "Cardboard, with four flaps on top",
+      "You put things in it and forget them",
+      "A cat prefers it to the gift inside"
+    ]
+  },
+  {
+    "word": "Bag",
+    "hints": [
+      "You carry the shopping home in it",
+      "Paper, plastic or cloth",
+      "It has handles, most of the time"
+    ]
+  },
+  {
+    "word": "Jar",
+    "hints": [
+      "Glass, with a lid that screws on",
+      "Jam lives in one",
+      "The lid never opens on the first try"
+    ]
+  },
+  {
+    "word": "Tin",
+    "hints": [
+      "Metal, with a ring pull on top",
+      "Soup and beans come in one",
+      "It survives years in a cupboard"
+    ]
+  },
+  {
+    "word": "Nail",
+    "hints": [
+      "You hit it with a hammer",
+      "It holds two pieces of wood together",
+      "One also grows at the end of a finger"
+    ]
+  },
+  {
+    "word": "Screw",
+    "hints": [
+      "You turn it rather than hit it",
+      "A spiral groove runs around it",
+      "It grips far better than a nail"
+    ]
+  },
+  {
+    "word": "Saw",
+    "hints": [
+      "A blade with teeth all along it",
+      "You push and pull it through the wood",
+      "A carpenter cannot work without one"
+    ]
+  },
+  {
+    "word": "Drill",
+    "hints": [
+      "It makes the hole in the wall",
+      "The neighbor uses one on Sunday morning",
+      "A dentist has a very small one"
+    ]
+  },
+  {
+    "word": "Torch",
+    "hints": [
+      "You carry the light in your hand",
+      "It comes out when the power fails",
+      "The batteries are always flat"
+    ]
+  },
+  {
+    "word": "Battery",
+    "hints": [
+      "It stores the power and then runs out",
+      "Two ends, marked plus and minus",
+      "It always dies at ten percent"
+    ]
+  },
+  {
+    "word": "Comb",
+    "hints": [
+      "Teeth in a row, and no mouth",
+      "You part your hair with it",
+      "Bees build one out of wax"
+    ]
+  },
+  {
+    "word": "Razor",
+    "hints": [
+      "It takes the beard off",
+      "Sharp enough to cut on a bad morning",
+      "Some are electric, some are not"
+    ]
+  },
+  {
+    "word": "Thread",
+    "hints": [
+      "It goes through the eye of a needle",
+      "It holds the button on",
+      "Cotton or silk, wound onto a reel"
+    ]
+  },
+  {
+    "word": "Glue",
+    "hints": [
+      "It sticks two things together for good",
+      "Children use a stick of it",
+      "It smells strong and dries clear"
+    ]
+  },
+  {
+    "word": "Tape",
+    "hints": [
+      "Sticky on one side, rolled up",
+      "It closes the parcel",
+      "A measuring one snaps back at you"
+    ]
+  },
+  {
+    "word": "String",
+    "hints": [
+      "Thinner than rope, stronger than thread",
+      "You tie a parcel with it",
+      "A ball of it entertains a cat for hours"
+    ]
+  },
+  {
+    "word": "Coin",
+    "hints": [
+      "Round metal money",
+      "You flip one to decide",
+      "It has a head on one side and a tail on the other"
+    ]
+  },
+  {
+    "word": "Watch",
+    "hints": [
+      "You wear the time on your wrist",
+      "Swiss ones cost a fortune",
+      "It ticks, unless it is dead"
+    ]
+  },
+  {
+    "word": "Nurse",
+    "hints": [
+      "Takes the temperature and writes it down",
+      "Works the night shift when everyone else sleeps",
+      "Florence Nightingale made the profession"
+    ]
+  },
+  {
+    "word": "Judge",
+    "hints": [
+      "Sits higher than everybody in the room",
+      "A small hammer restores the silence",
+      "A robe, and in some countries a wig"
+    ]
+  },
+  {
+    "word": "Soldier",
+    "hints": [
+      "Wears the uniform of a country",
+      "Boots, a pack and a great deal of marching",
+      "Orders come from above, always"
+    ]
+  },
+  {
+    "word": "Officer",
+    "hints": [
+      "Stripes on the shoulder say how many",
+      "Gives the orders rather than receives them",
+      "Police forces have them too"
+    ]
+  },
+  {
+    "word": "Miner",
+    "hints": [
+      "Goes down before dawn, comes up after dark",
+      "A lamp on the helmet",
+      "Coal was the reason for the whole village"
+    ]
+  },
+  {
+    "word": "Tailor",
+    "hints": [
+      "Takes your measurements with a long tape",
+      "Makes a suit that fits exactly one body",
+      "Chalk, pins and a great deal of patience"
+    ]
+  },
+  {
+    "word": "Jeweler",
+    "hints": [
+      "Works with gold and very small stones",
+      "A magnifying lens screwed into one eye",
+      "The window is the most guarded in the street"
+    ]
+  },
+  {
+    "word": "Potter",
+    "hints": [
+      "Shapes clay on a spinning wheel",
+      "Hands wet, wheel turning, eyes fixed",
+      "The kiln finishes what the hands began"
+    ]
+  },
+  {
+    "word": "Dancer",
+    "hints": [
+      "Trains at the barre every single morning",
+      "Feet destroyed, posture perfect",
+      "The mirror is the harshest teacher"
+    ]
+  },
+  {
+    "word": "Writer",
+    "hints": [
+      "Faces the blank page every morning",
+      "Paid by the book, and rarely enough",
+      "Coffee is the main fuel"
+    ]
+  },
+  {
+    "word": "Editor",
+    "hints": [
+      "Cuts what somebody else wrote",
+      "Decides what goes on the front page",
+      "Red ink is the tool of the trade"
+    ]
+  },
+  {
+    "word": "Banker",
+    "hints": [
+      "Lends the money and asks for more back",
+      "Suits, screens and very long hours",
+      "The one who says no to the loan"
+    ]
+  },
+  {
+    "word": "Mechanic",
+    "hints": [
+      "Hands black to the wrist",
+      "Listens to the noise and knows the cause",
+      "Gives you a bill you did not expect"
+    ]
+  },
+  {
+    "word": "Builder",
+    "hints": [
+      "Raises the walls, brick by brick",
+      "Boots, a helmet and a flask of tea",
+      "Starts at seven and hums all day"
+    ]
+  },
+  {
+    "word": "Gardener",
+    "hints": [
+      "Prunes, weeds and waters for a living",
+      "Knows every plant by two names",
+      "The weather decides the working day"
+    ]
+  },
+  {
+    "word": "Cleaner",
+    "hints": [
+      "Arrives when everybody else has left",
+      "Leaves the whole floor smelling of lemon",
+      "Sees the building at its emptiest"
+    ]
+  },
+  {
+    "word": "Nanny",
+    "hints": [
+      "Looks after the children while the parents work",
+      "Reads the same story forty times",
+      "Mary Poppins arrived by umbrella"
+    ]
+  },
+  {
+    "word": "Artist",
+    "hints": [
+      "Makes what nobody commissioned",
+      "A studio, a mess, and one good idea a year",
+      "Recognition often arrives too late"
+    ]
+  }
+]

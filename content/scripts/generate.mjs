@@ -11,16 +11,18 @@
 // publication du jour, elle calcule localement le même défi que le serveur.
 // daily.json sert de canal de curation/override, pas de source de vérité unique.
 //
-// Usage : node content/scripts/generate.mjs [YYYY-MM-DD]
+// Usage : node content/scripts/generate.mjs [--locale=fr|en] [YYYY-MM-DD]
+//
+// Chaque langue a son pool, son calendrier gelé et sa sortie — voir
+// lib/locale.mjs. Le français reste à sa place historique.
 
 import { existsSync, readFileSync, writeFileSync, mkdirSync } from "node:fs";
-import { dirname, join } from "node:path";
-import { fileURLToPath } from "node:url";
+import { join } from "node:path";
+import { positionalArgs, resolveLocale } from "./lib/locale.mjs";
 
 const SCHEMA_VERSION = 1;
-const root = join(dirname(fileURLToPath(import.meta.url)), "..", "..");
-const poolDir = join(root, "content", "pool");
-const outDir = join(root, "public");
+const L = resolveLocale();
+const { root, poolDir, outDir } = L;
 
 // MARK: - PRNG (identique à SeededRNG côté Swift)
 
@@ -177,7 +179,7 @@ function challengeFor(date) {
   };
 }
 
-const dateArg = process.argv[2];
+const dateArg = positionalArgs()[0];
 const start = dateArg ? new Date(`${dateArg}T00:00:00Z`) : new Date();
 // La veille est incluse : un joueur à l'ouest d'UTC (Amériques) est encore
 // "hier" quand le cron tourne.
@@ -245,10 +247,10 @@ writeFileSync(join(outDir, "daily.json"), JSON.stringify(daily, null, 2) + "\n")
 // régénéré à chaque exécution pour ne jamais diverger du contenu publié.
 // Dans le dépôt mot-content (pas d'app iOS), Mot/Resources n'existe pas :
 // les écritures embarquées sont simplement sautées.
-const embeddedDir = join(root, "Mot", "Resources");
+const embeddedDir = L.embeddedDir;
 if (existsSync(embeddedDir)) {
   writeFileSync(
-    join(embeddedDir, "GameData.json"),
+    join(embeddedDir, `GameData${L.suffix}.json`),
     JSON.stringify(bundle, null, 2) + "\n"
   );
 }
@@ -277,13 +279,13 @@ const wordle = {
 };
 if (existsSync(embeddedDir)) {
   writeFileSync(
-    join(embeddedDir, "WordleWords.json"),
+    join(embeddedDir, `WordleWords${L.suffix}.json`),
     JSON.stringify(wordle) + "\n"
   );
   console.log(`WordleWords : ${wordle.answers.length} réponses, ${wordle.accepted.length} acceptés`);
 }
 
-console.log(`bundle.json : ${pyramide.length} pyramide, ${taboo.length} taboo, ${maudit.length} maudit, ${argot.length} argot, ${crosswords.length} grilles`);
+console.log(`[${L.locale}] bundle.json : ${pyramide.length} pyramide, ${taboo.length} taboo, ${maudit.length} maudit, ${argot.length} argot, ${crosswords.length} grilles`);
 console.log(`daily.json  : ${days.length} jours, de ${days[0].date} à ${days[days.length - 1].date}`);
 for (const day of days) {
   console.log(

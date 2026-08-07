@@ -2070,5 +2070,1749 @@
       "Récipient carré qui se ferme",
       "Celle aux lettres reçoit le courrier"
     ]
+  },
+  {
+    "word": "Lac",
+    "hints": [
+      "On en fait le tour à pied",
+      "L'eau y dort au lieu de couler",
+      "Le monstre du Loch Ness habiterait le sien"
+    ]
+  },
+  {
+    "word": "Étang",
+    "hints": [
+      "Plus petit qu'un lac, plus grand qu'une flaque",
+      "Les grenouilles y donnent le concert du soir",
+      "Les nénuphars en couvrent la surface"
+    ]
+  },
+  {
+    "word": "Bois",
+    "hints": [
+      "Plus petit qu'une forêt, et plus rassurant",
+      "On y ramasse des champignons en automne",
+      "Le Petit Chaperon rouge le traverse"
+    ]
+  },
+  {
+    "word": "Rocher",
+    "hints": [
+      "Trop lourd pour qu'on le déplace",
+      "Les grimpeurs s'y accrochent des heures",
+      "Celui de Monaco porte un palais"
+    ]
+  },
+  {
+    "word": "Dune",
+    "hints": [
+      "Le vent la construit puis la déplace",
+      "L'oyat la retient derrière la plage",
+      "Celle du Pilat est la plus haute d'Europe"
+    ]
+  },
+  {
+    "word": "Mousse",
+    "hints": [
+      "Verte, douce, et toujours à l'ombre",
+      "Elle pousse du côté nord des troncs",
+      "Pierre qui roule n'en amasse pas"
+    ]
+  },
+  {
+    "word": "Graine",
+    "hints": [
+      "Tout un arbre y tient plié",
+      "On la met en terre et on attend",
+      "Les oiseaux vident la mangeoire de celles-ci"
+    ]
+  },
+  {
+    "word": "Herbe",
+    "hints": [
+      "On la tond tous les quinze jours",
+      "Les vaches y passent la journée entière",
+      "Elle est toujours plus verte ailleurs"
+    ]
+  },
+  {
+    "word": "Buisson",
+    "hints": [
+      "Plus bas qu'un arbre, plus épais qu'une fleur",
+      "Les mûres s'y cachent",
+      "Un oiseau dans la main en vaut deux dedans"
+    ]
+  },
+  {
+    "word": "Fougère",
+    "hints": [
+      "Ses feuilles se déroulent en crosse",
+      "Elle aime l'ombre humide et les vieux murs",
+      "Elle poussait déjà avant les fleurs"
+    ]
+  },
+  {
+    "word": "Ruisseau",
+    "hints": [
+      "Assez étroit pour être enjambé",
+      "Il finit par rejoindre la rivière",
+      "Il bavarde sur les cailloux"
+    ]
+  },
+  {
+    "word": "Haie",
+    "hints": [
+      "Elle dit où s'arrête le jardin",
+      "On la taille au carré chaque été",
+      "Les coureurs en sautent sur la piste"
+    ]
+  },
+  {
+    "word": "Cactus",
+    "hints": [
+      "Il garde son eau pour lui seul",
+      "Ne vous asseyez surtout pas dessus",
+      "Il survit là où plus rien ne pousse"
+    ]
+  },
+  {
+    "word": "Palmier",
+    "hints": [
+      "Un tronc nu et un bouquet de feuilles au sommet",
+      "Les noix de coco en tombent",
+      "Toute île déserte dessinée en porte un"
+    ]
+  },
+  {
+    "word": "Branche",
+    "hints": [
+      "Les oiseaux s'y posent",
+      "Elle sort du tronc et porte les feuilles",
+      "Scier celle sur laquelle on est assis"
+    ]
+  },
+  {
+    "word": "Chat",
+    "hints": [
+      "Il ronronne quand ça lui plaît et ignore le reste",
+      "Il dort seize heures par jour",
+      "L'Égypte les vénérait"
+    ]
+  },
+  {
+    "word": "Chien",
+    "hints": [
+      "Il rapporte tout ce qu'on lance",
+      "Il attend derrière la porte tout l'après-midi",
+      "On l'appelle le meilleur ami de l'homme"
+    ]
+  },
+  {
+    "word": "Vache",
+    "hints": [
+      "Elle rumine toute la journée",
+      "Noire et blanche au milieu du pré",
+      "Elle possède quatre estomacs"
+    ]
+  },
+  {
+    "word": "Cochon",
+    "hints": [
+      "Rose, rond, et heureux dans la boue",
+      "Il grogne et fouille le sol du groin",
+      "Trois d'entre eux ont bâti chacun sa maison"
+    ]
+  },
+  {
+    "word": "Poule",
+    "hints": [
+      "Elle gratte la cour toute la journée",
+      "Elle pond ce qu'on mange au petit-déjeuner",
+      "Elle est venue avant, ou après"
+    ]
+  },
+  {
+    "word": "Ours",
+    "hints": [
+      "Il dort pendant tout l'hiver",
+      "Il attrape le saumon d'un coup de patte",
+      "Les enfants en emportent un petit au lit"
+    ]
+  },
+  {
+    "word": "Cerf",
+    "hints": [
+      "Sa ramure tombe et repousse chaque année",
+      "Il bondit par-dessus la barrière",
+      "Bambi en était un"
+    ]
+  },
+  {
+    "word": "Lion",
+    "hints": [
+      "Le mâle porte la crinière",
+      "On l'appelle le roi des animaux",
+      "Il rugit, puis dort vingt heures"
+    ]
+  },
+  {
+    "word": "Souris",
+    "hints": [
+      "Petite, grise et très rapide",
+      "Le fromage sert d'appât traditionnel",
+      "Une autre se tient sous la main au bureau"
+    ]
+  },
+  {
+    "word": "Mouton",
+    "hints": [
+      "Sa toison devient un pull",
+      "Il suit celui qui part le premier",
+      "On les compte pour s'endormir"
+    ]
+  },
+  {
+    "word": "Zèbre",
+    "hints": [
+      "Des rayures noires et blanches, jamais deux fois les mêmes",
+      "Il galope dans la savane",
+      "Un passage piéton porte son nom"
+    ]
+  },
+  {
+    "word": "Girafe",
+    "hints": [
+      "Elle mange à la cime des arbres",
+      "Le plus long cou du monde animal",
+      "Elle dort à peine deux heures par nuit"
+    ]
+  },
+  {
+    "word": "Manchot",
+    "hints": [
+      "Il nage bien mieux qu'il ne marche",
+      "Un oiseau qui ne vole pas du tout",
+      "Il se serre aux autres pour passer l'hiver austral"
+    ]
+  },
+  {
+    "word": "Loup",
+    "hints": [
+      "Il chasse en meute",
+      "Il hurle à la lune",
+      "Trois petits cochons s'en méfiaient"
+    ]
+  },
+  {
+    "word": "Canard",
+    "hints": [
+      "Il nage, se dandine et cancane",
+      "On lui jette du pain au bord de l'eau",
+      "Un vilain petit est devenu cygne"
+    ]
+  },
+  {
+    "word": "Porte",
+    "hints": [
+      "On frappe avant de l'ouvrir",
+      "Une poignée, deux gonds et une serrure",
+      "La claquer met fin à la dispute"
+    ]
+  },
+  {
+    "word": "Toit",
+    "hints": [
+      "Tuiles ou ardoises, en pente pour l'eau",
+      "La cheminée le traverse",
+      "Les chats s'y étirent au soleil"
+    ]
+  },
+  {
+    "word": "Mur",
+    "hints": [
+      "On y accroche les cadres",
+      "Brique, pierre ou plâtre",
+      "Celui de Berlin est tombé en 1989"
+    ]
+  },
+  {
+    "word": "Sol",
+    "hints": [
+      "On marche dessus toute la journée",
+      "Parquet, carrelage ou moquette",
+      "Ce qui tombe y atterrit"
+    ]
+  },
+  {
+    "word": "Lit",
+    "hints": [
+      "On y passe un tiers de sa vie",
+      "Draps, oreiller et couette",
+      "En sortir est le plus dur"
+    ]
+  },
+  {
+    "word": "Oreiller",
+    "hints": [
+      "La tête s'y repose",
+      "On le tape et on le retourne la nuit",
+      "Les enfants s'en servent pour se battre"
+    ]
+  },
+  {
+    "word": "Couverture",
+    "hints": [
+      "On la remonte quand la nuit fraîchit",
+      "Laine ou polaire, étendue sur le lit",
+      "La neige en pose une sur les champs"
+    ]
+  },
+  {
+    "word": "Étagère",
+    "hints": [
+      "Les livres s'y alignent",
+      "Une planche fixée au mur",
+      "Elle finit par plier au milieu"
+    ]
+  },
+  {
+    "word": "Évier",
+    "hints": [
+      "Un robinet au-dessus, une bonde en dessous",
+      "La vaisselle s'y entasse",
+      "Tout y finit après le dîner"
+    ]
+  },
+  {
+    "word": "Baignoire",
+    "hints": [
+      "On la remplit et on s'allonge",
+      "La mousse reste facultative",
+      "Archimède y a fait sa découverte"
+    ]
+  },
+  {
+    "word": "Serviette",
+    "hints": [
+      "On l'attrape en sortant de l'eau",
+      "Pendue au fil, jamais tout à fait sèche",
+      "Une autre se plie à côté de l'assiette"
+    ]
+  },
+  {
+    "word": "Couloir",
+    "hints": [
+      "Long, étroit et bordé de portes",
+      "Il relie les chambres d'un hôtel",
+      "On n'y fait que passer"
+    ]
+  },
+  {
+    "word": "Barrière",
+    "hints": [
+      "Elle dit où s'arrête le terrain",
+      "Panneaux de bois ou fil tendu",
+      "Les voisins se disputent celui qui la répare"
+    ]
+  },
+  {
+    "word": "Bureau",
+    "hints": [
+      "On s'y assied pour travailler",
+      "Des tiroirs dessous, une lampe dessus",
+      "Les élèves y gravent leurs initiales"
+    ]
+  },
+  {
+    "word": "Couteau",
+    "hints": [
+      "Il se pose à droite de l'assiette",
+      "Aiguisé d'un seul côté",
+      "On l'affûte sur un fusil d'acier"
+    ]
+  },
+  {
+    "word": "Fourchette",
+    "hints": [
+      "Quatre dents et un manche",
+      "Elle tient la viande pendant qu'on coupe",
+      "Les pâtes s'enroulent autour"
+    ]
+  },
+  {
+    "word": "Cuillère",
+    "hints": [
+      "Elle tourne dans le café",
+      "Elle porte la soupe à la bouche",
+      "En bois, en argent ou en plastique, elle ne coupe jamais"
+    ]
+  },
+  {
+    "word": "Assiette",
+    "hints": [
+      "Le dîner y est servi",
+      "Ronde, plate et fragile",
+      "On la débarrasse avant le dessert"
+    ]
+  },
+  {
+    "word": "Bol",
+    "hints": [
+      "Plus creux qu'une assiette",
+      "Les céréales y passent chaque matin",
+      "On le tient à deux mains quand il est chaud"
+    ]
+  },
+  {
+    "word": "Poêle",
+    "hints": [
+      "Elle va sur le feu avec un peu d'huile",
+      "Plate, avec un long manche",
+      "On y retourne l'omelette"
+    ]
+  },
+  {
+    "word": "Four",
+    "hints": [
+      "Le gâteau y entre plat et en sort gonflé",
+      "On le fait chauffer avant d'y glisser le plat",
+      "C'est la partie chaude de la cuisinière"
+    ]
+  },
+  {
+    "word": "Bouilloire",
+    "hints": [
+      "Elle siffle quand l'eau est prête",
+      "Pas de thé sans elle",
+      "On la remplit, on appuie, on attend"
+    ]
+  },
+  {
+    "word": "Miel",
+    "hints": [
+      "Les abeilles le font, nous le prenons",
+      "Doré, épais et lent à couler",
+      "Winnie l'ourson n'y résiste pas"
+    ]
+  },
+  {
+    "word": "Riz",
+    "hints": [
+      "De petits grains blancs, cuits à l'eau",
+      "L'Asie en mange à presque chaque repas",
+      "On en jette aux mariés"
+    ]
+  },
+  {
+    "word": "Pâtes",
+    "hints": [
+      "L'Italie en a inventé cent formes",
+      "On les cuit, on les égoutte, on les nappe",
+      "Elles s'enroulent autour de la fourchette"
+    ]
+  },
+  {
+    "word": "Sauce",
+    "hints": [
+      "Elle se verse sur tout le reste",
+      "Tomate, crème ou beurre",
+      "Elle rattrape ce que le cuisinier a raté"
+    ]
+  },
+  {
+    "word": "Tomate",
+    "hints": [
+      "Rouge, ronde, et techniquement un fruit",
+      "En salade, en coulis ou en soupe",
+      "Elle mûrit au soleil sur son pied"
+    ]
+  },
+  {
+    "word": "Lait",
+    "hints": [
+      "La vache le donne",
+      "Blanc, et il tourne en deux jours",
+      "Les bébés ne vivent que de ça"
+    ]
+  },
+  {
+    "word": "Oignon",
+    "hints": [
+      "Le couper fait pleurer",
+      "Couche après couche, et rien au centre",
+      "Il entre dans presque tous les plats salés"
+    ]
+  },
+  {
+    "word": "Oreille",
+    "hints": [
+      "Le son y entre",
+      "Deux, une de chaque côté",
+      "Certains savent les remuer"
+    ]
+  },
+  {
+    "word": "Bouche",
+    "hints": [
+      "Les mots sortent, la nourriture entre",
+      "Les dents et la langue y vivent",
+      "Un fleuve en a une là où il rejoint la mer"
+    ]
+  },
+  {
+    "word": "Dent",
+    "hints": [
+      "On y cherche un trou une fois par an",
+      "L'enfant la glisse sous l'oreiller",
+      "L'adulte en compte trente-deux"
+    ]
+  },
+  {
+    "word": "Nez",
+    "hints": [
+      "Il sent le dîner avant qu'on le voie",
+      "Il coule dès qu'on attrape froid",
+      "Celui de Pinocchio s'allongeait"
+    ]
+  },
+  {
+    "word": "Langue",
+    "hints": [
+      "Elle distingue le sel du sucre",
+      "Elle bouge dès qu'on parle",
+      "Les enfants la tirent pour se moquer"
+    ]
+  },
+  {
+    "word": "Main",
+    "hints": [
+      "Cinq doigts au bout du bras",
+      "On la serre pour dire bonjour",
+      "L'horloge en a une grande et une petite"
+    ]
+  },
+  {
+    "word": "Pied",
+    "hints": [
+      "La jambe s'y termine",
+      "La chaussure le couvre",
+      "Une table en a quatre"
+    ]
+  },
+  {
+    "word": "Jambe",
+    "hints": [
+      "On tient debout sur les deux",
+      "Elle va de la hanche à la cheville",
+      "Le pantalon en a deux"
+    ]
+  },
+  {
+    "word": "Peau",
+    "hints": [
+      "Le plus grand organe, et le seul qui se voie",
+      "Elle bronze au soleil et pèle ensuite",
+      "Le serpent quitte la sienne"
+    ]
+  },
+  {
+    "word": "Cou",
+    "hints": [
+      "Il porte la tête toute la journée",
+      "L'écharpe s'y enroule",
+      "La girafe a le plus long"
+    ]
+  },
+  {
+    "word": "Dos",
+    "hints": [
+      "Il fait mal après une journée à porter",
+      "Le seul endroit qu'on n'atteint pas pour se gratter",
+      "On s'allonge dessus pour regarder les nuages"
+    ]
+  },
+  {
+    "word": "Muscle",
+    "hints": [
+      "Il se contracte et l'os suit",
+      "Les haltérophiles les font grossir",
+      "Le cœur est celui qui ne se repose jamais"
+    ]
+  },
+  {
+    "word": "Foie",
+    "hints": [
+      "Il filtre ce qu'on a bu",
+      "Le plus gros organe interne",
+      "Il se répare tout seul, en partie"
+    ]
+  },
+  {
+    "word": "Joue",
+    "hints": [
+      "La partie douce sous l'œil",
+      "Les grands-mères la pincent",
+      "On en fait deux à l'arrivée d'un ami"
+    ]
+  },
+  {
+    "word": "Front",
+    "hints": [
+      "Plat, juste au-dessus des sourcils",
+      "On s'y frappe quand on a oublié quelque chose",
+      "Le thermomètre s'y pose"
+    ]
+  },
+  {
+    "word": "Cinéma",
+    "hints": [
+      "La lumière baisse et tout le monde se tait",
+      "Le pop-corn coûte plus cher que la place",
+      "L'écran occupe tout un mur"
+    ]
+  },
+  {
+    "word": "Hôtel",
+    "hints": [
+      "On prend la clé et on cherche la chambre",
+      "Le petit-déjeuner est servi jusqu'à dix heures",
+      "Les étoiles sur la porte annoncent le prix"
+    ]
+  },
+  {
+    "word": "Tour",
+    "hints": [
+      "Bien plus haute que large",
+      "Celle de Pise penche",
+      "On y grimpe pour la vue"
+    ]
+  },
+  {
+    "word": "Hôpital",
+    "hints": [
+      "Les ambulances s'arrêtent devant",
+      "Couloirs blancs et odeur de désinfectant",
+      "On y naît et on s'y fait réparer"
+    ]
+  },
+  {
+    "word": "Usine",
+    "hints": [
+      "Les machines y tournent en ligne",
+      "Une cheminée et un très grand parking",
+      "Chaplin s'est fait prendre dans ses rouages"
+    ]
+  },
+  {
+    "word": "Statue",
+    "hints": [
+      "Bronze ou marbre, et elle ne bouge jamais",
+      "Les pigeons la traitent mal",
+      "Celle de New York brandit une torche"
+    ]
+  },
+  {
+    "word": "Coin",
+    "hints": [
+      "Deux rues s'y rencontrent",
+      "Le café qui s'y trouve voit tout passer",
+      "On le tourne et le vent vous saisit"
+    ]
+  },
+  {
+    "word": "Foule",
+    "hints": [
+      "Des milliers de gens au même endroit",
+      "On y perd ses amis en trente secondes",
+      "Elle rugit quand le but est marqué"
+    ]
+  },
+  {
+    "word": "Pont",
+    "hints": [
+      "Il vous fait passer au-dessus de l'eau",
+      "Pierre, fer ou corde, il franchit toujours un vide",
+      "Celui d'Avignon a sa chanson"
+    ]
+  },
+  {
+    "word": "Immeuble",
+    "hints": [
+      "Des dizaines d'appartements empilés",
+      "Un ascenseur, des boîtes aux lettres et un gardien",
+      "Le voisin du dessus déplace ses meubles la nuit"
+    ]
+  },
+  {
+    "word": "Ruelle",
+    "hints": [
+      "Deux murs laissent à peine la place",
+      "Poubelles, chats et raccourci",
+      "Les enquêteurs y trouvent toujours quelque chose"
+    ]
+  },
+  {
+    "word": "Banque",
+    "hints": [
+      "L'argent y dort",
+      "Cartes, prêts et paperasse",
+      "Elle ferme juste quand on en a besoin"
+    ]
+  },
+  {
+    "word": "Centre",
+    "hints": [
+      "Toutes les distances s'y mesurent",
+      "Les rues les plus anciennes y sont",
+      "On en chasse peu à peu les voitures"
+    ]
+  },
+  {
+    "word": "Faubourg",
+    "hints": [
+      "Il commence là où la ville finissait autrefois",
+      "Autrefois situé hors des remparts",
+      "Ses rues portent souvent le nom d'un métier"
+    ]
+  },
+  {
+    "word": "Passage",
+    "hints": [
+      "Une verrière au-dessus, deux rues aux extrémités",
+      "Paris en compte une vingtaine",
+      "Boutiques anciennes et sol en mosaïque"
+    ]
+  },
+  {
+    "word": "Voiture",
+    "hints": [
+      "Quatre roues, quatre places et un coffre",
+      "Il faut un permis pour la déplacer",
+      "Elle passe l'essentiel de sa vie garée"
+    ]
+  },
+  {
+    "word": "Avion",
+    "hints": [
+      "Il quitte le sol et y reste",
+      "Des ailes, des réacteurs et un couloir étroit",
+      "On relève la tablette avant l'atterrissage"
+    ]
+  },
+  {
+    "word": "Train",
+    "hints": [
+      "Des wagons attelés les uns derrière les autres",
+      "Il roule sur des rails et s'arrête aux quais",
+      "On le rate de trente secondes"
+    ]
+  },
+  {
+    "word": "Métro",
+    "hints": [
+      "Il circule sous la ville",
+      "Un plan fait de lignes de couleur",
+      "Paris a ouvert le sien en 1900"
+    ]
+  },
+  {
+    "word": "Tramway",
+    "hints": [
+      "Il roule sur des rails, mais dans la rue",
+      "Des fils au-dessus, des rails en dessous",
+      "Lisbonne et Amsterdam en sont pleines"
+    ]
+  },
+  {
+    "word": "Taxi",
+    "hints": [
+      "On lève le bras pour l'arrêter",
+      "Un compteur tourne pendant qu'on est assis",
+      "New York les a tous peints en jaune"
+    ]
+  },
+  {
+    "word": "Bus",
+    "hints": [
+      "On l'attend et il en arrive trois",
+      "Il s'arrête tous les deux cents mètres",
+      "Londres a peint les siens en rouge"
+    ]
+  },
+  {
+    "word": "Barque",
+    "hints": [
+      "Deux rames, et rien d'autre",
+      "On la loue à l'heure sur le lac",
+      "Elle tangue dès qu'on se lève"
+    ]
+  },
+  {
+    "word": "Fusée",
+    "hints": [
+      "Elle décolle à la verticale",
+      "Trois, deux, un, et le compte à rebours s'achève",
+      "Elle laisse sa base en flammes derrière elle"
+    ]
+  },
+  {
+    "word": "Siège",
+    "hints": [
+      "Le passager s'y installe",
+      "Un numéro et une lettre sur le billet",
+      "Celui près du hublot est le plus disputé"
+    ]
+  },
+  {
+    "word": "Ticket",
+    "hints": [
+      "On le garde jusqu'au bout du voyage",
+      "Le contrôleur demande à le voir",
+      "Le perdre coûte le prix d'une amende"
+    ]
+  },
+  {
+    "word": "Trajet",
+    "hints": [
+      "Le chemin qu'on choisit pour arriver",
+      "Le GPS le recalcule sans arrêt",
+      "Domicile-travail, deux fois par jour"
+    ]
+  },
+  {
+    "word": "Carburant",
+    "hints": [
+      "Le moteur le brûle",
+      "On s'arrête pour en refaire le plein",
+      "Son prix s'affiche en grand au bord de la route"
+    ]
+  },
+  {
+    "word": "Remorque",
+    "hints": [
+      "Elle n'a pas de moteur à elle",
+      "Un attelage la relie au véhicule de devant",
+      "Le bateau ou le foin y voyagent"
+    ]
+  },
+  {
+    "word": "Klaxon",
+    "hints": [
+      "On appuie au centre du volant",
+      "Les embouteillages en sont pleins",
+      "Dans certaines villes il ne s'arrête jamais"
+    ]
+  },
+  {
+    "word": "Chorale",
+    "hints": [
+      "Beaucoup de voix, une seule partition",
+      "Sopranos d'un côté, basses de l'autre",
+      "Les écoles et les villages en ont une"
+    ]
+  },
+  {
+    "word": "Opéra",
+    "hints": [
+      "Tout y est chanté, rien n'est parlé",
+      "L'Italie l'a inventé",
+      "Ce n'est fini que lorsqu'une certaine cantatrice a fini"
+    ]
+  },
+  {
+    "word": "Album",
+    "hints": [
+      "Une dizaine de morceaux vendus ensemble",
+      "Il avait deux faces du temps du vinyle",
+      "Sa pochette compte pour moitié"
+    ]
+  },
+  {
+    "word": "Scène",
+    "hints": [
+      "Surélevée, éclairée, et tout le monde la regarde",
+      "Le groupe y monte à neuf heures",
+      "Le trac porte son nom"
+    ]
+  },
+  {
+    "word": "Radio",
+    "hints": [
+      "Quelqu'un d'autre choisit les chansons",
+      "Des ondes, un bouton et un animateur",
+      "La télévision a essayé de la tuer"
+    ]
+  },
+  {
+    "word": "Jazz",
+    "hints": [
+      "La Nouvelle-Orléans est son berceau",
+      "Personne ne rejoue deux fois le même solo",
+      "Saxophone et trompette ouvrent la marche"
+    ]
+  },
+  {
+    "word": "Blues",
+    "hints": [
+      "Douze mesures et une histoire triste",
+      "Le Mississippi l'a donné au monde",
+      "La guitare y fait plier les notes"
+    ]
+  },
+  {
+    "word": "Parole",
+    "hints": [
+      "Les mots, pas la musique",
+      "On les apprend de travers pendant des années",
+      "Elles sont imprimées dans le livret"
+    ]
+  },
+  {
+    "word": "Orgue",
+    "hints": [
+      "Des tuyaux qui montent jusqu'à la voûte",
+      "Les mains sur les claviers, les pieds sur le pédalier",
+      "Bach lui a consacré son meilleur"
+    ]
+  },
+  {
+    "word": "Hautbois",
+    "hints": [
+      "Une anche double et un son très fin",
+      "L'orchestre entier s'accorde sur sa note",
+      "Il ressemble à une clarinette sans en être une"
+    ]
+  },
+  {
+    "word": "Alto",
+    "hints": [
+      "À peine plus grand qu'un violon, et plus grave",
+      "Il lit une clé qui n'appartient qu'à lui",
+      "Toutes les blagues d'orchestre le visent"
+    ]
+  },
+  {
+    "word": "Gamme",
+    "hints": [
+      "Huit notes qui montent dans l'ordre",
+      "Les élèves la travaillent avant tout le reste",
+      "Do, ré, mi et la suite"
+    ]
+  },
+  {
+    "word": "Danse",
+    "hints": [
+      "Les pieds suivent la mesure",
+      "Certains s'y risquent mal aux mariages",
+      "Le tango et la valse en sont"
+    ]
+  },
+  {
+    "word": "Batteur",
+    "hints": [
+      "Assis au fond, derrière les cymbales",
+      "Deux baguettes, et tout le monde reste ensemble",
+      "Toutes les blagues sur les groupes le visent"
+    ]
+  },
+  {
+    "word": "Partition",
+    "hints": [
+      "La musique y est écrite noir sur blanc",
+      "Le chef en tourne les pages",
+      "Certains jouent sans jamais la regarder"
+    ]
+  },
+  {
+    "word": "Golf",
+    "hints": [
+      "Dix-huit trous et une très longue marche",
+      "Une balle minuscule et un sac de clubs",
+      "L'Écosse l'a inventé"
+    ]
+  },
+  {
+    "word": "Rugby",
+    "hints": [
+      "Le ballon est ovale et se passe en arrière",
+      "Trente joueurs et beaucoup de boue",
+      "Une école anglaise lui a donné son nom"
+    ]
+  },
+  {
+    "word": "Boxe",
+    "hints": [
+      "Deux adversaires, des gants, un carré de cordes",
+      "Des reprises de trois minutes",
+      "Ali en fut le plus grand nom"
+    ]
+  },
+  {
+    "word": "Judo",
+    "hints": [
+      "On projette l'adversaire au lieu de le frapper",
+      "Le Japon l'a inventé",
+      "La couleur de la ceinture dit le niveau"
+    ]
+  },
+  {
+    "word": "Karaté",
+    "hints": [
+      "Des frappes, des blocages et un cri",
+      "Okinawa en est le berceau",
+      "Le cinéma l'a rendu célèbre dans les années soixante-dix"
+    ]
+  },
+  {
+    "word": "Surf",
+    "hints": [
+      "Une planche et la bonne vague",
+      "Hawaï l'a donné au monde",
+      "On rame bien plus longtemps qu'on ne glisse"
+    ]
+  },
+  {
+    "word": "Coureur",
+    "hints": [
+      "Celui qui dispute l'épreuve à pied",
+      "Les chaussures comptent plus que tout le reste",
+      "Il rencontre le mur au trentième kilomètre"
+    ]
+  },
+  {
+    "word": "Joueur",
+    "hints": [
+      "Celui qui est vraiment sur le terrain",
+      "L'entraîneur en aligne onze",
+      "Un numéro est imprimé dans son dos"
+    ]
+  },
+  {
+    "word": "Terrain",
+    "hints": [
+      "Des lignes blanches et deux buts",
+      "En herbe, en terre battue ou en synthétique",
+      "Le match s'y joue, le reste est du commentaire"
+    ]
+  },
+  {
+    "word": "Ligue",
+    "hints": [
+      "Chaque équipe rencontre toutes les autres",
+      "Un classement dit qui est en tête",
+      "Elle dure une saison entière"
+    ]
+  },
+  {
+    "word": "Gymnase",
+    "hints": [
+      "Un sol brillant et des lignes de plusieurs couleurs",
+      "Les cours de sport s'y replient quand il pleut",
+      "Le basket et le hand s'y partagent la semaine"
+    ]
+  },
+  {
+    "word": "Trophée",
+    "hints": [
+      "Le capitaine le soulève au-dessus de sa tête",
+      "En argent, et souvent à deux anses",
+      "Son socle porte le nom des vainqueurs passés"
+    ]
+  },
+  {
+    "word": "Maillot",
+    "hints": [
+      "Il porte un numéro et un nom",
+      "On l'échange au coup de sifflet final",
+      "Le jaune désigne le premier du Tour"
+    ]
+  },
+  {
+    "word": "Casque",
+    "hints": [
+      "Dur dehors, rembourré dedans",
+      "Cyclistes et ouvriers en portent un",
+      "La loi l'a rendu obligatoire à deux roues"
+    ]
+  },
+  {
+    "word": "Stylo",
+    "hints": [
+      "Ce qu'il écrit reste écrit",
+      "De l'encre dedans, un capuchon dessus",
+      "Il tombe en panne au milieu d'une phrase"
+    ]
+  },
+  {
+    "word": "Papier",
+    "hints": [
+      "Blanc, mince, et fait d'arbres",
+      "On le froisse et on recommence",
+      "Les ciseaux le coupent, la pierre lui cède"
+    ]
+  },
+  {
+    "word": "Page",
+    "hints": [
+      "On la tourne pour continuer",
+      "Numérotée dans le coin",
+      "La première est toujours la plus soignée"
+    ]
+  },
+  {
+    "word": "Maths",
+    "hints": [
+      "Des nombres, et des règles qui ne plient jamais",
+      "On adore ou on redoute, rarement entre les deux",
+      "Un seul résultat juste par exercice"
+    ]
+  },
+  {
+    "word": "Science",
+    "hints": [
+      "Elle a un laboratoire et des lunettes de protection",
+      "L'expérience valide l'idée ou la détruit",
+      "Physique, chimie et biologie réunies"
+    ]
+  },
+  {
+    "word": "Histoire",
+    "hints": [
+      "La matière de ce qui a déjà eu lieu",
+      "Des dates, des guerres et des traités",
+      "Qui l'ignore la répète"
+    ]
+  },
+  {
+    "word": "Grammaire",
+    "hints": [
+      "Les règles qui tiennent la phrase debout",
+      "Verbes, sujets et accords",
+      "Certains la corrigent en public"
+    ]
+  },
+  {
+    "word": "Poème",
+    "hints": [
+      "Les lignes s'arrêtent où l'auteur le décide",
+      "Il rime, ou pas du tout",
+      "Les enfants en apprennent un par cœur"
+    ]
+  },
+  {
+    "word": "Récit",
+    "hints": [
+      "Un début, un milieu et une fin",
+      "On en fait un avant de dormir",
+      "Chacun a le sien à raconter"
+    ]
+  },
+  {
+    "word": "Rédaction",
+    "hints": [
+      "Plusieurs pages pour défendre une idée",
+      "Introduction, développement, conclusion",
+      "Elle est à rendre pour lundi"
+    ]
+  },
+  {
+    "word": "Examen",
+    "hints": [
+      "Le silence, une horloge et une copie",
+      "On révise la veille au soir",
+      "Les résultats arrivent par courrier"
+    ]
+  },
+  {
+    "word": "Diplôme",
+    "hints": [
+      "On l'encadre et on l'accroche au mur",
+      "Des années de travail tenant sur une feuille",
+      "On le reçoit coiffé d'un drôle de chapeau"
+    ]
+  },
+  {
+    "word": "Maître",
+    "hints": [
+      "Il tient la classe du matin au soir",
+      "Il corrige en rouge",
+      "La moitié de la classe cherche à lui plaire"
+    ]
+  },
+  {
+    "word": "Cours",
+    "hints": [
+      "Il dure à peu près une heure",
+      "La sonnerie y met fin",
+      "On dit qu'une erreur en donne un"
+    ]
+  },
+  {
+    "word": "Dictée",
+    "hints": [
+      "Le maître lit, la classe écrit",
+      "Chaque faute coûte un point",
+      "Celle de Mérimée est restée célèbre"
+    ]
+  },
+  {
+    "word": "Épave",
+    "hints": [
+      "Ce qui reste d'un navire posé par le fond",
+      "Les plongeurs descendent l'explorer",
+      "Les chercheurs de trésor y consacrent leur vie"
+    ]
+  },
+  {
+    "word": "Voilier",
+    "hints": [
+      "Le vent le pousse, pas le moteur",
+      "Une grand-voile et un foc",
+      "On tire des bords pour remonter au vent"
+    ]
+  },
+  {
+    "word": "Mât",
+    "hints": [
+      "La voile y est hissée",
+      "La pièce la plus haute du bateau",
+      "Le guetteur y grimpait autrefois"
+    ]
+  },
+  {
+    "word": "Coque",
+    "hints": [
+      "La partie qui touche l'eau",
+      "Bois, acier ou polyester",
+      "Un trou dedans met fin au voyage"
+    ]
+  },
+  {
+    "word": "Quille",
+    "hints": [
+      "Elle court sous toute la longueur",
+      "Elle empêche le bateau de se coucher",
+      "C'est la première pièce posée au chantier"
+    ]
+  },
+  {
+    "word": "Huître",
+    "hints": [
+      "Deux valves rugueuses tenues par une charnière",
+      "Il faut un couteau spécial pour l'ouvrir",
+      "Une perle pousse dans les plus chanceuses"
+    ]
+  },
+  {
+    "word": "Corail",
+    "hints": [
+      "Il ressemble à de la pierre et il est vivant",
+      "Il bâtit des récifs en des milliers d'années",
+      "L'eau qui se réchauffe le blanchit"
+    ]
+  },
+  {
+    "word": "Poisson",
+    "hints": [
+      "Il respire par des branchies",
+      "Il nage et ne cligne jamais des yeux",
+      "Le vendredi lui est traditionnellement réservé"
+    ]
+  },
+  {
+    "word": "Thon",
+    "hints": [
+      "Gros, rapide, et vendu en boîte",
+      "Les sushis ont fait grimper son prix",
+      "Il ne s'arrête jamais de nager"
+    ]
+  },
+  {
+    "word": "Calmar",
+    "hints": [
+      "Dix bras et un jet d'encre",
+      "Il s'échappe à reculons",
+      "Frit en anneaux, il ouvre le repas"
+    ]
+  },
+  {
+    "word": "Lagon",
+    "hints": [
+      "Peu profond, chaud et turquoise",
+      "Un récif ou un banc de sable en écarte l'océan",
+      "Toute île de carte postale en a un"
+    ]
+  },
+  {
+    "word": "Matelot",
+    "hints": [
+      "Des mois en mer, quelques semaines à terre",
+      "Nœuds, quarts de nuit et tatouage",
+      "Popeye en est le plus célèbre"
+    ]
+  },
+  {
+    "word": "Chalut",
+    "hints": [
+      "Un immense filet traîné près du fond",
+      "Le bateau qui le tire porte son nom",
+      "Il ramasse tout ce qu'il croise"
+    ]
+  },
+  {
+    "word": "Naufrage",
+    "hints": [
+      "Le navire ne rentre pas au port",
+      "Un iceberg a causé le plus célèbre",
+      "Les rescapés dérivent en canot"
+    ]
+  },
+  {
+    "word": "Ciel",
+    "hints": [
+      "On lève la tête et il est là",
+      "Bleu le jour, noir la nuit",
+      "Le dicton en fait la limite"
+    ]
+  },
+  {
+    "word": "Aube",
+    "hints": [
+      "La première lueur, avant que le soleil passe les collines",
+      "Les oiseaux commencent à cette heure-là",
+      "Les armées attaquaient à ce moment"
+    ]
+  },
+  {
+    "word": "Nuit",
+    "hints": [
+      "La moitié sombre des vingt-quatre heures",
+      "Les hiboux et les boulangers y travaillent",
+      "Certains disent qu'elle leur appartient"
+    ]
+  },
+  {
+    "word": "Brume",
+    "hints": [
+      "Plus légère que le brouillard, et bien plus jolie",
+      "Elle traîne sur la vallée au petit jour",
+      "Elle se lève en milieu de matinée"
+    ]
+  },
+  {
+    "word": "Grêle",
+    "hints": [
+      "De la glace tombe au lieu de l'eau",
+      "Elle bosselle le toit des voitures",
+      "Elle arrive au milieu d'un orage d'été"
+    ]
+  },
+  {
+    "word": "Neige",
+    "hints": [
+      "Des flocons blancs qui tombent en silence",
+      "Les enfants en font des bonshommes",
+      "Elle ferme les écoles et ravit les moins de douze ans"
+    ]
+  },
+  {
+    "word": "Espace",
+    "hints": [
+      "Tout ce qui commence au-dessus de l'atmosphère",
+      "Presque vide, et parfaitement silencieux",
+      "Personne ne vous y entend crier, dit le film"
+    ]
+  },
+  {
+    "word": "Orbite",
+    "hints": [
+      "Le chemin qu'un astre trace autour d'un autre",
+      "La Terre en boucle une par an",
+      "On y place les satellites"
+    ]
+  },
+  {
+    "word": "Météore",
+    "hints": [
+      "Un trait de lumière disparu en une seconde",
+      "On fait un vœu en le voyant",
+      "Celui qui survit à la chute change de nom"
+    ]
+  },
+  {
+    "word": "Rayon",
+    "hints": [
+      "Un trait de lumière dans la poussière",
+      "Il passe par la fente du volet",
+      "Le soleil en envoie huit minutes plus tôt"
+    ]
+  },
+  {
+    "word": "Bourrasque",
+    "hints": [
+      "Un coup de vent bref et brutal",
+      "Elle retourne les parapluies",
+      "Elle passe aussi vite qu'elle est venue"
+    ]
+  },
+  {
+    "word": "Cravate",
+    "hints": [
+      "Une bande d'étoffe nouée sous le col",
+      "Les bureaux l'ont imposée pendant un siècle",
+      "Le nœud se refait trois fois avant d'être droit"
+    ]
+  },
+  {
+    "word": "Pull",
+    "hints": [
+      "De la laine tricotée, enfilée par la tête",
+      "Les grands-mères en offrent un à Noël",
+      "Il gratte quand la laine est bon marché"
+    ]
+  },
+  {
+    "word": "Chaussette",
+    "hints": [
+      "Elle se met avant la chaussure",
+      "Il en disparaît toujours une au lavage",
+      "Laine l'hiver, coton l'été"
+    ]
+  },
+  {
+    "word": "Casquette",
+    "hints": [
+      "Une coiffure souple avec une visière devant",
+      "Le baseball l'a rendue universelle",
+      "On la porte parfois à l'envers"
+    ]
+  },
+  {
+    "word": "Gilet",
+    "hints": [
+      "Sans manches, porté sous la veste",
+      "Trois pièces font un costume avec lui",
+      "Certains sont bourrés de plumes pour le froid"
+    ]
+  },
+  {
+    "word": "Peignoir",
+    "hints": [
+      "On l'enfile en sortant du bain",
+      "Long, ample et noué à la taille",
+      "L'hôtel en pose un derrière la porte"
+    ]
+  },
+  {
+    "word": "Cape",
+    "hints": [
+      "Elle tombe des épaules, sans manches",
+      "Elle tournoie quand on se retourne",
+      "Les magiciens et les vampires la préfèrent"
+    ]
+  },
+  {
+    "word": "Capuche",
+    "hints": [
+      "On la relève quand la pluie commence",
+      "Elle est cousue au col du manteau",
+      "Le Petit Chaperon en portait une rouge"
+    ]
+  },
+  {
+    "word": "Dentelle",
+    "hints": [
+      "Un tissu qui est surtout fait de vides",
+      "Calais et Bruges en ont fait leur réputation",
+      "Les robes de mariée en portent"
+    ]
+  },
+  {
+    "word": "Coton",
+    "hints": [
+      "Il vient d'une plante, pas d'un animal",
+      "Il respire, et il se froisse",
+      "L'Égypte en revendique le plus fin"
+    ]
+  },
+  {
+    "word": "Laine",
+    "hints": [
+      "Le mouton la fait pousser et on la lui prend",
+      "Chaude, et qui gratte quand elle est bon marché",
+      "Elle rétrécit au lavage à chaud"
+    ]
+  },
+  {
+    "word": "Soie",
+    "hints": [
+      "Un ver en file le fil",
+      "Lisse, fraîche et coûteuse",
+      "Elle a voyagé sur une route qui porte son nom"
+    ]
+  },
+  {
+    "word": "Jean",
+    "hints": [
+      "Une toile bleue teinte à l'indigo",
+      "Les mineurs l'ont porté les premiers",
+      "Il déteint exactement là où l'on plie"
+    ]
+  },
+  {
+    "word": "Semelle",
+    "hints": [
+      "C'est le dessous de la chaussure",
+      "Elle s'use d'abord sous le talon",
+      "Cuir ou caoutchouc, elle touche le sol"
+    ]
+  },
+  {
+    "word": "Pantalon",
+    "hints": [
+      "Deux jambes et une ceinture",
+      "On le retrousse pour traverser une flaque",
+      "Il se repasse avec un pli"
+    ]
+  },
+  {
+    "word": "Sac",
+    "hints": [
+      "On y rapporte les courses",
+      "Papier, plastique ou toile",
+      "Il a des anses, la plupart du temps"
+    ]
+  },
+  {
+    "word": "Bocal",
+    "hints": [
+      "Du verre et un couvercle qui se visse",
+      "La confiture y vit",
+      "Le couvercle ne cède jamais au premier essai"
+    ]
+  },
+  {
+    "word": "Marteau",
+    "hints": [
+      "Il enfonce un clou en trois coups",
+      "Une tête d'acier sur un manche de bois",
+      "Se taper le pouce une fois suffit à s'en souvenir"
+    ]
+  },
+  {
+    "word": "Clou",
+    "hints": [
+      "On l'enfonce à coups de marteau",
+      "Il tient deux planches ensemble",
+      "On y accroche un cadre au mur"
+    ]
+  },
+  {
+    "word": "Vis",
+    "hints": [
+      "On la tourne au lieu de la frapper",
+      "Un filet en spirale l'entoure",
+      "Elle tient mieux qu'un clou"
+    ]
+  },
+  {
+    "word": "Scie",
+    "hints": [
+      "Une lame garnie de dents",
+      "On la pousse et on la tire dans le bois",
+      "Le menuisier ne travaille pas sans elle"
+    ]
+  },
+  {
+    "word": "Perceuse",
+    "hints": [
+      "Elle fait le trou dans le mur",
+      "Le voisin s'en sert le dimanche matin",
+      "Le dentiste en a une toute petite"
+    ]
+  },
+  {
+    "word": "Torche",
+    "hints": [
+      "On tient la lumière à la main",
+      "Elle sort quand le courant saute",
+      "Les piles sont toujours à plat"
+    ]
+  },
+  {
+    "word": "Pile",
+    "hints": [
+      "Elle stocke le courant, puis s'épuise",
+      "Deux bornes, un plus et un moins",
+      "Elle meurt toujours à dix pour cent"
+    ]
+  },
+  {
+    "word": "Peigne",
+    "hints": [
+      "Des dents alignées, et pas de bouche",
+      "On s'en sert pour faire la raie",
+      "Les abeilles en bâtissent un en cire"
+    ]
+  },
+  {
+    "word": "Rasoir",
+    "hints": [
+      "Il enlève la barbe",
+      "Assez tranchant pour couper un matin difficile",
+      "Certains sont électriques, d'autres non"
+    ]
+  },
+  {
+    "word": "Fil",
+    "hints": [
+      "Il passe par le chas de l'aiguille",
+      "Il retient le bouton",
+      "Coton ou soie, enroulé sur une bobine"
+    ]
+  },
+  {
+    "word": "Colle",
+    "hints": [
+      "Elle fait tenir deux choses ensemble",
+      "Les enfants s'en servent en bâton",
+      "Elle sent fort et sèche transparente"
+    ]
+  },
+  {
+    "word": "Ficelle",
+    "hints": [
+      "Plus fine qu'une corde, plus solide qu'un fil",
+      "On en noue un paquet",
+      "Une pelote occupe un chat toute la soirée"
+    ]
+  },
+  {
+    "word": "Montre",
+    "hints": [
+      "On porte l'heure au poignet",
+      "Les suisses coûtent une fortune",
+      "Elle fait tic-tac, ou plus rien du tout"
+    ]
+  },
+  {
+    "word": "Cuisinier",
+    "hints": [
+      "Il prépare le repas pour tous les autres",
+      "Casseroles, poêles et fourneau brûlant",
+      "Trop nombreux, ils gâtent la sauce"
+    ]
+  },
+  {
+    "word": "Serveur",
+    "hints": [
+      "Il prend la commande sans jamais l'écrire",
+      "Il porte trois assiettes sur un seul bras",
+      "Il revient exactement quand on a la bouche pleine"
+    ]
+  },
+  {
+    "word": "Dentiste",
+    "hints": [
+      "Il demande d'ouvrir grand",
+      "Une fraise, du coton et un petit miroir sur tige",
+      "Personne n'attend le rendez-vous avec joie"
+    ]
+  },
+  {
+    "word": "Boucher",
+    "hints": [
+      "Un tablier blanc et un couteau très aiguisé",
+      "Il coupe, il pèse et il emballe",
+      "Il connaît chaque morceau par son nom"
+    ]
+  },
+  {
+    "word": "Fleuriste",
+    "hints": [
+      "Il travaille dans l'eau et les tiges vertes",
+      "Il compose un bouquet en trente secondes",
+      "La Saint-Valentin est son jour le plus chargé"
+    ]
+  },
+  {
+    "word": "Juge",
+    "hints": [
+      "Il siège plus haut que tout le monde",
+      "Un petit marteau rétablit le silence",
+      "Une robe, et dans certains pays une perruque"
+    ]
+  },
+  {
+    "word": "Soldat",
+    "hints": [
+      "Il porte l'uniforme d'un pays",
+      "Des rangers, un sac et beaucoup de marche",
+      "Les ordres viennent toujours d'en haut"
+    ]
+  },
+  {
+    "word": "Mineur",
+    "hints": [
+      "Il descend avant le jour et remonte après la nuit",
+      "Une lampe fixée au casque",
+      "Le charbon a fait vivre des villages entiers"
+    ]
+  },
+  {
+    "word": "Tailleur",
+    "hints": [
+      "Il prend les mesures au mètre ruban",
+      "Il fait un costume qui ne va qu'à un seul corps",
+      "De la craie, des épingles et de la patience"
+    ]
+  },
+  {
+    "word": "Bijoutier",
+    "hints": [
+      "Il travaille l'or et de très petites pierres",
+      "Une loupe vissée dans l'œil",
+      "Sa vitrine est la mieux gardée de la rue"
+    ]
+  },
+  {
+    "word": "Potier",
+    "hints": [
+      "Il façonne l'argile sur un tour qui tourne",
+      "Les mains mouillées, le regard fixe",
+      "Le four achève ce que les mains ont commencé"
+    ]
+  },
+  {
+    "word": "Danseur",
+    "hints": [
+      "Il s'échauffe à la barre chaque matin",
+      "Les pieds abîmés, le maintien parfait",
+      "Le miroir est son professeur le plus dur"
+    ]
+  },
+  {
+    "word": "Écrivain",
+    "hints": [
+      "Il affronte la page blanche chaque matin",
+      "Payé au livre, et rarement assez",
+      "Le café est son carburant principal"
+    ]
+  },
+  {
+    "word": "Banquier",
+    "hints": [
+      "Il prête l'argent et en redemande davantage",
+      "Costume, écrans et journées interminables",
+      "C'est lui qui refuse le prêt"
+    ]
+  },
+  {
+    "word": "Éleveur",
+    "hints": [
+      "Ses journées suivent celles du troupeau",
+      "Il connaît chaque bête par son nom",
+      "Le vêlage ne prévient pas de l'heure"
+    ]
   }
 ]

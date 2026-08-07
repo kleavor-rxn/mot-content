@@ -718,5 +718,743 @@
       "Athlète",
       "Musicien"
     ]
+  },
+  {
+    "word": "Auch",
+    "definition": "Difficile, rude à encaisser",
+    "fakeDefinitions": [
+      "Très bon marché",
+      "Parfaitement rangé",
+      "Arrivé en avance"
+    ]
+  },
+  {
+    "word": "Nawak",
+    "definition": "N'importe quoi",
+    "fakeDefinitions": [
+      "Un plat épicé",
+      "Une longue attente",
+      "Un ami d'enfance"
+    ]
+  },
+  {
+    "word": "Chiller",
+    "definition": "Se détendre sans rien faire",
+    "fakeDefinitions": [
+      "Frissonner de froid",
+      "Trier ses affaires",
+      "Klaxonner dans les bouchons"
+    ]
+  },
+  {
+    "word": "Crush",
+    "definition": "Personne dont on est secrètement épris",
+    "fakeDefinitions": [
+      "Une chute spectaculaire",
+      "Un jus de fruits pressé",
+      "Un devoir rendu en retard"
+    ]
+  },
+  {
+    "word": "Ghoster",
+    "definition": "Couper le contact sans explication",
+    "fakeDefinitions": [
+      "Se déguiser pour une fête",
+      "Effacer ses photos",
+      "Rentrer très tard"
+    ]
+  },
+  {
+    "word": "Fissa",
+    "definition": "Vite, sans traîner",
+    "fakeDefinitions": [
+      "En cachette",
+      "Avec beaucoup de soin",
+      "Pour pas cher"
+    ]
+  },
+  {
+    "word": "Tchatcher",
+    "definition": "Parler beaucoup et avec aisance",
+    "fakeDefinitions": [
+      "Marcher sans but",
+      "Refuser net",
+      "Manger salement"
+    ]
+  },
+  {
+    "word": "Wallah",
+    "definition": "Juré, c'est la vérité",
+    "fakeDefinitions": [
+      "Au revoir",
+      "Peu importe",
+      "Encore une fois"
+    ]
+  },
+  {
+    "word": "Casse-croûte",
+    "definition": "Repas léger pris sur le pouce",
+    "fakeDefinitions": [
+      "Outil de menuisier",
+      "Panne de voiture",
+      "Dispute de voisinage"
+    ]
+  },
+  {
+    "word": "Marrant",
+    "definition": "Drôle",
+    "fakeDefinitions": [
+      "Fatigant",
+      "Épicé",
+      "Bien habillé"
+    ]
+  },
+  {
+    "word": "Rigoler",
+    "definition": "Rire",
+    "fakeDefinitions": [
+      "Discuter longuement",
+      "Ranger en vitesse",
+      "Tourner en rond"
+    ]
+  },
+  {
+    "word": "Chouette",
+    "definition": "Sympathique, agréable",
+    "fakeDefinitions": [
+      "Silencieux",
+      "Très cher",
+      "Un peu vexé"
+    ]
+  },
+  {
+    "word": "Costaud",
+    "definition": "Solide et fort",
+    "fakeDefinitions": [
+      "Économe",
+      "Bavard",
+      "Toujours en retard"
+    ]
+  },
+  {
+    "word": "Dégoter",
+    "definition": "Trouver après avoir cherché",
+    "fakeDefinitions": [
+      "Nettoyer à fond",
+      "Éviter quelqu'un",
+      "Recommencer depuis le début"
+    ]
+  },
+  {
+    "word": "Fauché",
+    "definition": "Sans un sou",
+    "fakeDefinitions": [
+      "Coupé très court",
+      "Blessé au bras",
+      "Debout depuis l'aube"
+    ]
+  },
+  {
+    "word": "Flemme",
+    "definition": "Paresse passagère",
+    "fakeDefinitions": [
+      "Odeur forte",
+      "Petite flamme",
+      "Voix éraillée"
+    ]
+  },
+  {
+    "word": "Fichu",
+    "definition": "Perdu, hors d'usage",
+    "fakeDefinitions": [
+      "Rangé au grenier",
+      "Rendu à son propriétaire",
+      "Prêté sans compter"
+    ]
+  },
+  {
+    "word": "Frimer",
+    "definition": "Chercher à impressionner",
+    "fakeDefinitions": [
+      "Avoir très froid",
+      "Signer un contrat",
+      "Prendre la fuite"
+    ]
+  },
+  {
+    "word": "Fringale",
+    "definition": "Faim soudaine et pressante",
+    "fakeDefinitions": [
+      "Vêtement à la mode",
+      "Coup de fatigue",
+      "Panne de voiture"
+    ]
+  },
+  {
+    "word": "Gaffe",
+    "definition": "Maladresse commise sans le vouloir",
+    "fakeDefinitions": [
+      "Grande poche",
+      "Repas rapide",
+      "Bonne affaire"
+    ]
+  },
+  {
+    "word": "Glander",
+    "definition": "Ne rien faire de la journée",
+    "fakeDefinitions": [
+      "Ramasser des fruits",
+      "Faire le tri du courrier",
+      "Parler sans s'arrêter"
+    ]
+  },
+  {
+    "word": "Gosse",
+    "definition": "Enfant",
+    "fakeDefinitions": [
+      "Grosse erreur",
+      "Ami de longue date",
+      "Vieux meuble"
+    ]
+  },
+  {
+    "word": "Grincheux",
+    "definition": "Toujours de mauvaise humeur",
+    "fakeDefinitions": [
+      "Qui grimpe partout",
+      "Très économe",
+      "Toujours en avance"
+    ]
+  },
+  {
+    "word": "Guincher",
+    "definition": "Danser",
+    "fakeDefinitions": [
+      "Grimacer",
+      "Négocier un prix",
+      "Tomber en panne"
+    ]
+  },
+  {
+    "word": "Jacter",
+    "definition": "Parler, souvent trop",
+    "fakeDefinitions": [
+      "Sauter à pieds joints",
+      "Jeter par la fenêtre",
+      "Trier ses papiers"
+    ]
+  },
+  {
+    "word": "Larguer",
+    "definition": "Quitter quelqu'un sans détour",
+    "fakeDefinitions": [
+      "Prêter de l'argent",
+      "Élargir un vêtement",
+      "Ouvrir grand la fenêtre"
+    ]
+  },
+  {
+    "word": "Loufoque",
+    "definition": "Complètement farfelu",
+    "fakeDefinitions": [
+      "Très parfumé",
+      "Silencieux comme une ombre",
+      "Bâti en hauteur"
+    ]
+  },
+  {
+    "word": "Maboul",
+    "definition": "Fou, déraisonnable",
+    "fakeDefinitions": [
+      "Rond comme une bille",
+      "Le dernier arrivé",
+      "Trempé jusqu'aux os"
+    ]
+  },
+  {
+    "word": "Malin",
+    "definition": "Rusé, qui trouve toujours un moyen",
+    "fakeDefinitions": [
+      "Douloureux",
+      "Mal élevé",
+      "Peu bavard"
+    ]
+  },
+  {
+    "word": "Mioche",
+    "definition": "Jeune enfant",
+    "fakeDefinitions": [
+      "Miette de pain",
+      "Petit sac",
+      "Chat de gouttière"
+    ]
+  },
+  {
+    "word": "Nana",
+    "definition": "Femme, fille",
+    "fakeDefinitions": [
+      "Grand-mère",
+      "Chanson douce",
+      "Sieste de midi"
+    ]
+  },
+  {
+    "word": "Panard",
+    "definition": "Pied",
+    "fakeDefinitions": [
+      "Écriteau",
+      "Panier percé",
+      "Vieux journal"
+    ]
+  },
+  {
+    "word": "Paumé",
+    "definition": "Perdu, désorienté",
+    "fakeDefinitions": [
+      "Payé d'avance",
+      "Bien coiffé",
+      "Rentré à l'heure"
+    ]
+  },
+  {
+    "word": "Pépin",
+    "definition": "Ennui imprévu",
+    "fakeDefinitions": [
+      "Petit chien",
+      "Coup de chance",
+      "Repas léger"
+    ]
+  },
+  {
+    "word": "Piaule",
+    "definition": "Chambre",
+    "fakeDefinitions": [
+      "Cri d'oiseau",
+      "Petite cuillère",
+      "Vieille voiture"
+    ]
+  },
+  {
+    "word": "Pioncer",
+    "definition": "Dormir",
+    "fakeDefinitions": [
+      "Plonger d'un coup",
+      "Marchander longuement",
+      "Piquer du doigt"
+    ]
+  },
+  {
+    "word": "Planquer",
+    "definition": "Cacher",
+    "fakeDefinitions": [
+      "Poser une planche",
+      "Rendre visite",
+      "Se plaindre à voix haute"
+    ]
+  },
+  {
+    "word": "Plaquer",
+    "definition": "Abandonner quelqu'un brusquement",
+    "fakeDefinitions": [
+      "Coller une affiche",
+      "Payer comptant",
+      "Fermer à clé"
+    ]
+  },
+  {
+    "word": "Popote",
+    "definition": "La cuisine et ce qu'on y prépare",
+    "fakeDefinitions": [
+      "Petite dispute",
+      "Vieille valise",
+      "Réunion de famille"
+    ]
+  },
+  {
+    "word": "Potasser",
+    "definition": "Étudier avec acharnement",
+    "fakeDefinitions": [
+      "Faire la vaisselle",
+      "Planter des légumes",
+      "Râler sans arrêt"
+    ]
+  },
+  {
+    "word": "Rafistoler",
+    "definition": "Réparer à la va-vite",
+    "fakeDefinitions": [
+      "Ranger par ordre",
+      "Repeindre entièrement",
+      "Emballer un cadeau"
+    ]
+  },
+  {
+    "word": "Ramer",
+    "definition": "Peiner à s'en sortir",
+    "fakeDefinitions": [
+      "Avancer très vite",
+      "Trier des papiers",
+      "Dormir profondément"
+    ]
+  },
+  {
+    "word": "Raplapla",
+    "definition": "Sans la moindre énergie",
+    "fakeDefinitions": [
+      "Parfaitement plat",
+      "Très bavard",
+      "Couvert de taches"
+    ]
+  },
+  {
+    "word": "Ronchon",
+    "definition": "Qui râle en permanence",
+    "fakeDefinitions": [
+      "Qui ronfle la nuit",
+      "Qui mange bruyamment",
+      "Qui arrive toujours le premier"
+    ]
+  },
+  {
+    "word": "Roublard",
+    "definition": "Rusé et peu scrupuleux",
+    "fakeDefinitions": [
+      "Costaud et lent",
+      "Rouge de colère",
+      "Toujours mal réveillé"
+    ]
+  },
+  {
+    "word": "Gonflant",
+    "definition": "Franchement agaçant",
+    "fakeDefinitions": [
+      "Très nourrissant",
+      "Léger comme l'air",
+      "Plein d'entrain"
+    ]
+  },
+  {
+    "word": "Pieuter",
+    "definition": "Aller se coucher",
+    "fakeDefinitions": [
+      "Planter un piquet",
+      "Prendre la fuite",
+      "Payer sa part"
+    ]
+  },
+  {
+    "word": "Tanner",
+    "definition": "Harceler de demandes",
+    "fakeDefinitions": [
+      "Bronzer au soleil",
+      "Serrer une vis",
+      "Traiter le cuir"
+    ]
+  },
+  {
+    "word": "Tocard",
+    "definition": "Bon à rien",
+    "fakeDefinitions": [
+      "Vieux chapeau",
+      "Coup frappé à la porte",
+      "Plat trop salé"
+    ]
+  },
+  {
+    "word": "Toquade",
+    "definition": "Passion soudaine et brève",
+    "fakeDefinitions": [
+      "Coiffe de cuisinier",
+      "Petite dette",
+      "Course en montagne"
+    ]
+  },
+  {
+    "word": "Trouille",
+    "definition": "Peur",
+    "fakeDefinitions": [
+      "Trou dans un vêtement",
+      "Grande soif",
+      "Envie de rire"
+    ]
+  },
+  {
+    "word": "Vachement",
+    "definition": "Très, énormément",
+    "fakeDefinitions": [
+      "Méchamment",
+      "Lentement",
+      "Par hasard"
+    ]
+  },
+  {
+    "word": "Zapper",
+    "definition": "Oublier ou laisser tomber",
+    "fakeDefinitions": [
+      "Accélérer d'un coup",
+      "Fermer brutalement",
+      "Applaudir longuement"
+    ]
+  },
+  {
+    "word": "Bidule",
+    "definition": "Objet dont on ignore le nom",
+    "fakeDefinitions": [
+      "Petit mensonge",
+      "Plat du jour",
+      "Coup de téléphone"
+    ]
+  },
+  {
+    "word": "Bricoler",
+    "definition": "Réparer ou fabriquer soi-même",
+    "fakeDefinitions": [
+      "Marchander un prix",
+      "Griffonner un mot",
+      "Manger sur le pouce"
+    ]
+  },
+  {
+    "word": "Cafouiller",
+    "definition": "S'embrouiller complètement",
+    "fakeDefinitions": [
+      "Renverser son café",
+      "Chuchoter à l'oreille",
+      "Cuire à feu doux"
+    ]
+  },
+  {
+    "word": "Chichis",
+    "definition": "Manières inutiles",
+    "fakeDefinitions": [
+      "Petits gâteaux secs",
+      "Cheveux emmêlés",
+      "Bruits de couloir"
+    ]
+  },
+  {
+    "word": "Combine",
+    "definition": "Arrangement malin, pas toujours net",
+    "fakeDefinitions": [
+      "Tenue de travail",
+      "Réunion de voisins",
+      "Machine agricole"
+    ]
+  },
+  {
+    "word": "Corvée",
+    "definition": "Tâche pénible qu'on ne peut éviter",
+    "fakeDefinitions": [
+      "Panier de légumes",
+      "Longue promenade",
+      "Réunion joyeuse"
+    ]
+  },
+  {
+    "word": "Dégringoler",
+    "definition": "Tomber en dévalant",
+    "fakeDefinitions": [
+      "Grimper à toute allure",
+      "Éclater de rire",
+      "Trier par ordre"
+    ]
+  },
+  {
+    "word": "Embrouille",
+    "definition": "Dispute confuse",
+    "fakeDefinitions": [
+      "Plat en sauce",
+      "Nœud de cravate",
+      "Petite promenade"
+    ]
+  },
+  {
+    "word": "Farfelu",
+    "definition": "Bizarre et fantaisiste",
+    "fakeDefinitions": [
+      "Très rigoureux",
+      "Couvert de poussière",
+      "Toujours pressé"
+    ]
+  },
+  {
+    "word": "Filon",
+    "definition": "Bon plan qu'on garde pour soi",
+    "fakeDefinitions": [
+      "Long fil de laine",
+      "File d'attente",
+      "Vieux vélo"
+    ]
+  },
+  {
+    "word": "Flâner",
+    "definition": "Se promener sans but",
+    "fakeDefinitions": [
+      "Se plaindre longuement",
+      "Ranger méthodiquement",
+      "Courir après le bus"
+    ]
+  },
+  {
+    "word": "Fouiner",
+    "definition": "Chercher partout, sans gêne",
+    "fakeDefinitions": [
+      "Creuser un trou",
+      "Fuir discrètement",
+      "Sentir mauvais"
+    ]
+  },
+  {
+    "word": "Gribouiller",
+    "definition": "Dessiner ou écrire n'importe comment",
+    "fakeDefinitions": [
+      "Manger salement",
+      "Marmonner tout bas",
+      "Se gratter la tête"
+    ]
+  },
+  {
+    "word": "Groggy",
+    "definition": "Sonné, à moitié dans les vapes",
+    "fakeDefinitions": [
+      "De très bonne humeur",
+      "Trempé par la pluie",
+      "Vêtu à la va-vite"
+    ]
+  },
+  {
+    "word": "Hurluberlu",
+    "definition": "Personne excentrique",
+    "fakeDefinitions": [
+      "Cri très aigu",
+      "Vieux tacot",
+      "Plat régional"
+    ]
+  },
+  {
+    "word": "Jacasser",
+    "definition": "Bavarder bruyamment",
+    "fakeDefinitions": [
+      "Sauter de joie",
+      "Casser la vaisselle",
+      "Marcher à grands pas"
+    ]
+  },
+  {
+    "word": "Lambiner",
+    "definition": "Traîner, être trop lent",
+    "fakeDefinitions": [
+      "Découper finement",
+      "Se plaindre du froid",
+      "Marcher à cloche-pied"
+    ]
+  },
+  {
+    "word": "Magouille",
+    "definition": "Combine douteuse",
+    "fakeDefinitions": [
+      "Sauce épaisse",
+      "Grosse fatigue",
+      "Vieille rancune"
+    ]
+  },
+  {
+    "word": "Mégoter",
+    "definition": "Compter chaque centime",
+    "fakeDefinitions": [
+      "Fumer en cachette",
+      "Manger très vite",
+      "Parler à voix basse"
+    ]
+  },
+  {
+    "word": "Nigaud",
+    "definition": "Un peu bête, sans méchanceté",
+    "fakeDefinitions": [
+      "Petit nid d'oiseau",
+      "Homme très grand",
+      "Enfant turbulent"
+    ]
+  },
+  {
+    "word": "Patauger",
+    "definition": "S'embourber et ne pas s'en sortir",
+    "fakeDefinitions": [
+      "Nager très vite",
+      "Poser des questions",
+      "Se cacher derrière"
+    ]
+  },
+  {
+    "word": "Pinailler",
+    "definition": "Chipoter sur des détails",
+    "fakeDefinitions": [
+      "Piquer avec une aiguille",
+      "Peindre un mur",
+      "Compter les moutons"
+    ]
+  },
+  {
+    "word": "Râler",
+    "definition": "Se plaindre sans arrêt",
+    "fakeDefinitions": [
+      "Ronfler bruyamment",
+      "Raboter une planche",
+      "Rire à gorge déployée"
+    ]
+  },
+  {
+    "word": "Ronflette",
+    "definition": "Petite sieste",
+    "fakeDefinitions": [
+      "Vieux moteur",
+      "Chanson entêtante",
+      "Grosse assiette"
+    ]
+  },
+  {
+    "word": "Trafiquer",
+    "definition": "Bidouiller quelque chose",
+    "fakeDefinitions": [
+      "Traverser la rue",
+      "Traduire un texte",
+      "Trier le linge"
+    ]
+  },
+  {
+    "word": "Truander",
+    "definition": "Escroquer",
+    "fakeDefinitions": [
+      "Chercher un raccourci",
+      "Semer la pagaille",
+      "Manger sans faim"
+    ]
+  },
+  {
+    "word": "Bavasser",
+    "definition": "Raconter partout ce qu'on a entendu",
+    "fakeDefinitions": [
+      "Baver de fatigue",
+      "Balayer la cour",
+      "Baisser les bras"
+    ]
+  },
+  {
+    "word": "Boulot",
+    "definition": "Travail",
+    "fakeDefinitions": [
+      "Petit pain rond",
+      "Grosse bêtise",
+      "Vieux camion"
+    ]
+  },
+  {
+    "word": "Rouspéter",
+    "definition": "Protester à voix haute",
+    "fakeDefinitions": [
+      "Repeindre en rouge",
+      "Repartir de zéro",
+      "Rouler très vite"
+    ]
   }
 ]

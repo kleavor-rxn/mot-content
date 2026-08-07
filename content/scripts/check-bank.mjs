@@ -4,15 +4,15 @@
 // porte au minimum une définition (`clue`, pour les grilles) ; `hints` (Pyramide)
 // et `associations` (Taboo) sont facultatifs et s'ajoutent au fil des lots.
 //
-// Usage : node content/scripts/check-bank.mjs
+// Usage : node content/scripts/check-bank.mjs [--locale=fr|en]
 
 import { readFileSync } from "node:fs";
-import { dirname, join } from "node:path";
-import { fileURLToPath } from "node:url";
+import { join } from "node:path";
+import { resolveLocale } from "./lib/locale.mjs";
 
-const root = join(dirname(fileURLToPath(import.meta.url)), "..", "..");
-const bank = JSON.parse(readFileSync(join(root, "content", "pool", "bank.json"), "utf8"));
-const lexicon = JSON.parse(readFileSync(join(root, "content", "pool", "lexicon.json"), "utf8"));
+const L = resolveLocale();
+const bank = JSON.parse(readFileSync(join(L.poolDir, "bank.json"), "utf8"));
+const lexicon = JSON.parse(readFileSync(join(L.poolDir, "lexicon.json"), "utf8"));
 
 const known = new Map(lexicon.words.map((w) => [w.word.toLowerCase(), w]));
 const deaccent = (s) => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
@@ -71,7 +71,7 @@ const withHints = bank.entries.filter((e) => e.hints).length;
 const withAssoc = bank.entries.filter((e) => e.associations).length;
 const themes = [...new Set(bank.entries.map((e) => e.theme))];
 
-console.log(`Banque : ${bank.entries.length} entrées, ${themes.length} thèmes`);
+console.log(`Banque [${L.locale}] : ${bank.entries.length} entrées, ${themes.length} thèmes`);
 console.log(`  définitions (grilles) : ${bank.entries.length}`);
 console.log(`  indices (Pyramide)    : ${withHints}`);
 console.log(`  associations (Taboo)  : ${withAssoc}`);

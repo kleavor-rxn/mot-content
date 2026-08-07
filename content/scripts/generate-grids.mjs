@@ -7,17 +7,17 @@
 // C'est le multiplicateur : 170 mots annotés produisent des centaines de
 // grilles sans en écrire une seule de plus.
 //
-// Usage : node content/scripts/generate-grids.mjs [grilles-par-thème]
+// Usage : node content/scripts/generate-grids.mjs [--locale=fr|en] [grilles-par-thème]
 
-import { readFileSync, writeFileSync } from "node:fs";
-import { dirname, join } from "node:path";
-import { fileURLToPath } from "node:url";
+import { existsSync, readFileSync, writeFileSync } from "node:fs";
+import { join } from "node:path";
 import { placeWords, toPuzzle, mulberry32 } from "./lib/place-words.mjs";
+import { positionalArgs, resolveLocale } from "./lib/locale.mjs";
 
-const root = join(dirname(fileURLToPath(import.meta.url)), "..", "..");
-const poolDir = join(root, "content", "pool");
+const L = resolveLocale();
+const { poolDir } = L;
 
-const PER_THEME = parseInt(process.argv[2] ?? "16", 10);
+const PER_THEME = parseInt(positionalArgs()[0] ?? "16", 10);
 // 7 mots (et non 8) : avec la règle de séparation des mots croisés, 8 mots ne
 // tiennent quasiment jamais dans une grille 9×9 sans se coller. 7 mots laissent
 // respirer la grille et permettent de couvrir les 15 thèmes.
@@ -25,17 +25,32 @@ const WORDS_PER_GRID = 7;
 const GRID_SIZE = 9;
 const MAX_ATTEMPTS = 40; // tirages tentés par grille avant d'abandonner
 
+// Les CLÉS de thème sont communes à toutes les langues — elles composent l'id
+// de grille (`auto-cuisine-3`), qui est gelé dans le calendrier quotidien.
+// Seul le titre affiché change de langue.
 const THEME_TITLES = {
-  nature: "Nature", animaux: "Animaux", maison: "La maison", cuisine: "Cuisine",
-  corps: "Corps humain", ville: "En ville", transport: "Transports",
-  musique: "Musique", sport: "Sport", ecole: "À l'école", mer: "Mer & marine",
-  ciel: "Ciel & météo", vetement: "Vêtements", objets: "Objets du quotidien",
-  metiers: "Métiers",
-};
+  fr: {
+    nature: "Nature", animaux: "Animaux", maison: "La maison", cuisine: "Cuisine",
+    corps: "Corps humain", ville: "En ville", transport: "Transports",
+    musique: "Musique", sport: "Sport", ecole: "À l'école", mer: "Mer & marine",
+    ciel: "Ciel & météo", vetement: "Vêtements", objets: "Objets du quotidien",
+    metiers: "Métiers",
+  },
+  en: {
+    nature: "Nature", animaux: "Animals", maison: "At home", cuisine: "In the kitchen",
+    corps: "The human body", ville: "In town", transport: "Getting around",
+    musique: "Music", sport: "Sports", ecole: "At school", mer: "Sea & sailing",
+    ciel: "Sky & weather", vetement: "Clothes", objets: "Everyday objects",
+    metiers: "Jobs",
+  },
+}[L.locale];
 
 // MARK: - 1. Grilles écrites à la main
+//
+// Facultatif : une langue peut n'avoir que des grilles dérivées de sa banque.
 
-const specs = JSON.parse(readFileSync(join(poolDir, "crosswords.spec.json"), "utf8"));
+const specPath = join(poolDir, "crosswords.spec.json");
+const specs = existsSync(specPath) ? JSON.parse(readFileSync(specPath, "utf8")) : [];
 const handmadeSkipped = [];
 const handmade = specs.flatMap((spec) => {
   const placements = placeWords(spec.words, spec.gridSize);
@@ -50,6 +65,31 @@ const handmade = specs.flatMap((spec) => {
 });
 
 // MARK: - 2. Grilles dérivées de la banque
+//
+// ADDITIF, et c'est essentiel : les grilles déjà produites sont CONSERVÉES
+// telles quelles, la génération ne fait qu'en ajouter. Le calendrier quotidien
+// gèle une date sur un identifiant (`auto-cuisine-3`) ; si le contenu de cet
+// identifiant changeait à chaque enrichissement de la banque, un joueur qui
+// rejoue un jour archivé trouverait une autre grille que celle qu'il a faite.
+// Le tirage dépend en effet de la composition du thème : ajouter un mot suffit
+// à changer toutes les grilles suivantes.
+//
+// `--rebuild` force la régénération complète — à ne faire que sur une langue
+// dont aucune grille n'a encore été publiée.
+
+const rebuild = process.argv.includes("--rebuild");
+const previousPath = join(poolDir, "crosswords.json");
+const previous =
+  !rebuild && existsSync(previousPath)
+    ? JSON.parse(readFileSync(previousPath, "utf8")).filter((p) => p.id.startsWith("auto-"))
+    : [];
+
+const keptByTheme = new Map();
+for (const puzzle of previous) {
+  const theme = puzzle.id.slice("auto-".length, puzzle.id.lastIndexOf("-"));
+  if (!keptByTheme.has(theme)) keptByTheme.set(theme, []);
+  keptByTheme.get(theme).push(puzzle);
+}
 
 const bank = JSON.parse(readFileSync(join(poolDir, "bank.json"), "utf8"));
 
@@ -78,8 +118,15 @@ for (const [theme, words] of [...byTheme.entries()].sort()) {
     continue;
   }
 
-  const seenSignatures = new Set();
-  let made = 0;
+  // On repart des grilles déjà publiées : leurs mots comptent comme déjà
+  // tirés, et la numérotation reprend après la dernière.
+  const kept = keptByTheme.get(theme) ?? [];
+  const seenSignatures = new Set(
+    kept.map((p) => p.clues.map((c) => c.answer).sort().join("|"))
+  );
+  let made = kept.length;
+  let index = kept.reduce((max, p) => Math.max(max, Number(p.id.split("-").at(-1)) || 0), 0);
+  generated.push(...kept);
 
   for (let attempt = 0; attempt < PER_THEME * MAX_ATTEMPTS && made < PER_THEME; attempt++) {
     // Graine dérivée du thème et du numéro d'essai : reproductible
@@ -102,9 +149,10 @@ for (const [theme, words] of [...byTheme.entries()].sort()) {
 
     seenSignatures.add(signature);
     made++;
+    index++;
     generated.push(
       toPuzzle({
-        id: `auto-${theme}-${made}`,
+        id: `auto-${theme}-${index}`,
         title: THEME_TITLES[theme] ?? theme,
         difficulty: gridDifficulty(pick),
         gridSize: GRID_SIZE,
@@ -122,7 +170,10 @@ const all = [...handmade, ...generated];
 writeFileSync(join(poolDir, "crosswords.json"), JSON.stringify(all, null, 2) + "\n");
 
 console.log(`Écrites à la main : ${handmade.length}${handmadeSkipped.length ? ` (écartées : ${handmadeSkipped.join(", ")})` : ""}`);
-console.log(`Dérivées de la banque : ${generated.length}`);
+console.log(
+  `Dérivées de la banque : ${generated.length}` +
+    (previous.length ? ` (dont ${previous.length} conservées, ${generated.length - previous.length} nouvelles)` : "")
+);
 for (const [theme] of [...byTheme.entries()].sort()) {
   const n = generated.filter((g) => g.id.startsWith(`auto-${theme}-`)).length;
   console.log(`  ${(THEME_TITLES[theme] ?? theme).padEnd(20)} ${n}`);

@@ -398,5 +398,405 @@
     "wordA": "Lanterne",
     "wordB": "Torche",
     "imposedClues": 3
+  },
+  {
+    "wordA": "Chat",
+    "wordB": "Chien",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Café",
+    "wordB": "Thé",
+    "imposedClues": 1
+  },
+  {
+    "wordA": "Été",
+    "wordB": "Hiver",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Pain",
+    "wordB": "Brioche",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Train",
+    "wordB": "Tramway",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Livre",
+    "wordB": "Journal",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Médecin",
+    "wordB": "Infirmier",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Lac",
+    "wordB": "Étang",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Guitare",
+    "wordB": "Banjo",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Neige",
+    "wordB": "Grêle",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Cuisine",
+    "wordB": "Salon",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Football",
+    "wordB": "Rugby",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Île",
+    "wordB": "Presqu'île",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Loup",
+    "wordB": "Renard",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Fauteuil",
+    "wordB": "Canapé",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Photo",
+    "wordB": "Vidéo",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Horloge",
+    "wordB": "Montre",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "École",
+    "wordB": "Université",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Beurre",
+    "wordB": "Margarine",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Désert",
+    "wordB": "Steppe",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Vélo",
+    "wordB": "Trottinette",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Jardin",
+    "wordB": "Potager",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Baleine",
+    "wordB": "Dauphin",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Ciel",
+    "wordB": "Espace",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Crayon",
+    "wordB": "Stylo",
+    "imposedClues": 1
+  },
+  {
+    "wordA": "Soupe",
+    "wordB": "Bouillon",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Miroir",
+    "wordB": "Vitre",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Forêt",
+    "wordB": "Bois",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Argent",
+    "wordB": "Or",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Pont",
+    "wordB": "Tunnel",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Astronaute",
+    "wordB": "Cosmonaute",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Pirate",
+    "wordB": "Corsaire",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Mariage",
+    "wordB": "Fiançailles",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Plage",
+    "wordB": "Crique",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Bibliothèque",
+    "wordB": "Archives",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Cirque",
+    "wordB": "Cabaret",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Ferme",
+    "wordB": "Bergerie",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Aéroport",
+    "wordB": "Port",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Hôtel",
+    "wordB": "Auberge",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Restaurant",
+    "wordB": "Cantine",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Théâtre",
+    "wordB": "Cinéma",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Musée",
+    "wordB": "Galerie",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Tempête",
+    "wordB": "Ouragan",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Oasis",
+    "wordB": "Puits",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Abeille",
+    "wordB": "Bourdon",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Ski",
+    "wordB": "Luge",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Arbitre",
+    "wordB": "Entraîneur",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Cheminée",
+    "wordB": "Poêle",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Fantôme",
+    "wordB": "Spectre",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Dragon",
+    "wordB": "Serpent",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Sorcier",
+    "wordB": "Alchimiste",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Robot",
+    "wordB": "Automate",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Détective",
+    "wordB": "Espion",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Vampire",
+    "wordB": "Loup-garou",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Pyramide",
+    "wordB": "Sphinx",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Volcan",
+    "wordB": "Geyser",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Boussole",
+    "wordB": "Sextant",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Ancre",
+    "wordB": "Chaîne",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Phare",
+    "wordB": "Vigie",
+    "imposedClues": 4
+  },
+  {
+    "wordA": "Parapluie",
+    "wordB": "Parasol",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Bougie",
+    "wordB": "Lampe",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Concert",
+    "wordB": "Récital",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Peintre",
+    "wordB": "Sculpteur",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Échecs",
+    "wordB": "Dames",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Marathon",
+    "wordB": "Triathlon",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Télescope",
+    "wordB": "Microscope",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Manchot",
+    "wordB": "Phoque",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Boulangerie",
+    "wordB": "Pâtisserie",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Facteur",
+    "wordB": "Coursier",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Pêcheur",
+    "wordB": "Chasseur",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Fromage",
+    "wordB": "Yaourt",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Citron",
+    "wordB": "Orange",
+    "imposedClues": 1
+  },
+  {
+    "wordA": "Riz",
+    "wordB": "Semoule",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Chapeau",
+    "wordB": "Casquette",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Écharpe",
+    "wordB": "Châle",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Valise",
+    "wordB": "Malle",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Clé",
+    "wordB": "Cadenas",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Échelle",
+    "wordB": "Escabeau",
+    "imposedClues": 3
+  },
+  {
+    "wordA": "Corde",
+    "wordB": "Ficelle",
+    "imposedClues": 2
+  },
+  {
+    "wordA": "Tonnerre",
+    "wordB": "Éclair",
+    "imposedClues": 1
   }
 ]

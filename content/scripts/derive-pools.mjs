@@ -7,19 +7,22 @@
 //   bank.entries[].hints         → pyramide.json (mot + 3 indices)
 //   bank.entries[].associations  → taboo.json    (mot + 5 mots associés)
 //
-// Usage : node content/scripts/derive-pools.mjs
+// Usage : node content/scripts/derive-pools.mjs [--locale=fr|en]
 
-import { readFileSync, writeFileSync } from "node:fs";
-import { dirname, join } from "node:path";
-import { fileURLToPath } from "node:url";
+import { existsSync, readFileSync, writeFileSync } from "node:fs";
+import { join } from "node:path";
+import { resolveLocale } from "./lib/locale.mjs";
 
-const poolDir = join(dirname(fileURLToPath(import.meta.url)), "..", "pool");
+const { poolDir } = resolveLocale();
 const read = (f) => JSON.parse(readFileSync(join(poolDir, f), "utf8"));
+
+// Une langue neuve n'a aucun pool écrit à la main : tout vient de la banque.
+const readOrEmpty = (f) => (existsSync(join(poolDir, f)) ? read(f) : []);
 const deaccent = (s) => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
 
 const bank = read("bank.json");
-const pyramide = read("pyramide.json");
-const taboo = read("taboo.json");
+const pyramide = readOrEmpty("pyramide.json");
+const taboo = readOrEmpty("taboo.json");
 
 // MARK: - Pyramide
 

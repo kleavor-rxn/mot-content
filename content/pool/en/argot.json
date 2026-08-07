@@ -1,0 +1,1460 @@
+[
+  {
+    "word": "Ghosting",
+    "definition": "Cutting off all contact with no explanation",
+    "fakeDefinitions": [
+      "Painting a room entirely white",
+      "Arriving somewhere far too early",
+      "Copying somebody else's work"
+    ]
+  },
+  {
+    "word": "Hangry",
+    "definition": "Bad-tempered because you have not eaten",
+    "fakeDefinitions": [
+      "Left hanging on the phone",
+      "Nervous before a performance",
+      "Sleepy after a heavy lunch"
+    ]
+  },
+  {
+    "word": "Salty",
+    "definition": "Bitter and annoyed about losing",
+    "fakeDefinitions": [
+      "Wealthy in an obvious way",
+      "Covered in sand after a swim",
+      "Speaking with a strong accent"
+    ]
+  },
+  {
+    "word": "Sus",
+    "definition": "Not to be trusted, and probably up to something",
+    "fakeDefinitions": [
+      "Exhausted after a long day",
+      "Extremely fashionable",
+      "Quietly pleased with yourself"
+    ]
+  },
+  {
+    "word": "Flex",
+    "definition": "To show off something you own or can do",
+    "fakeDefinitions": [
+      "To change your mind halfway",
+      "To stretch before running",
+      "To pay somebody back late"
+    ]
+  },
+  {
+    "word": "Lowkey",
+    "definition": "Slightly, or without making a fuss",
+    "fakeDefinitions": [
+      "Badly out of tune",
+      "Very close to the ground",
+      "Without any money left"
+    ]
+  },
+  {
+    "word": "Cringe",
+    "definition": "So embarrassing it hurts to watch",
+    "fakeDefinitions": [
+      "Freezing cold to the touch",
+      "Cheap and badly made",
+      "Late for absolutely everything"
+    ]
+  },
+  {
+    "word": "Slay",
+    "definition": "To do something exceptionally well",
+    "fakeDefinitions": [
+      "To sleep through the alarm",
+      "To argue for the sake of it",
+      "To spend far too much"
+    ]
+  },
+  {
+    "word": "Vibe",
+    "definition": "The feeling a place or a person gives off",
+    "fakeDefinitions": [
+      "A short holiday abroad",
+      "A rumour with no source",
+      "A quick shake of the head"
+    ]
+  },
+  {
+    "word": "Bougie",
+    "definition": "Fancy, and rather pleased about it",
+    "fakeDefinitions": [
+      "Stuck in heavy traffic",
+      "Damp and mouldy",
+      "Easily frightened"
+    ]
+  },
+  {
+    "word": "Stoked",
+    "definition": "Thrilled and impatient for something",
+    "fakeDefinitions": [
+      "Warmed by an open fire",
+      "Loaded with heavy bags",
+      "Told off in public"
+    ]
+  },
+  {
+    "word": "Sketchy",
+    "definition": "Dubious, and slightly risky",
+    "fakeDefinitions": [
+      "Drawn quickly by hand",
+      "Thin and undernourished",
+      "Covered in scratches"
+    ]
+  },
+  {
+    "word": "Legit",
+    "definition": "Genuine, exactly what it claims to be",
+    "fakeDefinitions": [
+      "Allowed only after dark",
+      "Written down in a contract",
+      "Recently repaired"
+    ]
+  },
+  {
+    "word": "Swamped",
+    "definition": "Buried under far too much work",
+    "fakeDefinitions": [
+      "Soaked by a sudden shower",
+      "Lost in an unfamiliar town",
+      "Beaten by a wide margin"
+    ]
+  },
+  {
+    "word": "Gnarly",
+    "definition": "Extreme, in an impressive way",
+    "fakeDefinitions": [
+      "Twisted with age",
+      "Grumpy first thing in the morning",
+      "Knotted and impossible to untie"
+    ]
+  },
+  {
+    "word": "Bummer",
+    "definition": "A disappointment you can do nothing about",
+    "fakeDefinitions": [
+      "A very long bus journey",
+      "Somebody who never pays",
+      "A song stuck in your head"
+    ]
+  },
+  {
+    "word": "Chill",
+    "definition": "Relaxed, and hard to annoy",
+    "fakeDefinitions": [
+      "Sharp and sarcastic",
+      "Slow to understand a joke",
+      "Dressed for the mountains"
+    ]
+  },
+  {
+    "word": "Wing it",
+    "definition": "To improvise with no preparation at all",
+    "fakeDefinitions": [
+      "To leave a party early",
+      "To take the long way round",
+      "To split a bill unfairly"
+    ]
+  },
+  {
+    "word": "Ditch",
+    "definition": "To abandon something or somebody",
+    "fakeDefinitions": [
+      "To dig for a lost object",
+      "To repeat a story twice",
+      "To haggle over a price"
+    ]
+  },
+  {
+    "word": "Crash",
+    "definition": "To sleep somewhere that was not planned",
+    "fakeDefinitions": [
+      "To finish a meal too quickly",
+      "To lose an argument badly",
+      "To break a promise"
+    ]
+  },
+  {
+    "word": "Grub",
+    "definition": "Food, plain and welcome",
+    "fakeDefinitions": [
+      "Loose change in a pocket",
+      "A stubborn stain",
+      "A short nap after lunch"
+    ]
+  },
+  {
+    "word": "Dosh",
+    "definition": "Money",
+    "fakeDefinitions": [
+      "A heavy rain shower",
+      "A quick errand",
+      "A friendly nickname"
+    ]
+  },
+  {
+    "word": "Telly",
+    "definition": "The television",
+    "fakeDefinitions": [
+      "A long phone call",
+      "A tall story",
+      "A tip left on a table"
+    ]
+  },
+  {
+    "word": "Brolly",
+    "definition": "An umbrella",
+    "fakeDefinitions": [
+      "A woollen hat",
+      "A bicycle bell",
+      "A garden shed"
+    ]
+  },
+  {
+    "word": "Cuppa",
+    "definition": "A cup of tea",
+    "fakeDefinitions": [
+      "A small dessert",
+      "A round of applause",
+      "A quick hug"
+    ]
+  },
+  {
+    "word": "Nosh",
+    "definition": "A meal or a snack",
+    "fakeDefinitions": [
+      "A rude interruption",
+      "A stubborn refusal",
+      "A loud sneeze"
+    ]
+  },
+  {
+    "word": "Kip",
+    "definition": "A short sleep",
+    "fakeDefinitions": [
+      "A missed meal",
+      "A borrowed coat",
+      "A late train"
+    ]
+  },
+  {
+    "word": "Quid",
+    "definition": "One pound in money",
+    "fakeDefinitions": [
+      "A polite refusal",
+      "A rough guess",
+      "A second helping"
+    ]
+  },
+  {
+    "word": "Bloke",
+    "definition": "A man, no more precisely than that",
+    "fakeDefinitions": [
+      "A blocked drain",
+      "A blunt knife",
+      "A broken promise"
+    ]
+  },
+  {
+    "word": "Mate",
+    "definition": "A friend, or anybody you address as one",
+    "fakeDefinitions": [
+      "A colleague you avoid",
+      "A neighbour's dog",
+      "A meal shared out"
+    ]
+  },
+  {
+    "word": "Cheers",
+    "definition": "Thanks, or the word raised with a glass",
+    "fakeDefinitions": [
+      "Goodbye, said in a hurry",
+      "A round of applause",
+      "A shout of surprise"
+    ]
+  },
+  {
+    "word": "Knackered",
+    "definition": "Completely worn out",
+    "fakeDefinitions": [
+      "Covered in mud",
+      "Utterly confused",
+      "Locked out of the house"
+    ]
+  },
+  {
+    "word": "Chuffed",
+    "definition": "Very pleased with how things went",
+    "fakeDefinitions": [
+      "Out of breath after running",
+      "Puffed up with anger",
+      "Wrapped up against the cold"
+    ]
+  },
+  {
+    "word": "Gutted",
+    "definition": "Bitterly disappointed",
+    "fakeDefinitions": [
+      "Starving before dinner",
+      "Emptied of all furniture",
+      "Told off by a boss"
+    ]
+  },
+  {
+    "word": "Gobsmacked",
+    "definition": "Too astonished to speak",
+    "fakeDefinitions": [
+      "Hit by a stray ball",
+      "Told a very long story",
+      "Kissed on both cheeks"
+    ]
+  },
+  {
+    "word": "Dodgy",
+    "definition": "Unreliable, and probably not honest",
+    "fakeDefinitions": [
+      "Quick on your feet",
+      "Wet underfoot",
+      "Stubbornly old-fashioned"
+    ]
+  },
+  {
+    "word": "Skint",
+    "definition": "Completely out of money",
+    "fakeDefinitions": [
+      "Sunburnt after a beach day",
+      "Thin and bony",
+      "Cut off mid-sentence"
+    ]
+  },
+  {
+    "word": "Peckish",
+    "definition": "A little bit hungry",
+    "fakeDefinitions": [
+      "Easily irritated",
+      "Fond of birds",
+      "Choosy about clothes"
+    ]
+  },
+  {
+    "word": "Faff",
+    "definition": "To waste time on something fiddly",
+    "fakeDefinitions": [
+      "To laugh at your own joke",
+      "To fold clothes badly",
+      "To arrive without warning"
+    ]
+  },
+  {
+    "word": "Wonky",
+    "definition": "Crooked, and never quite straight again",
+    "fakeDefinitions": [
+      "Loud and out of tune",
+      "Sticky to the touch",
+      "Slow to start in the morning"
+    ]
+  },
+  {
+    "word": "Naff",
+    "definition": "Tacky, and proud of nothing",
+    "fakeDefinitions": [
+      "Rude without meaning it",
+      "Empty and echoing",
+      "Damp around the edges"
+    ]
+  },
+  {
+    "word": "Bodge",
+    "definition": "To repair something badly and hope",
+    "fakeDefinitions": [
+      "To dodge a question",
+      "To carry too much at once",
+      "To queue in the wrong line"
+    ]
+  },
+  {
+    "word": "Chinwag",
+    "definition": "A long and friendly chat",
+    "fakeDefinitions": [
+      "A firm handshake",
+      "A wag of the finger",
+      "A shared taxi"
+    ]
+  },
+  {
+    "word": "Snazzy",
+    "definition": "Stylish enough to be noticed",
+    "fakeDefinitions": [
+      "Noisy and cheerful",
+      "Sharp-tasting",
+      "Freshly painted"
+    ]
+  },
+  {
+    "word": "Bonkers",
+    "definition": "Completely mad, in a harmless way",
+    "fakeDefinitions": [
+      "Full to bursting",
+      "Badly bruised",
+      "Loud beyond reason"
+    ]
+  },
+  {
+    "word": "Ace",
+    "definition": "Excellent",
+    "fakeDefinitions": [
+      "First in a queue",
+      "Sharp and pointed",
+      "Alone in a room"
+    ]
+  },
+  {
+    "word": "Buzzing",
+    "definition": "Excited and unable to sit still",
+    "fakeDefinitions": [
+      "Surrounded by insects",
+      "Deaf in one ear",
+      "Hurrying to catch up"
+    ]
+  },
+  {
+    "word": "Butterfingers",
+    "definition": "Somebody who drops everything",
+    "fakeDefinitions": [
+      "A very slow eater",
+      "Somebody who cooks well",
+      "A person with cold hands"
+    ]
+  },
+  {
+    "word": "Couch potato",
+    "definition": "Somebody who barely leaves the sofa",
+    "fakeDefinitions": [
+      "A cushion that has lost its shape",
+      "A dish eaten in front of the television",
+      "A guest who stays too long"
+    ]
+  },
+  {
+    "word": "Piece of cake",
+    "definition": "Something extremely easy",
+    "fakeDefinitions": [
+      "A share of the profit",
+      "A small celebration",
+      "A leftover portion"
+    ]
+  },
+  {
+    "word": "Hit the sack",
+    "definition": "To go to bed",
+    "fakeDefinitions": [
+      "To lose a job suddenly",
+      "To pack in a hurry",
+      "To punch above your weight"
+    ]
+  },
+  {
+    "word": "Rain check",
+    "definition": "A polite postponement of an invitation",
+    "fakeDefinitions": [
+      "A glance at the forecast",
+      "A refund for a cancelled trip",
+      "A test of a leaking roof"
+    ]
+  },
+  {
+    "word": "Cold feet",
+    "definition": "Sudden loss of nerve before a big step",
+    "fakeDefinitions": [
+      "A long wait outdoors",
+      "A poor circulation problem",
+      "A quiet reception"
+    ]
+  },
+  {
+    "word": "Break the ice",
+    "definition": "To ease the first awkward moments",
+    "fakeDefinitions": [
+      "To arrive before everybody else",
+      "To cancel at short notice",
+      "To end a friendship"
+    ]
+  },
+  {
+    "word": "Under the weather",
+    "definition": "Not quite well",
+    "fakeDefinitions": [
+      "Caught in a storm",
+      "Working outdoors",
+      "In a very bad mood"
+    ]
+  },
+  {
+    "word": "Cost an arm and a leg",
+    "definition": "To be outrageously expensive",
+    "fakeDefinitions": [
+      "To take enormous effort",
+      "To end in an injury",
+      "To require two signatures"
+    ]
+  },
+  {
+    "word": "Once in a blue moon",
+    "definition": "Very rarely indeed",
+    "fakeDefinitions": [
+      "Late at night",
+      "Only in winter",
+      "Every single evening"
+    ]
+  },
+  {
+    "word": "Spill the beans",
+    "definition": "To give away the secret",
+    "fakeDefinitions": [
+      "To make a mess in the kitchen",
+      "To lose your temper",
+      "To share a meal"
+    ]
+  },
+  {
+    "word": "Beat around the bush",
+    "definition": "To avoid saying the thing itself",
+    "fakeDefinitions": [
+      "To search a garden thoroughly",
+      "To repeat yourself endlessly",
+      "To take a long way home"
+    ]
+  },
+  {
+    "word": "Bite the bullet",
+    "definition": "To face something unpleasant and get it over with",
+    "fakeDefinitions": [
+      "To speak without thinking",
+      "To refuse to pay",
+      "To take a foolish risk"
+    ]
+  },
+  {
+    "word": "Let the cat out of the bag",
+    "definition": "To reveal a secret by accident",
+    "fakeDefinitions": [
+      "To make a sudden escape",
+      "To cause a small disaster",
+      "To free somebody from a duty"
+    ]
+  },
+  {
+    "word": "Butter someone up",
+    "definition": "To flatter somebody before asking a favour",
+    "fakeDefinitions": [
+      "To feed a guest too well",
+      "To calm an angry child",
+      "To wrap a gift carelessly"
+    ]
+  },
+  {
+    "word": "Ring a bell",
+    "definition": "To sound vaguely familiar",
+    "fakeDefinitions": [
+      "To announce a departure",
+      "To wake the whole house",
+      "To end a discussion"
+    ]
+  },
+  {
+    "word": "Hit the road",
+    "definition": "To set off on a journey",
+    "fakeDefinitions": [
+      "To fall off a bicycle",
+      "To run out of fuel",
+      "To take a wrong turn"
+    ]
+  },
+  {
+    "word": "On the ball",
+    "definition": "Alert and on top of things",
+    "fakeDefinitions": [
+      "Balanced on one foot",
+      "Owing money",
+      "First to leave a meeting"
+    ]
+  },
+  {
+    "word": "Pull someone's leg",
+    "definition": "To tease somebody with a straight face",
+    "fakeDefinitions": [
+      "To help somebody stand up",
+      "To slow somebody down",
+      "To borrow without asking"
+    ]
+  },
+  {
+    "word": "Steal the show",
+    "definition": "To take all the attention",
+    "fakeDefinitions": [
+      "To arrive after the interval",
+      "To leave before the end",
+      "To buy the last ticket"
+    ]
+  },
+  {
+    "word": "Through the roof",
+    "definition": "Risen to an extraordinary level",
+    "fakeDefinitions": [
+      "Leaking badly",
+      "Very well hidden",
+      "Loud enough to complain about"
+    ]
+  },
+  {
+    "word": "Blow off steam",
+    "definition": "To let out pent-up frustration",
+    "fakeDefinitions": [
+      "To cool a hot drink",
+      "To boast about a success",
+      "To cancel at the last minute"
+    ]
+  },
+  {
+    "word": "Face the music",
+    "definition": "To accept the consequences",
+    "fakeDefinitions": [
+      "To dance in public",
+      "To listen politely",
+      "To sit at the front"
+    ]
+  },
+  {
+    "word": "Ballpark",
+    "definition": "A rough estimate, near enough to work with",
+    "fakeDefinitions": [
+      "A crowded car park",
+      "A children's party game",
+      "An outdoor concert"
+    ]
+  },
+  {
+    "word": "Nitpick",
+    "definition": "To find fault with tiny details",
+    "fakeDefinitions": [
+      "To choose the best of a batch",
+      "To interrupt constantly",
+      "To tidy obsessively"
+    ]
+  },
+  {
+    "word": "Piggyback",
+    "definition": "To build on somebody else's work",
+    "fakeDefinitions": [
+      "To eat far too much",
+      "To save every coin",
+      "To share a bedroom"
+    ]
+  },
+  {
+    "word": "Snap up",
+    "definition": "To buy quickly before anybody else can",
+    "fakeDefinitions": [
+      "To break in half",
+      "To answer rudely",
+      "To tidy in a hurry"
+    ]
+  },
+  {
+    "word": "Wrap up",
+    "definition": "To bring something to a finish",
+    "fakeDefinitions": [
+      "To start again from scratch",
+      "To dress for a wedding",
+      "To hand over a gift"
+    ]
+  },
+  {
+    "word": "Catch some rays",
+    "definition": "To sit out in the sun",
+    "fakeDefinitions": [
+      "To take a photograph",
+      "To go fishing at dawn",
+      "To wait for a signal"
+    ]
+  },
+  {
+    "word": "Elbow grease",
+    "definition": "Hard physical effort, applied with a cloth",
+    "fakeDefinitions": [
+      "An ointment for sore joints",
+      "A rude gesture",
+      "A tight squeeze in a crowd"
+    ]
+  },
+  {
+    "word": "Under the wire",
+    "definition": "Finished just before the deadline",
+    "fakeDefinitions": [
+      "Sent by post",
+      "Passed in secret",
+      "Hidden below ground"
+    ]
+  },
+  {
+    "word": "Long shot",
+    "definition": "An attempt with very little chance",
+    "fakeDefinitions": [
+      "A photograph from far away",
+      "A drink taken quickly",
+      "A late goal"
+    ]
+  },
+  {
+    "word": "Call it a day",
+    "definition": "To stop work for now",
+    "fakeDefinitions": [
+      "To name a public holiday",
+      "To pick a date for a meeting",
+      "To count a night as wasted"
+    ]
+  },
+  {
+    "word": "Hang in there",
+    "definition": "Keep going, it will pass",
+    "fakeDefinitions": [
+      "Wait by the door",
+      "Hold the line on the phone",
+      "Stay out of the way"
+    ]
+  },
+  {
+    "word": "Spill the tea",
+    "definition": "Share the gossip",
+    "fakeDefinitions": [
+      "Make a clumsy mistake at dinner",
+      "Waste a good opportunity",
+      "Cancel plans at the last minute"
+    ]
+  },
+  {
+    "word": "Throw shade",
+    "definition": "Insult somebody without saying it outright",
+    "fakeDefinitions": [
+      "Put up a parasol",
+      "Block somebody's view",
+      "Turn the lights down low"
+    ]
+  },
+  {
+    "word": "Basic",
+    "definition": "Unoriginal, following whatever everyone else likes",
+    "fakeDefinitions": [
+      "Built from scratch",
+      "Cheap but sturdy",
+      "Easy to understand"
+    ]
+  },
+  {
+    "word": "Extra",
+    "definition": "Far more dramatic than the moment requires",
+    "fakeDefinitions": [
+      "Left over after a meal",
+      "Paid on top of the bill",
+      "Arriving after everyone else"
+    ]
+  },
+  {
+    "word": "Glow up",
+    "definition": "A transformation for the better",
+    "fakeDefinitions": [
+      "A sunrise seen from a hill",
+      "A compliment paid in public",
+      "A slow rise in temperature"
+    ]
+  },
+  {
+    "word": "Hype",
+    "definition": "Noisy excitement built up in advance",
+    "fakeDefinitions": [
+      "A steep hill on a run",
+      "A sudden silence",
+      "An expensive mistake"
+    ]
+  },
+  {
+    "word": "Lit",
+    "definition": "Excellent, full of energy",
+    "fakeDefinitions": [
+      "Read from beginning to end",
+      "Perfectly tidy",
+      "Lightly salted"
+    ]
+  },
+  {
+    "word": "Squad",
+    "definition": "Your close group of friends",
+    "fakeDefinitions": [
+      "A short queue",
+      "A set of tools",
+      "A block of flats"
+    ]
+  },
+  {
+    "word": "Rant",
+    "definition": "A long angry monologue nobody asked for",
+    "fakeDefinitions": [
+      "A quick apology",
+      "A cheerful greeting",
+      "A whispered secret"
+    ]
+  },
+  {
+    "word": "Shady",
+    "definition": "Not to be trusted",
+    "fakeDefinitions": [
+      "Pleasantly cool",
+      "Painted in dark colors",
+      "Nearly asleep"
+    ]
+  },
+  {
+    "word": "Spam",
+    "definition": "Send far too many unwanted messages",
+    "fakeDefinitions": [
+      "Cook something quickly",
+      "Search through a drawer",
+      "Repeat a rumor"
+    ]
+  },
+  {
+    "word": "Troll",
+    "definition": "Provoke people online for the fun of it",
+    "fakeDefinitions": [
+      "Walk very slowly",
+      "Fish from a moving boat",
+      "Guard a bridge"
+    ]
+  },
+  {
+    "word": "Yikes",
+    "definition": "Said when something has gone badly wrong",
+    "fakeDefinitions": [
+      "Said when the food arrives",
+      "Said at the end of a race",
+      "Said before a toast"
+    ]
+  },
+  {
+    "word": "Binge",
+    "definition": "Consume far too much in one sitting",
+    "fakeDefinitions": [
+      "Skip a meal on purpose",
+      "Tidy the whole house",
+      "Save carefully for months"
+    ]
+  },
+  {
+    "word": "Clout",
+    "definition": "Influence, the kind people notice",
+    "fakeDefinitions": [
+      "A heavy coat",
+      "A thick cloud",
+      "A loose thread"
+    ]
+  },
+  {
+    "word": "Drag",
+    "definition": "Criticize somebody at length",
+    "fakeDefinitions": [
+      "Carry a heavy bag",
+      "Stretch a jumper out of shape",
+      "Arrive very slowly"
+    ]
+  },
+  {
+    "word": "Flake",
+    "definition": "Somebody who always cancels",
+    "fakeDefinitions": [
+      "A very thin biscuit",
+      "A light snowfall",
+      "A careless driver"
+    ]
+  },
+  {
+    "word": "Freebie",
+    "definition": "Something given away at no cost",
+    "fakeDefinitions": [
+      "A short break at work",
+      "A cold morning",
+      "An empty seat"
+    ]
+  },
+  {
+    "word": "Gig",
+    "definition": "A job, or a night of live music",
+    "fakeDefinitions": [
+      "A small boat",
+      "A quick laugh",
+      "A long walk"
+    ]
+  },
+  {
+    "word": "Hustle",
+    "definition": "Work relentlessly to get ahead",
+    "fakeDefinitions": [
+      "Push through a crowd politely",
+      "Whisper a warning",
+      "Give up early"
+    ]
+  },
+  {
+    "word": "Janky",
+    "definition": "Badly made and barely working",
+    "fakeDefinitions": [
+      "Noisy but cheerful",
+      "Brand new",
+      "Tightly packed"
+    ]
+  },
+  {
+    "word": "Keen",
+    "definition": "Enthusiastic, sometimes too much so",
+    "fakeDefinitions": [
+      "Sharp to the taste",
+      "Very quiet",
+      "Slightly late"
+    ]
+  },
+  {
+    "word": "Lame",
+    "definition": "Disappointing, not worth the trouble",
+    "fakeDefinitions": [
+      "Walking with difficulty",
+      "Softly lit",
+      "Freshly painted"
+    ]
+  },
+  {
+    "word": "Meh",
+    "definition": "Neither good nor bad, and not worth discussing",
+    "fakeDefinitions": [
+      "Absolutely wonderful",
+      "Painfully loud",
+      "Slightly damp"
+    ]
+  },
+  {
+    "word": "Nifty",
+    "definition": "Clever and genuinely useful",
+    "fakeDefinitions": [
+      "Very small indeed",
+      "Neatly folded",
+      "Rather expensive"
+    ]
+  },
+  {
+    "word": "Nuts",
+    "definition": "Completely mad",
+    "fakeDefinitions": [
+      "Perfectly balanced",
+      "Hard on the outside",
+      "Full of energy"
+    ]
+  },
+  {
+    "word": "Pricey",
+    "definition": "More expensive than it ought to be",
+    "fakeDefinitions": [
+      "Very hard to find",
+      "Sold in a hurry",
+      "Marked with a label"
+    ]
+  },
+  {
+    "word": "Quirky",
+    "definition": "Odd in a way people rather like",
+    "fakeDefinitions": [
+      "Quick to anger",
+      "Softly spoken",
+      "Fond of routine"
+    ]
+  },
+  {
+    "word": "Ripped",
+    "definition": "Extremely muscular",
+    "fakeDefinitions": [
+      "Torn along the seam",
+      "Absolutely exhausted",
+      "Deeply offended"
+    ]
+  },
+  {
+    "word": "Savvy",
+    "definition": "Shrewd and well-informed",
+    "fakeDefinitions": [
+      "Careful with money",
+      "Slow to decide",
+      "Full of regret"
+    ]
+  },
+  {
+    "word": "Scoop",
+    "definition": "A piece of news nobody else has",
+    "fakeDefinitions": [
+      "A rounded spoon of ice cream",
+      "A deep hole",
+      "A short holiday"
+    ]
+  },
+  {
+    "word": "Slog",
+    "definition": "Long, hard, joyless effort",
+    "fakeDefinitions": [
+      "A muddy path",
+      "A heavy blow",
+      "A slow song"
+    ]
+  },
+  {
+    "word": "Snub",
+    "definition": "Ignore somebody on purpose",
+    "fakeDefinitions": [
+      "Put out a candle",
+      "Trim something short",
+      "Refuse a drink"
+    ]
+  },
+  {
+    "word": "Spot on",
+    "definition": "Exactly right",
+    "fakeDefinitions": [
+      "Covered in marks",
+      "Standing very still",
+      "Right on time"
+    ]
+  },
+  {
+    "word": "Tacky",
+    "definition": "Cheap and showy at the same time",
+    "fakeDefinitions": [
+      "Slightly sticky to touch",
+      "Held with a pin",
+      "Very fashionable"
+    ]
+  },
+  {
+    "word": "Toast",
+    "definition": "Finished, with no way back",
+    "fakeDefinitions": [
+      "Warmed through",
+      "Raised in celebration",
+      "Browned on both sides"
+    ]
+  },
+  {
+    "word": "Zonked",
+    "definition": "Utterly exhausted",
+    "fakeDefinitions": [
+      "Struck on the head",
+      "Wildly excited",
+      "Locked out"
+    ]
+  },
+  {
+    "word": "Buff",
+    "definition": "Somebody who knows a subject inside out",
+    "fakeDefinitions": [
+      "A polished surface",
+      "A pale yellow color",
+      "A strong wind"
+    ]
+  },
+  {
+    "word": "Chip in",
+    "definition": "Contribute your share",
+    "fakeDefinitions": [
+      "Break a corner off",
+      "Interrupt rudely",
+      "Order a side dish"
+    ]
+  },
+  {
+    "word": "Crack on",
+    "definition": "Get going and keep going",
+    "fakeDefinitions": [
+      "Break something open",
+      "Make a bad joke",
+      "Turn the volume up"
+    ]
+  },
+  {
+    "word": "Fluke",
+    "definition": "A result that came out right by pure luck",
+    "fakeDefinitions": [
+      "A part of an anchor",
+      "A small flat fish",
+      "A sudden gust"
+    ]
+  },
+  {
+    "word": "Gutsy",
+    "definition": "Brave, in a way that costs something",
+    "fakeDefinitions": [
+      "Filling and heavy",
+      "Loud and rude",
+      "Slightly unwell"
+    ]
+  },
+  {
+    "word": "Handy",
+    "definition": "Useful, and close at hand",
+    "fakeDefinitions": [
+      "Good with a needle",
+      "Written by hand",
+      "Easy to carry"
+    ]
+  },
+  {
+    "word": "Iffy",
+    "definition": "Doubtful, and probably best avoided",
+    "fakeDefinitions": [
+      "Slightly cold",
+      "Very talkative",
+      "Full of questions"
+    ]
+  },
+  {
+    "word": "Jot down",
+    "definition": "Write something quickly before it escapes",
+    "fakeDefinitions": [
+      "Throw away a draft",
+      "Underline twice",
+      "Read out loud"
+    ]
+  },
+  {
+    "word": "Knock off",
+    "definition": "Stop work for the day",
+    "fakeDefinitions": [
+      "Bang on a door",
+      "Reduce a price",
+      "Fall off a shelf"
+    ]
+  },
+  {
+    "word": "Lug",
+    "definition": "Carry something far heavier than it should be",
+    "fakeDefinitions": [
+      "Pull an ear",
+      "Drink in one go",
+      "Fit a new tap"
+    ]
+  },
+  {
+    "word": "Miffed",
+    "definition": "Mildly annoyed, and showing it",
+    "fakeDefinitions": [
+      "Slightly damp",
+      "Out of breath",
+      "Very impressed"
+    ]
+  },
+  {
+    "word": "Nab",
+    "definition": "Grab or catch, quickly",
+    "fakeDefinitions": [
+      "Take a short nap",
+      "Knock politely",
+      "Say no firmly"
+    ]
+  },
+  {
+    "word": "Perk",
+    "definition": "An extra that comes with the job",
+    "fakeDefinitions": [
+      "A sudden noise",
+      "A steep climb",
+      "A short break"
+    ]
+  },
+  {
+    "word": "Posh",
+    "definition": "Upper class, or pretending to be",
+    "fakeDefinitions": [
+      "Freshly polished",
+      "Rather crowded",
+      "Quite loud"
+    ]
+  },
+  {
+    "word": "Pinch",
+    "definition": "Steal something small",
+    "fakeDefinitions": [
+      "Squeeze between two fingers",
+      "Cook with too much salt",
+      "Arrive out of breath"
+    ]
+  },
+  {
+    "word": "Rusty",
+    "definition": "Out of practice",
+    "fakeDefinitions": [
+      "Reddish brown",
+      "Squeaking at the hinge",
+      "Very old fashioned"
+    ]
+  },
+  {
+    "word": "Scram",
+    "definition": "Leave, and quickly",
+    "fakeDefinitions": [
+      "Scribble a note",
+      "Fight for a seat",
+      "Cook eggs badly"
+    ]
+  },
+  {
+    "word": "Shindig",
+    "definition": "A lively party",
+    "fakeDefinitions": [
+      "A shallow hole",
+      "A minor injury",
+      "A loud argument"
+    ]
+  },
+  {
+    "word": "Snooze",
+    "definition": "A short light sleep",
+    "fakeDefinitions": [
+      "A quiet sneeze",
+      "A slow walk",
+      "A last warning"
+    ]
+  },
+  {
+    "word": "Sprog",
+    "definition": "A child",
+    "fakeDefinitions": [
+      "A small frog",
+      "A wet patch",
+      "A spare part"
+    ]
+  },
+  {
+    "word": "Stash",
+    "definition": "A hidden supply",
+    "fakeDefinitions": [
+      "A quick sale",
+      "A pile of laundry",
+      "A short cut"
+    ]
+  },
+  {
+    "word": "Swanky",
+    "definition": "Expensive and pleased about it",
+    "fakeDefinitions": [
+      "Long and thin",
+      "Slightly crooked",
+      "Very old"
+    ]
+  },
+  {
+    "word": "Tosh",
+    "definition": "Complete nonsense",
+    "fakeDefinitions": [
+      "A light throw",
+      "A quick wash",
+      "A small coin"
+    ]
+  },
+  {
+    "word": "Wobbly",
+    "definition": "Unsteady, about to tip",
+    "fakeDefinitions": [
+      "Soft to the touch",
+      "Full of holes",
+      "Warm and damp"
+    ]
+  },
+  {
+    "word": "Yonks",
+    "definition": "A very long time",
+    "fakeDefinitions": [
+      "A pair of oxen",
+      "A loud complaint",
+      "A set of keys"
+    ]
+  },
+  {
+    "word": "Zilch",
+    "definition": "Nothing whatsoever",
+    "fakeDefinitions": [
+      "A small insect",
+      "A sharp sound",
+      "A last attempt"
+    ]
+  },
+  {
+    "word": "Cheeky",
+    "definition": "Playfully rude, and getting away with it",
+    "fakeDefinitions": [
+      "Round in the face",
+      "Very shy",
+      "Slightly sunburnt"
+    ]
+  },
+  {
+    "word": "Doddle",
+    "definition": "Something requiring no effort at all",
+    "fakeDefinitions": [
+      "A short nap",
+      "A small puddle",
+      "A slow walk"
+    ]
+  },
+  {
+    "word": "Hunky-dory",
+    "definition": "Perfectly fine",
+    "fakeDefinitions": [
+      "Rather muscular",
+      "Freshly painted",
+      "Slightly damp"
+    ]
+  },
+  {
+    "word": "Jammy",
+    "definition": "Lucky without deserving it",
+    "fakeDefinitions": [
+      "Sticky with fruit",
+      "Packed very tight",
+      "Slow to start"
+    ]
+  },
+  {
+    "word": "Knuckle down",
+    "definition": "Start working seriously at last",
+    "fakeDefinitions": [
+      "Give in to pressure",
+      "Crack your fingers",
+      "Kneel to apologize"
+    ]
+  },
+  {
+    "word": "Lark",
+    "definition": "Something done purely for fun",
+    "fakeDefinitions": [
+      "An early riser",
+      "A loud whistle",
+      "A long detour"
+    ]
+  },
+  {
+    "word": "Nick",
+    "definition": "Steal",
+    "fakeDefinitions": [
+      "Cut yourself shaving",
+      "Arrive just in time",
+      "Knock on a window"
+    ]
+  },
+  {
+    "word": "Prang",
+    "definition": "A minor crash",
+    "fakeDefinitions": [
+      "A loud musical note",
+      "A sudden pain",
+      "A tight knot"
+    ]
+  },
+  {
+    "word": "Ropey",
+    "definition": "In poor condition, and not to be relied on",
+    "fakeDefinitions": [
+      "Twisted into strands",
+      "Long and narrow",
+      "Covered in knots"
+    ]
+  },
+  {
+    "word": "Scoff",
+    "definition": "Eat quickly and without ceremony",
+    "fakeDefinitions": [
+      "Laugh at somebody",
+      "Cough loudly",
+      "Clear a table"
+    ]
+  },
+  {
+    "word": "Shambles",
+    "definition": "A complete mess",
+    "fakeDefinitions": [
+      "A slow walk",
+      "A row of stalls",
+      "A pile of coats"
+    ]
+  },
+  {
+    "word": "Skive",
+    "definition": "Avoid work without being caught",
+    "fakeDefinitions": [
+      "Cut something thin",
+      "Slide on ice",
+      "Arrive early"
+    ]
+  },
+  {
+    "word": "Whinge",
+    "definition": "Complain on and on",
+    "fakeDefinitions": [
+      "Swing on a hinge",
+      "Flinch in pain",
+      "Whistle softly"
+    ]
+  },
+  {
+    "word": "Bagsy",
+    "definition": "Claim something before anybody else can",
+    "fakeDefinitions": [
+      "Pack a suitcase",
+      "Buy in bulk",
+      "Give up a seat"
+    ]
+  },
+  {
+    "word": "Kerfuffle",
+    "definition": "A noisy fuss over very little",
+    "fakeDefinitions": [
+      "A tangled ball of wool",
+      "A small pastry",
+      "A quick handshake"
+    ]
+  },
+  {
+    "word": "Chock-a-block",
+    "definition": "Crammed absolutely full",
+    "fakeDefinitions": [
+      "Blocked by a fallen tree",
+      "Cut into small cubes",
+      "Locked from the inside"
+    ]
+  },
+  {
+    "word": "Sorted",
+    "definition": "Dealt with, nothing left to worry about",
+    "fakeDefinitions": [
+      "Arranged alphabetically",
+      "Given away",
+      "Cut into pieces"
+    ]
+  },
+  {
+    "word": "Bung",
+    "definition": "Throw something carelessly",
+    "fakeDefinitions": [
+      "Block a drain",
+      "Bang a door shut",
+      "Bundle up warmly"
+    ]
+  }
+]
